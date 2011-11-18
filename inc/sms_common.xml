@@ -1,0 +1,10771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon xml:lang="sms">
+	<e meta="1">
+		<lg>
+			<l pos="n">dåmvičč</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="eng">the little houselike objects on top of graves in the orthodox religion</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">stuuˊl</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bench</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">penkki</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">стул</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="con">a</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">but</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">mutta</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vaan</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">muhto</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">а</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="con">a</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">entä</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">no</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">а</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">addrõs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">address</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">osoite</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">адрес</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">biolog</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">biologist</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">biologi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">biologa</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">биолог</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">biologii</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">biology</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">biologia</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">biologiija</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">биология</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">bliin</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bliny</t>
+				<t pos="xxx">blini</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">pancake</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">блин</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">bukva</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">letter</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">буква</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">velkk</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="n">fork</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">haarukka</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">gáffal</t>
+				<t pos="n">káffal</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="n">kaahvâl</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="n">вилка</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">gaˊzeâˊt</l>
+			<lv variant="xxx">gaˊzaat</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">gazette</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">newspaper</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sanomalehti</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">bláđđi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">áviisa</t>
+				<t pos="xxx">aviisa</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">газета</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">garmaan</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">accordion</t>
+				<t pos="xxx">squeezebox</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">garmon</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">harmonikka</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">harmonihkká</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">гармоника</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">gåårad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">city</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">город</t>
+			</tg>
+			<synonym>lâˊnn</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">groob</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">coffin</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">гроб</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">dååma</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">at home</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kotona</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">ruovttus</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">дома</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">domoi</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="adv">homeward</t>
+				<te>towards home</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kotiin</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="adv">ruoktiin</t>
+				<t pos="adv">ruoktot</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">домой</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">zâˊveâz</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">curtain</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">canopy</t>
+				<tr>for a bed</tr>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">завеса</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">zääˊvesǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">curtain</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">drape</t>
+				<tr>for windows</tr>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">занавеска</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩiirbâč</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">brick</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tiili</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">кирпич</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">manstar</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">monastery</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">convent</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">cloister</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">монастырь</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">manah</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">munk</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">монах</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">manaših</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">nun</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">монахиня</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">mostt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bridge</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">мост</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">piâtnâc</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Friday</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">perjantai</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">bearjadat</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">пятница</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">sukkâr</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sugar</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sokeri</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">сахар</t>
+			</tg>
+			<synonym>säähhar</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">säähhar</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sugar</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sokeri</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">сахар</t>
+			</tg>
+			<synonym>sukkâr</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">skääˊtar</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">tablecloth</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">скатерть</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">sääldat</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">soldier</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sotilas</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">солдат</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">såˊff</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sofa</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">couch</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">divan</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sohva</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">suffá</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">софа</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">seärad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Wednesday</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">keskiviikko</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">gaskavahkku</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">среда</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ståkkan</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">glass</t>
+				<te>container</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">стакан</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">steehl</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">glass</t>
+				<te>material</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">стекло</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">stueˊll</l>
+			<lv variant="xxx">stuâˊll</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">table</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">pöytä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">beavdi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">стол</t>
+			</tg>
+			<synonym>påˊrdd</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">påˊrdd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">table</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">pöytä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">beavdi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">стол</t>
+			</tg>
+			<synonym>stueˊll</synonym>
+			<synonym>stuâˊll</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">stuuˊl</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">chair</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tuoli</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">стул</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">truuba</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">chimney</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">smokestack</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">savupiippu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">suovvabiipu</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">труба</t>
+			</tg>
+			<synonym>reäˊppen</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">truubšeǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">chimneysweep</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">nuohooja</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">трубочист</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">uuˊlec</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">street</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">katu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">gáhta</t>
+				<t pos="xxx">gáhtta</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">улица</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">uˊčteeˊl</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">teacher</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">opettaja</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">oahppaheaddji</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">учитель</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">caar</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">czar</t>
+				<t pos="xxx">tsar</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">king</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">царь</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ceerkav</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">church</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">церковь</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">čeei</l>
+			<lv variant="xxx">čee</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">tea</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tee</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">чай</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">škaapp</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">cabinet</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">cupboard</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">closet</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">шкаф</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">škooul</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">school</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">школа</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">reäppen</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">chimney</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxxsavupiippu</t>
+				<t pos="xxx">xxxsavuaukko</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">räppänä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>truuba</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">tääˊl</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">now</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>ååˊn</synonym>
+			<synonym>ââˊn</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">čâˊlmmrååmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">eyelid</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">luomi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>čâˊlmmluõmm</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">čâˊlmmluõmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">eyelid</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">luomi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>čâˊlmmrååmm</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="con">di</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="con">and</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="con">ja</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="con">ja</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="con">já</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="con">и</t>
+			</tg>
+			<synonym>da</synonym>
+			<synonym>de</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">de</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">and</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ja</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">ja</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">já</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>da</synonym>
+			<synonym>di</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">da</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">and</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ja</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">ja</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">já</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>de</synonym>
+			<synonym>di</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">doohhat</l>
+			<lv variant="xxx">dohat</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">one thousand</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tuhat</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">duhát</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">tuhháát</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">eeˊđeld</l>
+			<lv variant="xxx">eeˊđääld</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">in the morning</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">aamulla</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="adv">iđđes</t>
+				<t pos="adv">iđđedis</t>
+				<t pos="adv">iđedis</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="adv">iiđeed</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">hääˊrveld</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">rarely</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">harvoin</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">hárve</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">härvi</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>häˊrvv</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">inn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">night</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">yö</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">idja</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">ijjâ</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>ijj</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ijj</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">night</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">yö</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">idja</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">ijjâ</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>inn</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">keäˊpper</l>
+			<lv variant="xxx">kâˊpper</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">cap</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">hat</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">lakki</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">gahpir</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kååˊff</l>
+			<lv variant="xxx">kaaˊff</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">coffee</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kahvi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">káffe</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">koumm</l>
+			<lv variant="xxx">kolmm</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">three</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kolme</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">golbma</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">määnpââˊjj</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">month</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuukausi</t>
+				<t pos="xxx">kuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>mään</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">mään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">month</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuukausi</t>
+				<t pos="xxx">kuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>määnpââˊjj</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">nelljumblo</l>
+			<lv variant="xxx">nelljmlo</lv>
+			<lv variant="xxx">nenjmlo</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">fourteen</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">neljätoista</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">pââˊzzmään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">April</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">huhtikuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>njuhččmään</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">njuhččmään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">April</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">huhtikuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>pââˊzzmään</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">pirsted</l>
+			<lv variant="xxx">piirsted</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">draw</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">piirtää</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">tevdnet</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">vuˊvrrmmään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">November</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">marraskuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>skammˊmään</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">sueibbad</l>
+			<lv variant="xxx">suâibbad</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">rock</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">swing</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">ââˊn</l>
+			<lv variant="xxx">ååˊn</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">now</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">nyt</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">dal</t>
+				<t pos="xxx">dál</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>tääˊl</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">tääiˊben</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">here</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>tääiˊb</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">tääiˊb</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">here</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>tääiˊben</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">väˊstteed</l>
+			<lv variant="xxx">vaˊstteed</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">answer</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vastata</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">skammˊmään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">November</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">marraskuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">skábmamánnu</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<synonym>vuˊvrrmään</synonym>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">išttâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sit</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">istua</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">čohkkát</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">čokkáđ</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">eˊčč</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">father</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">isä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">áhčči</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">eeči</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">eeˊǩǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">year</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vuosi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">jahki</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">ihe</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">eeˊđääldõž</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">morning</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">aamu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">iđit</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">iiđeed</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">iˊlddi</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">shelf</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">hylly</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">hildu</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">ildee</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">euˊnn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">color</t>
+				<t variant="british" pos="xxx">colour</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">tone</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">shade</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">väri</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">ivdni</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">ivne</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">jäuˊrr</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">lake</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">järvi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">jávri</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">jävri</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">mäˊtǩǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">trip</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">voyage</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">matka</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">mátki</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">mätki</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">äˊjj</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">grandfather</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">isoisä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">áddjá</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">äkk</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">grandmother</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">isoäiti</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">áhkku</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">aˊmmrik</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">American</t>
+				<te>person</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">amerikkalainen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">amerihkálaš</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">Aanar</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Inari</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">Inari</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">Anár</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">âˊbrrčâˊmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">raindrop</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sadepisara</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">arvečalbmi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">âˊbrrkähttan</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">mackintosh</t>
+				<t pos="xxx">macintosh</t>
+				<t variant="british" pos="xxx">mac</t>
+				<t variant="british" pos="xxx">mack</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">raincoat</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t variant="british" pos="xxx">waterproof</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sadetakki</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">arvemuoddá</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">âˊbrr</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">rain</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sade</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">arvi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">âˊbrred</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">rain</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sataa vettä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">arvit</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">Âˊvvel</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Ivalo</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">Ivalo</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">Avvil</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">papp</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">priest</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">preacher</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">reverend</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">pappi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">báhppa</t>
+				<t pos="xxx">páhppa</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">teärmmazjohss</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">rainbow</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sateenkaari</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">bajándávgi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">arvedávgi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">porgâđ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">work</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tehdä työtä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">bargat</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">peiˊvv</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">day</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">päivä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">beaivi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">peiˊvv</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sun</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">aurinko</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">beaivváš</t>
+				<t pos="xxx">beaivvaš</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">peäˊlǧǧ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">thumb</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">peukalo</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">bealgi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">pieˊll</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">half</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">puoli</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">bealli</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">aaˊrhel</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bishop</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">piispa</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">bisma</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">aaˊrhelkåˊdd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bishopric</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">diocese</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">hiippakunta</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">bismaguovlu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">bismagoddi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">pueˊtted</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">come</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tulla</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">boahtit</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">poorjâsvõõnâs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sailboat</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">purjevene</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">borjjasfanas</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">purrâmâš</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">food</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ruoka</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">borramuš</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">poorrâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">eat</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">syödä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">borrat</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kaass</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">cat</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kissa</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">bussá</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">hutt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">porridge</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">puuro</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">buvru</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">čâˊlmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">eye</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">silmä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">čalbmi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">taˊnni</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">this year</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tänä vuonna</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">dán jagi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">teâttmašina</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">computer</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tietokone</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">dihtor</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">teimma</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">last year</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">viime vuonna</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">diibmá</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">diˊll</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">dill</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tilli</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">dilla</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">toll</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">fire</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tuli</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">dolla</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">tolltuõddâr</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">volcano</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tulivuori</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">dollavárri</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="pro" person="2" number="sg" case="nom">tun</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">you</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sinä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">don</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">koonǥõskaav</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">queen</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuningatar</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">dronnet</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="pro" person="2" number="sg" case="gen">tuu</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">your</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">yours</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sinun</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">du</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">jeäˊnn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">mother</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">äiti</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">eadni</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">jään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">uncle</t>
+				<te>mother's brother</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">eno</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">eanu</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">aˊŋǧǧel</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">angel</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">enkeli</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">eaŋgal</t>
+				<t pos="xxx">eŋgal</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">jättmöš</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">box whortleberry</t>
+				<t pos="xxx">bog blueberry</t>
+				<t pos="xxx">xxxbog bilberry</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">ehtemas</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">juogot</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="lat">Vaccinium uliginosum</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">faaˊnal</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">flannel</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">flanelli</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">flánel</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="quant">kâˊll</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">how many</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuinka paljon</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="quant">galle</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kõskksuõrmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">middle finger</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">keskisormi</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxxkeskari</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">gaskasuorbma</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kõʒʒ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">nail</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">fingernail</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">toenail</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kynsi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">gazza</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">reppjoŋŋ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">cranberry</t>
+				<t pos="xxx">mountain cranberry</t>
+				<t pos="xxx">common cranberry</t>
+				<t pos="xxx">northern cranberry</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">karpalo</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">giegajokŋa</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">báddemuorji</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="lat">Vaccinium oxycoccos</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">jarplan</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">airplane</t>
+				<t variant="british" pos="xxx">aeroplane</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">plane</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">lentokone</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">lentsikka</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">girdi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">koonǥs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">king</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuningas</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">gonagas</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">koˊst</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">where at</t>
+				<t pos="adv">where</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">missä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="adv">gos</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="adv">где</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">koˊst</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">from where</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">mistä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="adv">gos</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">gramm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">gram</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">gramma</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">grámma</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">kuuđõs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">one-sixth</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuudes osa</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">guđadas</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">kuuđad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sixth</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuudes</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">guđát</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">kutt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">six</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuusi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">guhtta</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">xxx</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sixty</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuusikymmentä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">guhttalogi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">xxx</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sixteen</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuusitoista</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">guhttanuppelohkái</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kuõpp</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">mold</t>
+				<t variant="british" pos="xxx">mould</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">home</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">guohpa</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">kueˊhtt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">two</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kaksi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">guokte</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">kuâhttlo</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">twenty</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kaksikymmentä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">guoktelogi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kueˊll</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">fish</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kala</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">guolli</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">täˊlvvmään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">February</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">helmikuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">guovvamánnu</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kuss</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="n">cow</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">lehmä</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">itikkä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">gussa</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">jâđđa</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">tomorrow</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">huomenna</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">ihttin</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">jåhtta</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">yesterday</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">eilen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">ikte</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">jävv</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">flour</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">jauho</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">jáffut</t>
+				<t pos="xxx">jáfut</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">suutk</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">day</t>
+				<te>calendar day</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vuorokausi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">jándor</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">birranbeaivi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="eng">the whole 24-hour period</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="a" state="attr">jääˊmteˊmes</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">immortal</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuolematon</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">jápmemeahttun</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">jääˊmmem</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">death</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuolema</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">jápmin</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">jääˊmmed</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">die</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuolla</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">jápmit</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">jäˊstt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">yeast</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">hiiva</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">jeasta</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">jeara</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">jåått</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">iodine</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">jodi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">jodda</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">joŋŋ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">lingonberry</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">cowberry</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">jokŋa</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="lat">Vaccinium vitis-idaea</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">rosttovmuõrr</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Christmas tree</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">joulukuusi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">juovlabeahci</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">juovlamuorra</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">rosttovmään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">December</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">joulukuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">juovlamánnu</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">rosttovkäänan</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Christmas Eve</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">jouluaatto</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">juovlaruohtta</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">rosttovkääˊlles</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Santa Claus</t>
+				<t pos="xxx">Father Christmas</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">joulupukki</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">juovlastállu</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">rosttov</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Christmas</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">joulu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">juovllat</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">rosttovpââˊzz</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Christmas holidays</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">joulunpyhät</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">juovllat</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">juovlabasit</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">lettar</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">liter</t>
+				<t variant="british" pos="xxx">litre</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">litra</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">lihttar</t>
+				<t pos="xxx">lihtter</t>
+				<t pos="xxx">lihtar</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">lueˊm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">cloudberry</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">salmonberry</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">lakka</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">hilla</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">luomi</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="lat">Rubus chamaemorus</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">luõss</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">salmon</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">lohi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">luossa</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="lat">Salmo salar</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="pro" person="1" number="sg" case="gen">muu</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">mine</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">my</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">minun</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">mu</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="con">leâža</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">but</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">mutta</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">muhto</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="pro">mon</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">I</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">minä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">mun</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">nääˊvet</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">cowshed</t>
+				<t pos="xxx">cowhouse</t>
+				<t pos="xxx">cow barn</t>
+				<t pos="xxx">cattle shed</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t variant="british" pos="xxx">byre</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t variant="british" pos="xxx">shippon</t>
+				<t variant="british" pos="xxx">shippen</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">navetta</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">návet</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">siõmâž</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">baby</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vauva</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">njuoratmánná</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">täˊbbe</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">today</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tänään</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">odne</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">Uccjokk</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Utsjoki</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">Utsjoki</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">Ohcejohka</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">õhtt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">one</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">yksi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">okta</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ristt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">cross</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">risti</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">rista</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">roošš</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">rye</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ruis</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">rogaš</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">sââˊrr</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">blueberry</t>
+				<t variant="british" pos="xxx">bilberry</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">mustikka</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">sarrit</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="lat">Vaccinium myrtillus</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">sääˊnn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">word</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sana</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">sátni</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">seˊntt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">centimeter</t>
+				<t variant="british" pos="xxx">centimetre</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sentimetri</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">sentimehter</t>
+				<t pos="xxx">centimehter</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">tanccâmkååˊlez</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bicycle</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">polkupyörä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">sihkkel</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">sihkkelat</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="pro" person="3" number="pl" case="nom">sij</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">they</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">he</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">sii</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n" person="3" number="du" case="nom">suäna</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="pro" number="pl">they</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">he kaksi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">soai</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">põrtt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">house</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">talo</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">stohpu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">dállu</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="pro" person="3" number="sg" case="gen">suu</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">his</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">hers</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">hänen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">su</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">suâibbamstuuˊl</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">rocking chair</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">sugadanstuollu</t>
+				<t pos="xxx">sugusstuollu</t>
+				<t pos="xxx">suhkanstuollu</t>
+				<t pos="xxx">sukkástuollu</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">suõrmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">finger</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sormi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">suorbma</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">suõrmâs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">ring</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sormus</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">suorpmas</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">suõvv</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">smoke</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">savu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">suovva</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">poojâs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">train</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">juna</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">toga</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">juná</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">dollavovdna</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">gárga</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">uhss</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">door</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ovi</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">uksi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">uksa</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">neäˊttel-lopp</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">weekend</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">viikonloppu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">vahkkoloahppa</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">neäˊttel</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">week</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">viikko</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">vahkku</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="con">håˊt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">even though</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vaikka</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">vaikko</t>
+				<t pos="xxx">vaikke</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="a">vuõssmõs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">first</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ensimmäinen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">vuosttas</t>
+				<t pos="xxx">vuosttaš</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kääˊnnliõmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">chicken soup</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">kanakeitto</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="a">ruánn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">green</t>
+				<te>anything but plants</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxxvehreä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">äiˊtt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">storehouse</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">outbuilding</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">aitta</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ääkkaž</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">akka</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">muori</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">algg</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">beginning</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">start</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">alku</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">alggpuättmõš</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">origin</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">alkuperä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">alggneäˊttel</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">the beginning of the week</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">alkuviikko</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">anttbiott</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">antibiotic</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">antibiootti</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">aassâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">live</t>
+				<tr>in a place</tr>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">asua</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">autt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">car</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">auto</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">auttstäˊllj</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">garage</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">autotalli</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">bakteer</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bacteria</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">bakteria</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">beton</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">concrete</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">betoni</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">påˊrǧǧmään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">August</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">elokuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">ouddâl</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">before</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ennen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">alggsääˊnn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">prologue</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">foreword</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">esipuhe</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">pääˊnn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">tooth</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">hammas</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">pääˊnnkõpp</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">toothache</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">hammaskipu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">luuvdá</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">broom</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">harja</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">luuta</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">sueiˊnn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">hay</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">heinä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">sueiˊnnmään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">July</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">heinäkuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">aacaǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">grasshopper</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">heinäsirkka</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kååraǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">pea</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">herne</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kååraǩveärr</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">pea soup</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">hernekeitto</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">rokka</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">säˊppli</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">mouse</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">hiiri</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ââˊǩǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">age</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ikä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">juukkâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">drink</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">juoda</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩiõlljåårǧlõˊtti</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">translator</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kääntäjä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">kääuˊc</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">eight</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kahdeksan</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">käˊhcclo</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">eighty</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kahdeksankymmentä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">käˊhccmlo</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">eighteen</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kahdeksantoista</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">kääucad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">eighth</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kahdeksas</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kääˊnn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">chicken</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kana</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kääˊnnliõmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">chicken bouillon</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">chicken broth</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kanaliemi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kääˊnmââˊnn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">chicken egg</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kananmuna</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">laakk</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">roof</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">katto</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">viskkâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">yellow</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">keltainen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩieˊss</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">summer</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kesä</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">suvi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩieˊssmään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">June</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kesäkuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">ǩeässa</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">in the summer</t>
+				<t pos="xxx">in summer</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">kesällä</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">suvella</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">ǩeâđđa</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">in the spring</t>
+				<t pos="xxx">in spring</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">keväällä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩiđđâ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">spring</t>
+				<te>season</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kevät</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩiõll</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">language</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">tongue</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kieli</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩiõll</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">tongue</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kieli</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩilo</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">kilogram</t>
+				<t pos="xxx">kilo</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kilogramma</t>
+				<t pos="xxx">kilo</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩilomettar</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">kilometer</t>
+				<t variant="british" pos="xxx">kilometre</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kilometri</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩeˊrjj</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">book</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kirja</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩeˊrjjpõrtt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">library</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kirjasto</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩeˊrjj</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">letter</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kirje</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">ǩiirjted</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">write</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kirjoittaa</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩeˊrjjtemmašina</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">typewriter</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kirjoituskone</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">kuälmad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">third</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kolmas</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">kuälmõs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">one-third</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kolmas osa</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">kuäˊss</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="adv">when</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">koska</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="pro">ǩii</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="pro">who</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pro">kuka</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kåˊll</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">gold</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kulta</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kåˊllkueˊll</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">goldfish</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kultakala</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kåˊllmedal</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">gold medal</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kultamitali</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">kuärrad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">knit</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kutoa</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">neuloa</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">mään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">moon</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">lååi</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">ten</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kymmenen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">lååǥǥad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">tenth</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kymmenes</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">labratoria</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">laboratory</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">laboratorio</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">päärnaž</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">child</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">lapsi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">lookkâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">count</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">laskea</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">sueˊvet</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Saturday</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">lauantai</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">lavkkâ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bag</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">satchel</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">laukku</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">lõstt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">leaf</t>
+				<tr>of a tree</tr>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">lehti</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">leiˊbb</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bread</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">leipä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">liõmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bouillon</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">broth</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">liemi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">vuäˊǯǯ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">meat</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">liha</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">kålggmään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">October</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">lokakuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">loppâ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="n">end</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">finish</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">loppu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">luuhâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">read</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">lukea</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">luuhâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="v">count</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">lukea</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">laskea</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">pâˊzzlâšttammään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">March</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">maaliskuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">vuõssarg</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Monday</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">maanantai</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">mieˊlǩǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">milk</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">maito</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩiõǥǥnjuõll</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">fireweed</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">maitohorsma</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="lat">Epilobium angustifolium</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">määˊrf</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sausage</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">makkara</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">môônnâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">go</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">mennä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">mettar</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">meter</t>
+				<t variant="british" pos="xxx">metre</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">metri</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">kuus</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">to where</t>
+				<t pos="adv">whither</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">mihin</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">minne</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">määˊnn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="adv">why</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">miksi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">medal</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">medal</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">mitali</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">mieˊrreed</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">measure</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">mitata</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">neezzan</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">woman</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">nainen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">naaurâs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">turnip</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">nauris</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">nellj</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">four</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">neljä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">nelljlo</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">forty</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">neljäkymmentä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">neelljad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">fourth</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">neljäs</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">räudd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Arctic char</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">nieriä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="lat">Salvelinus alpinus</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">vueˊrbešn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">ring finger</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">nimetön</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">nõmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">name</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">nimi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">aˊrddi</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">shoulder</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">olka</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">leeˊd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">be</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">olla</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">päärnai vuâstta</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">be pregnant</t>
+				<t pos="xxx">be with child</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">olla raskaana</t>
+				<t pos="xxx">odottaa lasta</t>
+				<t pos="xxx">olla paksuna</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">kuärrad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sew</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ommella</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">kuärrammašina</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sewing machine</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ompelukone</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">âskkeed</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">buy</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ostaa</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">baŋkk</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bank</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">pankki</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">baŋkktiill</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">account</t>
+				<tr>at a bank</tr>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">pankkitili</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">paradiis</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">paradise</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">paratiisi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">pååttaǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">potato</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">peruna</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">pottu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">uˊcc</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">small</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">pieni</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">âˊlǧǧ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">boy</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">poika</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">âˊlǧǧ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">son</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">poika</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="a">ruõpssâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">red</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">punainen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">Biblija</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Bible</t>
+				<t pos="xxx">the Holy Bible</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">Raamattu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="a">rääˊǩǩes</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">love</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="a">dear</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="a">rakas</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">räˊǩsted</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">love</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">rakastaa</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">rääˊǩǩesvuõtt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">love</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">rakkaus</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ruˊvdd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">iron</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">rauta</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ruˊvddčuâǥǥas</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">railroad</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">rautatie</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">čâˊlmmriõbbâs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">eyelash</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ripsi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">čaˊppesleiˊbb</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">rye bread</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ruisleipä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">vuäǯǯad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">saada</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">siâŋgg</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bed</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sänky</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">kuâlddad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">snow</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sataa lunta</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">leättad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sleet</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sataa räntää</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">säuˊnn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sauna</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sauna</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">čâˊlmmˊmââˊnn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">eyeball</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">silmämuna</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="a">ââˊliǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">blue</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sininen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">luukk</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">onion</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sipuli</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="pn">Såff</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="pn">Sophia</t>
+				<t pos="pn">Sofia</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Sofia</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">pâˊsspeiˊvv</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Sunday</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sunnuntai</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">säˊltt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">salt</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">suola</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="a">säˊlttai</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">salty</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">suolainen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">čââˊđ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">heart</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sydän</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="con">leˊbe</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">or</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tai</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vai</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">âˊmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">xxxsky</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">xxxheaven</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">taivas</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">tälvva</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">in the winter</t>
+				<t pos="xxx">in winter</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">talvella</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">täˊlvv</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">winter</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">talvi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ođđeeˊjjmään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">January</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tammikuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">mââiˊbargg</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Tuesday</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tiistai</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">nuˊbb</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">second</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">toinen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">nelljdpeiˊvv</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">Thursday</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">torstai</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">vueˊssmään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">May</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">toukokuu</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="a">kääˊmes</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">dark</t>
+				<te>skin color</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tumma</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="a">kääˊmesruõpssâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">dark red</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tummanpunainen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="a">kääˊmesââˊleǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">dark blue</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tummansininen</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">nijdd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">daughter</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tytär</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">nijdd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">girl</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tyttö</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">källsaž</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ukko</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">ålggan</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">outside</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ulkona</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">åålǥas</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">to outside</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ulos</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">bieˊzmen</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">scale</t>
+				<te>instrument</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vaaka</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="eng">instrument for weighing</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">uˊccbõššán</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">less</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vähemmän</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ǩeeuˊniǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">shadow</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">varjo</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">veˊrrddeed</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">compare</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">verrata</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čääˊčč</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">water</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vesi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="a">ruõnâs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">green</t>
+				<tr>of plants</tr>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vihreä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">viiđad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">fifth</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">viides</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">vitt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">five</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">viisi</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">ååuˊc</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">nine</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">yhdeksän</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">ååucad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">ninth</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">yhdeksäs</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">õtmlo</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">eleven</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">yksitoista</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">õiˊdde</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">a short while ago</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">ekka</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">at night</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="PN">Bååˊres</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="PN">Boris</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="eng">man's name</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">budjett</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">budget</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">buss</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bus</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">sniimmâmmašina</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">camera</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ceerkavlaauljoukk</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">church choir</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">šellj</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">courtyard</t>
+				<t pos="xxx">yard</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čuõˊmmjõš</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">crowberry</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="lat">Empetrum nigrum</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="a">seuˊŋŋed</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">dark</t>
+				<tr>of the sky</tr>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čuåkˊkâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">dark</t>
+				<tr>color</tr>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">čâˊlmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">drop</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">smaragd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">emerald</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">jeäˊǩǩääž</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">evening</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čõõuči</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">every fall</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">every autumn</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">čõhčč</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="n">fall</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">autumn</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">čâˊlmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">flake</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">šâˊldd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">floor</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">brålleǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">fly</t>
+				<tr>on trousers or pants</tr>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">čâˊlmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">grain</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">jävvˊveˊll</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">gruel</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">čuõrmsted</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">hail</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">sätkk</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">harbour</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">port</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="pro">son</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">he</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">she</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">õllâdvuõtt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">height</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">täˊst</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">here</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">taa</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">here</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">jeäˊǩǩää</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">in the evening</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">čâhčča</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">in the fall</t>
+				<t pos="xxx">in fall</t>
+				<t pos="xxx">in the autumn</t>
+				<t pos="xxx">in autumn</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čuõjjiǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">index finger</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="adv">seˊst</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">inside</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">from inside</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čuõvv</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">light</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">õõđ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">marrow</t>
+				<tr>of bones</tr>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">sinap</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">mustard</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">ââlda</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">nearby</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">nââmar</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">number</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">miljard</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">one billion</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čueˊđ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">one hundred</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čueˊđes</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">one hundred people</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čuõˊttešt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">one hundred times</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">miljon</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">one million</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">neelljõs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">one-fourth</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">kälkked</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">paint</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">čâˊlmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">pane of glass</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">snimldõk</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">photograph</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">sniimmi</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">photographer</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">käärt</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">picture</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čiiˊlčešn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">pinkie</t>
+				<t pos="xxx">pinky</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">little finger</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">sekund</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">second</t>
+				<te>unit of time</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čõhččmään</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">September</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čiččâm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">seven</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čiččmõs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">seven people</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čiiččad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">seventh</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">čičmlo</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">seventy</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">silbb</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">silver</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">silbbmedal</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">silver medal</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">motorǩeâlkk</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">snowmobile</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">särnnad</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">speak</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">talk</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">stääˊll</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">steel</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">sniimmâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">take a photograph</t>
+				<t pos="xxx">snap a photo</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="v">mainsted</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">tell</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">mâŋŋa jââđast</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">the day after tomorrow</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">oouˊdbu peeiˊv</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">the day before yesterday</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">ceeʒʒaž</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">tit</t>
+				<t pos="xxx">titmouse</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">sizz</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">to inside</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">biõvv</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">valve</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">oovâš</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">vegetable</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n" style="coll">veggie</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">seiˊnn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">wall</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">peälpp</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">water smartweed</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<lexicon xml:lang="lat">Polygonum amphibium</lexicon>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="n">teäˊdd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">weight</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="xxx">måkam</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="xxx">what kind of</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="1">
+		<lg>
+			<l pos="pro">mii</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="pro">what</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+</lexicon>
