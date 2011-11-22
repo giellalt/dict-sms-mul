@@ -14,12 +14,16 @@ on the e-element in the xml files:
 
 01 - this is a list of sme entries with multiple translations collected by Kimberly Mäkäräinen (http://www.uta.fi/~km56049/same/skolt/koltansaame.html).
 
+02 - 99-word list from the current smsoahpa; this word list with multiple translations, taken from the 100-Swadesh-list, was originally collected by Michael Rießler.
+
 =====
 TODO
 =====
 
-DOTO's in meta="01"
+TODO's 
 * xxx's
 * check <t> vs. <tg> vs. <mg>
 * check <tr> <te> (what exactly does it mean?)
+
+ToDo's in meta="01"
 * check inflected personal pronouns (e.g. <l pos="PRO" person="2" number="sg">tun</l>) (how should they be listed?)
