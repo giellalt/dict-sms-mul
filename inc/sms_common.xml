@@ -10768,4 +10768,3533 @@
 			</semantics>
 		</mg>
 	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">jääˊmmed</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">умирать</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">я̄мме</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuolla</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">die</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">sterben</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">dø</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="HUMAN"/>
+				<sem class="ANIMAL"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">kåˊdded</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">убивать</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">коаннҍтэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tappaa</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">kill</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">töten</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">drepe</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="HUMAN"/>
+				<sem class="ANIMAL"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">liâššâd</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">лежать</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">ле̄шшэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">maata</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">lie</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">liegen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">ligge</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="HUMAN"/>
+				<sem class="ANIMAL"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">išttâd</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">сидеть</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">ышштэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">istua</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sit</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">sitzen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">sitte</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="HUMAN"/>
+				<sem class="ANIMAL"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">vueˊđđed</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">спать</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">вуэдтӭ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">nukkua</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sleep</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">schlafen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">sove</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="HUMAN"/>
+				<sem class="ANIMAL"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">poʒʒ</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">перо</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">по̄ннц</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">höyhen</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">feather</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Feder</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">fjær</t>
+			</tg>
+			<semantics>
+				<sem class="ANIMAL"/>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">vuäˊǯ'ǯ</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">мясо</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">вуэннч</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">liha</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">meat</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Fleisch</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">kjøtt</t>
+			</tg>
+			<semantics>
+				<sem class="FOOD"/>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">seiˊbb</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">хвост</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">се̄ййп</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">häntä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">tail</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Schwanz</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">svans</t>
+			</tg>
+			<semantics>
+				<sem class="ANIMAL"/>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">låˊdd</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">птица</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">лоаннҍт</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">lintu</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bird</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Vogel</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">fugl</t>
+			</tg>
+			<semantics>
+				<sem class="ANIMAL"/>
+				<sem class="FOOD"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">võrr</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">кровь</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">вэ̄рр</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">veri</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">blood</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Blut</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">blod</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+				<sem class="FOOD"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">täˊhtt</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">кость</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">та̄ххьт</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">luu</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bone</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Knochen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">bein</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+				<sem class="FOOD"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">mââˊnn</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">яйцо</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">маннҍ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">muna</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">egg</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Ei</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">egg</t>
+			</tg>
+			<semantics>
+				<sem class="ANIMAL"/>
+				<sem class="FOOD"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">kueˊll</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">рыба</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">кӯлль</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kala</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">fish</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Fisch</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">fisk</t>
+			</tg>
+			<semantics>
+				<sem class="ANIMAL"/>
+				<sem class="FOOD"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">čââˊđ  </l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">сердце</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">кӯттҍк</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sydän</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">heart</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Herz</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">hjerte</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+				<sem class="FOOD"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">vuõivâs</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">печень</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">вӯйвас</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">maksa</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">liver</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Leber</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">lever</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+				<sem class="FOOD"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">njuhččâm</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">язык</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">нюххчем</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kieli</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">tongue</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Zunge</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">tunge</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+				<sem class="FOOD"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">čääˊcc</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">вода</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">ча̄дць</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vesi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">water</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Wasser</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">vann</t>
+			</tg>
+			<semantics>
+				<sem class="NATURE"/>
+				<sem class="FOOD"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">pääˊljes</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">тропа</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">поалкас</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">polku</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">path</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Pfad</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">stig</t>
+			</tg>
+			<semantics>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">kuullâd</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">слышать</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">куллэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuulla</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">hear</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">hören</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">høre</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="SENSE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">tieˊtted</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">знать</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">тӣдтӭ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tietää</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">know</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">wissen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">vite</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="SENSE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">väˊʒʒed</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">ходить</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">ва̄ннҍцэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kävellä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">walk</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">gehen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">gå</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="MOTION"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">mään</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">луна</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">месяц</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">ма̄нн</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuukausi</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuu</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">month</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">moon</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Monat</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Mond</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">månad</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">måne</t>
+			</tg>
+			<semantics>
+				<sem class="TIME"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">inn</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">ночь</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">ыйй</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">yö</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">night</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Nacht</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">natt</t>
+			</tg>
+			<semantics>
+				<sem class="TIME"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">peiˊvv</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">солнце</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">день</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">пе̄ййв</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">päivä</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">aurinko</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sun</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">day</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Sonne</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Tag</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">sol</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">dag</t>
+			</tg>
+			<semantics>
+				<sem class="TIME"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">ǩeˊrdded</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">летать</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">кыррьтэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">lentää</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">fly</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">fliegen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">fly</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="MOTION"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">čuâǯ'ǯad</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">стоять</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">чуэннче</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">seistä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">stand</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">stehen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">stå</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="MOTION"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">vuõjjâd</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">плавать</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">вӯйе</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">uida</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">swim</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">schwimmen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">svømme</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="MOTION"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">muõrr</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">дерево</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">мӯрр</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">puu</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">tree</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">wood</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Baum</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Holz</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">tre</t>
+			</tg>
+			<semantics>
+				<sem class="PLANT"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">viõlggâd</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">белый</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">вӣллкэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">valkoinen</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">white</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">weiß</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">hvit</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="COLOR"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">viskkâd</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">жёлтый</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">руччкэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">keltainen</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">yellow</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">gelb</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">gul</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="COLOR"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">puk</l>
+		</lg>
+		<pos class="PRO"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">всё</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">пугк</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kaikki</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">all</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">alle</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">alle</t>
+			</tg>
+			<semantics>
+				<sem class="NUMBER"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">kunn</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">зола</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">кунн</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tuhka</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">ash</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Asche</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">aske</t>
+			</tg>
+			<semantics>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">pärkk</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">кора</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">па̄ҏҏк</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kaarna</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bark</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Borke</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">bark</t>
+			</tg>
+			<semantics>
+				<sem class="PLANT"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">čåuˊjj</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">живот</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">чуэййв</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vatsa</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">belly</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Bauch</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">mage</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">šurr</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">большой</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">шӯрр</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">suuri</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">big</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">groß</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">stor</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="ABSTRACT"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">čappâd</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">чёрный</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">чоаһпэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">musta</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">black</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">schwarz</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">svart</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="COLOR"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">râˊdd</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">грудь</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">раннҍт</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">rinta</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">breast</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Brust</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">bryst</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">vuõjj</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">масло</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">жир</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">вӯйй</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">voi</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">rasva</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">butter</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">fat</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Butter</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Fett</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">smør</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">fett</t>
+			</tg>
+			<semantics>
+				<sem class="FOOD"/>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">põlvv</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">туча</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">пэ̄ввл</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">pilvi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">cloud</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Wolke</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">sky</t>
+			</tg>
+			<semantics>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">kõõumâs</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">холодный</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">кэлмас</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kylmä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">cold</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">kalt</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">kald</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="SENSE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">piânnai</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">собака</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">пе̄ннэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">koira</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">dog</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Hund</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">hund</t>
+			</tg>
+			<semantics>
+				<sem class="ANIMAL"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">kååˊšǩes</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">сухой</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">коашшьк</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuiva</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">dry</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">trocken</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">tørr</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="SENSE"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">peˊllj</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">ухо</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">пе̄лльй</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">korva</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">ear</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Ohr</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">øre</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">jânnam</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">земля</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">еммьнэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">maa</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">earth</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Erde</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">jord</t>
+			</tg>
+			<semantics>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">čâˊlmm</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">глаз</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">чалльм</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">silmä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">eye</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Auge</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">øye</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">kõʒʒ</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">ноготь</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">кэ̄ннц</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kynsi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">fingernail</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Nagel</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">negl</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">toll</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">огонь</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">то̄лл</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tuli</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">fire</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Feuer</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">ild</t>
+			</tg>
+			<semantics>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">jueˊlǧǧ</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">стопа</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">нога</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">ю̄лльк</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">jalka</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">foot</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">leg</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Fuß</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Bein</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">fot</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">bein</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">tiiudâs</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">полный</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">тӣвтас</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">täysinäinen</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">full</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">voll</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">full</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="ABSTRACT"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">šiõǥǥ</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">хороший</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">шӣг</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">hyvä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">good</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">gut</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">god</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="ABSTRACT"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">ruõnâs</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">зелёный</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">руэнн</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vihreä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">green</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">grün</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">grønn</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="COLOR"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">vuõptt</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">волосы</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">вӯппт</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tukka</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">hair</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Haar</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">hår</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">ǩiõtt</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">рука</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">кисть</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">кӣдт</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">käsi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">arm</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">hand</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Arm</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Hand</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">arm</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">hand</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">vueiˊvv</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">голова</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">вуеййв</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">pää</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">head</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Kopf</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">hode</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">čuäˊrvv</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">рог</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">чуэррьв</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sarvi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">horn</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Horn</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">horn</t>
+			</tg>
+			<semantics>
+				<sem class="ANIMAL"/>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">puõˊl'li</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">жаркий</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">поакас</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuuma</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">hot</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">heiß</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">het</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="SENSE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">mon</l>
+		</lg>
+		<pos class="PRO"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">я</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">мунн</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">minä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">I</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">ich</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">jeg</t>
+			</tg>
+			<semantics>
+				<sem class="HUMAN"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">puõlvv</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">колено</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">пӯллв</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">polvi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">knee</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Knie</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">kne</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">lõstt</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">лист</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">лэ̄сст</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">lehti</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">leaf</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Blatt</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">blad</t>
+			</tg>
+			<semantics>
+				<sem class="PLANT"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">kuˊǩǩ</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">длинный</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">куһкь</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">pitkä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">long</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">lang</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">lang</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="ABSTRACT"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">teˊǩǩ</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">вошь</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">тыһкь</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">täi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">louse</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Laus</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">lus</t>
+			</tg>
+			<semantics>
+				<sem class="ANIMAL"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">åålmai</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">мужчина</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">оалм-олма</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">mies</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">man</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Mann</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">mann</t>
+			</tg>
+			<semantics>
+				<sem class="HUMAN"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">mäŋgg</l>
+		</lg>
+		<pos class="QUANT"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">многие</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">е̄ннэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">monta</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">many</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">viele</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">mange</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="NUMBER"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">vääˊrr</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">гора</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">па̄һкь</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vaara</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">mountain</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Berg</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">fjell</t>
+			</tg>
+			<semantics>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">njäˊlmm</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">рот</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">нялльм</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">suu</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">mouth</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Mund</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">munn</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">nõmm</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">имя</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">нэ̄мм</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">nimi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">name</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Name</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">navn</t>
+			</tg>
+			<semantics>
+				<sem class="HUMAN"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">njiˊšǩǩ-maadd</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">шея</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">нышшьк</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">niska</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">neck</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Nacken</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">nakke</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">oođâs</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">новый</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">о̄дт</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">uusi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">new</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">neu</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">ny</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="ABSTRACT"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">njuuˊnn</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">нос</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">клюв</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">нюннҍ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">nenä</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">nokka</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">nose</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">beak</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Nase</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Schnabel</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">nese</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">snabel</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">ij</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">не</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">эйй</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ei</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">not</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">nicht</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">inte</t>
+			</tg>
+			<semantics>
+				<sem class="ABSTRACT"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">õhtt</l>
+		</lg>
+		<pos class="NUM"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">один</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">э̄ххт</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">yksi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">one</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">eins</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">en</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="NUMBER"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">õumm-ooumaž</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">человек</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">олма</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ihminen</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">person</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Person</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">menneske</t>
+			</tg>
+			<semantics>
+				<sem class="HUMAN"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">âˊbrr</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">дождь</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">аббьр</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sade</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">rain</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Regen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">regn</t>
+			</tg>
+			<semantics>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">ruõpssâd</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">красный</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">рӯппсэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">punainen</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">red</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">rot</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">rød</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="COLOR"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">vueˊddes</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">корень</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">вуэннҍт</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">juuri</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">root</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Wurzel</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">rot</t>
+			</tg>
+			<semantics>
+				<sem class="PLANT"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">joorbâs</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">круглый</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">ёрпас</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">pyöreä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">round</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">rund</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">rund</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="SENSE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">vuõddâs</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">песок</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">вунтас</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">hiekka</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">sand</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Sand</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">sand</t>
+			</tg>
+			<semantics>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">siõm</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">семя</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">сем</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">siemen</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">seed</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Samen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">frø</t>
+			</tg>
+			<semantics>
+				<sem class="PLANT"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">leˊšǩǩ</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">кожа</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">лышшьк</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">iho</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">skin</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Haut</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">hud</t>
+			</tg>
+			<semantics>
+				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">uˊcc</l>
+		</lg>
+		<pos class="A"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">маленький</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">удць</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">pieni</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">small</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">klein</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">liten</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="SENSE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">suõvv</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">дым</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">сувв</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">savu</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">smoke</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Rauch</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">røyk</t>
+			</tg>
+			<semantics>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">täˊsnn</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">звезда</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">та̄сс'т</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tähti</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">star</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Stern</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">stjerne</t>
+			</tg>
+			<semantics>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">ǩeäˊdǧǧ</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">камень</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">кеддҍк</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kivi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">stone</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Stein</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">stein</t>
+			</tg>
+			<semantics>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">tut</l>
+		</lg>
+		<pos class="PRO"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">то</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">тудт</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tuo</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">that</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">jenes</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">det</t>
+			</tg>
+			<semantics>
+				<sem class="ABSTRACT"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">tät</l>
+		</lg>
+		<pos class="PRO"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">это</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">та̄дт</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tämä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">this</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">dieses</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">dette</t>
+			</tg>
+			<semantics>
+				<sem class="ABSTRACT"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">käˊcǩǩed</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">грызть</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">ка̄ццькэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">purra</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bite</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">beißen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">bite</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="ANIMAL"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">pueˊlled</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">жечь</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">пӯлле</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">palaa</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">burn</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">brennen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">brenne</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">pueˊtted</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">приходить</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">пуэдтӭ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tulla</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">come</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">kommen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">komme</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="MOTION"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">juukkâd</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">пить</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">югкэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">juoda</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">drink</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">trinken</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">drikke</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="FOOD"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">poorrâd</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">есть</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">по̄ррэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">syödä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">eat</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">essen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">spise</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="FOOD"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">uˊvvded</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">давать</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">аннҍтэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">antaa</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">give</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">geben</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">gi</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">ceäˊlǩǩed</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">говорить</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">це̄ӆӆькэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">puhua</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">say</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">sprechen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">snakke</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">vueiˊnned</l>
+		</lg>
+		<pos class="V"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">видеть</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">уййнэ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">nähdä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">see</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">sehen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">se</t>
+			</tg>
+			<semantics>
+				<sem class="ASE"/>
+				<sem class="SENSE"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">kueˊhtt</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">два</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">кӯххт</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kaksi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">two</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">zwei</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">to</t>
+			</tg>
+			<semantics>
+				<sem class="PROPERTY"/>
+				<sem class="NUMBER"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">mij</l>
+		</lg>
+		<pos class="PRO"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">мы</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">мыйй</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">me</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">we</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">wir</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">vi</t>
+			</tg>
+			<semantics>
+				<sem class="HUMAN"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">mii</l>
+		</lg>
+		<pos class="PRO"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">что</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">мӣ</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">mikä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">what</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">was</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">hva</t>
+			</tg>
+			<semantics>
+				<sem class="ABSTRACT"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">ǩii</l>
+		</lg>
+		<pos class="PRO"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">кто</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">ке̄</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuka</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">who</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">wer</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">hvem</t>
+			</tg>
+			<semantics>
+				<sem class="HUMAN"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">neezzan</l>
+		</lg>
+		<pos class="N"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">женщина</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">ныззан</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">nainen</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">woman</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">Frau</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">kvinne</t>
+			</tg>
+			<semantics>
+				<sem class="HUMAN"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="2">
+		<lg>
+			<l pos="xxx">ton</l>
+		</lg>
+		<pos class="PRO"/>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">ты</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">то̄нн</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">sinä</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">you</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">du</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">du</t>
+			</tg>
+			<semantics>
+				<sem class="HUMAN"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
 </lexicon>
