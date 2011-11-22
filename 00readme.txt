@@ -16,14 +16,15 @@ on the e-element in the xml files:
 
 02 - 99-word list from the current smsoahpa; this word list with multiple translations, taken from the 100-Swadesh-list, was originally collected by Michael Rießler.
 
+03 - word list from teaching materials under deveolpment by the Project "Skolt Saami Culture across Borders" (building on an already existing Finnish version, which is extended with Russian [Eino Koponen] and Norwegian [Michael Rießler] translations); each lesson of this materials gets its own attribute
+
 =====
 TODO
 =====
 
 TODO's 
-* xxx's
+* write better documentation
+* fill in xxx's
 * check <t> vs. <tg> vs. <mg>
 * check <tr> <te> (what exactly does it mean?)
-
-ToDo's in meta="01"
 * check inflected personal pronouns (e.g. <l pos="PRO" person="2" number="sg">tun</l>) (how should they be listed?)
