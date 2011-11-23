@@ -32,50 +32,6 @@
 	</e>
 	<e meta="1">
 		<lg>
-			<l pos="con">a</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">but</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">mutta</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">vaan</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">muhto</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">а</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
-		<lg>
-			<l pos="con">a</l>
-		</lg>
-		<mg>
-			<tg xml:lang="fin">
-				<t pos="xxx">entä</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">no</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">а</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
-		<lg>
 			<l pos="n">addrõs</l>
 		</lg>
 		<mg>
@@ -259,6 +215,9 @@
 		<lg>
 			<l pos="n">gåårad</l>
 		</lg>
+		<etymology>
+					<etymon type="loan" source="rus">город</etymon>
+					</etymology>		
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">city</t>
@@ -314,23 +273,29 @@
 		<lg>
 			<l pos="adv">domoi</l>
 		</lg>
+		<etymology>
+					<etymon type="loan" source="rus">домой</etymon>
+					</etymology>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="adv">homeward</t>
 				<te>towards home</te>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">kotiin</t>
+				<t pos="adv">kotiin</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="adv">ruoktiin</t>
 				<t pos="adv">ruoktot</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">домой</t>
+				<t pos="adv">домой</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">nach Hause</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="HUMAN"/>
 			</semantics>
 		</mg>
 	</e>
@@ -783,6 +748,9 @@
 		<lg>
 			<l pos="n">uˊčteeˊl</l>
 		</lg>
+		<etymology>
+					<etymon type="loan" source="rus">учитель</etymon>
+					</etymology>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">teacher</t>
@@ -825,7 +793,11 @@
 		<lg>
 			<l pos="n">ceerkav</l>
 		</lg>
-		<mg>
+		<etymology>
+					<etymon type="loan" source="rus">церковь</etymon>
+					<note>missing palatalization</note>
+					</etymology>
+				<mg>
 			<tg xml:lang="eng">
 				<t pos="n">church</t>
 			</tg>
@@ -1010,30 +982,6 @@
 				<t pos="xxx">já</t>
 			</tg>
 			<synonym>da</synonym>
-			<synonym>di</synonym>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
-		<lg>
-			<l pos="xxx">da</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">and</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">ja</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">ja</t>
-			</tg>
-			<tg xml:lang="smn">
-				<t pos="xxx">já</t>
-			</tg>
-			<synonym>de</synonym>
 			<synonym>di</synonym>
 			<semantics>
 				<sem class="xxx"/>
@@ -2519,6 +2467,9 @@
 		<lg>
 			<l pos="n">jarplan</l>
 		</lg>
+		<etymology>
+					<etymon type="loan" source="rus">аэроплан</etymon>
+					</etymology>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">airplane</t>
@@ -2537,7 +2488,7 @@
 				<t pos="n">girdi</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="HUMAN"/>
 			</semantics>
 		</mg>
 	</e>
@@ -3742,6 +3693,10 @@
 		<lg>
 			<l pos="n">neäˊttel</l>
 		</lg>
+		<etymology>
+					<etymon type="loan" source="kar">netäli</etymon>
+					<cognate lang="o-rus">nedҍlʼa</cognate>
+					</etymology>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">week</t>
@@ -3761,16 +3716,22 @@
 		<lg>
 			<l pos="con">håˊt</l>
 		</lg>
-		<mg>
+		<etymology>
+					<etymon type="loan" source="rus">хоть</etymon>
+					</etymology>
+							<mg>
 			<tg xml:lang="eng">
 				<t pos="xxx">even though</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">vaikka</t>
+				<t pos="con">vaikka</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="con">obwohl</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">vaikko</t>
-				<t pos="xxx">vaikke</t>
+				<t pos="con">vaikko</t>
+				<t pos="con">vaikke</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -5932,7 +5893,10 @@
 		<lg>
 			<l pos="con">leˊbe</l>
 		</lg>
-		<mg>
+		<etymology>
+					<etymon type="loan" source="rus">либо</etymon>
+					</etymology>
+				<mg>
 			<tg xml:lang="eng">
 				<t pos="con">or</t>
 			</tg>
@@ -10917,11 +10881,28 @@
 		<lg>
 			<l pos="con">da</l>
 		</lg>
+		<etymology>
+					<etymon type="loan" source="rus">да</etymon>
+					</etymology>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="con">и</t>
 			</tg>
-			<semantics>
+					<tg xml:lang="eng">
+				<t pos="con">and</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="con">ja</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="con">ja</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="con">já</t>
+			</tg>
+			<synonym>de</synonym>
+			<synonym>di</synonym>
+	<semantics>
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
@@ -11022,6 +11003,9 @@
 		<lg>
 			<l pos="con">a</l>
 		</lg>
+		<etymology>
+					<etymon type="loan" source="rus">а</etymon>
+					</etymology>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="con">но</t>
@@ -11031,6 +11015,21 @@
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="con">однако</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="con">but</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="con">mutta</t>
+				<t pos="con">vaan</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="con">entä</t>
+				<t pos="con">no</t>
+			</tg>
+			
+			<tg xml:lang="sme">
+				<t pos="con">muhto</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -12332,4 +12331,94 @@
 			</sources>
 		</mg>
 	</e>
+		<e meta="4">
+		<lg>
+			<l pos="n">hoˊzjeˊn</l>
+					</lg>
+					<etymology>
+					<etymon type="loan" source="rus">хозяин</etymon>
+					</etymology>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">хозяин</t>
+				<te>дома</te>
+			</tg>
+				<tg xml:lang="rus">
+				<t pos="xxx">глава семьи</t>
+				</tg>
+				<tg xml:lang="deu">
+				<t pos="n">Hausherr</t>
+				</tg>
+			<semantics>
+				<sem class="HUMAN"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+		<e meta="4">
+		<lg>
+			<l pos="con">poka</l>
+					</lg>
+					<etymology>
+					<etymon type="loan" source="rus">пока</etymon>
+					</etymology>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="con">пока</t>
+				</tg>
+				<tg xml:lang="fin">
+				<t pos="con">kun</t>
+				<t pos="con">kunnes</t>
+				</tg>
+				<tg xml:lang="fin">
+				<t pos="con">kunhan</t>
+				</tg>
+			<tg xml:lang="deu">
+				<t pos="con">während</t>
+				<t pos="">so lange</t>
+				</tg>
+				<tg xml:lang="deu">
+				<t pos="con">bis</t>
+				</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+		<e meta="4">
+		<lg>
+			<l pos="con">što</l>
+					</lg>
+					<etymology>
+					<etymon type="loan" source="rus">что</etymon>
+					</etymology>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="con">что</t>
+				</tg>
+			<tg xml:lang="deu">
+				<t pos="con">dass</t>
+				</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+
+
+
 </lexicon>
