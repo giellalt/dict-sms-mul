@@ -1968,14 +1968,17 @@
 				<t pos="v">boahtit</t>
 			</tg>
 			<xg>
-				<x pos="v">Puäˊđ!</x>
+				<x pos="v">puäˊđ!</x>
 				<xtg xml:lang="rus">
-					<xt pos="v">Иди!</xt>
-					<xt pos="v">Приходи!</xt>
+					<xt pos="v">иди!</xt>
+					<xt pos="v">приходи!</xt>
 				</xtg>
 				<xtg xml:lang="rus">
-					<xt pos="v">Come!</xt>
-					<xt pos="xxx">Come in!</xt>
+					<xt pos="v">come!</xt>
+					<xt pos="xxx">come in!</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="v">tule!</xt>
 				</xtg>
 			</xg>
 			<semantics>
@@ -5069,22 +5072,6 @@
 	</e>
 	<e meta="1">
 		<lg>
-			<l pos="n">neezzan</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="n">woman</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="n">nainen</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
-		<lg>
 			<l pos="n">naaurâs</l>
 		</lg>
 		<mg>
@@ -7167,19 +7154,6 @@
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="xxx">what kind of</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
-		<lg>
-			<l pos="pro">mii</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="pro">what</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -10456,72 +10430,6 @@
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
-		<lg>
-			<l pos="pro">mii</l>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="xxx">что</t>
-			</tg>
-			<tg xml:lang="sjd">
-				<t pos="xxx">мӣ</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">mikä</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">what</t>
-			</tg>
-			<tg xml:lang="deu">
-				<t pos="xxx">was</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">hva</t>
-			</tg>
-			<semantics>
-				<sem class="ABSTRACT"/>
-			</semantics>
-			<sources>
-				<book name="l1"/>
-				<book name="l2"/>
-				<book name="l3"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="2">
-		<lg>
-			<l pos="n">neezzan</l>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="n">женщина</t>
-			</tg>
-			<tg xml:lang="sjd">
-				<t pos="n">ныззан</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="n">nainen</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="n">woman</t>
-			</tg>
-			<tg xml:lang="deu">
-				<t pos="n">Frau</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="n">kvinne</t>
-			</tg>
-			<semantics>
-				<sem class="HUMAN"/>
-			</semantics>
-			<sources>
-				<book name="l1"/>
-				<book name="l2"/>
-				<book name="l3"/>
-			</sources>
-		</mg>
-	</e>
 	<e meta="3">
 		<lg>
 			<l pos="adv">täˊst</l>
@@ -10529,6 +10437,34 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="adv">здесь</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tässä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="1"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="3">
+		<lg>
+			<l pos="xxx">tät</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">tämä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -10550,6 +10486,12 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="v">быть</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">olla</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<tg xml:lang="deu">
 				<t pos="v">sein</t>
@@ -10574,6 +10516,9 @@
 	<e meta="3">
 		<lg>
 			<l pos="n">neezzan</l>
+			<infl>
+				<stem case="nom" number="pl">neezzan</stem>
+			</infl>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -10614,6 +10559,12 @@
 				<t pos="pro" gender="m">он</t>
 				<t pos="pro" gender="f">она</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="pro">hän</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pro">xxx</t>
+			</tg>
 			<tg xml:lang="eng">
 				<t pos="pro" gender="m">he</t>
 				<t pos="pro" gender="f">she</t>
@@ -10650,6 +10601,15 @@
 			<tg xml:lang="rus">
 				<t pos="pn">Мария</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Marja</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Maria</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Maria</t>
+			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
 			</semantics>
@@ -10669,11 +10629,14 @@
 			<tg xml:lang="rus">
 				<t pos="con">и</t>
 			</tg>
-			<tg xml:lang="eng">
-				<t pos="con">and</t>
-			</tg>
 			<tg xml:lang="fin">
 				<t pos="con">ja</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="con">og</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="con">and</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="con">ja</t>
@@ -10702,6 +10665,12 @@
 			<tg xml:lang="rus">
 				<t pos="n">мужчина</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">mies</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
 			</semantics>
@@ -10721,6 +10690,12 @@
 			<tg xml:lang="rus">
 				<t pos="n">имя</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">nimi</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
 			</semantics>
@@ -10737,6 +10712,15 @@
 			<tg xml:lang="rus">
 				<t pos="pn">Иван</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Juhani</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Jussi</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
 			</semantics>
@@ -10752,6 +10736,15 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="grad">очень</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="grad">hyvin</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="grad">oikein</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="grad">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -10771,6 +10764,9 @@
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="attr" gender="m">долгий</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="a">pitkä</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -10797,9 +10793,6 @@
 			<tg xml:lang="rus">
 				<t pos="con">однако</t>
 			</tg>
-			<tg xml:lang="eng">
-				<t pos="con">but</t>
-			</tg>
 			<tg xml:lang="fin">
 				<t pos="con">mutta</t>
 				<t pos="con">vaan</t>
@@ -10807,6 +10800,12 @@
 			<tg xml:lang="fin">
 				<t pos="con">entä</t>
 				<t pos="con">no</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="con">xxx</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="con">but</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="con">muhto</t>
@@ -10833,6 +10832,12 @@
 			<tg xml:lang="rus">
 				<t pos="grad">относительно</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">melko</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -10851,6 +10856,12 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="xxx">маленький</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="a">pieni</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -10871,6 +10882,12 @@
 			<tg xml:lang="rus">
 				<t pos="v">видеть</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">nähdä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -10886,6 +10903,12 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="xxx">на дворе</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">ulkona</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="adv">ute</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -10906,6 +10929,18 @@
 			<tg xml:lang="rus">
 				<t pos="v">идти</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">mennä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg>
+				<x>mâânn ǩidd</x>
+				<xtg xml:lang="rus">
+					<xt pos="v">закроется</xt>
+				</xtg>
+			</xg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -10923,6 +10958,12 @@
 				<t pos="xxx">к</t>
 				<tr>кому</tr>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">luo</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -10933,14 +10974,23 @@
 	</e>
 	<e meta="3">
 		<lg>
-			<l pos="interj">tiõrv</l>
+			<l pos="interj">tiõrv!</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="xxx">добрый день</t>
+				<t pos="xxx">добрый день!</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="interj">привет</t>
+				<t pos="interj">привет!</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="interj">päivää!</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="interj">terve!</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="interj">hei!</t>
 			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
@@ -10958,11 +11008,21 @@
 			<tg xml:lang="rus">
 				<t pos="adv">здорово</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<xg>
 				<x>Kuõđđu tiõrvân!</x>
 				<xtg xml:lang="rus">
 					<xt>До свидания!</xt>
 					<xtr>тому, кто Будь здоров!</xtr>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt>Näkemiin!</xt>
+					<xtr>jäävälle = Jää terveenä!</xtr>
 				</xtg>
 			</xg>
 			<xg>
@@ -10970,6 +11030,10 @@
 				<xtg xml:lang="rus">
 					<xt>До свидания!</xt>
 					<xtr>уходящему, t.e. Счастливо добраться!</xtr>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt>Näkemiin!</xt>
+					<xtr>lähtijälle = Mene terveenä!</xtr>
 				</xtg>
 			</xg>
 			<semantics>
@@ -11125,6 +11189,12 @@
 			<tg xml:lang="rus">
 				<t pos="n">отец</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">isä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
 			</semantics>
@@ -11144,6 +11214,15 @@
 			<tg xml:lang="rus">
 				<t pos="xxx">также</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">mjös</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">-kin</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -11159,6 +11238,12 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="xxx">так</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">niin</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11179,6 +11264,17 @@
 			<tg xml:lang="rus">
 				<t pos="prtcl">же</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">-pa</t>
+				<t pos="xxx">-pä</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">-han</t>
+				<t pos="xxx">-hän</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -11194,6 +11290,12 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="n">фамилия</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">sukunimi</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
@@ -11215,6 +11317,13 @@
 				<t pos="n">род</t>
 				<tr>женщины</tr>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">suku</t>
+				<tr>naisen</tr>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
 			</semantics>
@@ -11233,6 +11342,12 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="v">знать</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">tietää</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
@@ -11253,6 +11368,15 @@
 			<tg xml:lang="rus">
 				<t pos="xxx">высокий</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="a">iso</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="a">suuri</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -11263,17 +11387,52 @@
 	</e>
 	<e meta="3">
 		<lg>
-			<l pos="pro">mâiˊd</l>
+			<l pos="pro">mii</l>
+			<infl>
+				<stem case="gen" number="sg">mõõn</stem>
+				<stem case="acc" number="sg">mõõn</stem>
+				<stem case="acc" number="pl">mâiˊd</stem>
+			</infl>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="xxx">что</t>
+				<t pos="pro">что</t>
 			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">чего</t>
+			<tg xml:lang="fin">
+				<t pos="pro">mikä</t>
 			</tg>
+			<tg xml:lang="nob">
+				<t pos="pro">hva</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="xxx">мӣ</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">what</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="xxx">was</t>
+			</tg>
+			<xg>
+				<x pos="pro">mõõn</x>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">что за</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="pro">minkä</xt>
+				</xtg>
+			</xg>
+			<xg>
+				<x>mâiˊd</x>
+				<xtg xml:lang="rus">
+					<xt pos="pro">чего</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="pro">mitä</xt>
+				</xtg>
+			</xg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="ABSTRACT"/>
 			</semantics>
 			<sources>
 				<book name="l1" lesson="1"/>
@@ -11292,6 +11451,12 @@
 				<t pos="v" aspect="xxx">делать</t>
 				<t pos="v" aspect="xxx">сделать</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">tehdä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -11303,10 +11468,19 @@
 	<e meta="3">
 		<lg>
 			<l pos="n">pävvar</l>
+			<infl>
+				<stem case="nom" number="pl">pävvar</stem>
+			</infl>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="n">повар</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">kokki</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
@@ -11327,10 +11501,19 @@
 			<tg xml:lang="rus">
 				<t pos="n">работа</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">työ</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<xg>
 				<x pos="n">reâuǥast</x>
 				<xtg xml:lang="rus">
 					<xt>на работе</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="n">työssä</xt>
 				</xtg>
 			</xg>
 			<semantics>
@@ -11353,6 +11536,12 @@
 				<t pos="pn">Севеттиярви</t>
 				<te>село</te>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Sevettijärvi</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Sevettijärvi</t>
+			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
 			</semantics>
@@ -11364,6 +11553,12 @@
 			<tg xml:lang="rus">
 				<t pos="pn">Севеттиярви</t>
 				<te>озеро</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Sevettijärvi</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Sevettijärvi</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11384,10 +11579,19 @@
 			<tg xml:lang="rus">
 				<t pos="n">школа</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">koulu</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<xg>
 				<x pos="n">škooulâst</x>
 				<xtg xml:lang="rus">
 					<xt>в школе</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="n">koulussa</xt>
 				</xtg>
 			</xg>
 			<semantics>
@@ -11404,7 +11608,13 @@
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="xxx">где</t>
+				<t pos="adv">где</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">missä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11436,10 +11646,19 @@
 			<tg xml:lang="rus">
 				<t pos="n">работа</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">työ</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<xg>
 				<x pos="n">tuejast</x>
 				<xtg xml:lang="rus">
 					<xt>на работе</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="n">työssä</xt>
 				</xtg>
 			</xg>
 			<semantics>
@@ -11458,6 +11677,12 @@
 			<tg xml:lang="rus">
 				<t pos="n">оленевод</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">poromies</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
 			</semantics>
@@ -11472,7 +11697,13 @@
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="xxx">сегодня</t>
+				<t pos="adv">сегодня</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">tänään</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11493,6 +11724,18 @@
 			<tg xml:lang="rus">
 				<t pos="v">взять</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">ottaa</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="v">xxx</t>
+			</tg>
+			<xg>
+				<x>vääldam ǩidd</x>
+				<xtg xml:lang="rus">
+					<xt pos="v">поймаю</xt>
+				</xtg>
+			</xg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -11512,21 +11755,11 @@
 			<tg xml:lang="rus">
 				<t pos="xxx">олений бык</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="l1" lesson="1"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="3">
-		<lg>
-			<l pos="v">vääldam ǩidd</l>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="v">поймаю</t>
+			<tg xml:lang="fin">
+				<t pos="n">härkä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11546,6 +11779,15 @@
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="sbj">потому что</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="sbj">kun</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="sbj">koska</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11577,6 +11819,12 @@
 			<tg xml:lang="rus">
 				<t pos="v">планировать</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">aikoa</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -11588,6 +11836,9 @@
 	<e meta="3">
 		<lg>
 			<l pos="v">vueˊlǧǧed</l>
+			<infl>
+				<stem person="1" number="1">vuâlǥam</stem>
+			</infl>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -11595,6 +11846,12 @@
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="v">уходить</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">lähteä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11611,6 +11868,12 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="v">ехать</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">ajaa</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11633,31 +11896,6 @@
 	</e>
 	<e meta="3">
 		<lg>
-			<l pos="pro">mii</l>
-			<infl>
-				<stem case="acc" number="sg">mõõn</stem>
-			</infl>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="pro">какой</t>
-			</tg>
-			<xg>
-				<x pos="pro">mõõn</x>
-				<xtg xml:lang="rus">
-					<xt>что за</xt>
-				</xtg>
-			</xg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="l1" lesson="1"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="3">
-		<lg>
 			<l pos="n">ââˊǩǩ</l>
 		</lg>
 		<mg>
@@ -11665,10 +11903,19 @@
 				<t pos="n">возраст</t>
 				<tr>летá</tr>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">ikä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<xg>
 				<x pos="xxx">âkksaž</x>
 				<xtg xml:lang="rus">
 					<xt>в возрасте</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="a">ikäinen</xt>
 				</xtg>
 			</xg>
 			<semantics>
@@ -11685,7 +11932,13 @@
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="xxx">двадцать шесть</t>
+				<t pos="num">двадцать шесть</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="num">kaksikymmentäkuusi</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="num">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11701,7 +11954,13 @@
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="xxx">двадцать четыре</t>
+				<t pos="num">двадцать четыре</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="num">kaksikymmentäneljä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="num">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11722,9 +11981,20 @@
 			<tg xml:lang="rus">
 				<t pos="n">год</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">vuosi</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<xg>
 				<x pos="n">eeˊǩǩed</x>
-				<xtg xml:lang="rus">лет</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="n">лет</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="n">vuotta</xt>
+				</xtg>
 			</xg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11745,6 +12015,12 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="v">жить</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">asua</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11776,10 +12052,29 @@
 			<tg xml:lang="rus">
 				<t pos="n">дом</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">talo</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">koti</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<xg>
 				<x pos="n">põõrtâst</x>
-				<xtg xml:lang="rus">в доме</xtg>
-				<xtg xml:lang="rus" pos="adv">дома</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="adv">дома</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">в доме</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="adv">kotona</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="n">talossa</xt>
+				</xtg>
 			</xg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11796,6 +12091,12 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="xxx">красивый</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="a">kaunis</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11816,6 +12117,12 @@
 			<tg xml:lang="rus">
 				<t pos="n">село</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">kylä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
 			</semantics>
@@ -11831,6 +12138,12 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="xxx">да есть</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">kylä on</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11851,6 +12164,12 @@
 			<tg xml:lang="rus">
 				<t pos="con">однако</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="con">mutta</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -11865,7 +12184,13 @@
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="xxx">теперь</t>
+				<t pos="adv">теперь</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">nyt</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11877,33 +12202,32 @@
 	</e>
 	<e meta="3">
 		<lg>
-			<l pos="v">vuâlǥam</l>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="v">пойду</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="l1" lesson="1"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="3">
-		<lg>
-			<l pos="v">xxx</l>
+			<l pos="v">õlggâd</l>
 			<infl>
 				<stem person="1" number="sg">õõlǥam</stem>
 			</infl>
 		</lg>
 		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">pitää</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">täytyä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<xg>
 				<x>mon õõlǥam</x>
 				<xtg xml:lang="rus">
 					<xt>мне надо</xt>
 					<xt>мне нужно</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt>minun pitää</xt>
 				</xtg>
 			</xg>
 			<semantics>
@@ -11922,6 +12246,12 @@
 			<tg xml:lang="rus">
 				<t pos="v">покупать</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">ostaa</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -11938,6 +12268,12 @@
 			<tg xml:lang="rus">
 				<t pos="xxx">ещё</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">vielä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -11953,6 +12289,12 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="xxx">что-нибудь</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">jotain</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -11973,6 +12315,12 @@
 			<tg xml:lang="rus">
 				<t pos="n">еда</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">ruoka</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
 			</semantics>
@@ -11992,11 +12340,20 @@
 			<tg xml:lang="rus">
 				<t pos="xxx">пока не</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ennen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<xg>
 				<x>ouddâl ko</x>
 				<xtg xml:lang="rus">
 					<xt>до того как</xt>
 					<xt>пока не</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt>ennen kuin</xt>
 				</xtg>
 			</xg>
 			<semantics>
@@ -12018,24 +12375,14 @@
 			<tg xml:lang="rus">
 				<t pos="n">магазин</t>
 			</tg>
-			<semantics>
-				<sem class="HUMAN"/>
-			</semantics>
-			<sources>
-				<book name="l1" lesson="1"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="3">
-		<lg>
-			<l pos="v">mâânn ǩidd</l>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="v">закроется</t>
+			<tg xml:lang="fin">
+				<t pos="n">kauppa</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="HUMAN"/>
 			</semantics>
 			<sources>
 				<book name="l1" lesson="1"/>
@@ -12053,22 +12400,21 @@
 			<tg xml:lang="rus">
 				<t pos="v">мочь</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="l1" lesson="1"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="3">
-		<lg>
-			<l pos="v">vuäitam-a</l>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="xxx">могу ли</t>
+			<tg xml:lang="fin">
+				<t pos="v">voida</t>
 			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg>
+				<x>vuäitam-a</x>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">могу ли</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">voinko</xt>
+				</xtg>
+			</xg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -12084,6 +12430,12 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="v">приходить</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">tulla</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -12112,6 +12464,12 @@
 			<tg xml:lang="rus">
 				<t pos="xxx">завтра</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">huomenna</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -12129,6 +12487,12 @@
 				<t pos="v">кофейничать</t>
 				<t pos="xxx">сидеть за чашкой кофе</t>
 				<te>пить кофе</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">kahvistella</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
@@ -12149,6 +12513,12 @@
 			<tg xml:lang="rus">
 				<t pos="v">печь</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">paistaa</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -12168,6 +12538,12 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="n">булка</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">pulla</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
