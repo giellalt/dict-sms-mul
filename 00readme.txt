@@ -37,4 +37,9 @@ TODO's
 * fill in xxx's
 * check <t> vs. <tg> vs. <mg>
 * check <tr> <te> (what exactly does it mean?)
+
+=====
+Pronouns
+=====
 * check inflected personal pronouns (e.g. <l pos="PRO" person="2" number="sg">tun</l>) (how should they be listed?)
+* the current solution with inflected forms in <xg> is preliminary (I want to include both the nom.sg and the inflected forms with their translations, because they all are also included in the teaching materials. However, I do not want to have own lemmas for inflected forms)
