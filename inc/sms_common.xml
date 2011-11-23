@@ -216,8 +216,8 @@
 			<l pos="n">gåårad</l>
 		</lg>
 		<etymology>
-					<etymon type="loan" source="rus">город</etymon>
-					</etymology>		
+			<etymon type="loan" source="rus">город</etymon>
+		</etymology>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">city</t>
@@ -274,8 +274,8 @@
 			<l pos="adv">domoi</l>
 		</lg>
 		<etymology>
-					<etymon type="loan" source="rus">домой</etymon>
-					</etymology>
+			<etymon type="loan" source="rus">домой</etymon>
+		</etymology>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="adv">homeward</t>
@@ -749,8 +749,8 @@
 			<l pos="n">uˊčteeˊl</l>
 		</lg>
 		<etymology>
-					<etymon type="loan" source="rus">учитель</etymon>
-					</etymology>
+			<etymon type="loan" source="rus">учитель</etymon>
+		</etymology>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">teacher</t>
@@ -794,10 +794,10 @@
 			<l pos="n">ceerkav</l>
 		</lg>
 		<etymology>
-					<etymon type="loan" source="rus">церковь</etymon>
-					<note>missing palatalization</note>
-					</etymology>
-				<mg>
+			<etymon type="loan" source="rus">церковь</etymon>
+			<note>missing palatalization</note>
+		</etymology>
+		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">church</t>
 			</tg>
@@ -2213,25 +2213,6 @@
 	</e>
 	<e meta="1">
 		<lg>
-			<l pos="pro" person="2" number="sg" case="nom">tun</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">you</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">sinä</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">don</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
-		<lg>
 			<l pos="n">koonǥõskaav</l>
 		</lg>
 		<mg>
@@ -2243,28 +2224,6 @@
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="n">dronnet</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
-		<lg>
-			<l pos="pro" person="2" number="sg" case="gen">tuu</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">your</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">yours</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">sinun</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">du</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -2468,8 +2427,8 @@
 			<l pos="n">jarplan</l>
 		</lg>
 		<etymology>
-					<etymon type="loan" source="rus">аэроплан</etymon>
-					</etymology>
+			<etymon type="loan" source="rus">аэроплан</etymon>
+		</etymology>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">airplane</t>
@@ -3176,28 +3135,6 @@
 	</e>
 	<e meta="1">
 		<lg>
-			<l pos="pro" person="1" number="sg" case="gen">muu</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">mine</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">my</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">minun</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">mu</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
-		<lg>
 			<l pos="con">leâža</l>
 		</lg>
 		<mg>
@@ -3209,25 +3146,6 @@
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="xxx">muhto</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
-		<lg>
-			<l pos="pro">mon</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">I</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">minä</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">mun</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -3462,7 +3380,10 @@
 	</e>
 	<e meta="1">
 		<lg>
-			<l pos="pro" person="3" number="pl" case="nom">sij</l>
+			<l pos="pro">sij</l>
+			<infl>
+				<stem case="nom" person="3" number="du">suäna</stem>
+			</infl>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -3474,27 +3395,20 @@
 			<tg xml:lang="sme">
 				<t pos="xxx">sii</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
-		<lg>
-			<l pos="n" person="3" number="du" case="nom">suäna</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="pro" person="3" number="pl" case="nom">they</t>
-				<tr>two</tr>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pro" person="3" number="pl" case="nom">he</t>
-				<tr>kaksi</tr>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="pro" person="3" number="du" case="nom">soai</t>
-			</tg>
+			<xg>
+				<x>suäna</x>
+				<xtg xml:lang="eng">
+					<xt pos="pro">they</xt>
+					<xtr>two</xtr>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="pro">he</xt>
+					<xtr>kaksi</xtr>
+				</xtg>
+				<xtg xml:lang="sme">
+					<xt pos="pro">soai</xt>
+				</xtg>
+			</xg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -3516,28 +3430,6 @@
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="n">dállu</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
-		<lg>
-			<l pos="pro" person="3" number="sg" case="gen">suu</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">his</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">hers</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">hänen</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">su</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -3694,9 +3586,9 @@
 			<l pos="n">neäˊttel</l>
 		</lg>
 		<etymology>
-					<etymon type="loan" source="kar">netäli</etymon>
-					<cognate lang="o-rus">nedҍlʼa</cognate>
-					</etymology>
+			<etymon type="loan" source="kar">netäli</etymon>
+			<cognate lang="o-rus">nedҍlʼa</cognate>
+		</etymology>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">week</t>
@@ -3717,9 +3609,9 @@
 			<l pos="con">håˊt</l>
 		</lg>
 		<etymology>
-					<etymon type="loan" source="rus">хоть</etymon>
-					</etymology>
-							<mg>
+			<etymon type="loan" source="rus">хоть</etymon>
+		</etymology>
+		<mg>
 			<tg xml:lang="eng">
 				<t pos="xxx">even though</t>
 			</tg>
@@ -4651,22 +4543,6 @@
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="adv">koska</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
-		<lg>
-			<l pos="pro">ǩii</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="pro">who</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pro">kuka</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -5894,9 +5770,9 @@
 			<l pos="con">leˊbe</l>
 		</lg>
 		<etymology>
-					<etymon type="loan" source="rus">либо</etymon>
-					</etymology>
-				<mg>
+			<etymon type="loan" source="rus">либо</etymon>
+		</etymology>
+		<mg>
 			<tg xml:lang="eng">
 				<t pos="con">or</t>
 			</tg>
@@ -6656,22 +6532,6 @@
 			</tg>
 			<tg xml:lang="eng">
 				<t pos="n">port</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
-		<lg>
-			<l pos="pro">son</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">he</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">she</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -9305,39 +9165,6 @@
 	</e>
 	<e meta="2">
 		<lg>
-			<l pos="pro">mon</l>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="xxx">я</t>
-			</tg>
-			<tg xml:lang="sjd">
-				<t pos="xxx">мунн</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">minä</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">I</t>
-			</tg>
-			<tg xml:lang="deu">
-				<t pos="xxx">ich</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">jeg</t>
-			</tg>
-			<semantics>
-				<sem class="HUMAN"/>
-			</semantics>
-			<sources>
-				<book name="l1"/>
-				<book name="l2"/>
-				<book name="l3"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="2">
-		<lg>
 			<l pos="n">puõlvv</l>
 		</lg>
 		<mg>
@@ -10664,39 +10491,6 @@
 	</e>
 	<e meta="2">
 		<lg>
-			<l pos="pro">ǩii</l>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="xxx">кто</t>
-			</tg>
-			<tg xml:lang="sjd">
-				<t pos="xxx">ке̄</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">kuka</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">who</t>
-			</tg>
-			<tg xml:lang="deu">
-				<t pos="xxx">wer</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">hvem</t>
-			</tg>
-			<semantics>
-				<sem class="HUMAN"/>
-			</semantics>
-			<sources>
-				<book name="l1"/>
-				<book name="l2"/>
-				<book name="l3"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="2">
-		<lg>
 			<l pos="n">neezzan</l>
 		</lg>
 		<mg>
@@ -10717,39 +10511,6 @@
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="n">kvinne</t>
-			</tg>
-			<semantics>
-				<sem class="HUMAN"/>
-			</semantics>
-			<sources>
-				<book name="l1"/>
-				<book name="l2"/>
-				<book name="l3"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="2">
-		<lg>
-			<l pos="pro">ton</l>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="xxx">ты</t>
-			</tg>
-			<tg xml:lang="sjd">
-				<t pos="xxx">то̄нн</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">sinä</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">you</t>
-			</tg>
-			<tg xml:lang="deu">
-				<t pos="xxx">du</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">du</t>
 			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
@@ -10844,12 +10605,32 @@
 	<e meta="3">
 		<lg>
 			<l pos="pro">son</l>
+			<infl>
+				<stem case="gen" person="3" number="sg">suu</stem>
+			</infl>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="pro" gender="m">он</t>
 				<t pos="pro" gender="f">она</t>
 			</tg>
+			<tg xml:lang="eng">
+				<t pos="pro" gender="m">he</t>
+				<t pos="pro" gender="f">she</t>
+			</tg>
+			<xg>
+				<x>suu</x>
+				<xtg xml:lang="eng">
+					<xt pos="pro" gender="m">his</xt>
+					<xt pos="pro" gender="f">hers</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="pro">hänen</xt>
+				</xtg>
+				<xtg xml:lang="sme">
+					<xt pos="pro">su</xt>
+				</xtg>
+			</xg>
 			<semantics>
 				<sem class="HUMAN"/>
 			</semantics>
@@ -10882,13 +10663,13 @@
 			<l pos="con">da</l>
 		</lg>
 		<etymology>
-					<etymon type="loan" source="rus">да</etymon>
-					</etymology>
+			<etymon type="loan" source="rus">да</etymon>
+		</etymology>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="con">и</t>
 			</tg>
-					<tg xml:lang="eng">
+			<tg xml:lang="eng">
 				<t pos="con">and</t>
 			</tg>
 			<tg xml:lang="fin">
@@ -10902,7 +10683,7 @@
 			</tg>
 			<synonym>de</synonym>
 			<synonym>di</synonym>
-	<semantics>
+			<semantics>
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
@@ -11004,8 +10785,8 @@
 			<l pos="con">a</l>
 		</lg>
 		<etymology>
-					<etymon type="loan" source="rus">а</etymon>
-					</etymology>
+			<etymon type="loan" source="rus">а</etymon>
+		</etymology>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="con">но</t>
@@ -11027,7 +10808,6 @@
 				<t pos="con">entä</t>
 				<t pos="con">no</t>
 			</tg>
-			
 			<tg xml:lang="sme">
 				<t pos="con">muhto</t>
 			</tg>
@@ -11204,12 +10984,30 @@
 		<lg>
 			<l pos="pro">mon</l>
 			<infl>
-				<stem case="gen" number="sg">muu</stem>
+				<stem case="gen" person="1" number="sg">muu</stem>
 			</infl>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="xxx">я</t>
+				<t pos="pro">я</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="pro">I</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pro">minä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pro">mun</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="pro">мунн</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="pro">ich</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pro">jeg</t>
 			</tg>
 			<xg>
 				<x pos="pro">muu</x>
@@ -11217,12 +11015,18 @@
 				<xtg xml:lang="rus" pos="pro">моя</xtg>
 				<xtg xml:lang="rus" pos="pro">мое</xtg>
 				<xtg xml:lang="rus" pos="pro">мои</xtg>
+				<xtg xml:lang="eng" pos="pro">mine</xtg>
+				<xtg xml:lang="eng" pos="pro">my</xtg>
+				<xtg xml:lang="fin" pos="pro">minun</xtg>
+				<xtg xml:lang="sme" pos="pro">mu</xtg>
 			</xg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="HUMAN"/>
 			</semantics>
 			<sources>
 				<book name="l1" lesson="1"/>
+				<book name="l2"/>
+				<book name="l3"/>
 			</sources>
 		</mg>
 	</e>
@@ -11232,26 +11036,62 @@
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="xxx">кто</t>
+				<t pos="pro">кто</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="pro">ке̄</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pro">kuka</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="pro">who</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="pro">wer</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pro">hvem</t>
 			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
 			</semantics>
 			<sources>
 				<book name="l1" lesson="1"/>
+				<book name="l2"/>
+				<book name="l3"/>
 			</sources>
 		</mg>
 	</e>
 	<e meta="3">
 		<lg>
 			<l pos="pro">ton</l>
+			<lv variant="xxx">tun</lv>
 			<infl>
-				<stem person="3" number="sg">tuu</stem>
+				<stem case="gen" person="2" number="sg">tuu</stem>
 			</infl>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="xxx">ты</t>
+				<t pos="pro">ты</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="pro">you</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pro">sinä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pro">don</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="pro">то̄нн</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="pro">du</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pro">du</t>
 			</tg>
 			<xg>
 				<x pos="pro">tuu</x>
@@ -11259,12 +11099,18 @@
 				<xtg xml:lang="rus" pos="pro">твоя</xtg>
 				<xtg xml:lang="rus" pos="pro">твое</xtg>
 				<xtg xml:lang="rus" pos="pro">твои</xtg>
+				<xtg xml:lang="eng" pos="pro">your</xtg>
+				<xtg xml:lang="eng" pos="pro">yours</xtg>
+				<xtg xml:lang="fin" pos="pro">sinun</xtg>
+				<xtg xml:lang="sme" pos="pro">du</xtg>
 			</xg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="HUMAN"/>
 			</semantics>
 			<sources>
 				<book name="l1" lesson="1"/>
+				<book name="l2"/>
+				<book name="l3"/>
 			</sources>
 		</mg>
 	</e>
@@ -12331,24 +12177,24 @@
 			</sources>
 		</mg>
 	</e>
-		<e meta="4">
+	<e meta="4">
 		<lg>
 			<l pos="n">hoˊzjeˊn</l>
-					</lg>
-					<etymology>
-					<etymon type="loan" source="rus">хозяин</etymon>
-					</etymology>
+		</lg>
+		<etymology>
+			<etymon type="loan" source="rus">хозяин</etymon>
+		</etymology>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="n">хозяин</t>
 				<te>дома</te>
 			</tg>
-				<tg xml:lang="rus">
+			<tg xml:lang="rus">
 				<t pos="xxx">глава семьи</t>
-				</tg>
-				<tg xml:lang="deu">
+			</tg>
+			<tg xml:lang="deu">
 				<t pos="n">Hausherr</t>
-				</tg>
+			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
 			</semantics>
@@ -12359,31 +12205,31 @@
 			</sources>
 		</mg>
 	</e>
-		<e meta="4">
+	<e meta="4">
 		<lg>
 			<l pos="con">poka</l>
-					</lg>
-					<etymology>
-					<etymon type="loan" source="rus">пока</etymon>
-					</etymology>
+		</lg>
+		<etymology>
+			<etymon type="loan" source="rus">пока</etymon>
+		</etymology>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="con">пока</t>
-				</tg>
-				<tg xml:lang="fin">
+			</tg>
+			<tg xml:lang="fin">
 				<t pos="con">kun</t>
 				<t pos="con">kunnes</t>
-				</tg>
-				<tg xml:lang="fin">
+			</tg>
+			<tg xml:lang="fin">
 				<t pos="con">kunhan</t>
-				</tg>
+			</tg>
 			<tg xml:lang="deu">
 				<t pos="con">während</t>
 				<t pos="">so lange</t>
-				</tg>
-				<tg xml:lang="deu">
+			</tg>
+			<tg xml:lang="deu">
 				<t pos="con">bis</t>
-				</tg>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -12394,20 +12240,20 @@
 			</sources>
 		</mg>
 	</e>
-		<e meta="4">
+	<e meta="4">
 		<lg>
 			<l pos="con">što</l>
-					</lg>
-					<etymology>
-					<etymon type="loan" source="rus">что</etymon>
-					</etymology>
+		</lg>
+		<etymology>
+			<etymon type="loan" source="rus">что</etymon>
+		</etymology>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="con">что</t>
-				</tg>
+			</tg>
 			<tg xml:lang="deu">
 				<t pos="con">dass</t>
-				</tg>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -12418,7 +12264,4 @@
 			</sources>
 		</mg>
 	</e>
-
-
-
 </lexicon>
