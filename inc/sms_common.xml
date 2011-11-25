@@ -15,6 +15,40 @@ For the full license text, see the link above.</lic>
 	</lics>
 	<e meta="3">
 		<lg>
+			<l pos="prtcl">-a</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg>
+				<x pos="prtcl">naa-a</x>
+				<xtg xml:lang="rus">
+					<xt pos="[S] interj v">да есть</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="[S] interj v">kylä on</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="1"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="3">
+		<lg>
 			<l pos="prtcl">-i</l>
 		</lg>
 		<mg>
@@ -69,7 +103,7 @@ For the full license text, see the link above.</lic>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">Bible</t>
-				<t pos="[NP]">the Holy Bible</t>
+				<t pos="[NP] det a n">the Holy Bible</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">Raamattu</t>
@@ -345,7 +379,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">the beginning of the week</t>
+				<t pos="[NP] det n prep det n">the beginning of the week</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">alkuviikko</t>
@@ -756,7 +790,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">church choir</t>
+				<t pos="[NP] n n">church choir</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -1360,7 +1394,7 @@ For the full license text, see the link above.</lic>
 				<te>дома</te>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="[NP]">глава семьи</t>
+				<t pos="[NP] n n">глава семьи</t>
 			</tg>
 			<tg xml:lang="deu">
 				<t pos="n">Hausherr</t>
@@ -2000,9 +2034,9 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">box whortleberry</t>
-				<t pos="[NP]">bog blueberry</t>
-				<t pos="[NP]">xxxbog bilberry</t>
+				<t pos="[NP] n n">box whortleberry</t>
+				<t pos="[NP] n n">bog blueberry</t>
+				<t pos="[NP] n n">xxxbog bilberry</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="n">ehtemas</t>
@@ -3215,7 +3249,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">chicken egg</t>
+				<t pos="[NP] n n">chicken egg</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">kananmuna</t>
@@ -3247,7 +3281,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">chicken soup</t>
+				<t pos="[NP] n n">chicken soup</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">kanakeitto</t>
@@ -3263,10 +3297,10 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">chicken bouillon</t>
+				<t pos="[NP] n n">chicken bouillon</t>
 			</tg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">chicken broth</t>
+				<t pos="[NP] n n">chicken broth</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">kanaliemi</t>
@@ -3380,7 +3414,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">pea soup</t>
+				<t pos="[NP] n n">pea soup</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">hernekeitto</t>
@@ -3521,7 +3555,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">gold medal</t>
+				<t pos="[NP] n n">gold medal</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">kultamitali</t>
@@ -3537,7 +3571,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">middle finger</t>
+				<t pos="[NP] n n">middle finger</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">keskisormi</t>
@@ -3735,7 +3769,7 @@ For the full license text, see the link above.</lic>
 				<t pos="v">sein</t>
 			</tg>
 			<xg>
-				<x>lij</x>
+				<x pos="[S]">lij</x>
 				<xtg xml:lang="rus">
 					<xt>есть</xt>
 				</xtg>
@@ -4406,7 +4440,7 @@ For the full license text, see the link above.</lic>
 				</xtg>
 			</xg>
 			<xg>
-				<x>mâiˊd</x>
+				<x pos="pro">mâiˊd</x>
 				<xtg xml:lang="rus">
 					<xt pos="pro">чего</xt>
 				</xtg>
@@ -4978,7 +5012,7 @@ For the full license text, see the link above.</lic>
 				<t pos="v">go</t>
 			</tg>
 			<xg>
-				<x>mâânn ǩidd</x>
+				<x pos="[VP]">mâânn ǩidd</x>
 				<xtg xml:lang="rus">
 					<xt pos="v">закроется</xt>
 				</xtg>
@@ -4993,18 +5027,30 @@ For the full license text, see the link above.</lic>
 	</e>
 	<e meta="3">
 		<lg>
-			<l pos="interj">naa-a</l>
+			<l pos="prtcl">naa</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="[S]">да есть</t>
+				<t pos="xxx">xxx</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="[S]">kylä on</t>
+				<t pos="xxx">xxx</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
 			</tg>
+			<xg>
+				<x pos="prtcl">naa-a</x>
+				<xtg xml:lang="rus">
+					<xt pos="[S] interj v">да есть</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="[S] interj v">kylä on</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -5456,8 +5502,8 @@ For the full license text, see the link above.</lic>
 			<tg xml:lang="eng">
 				<t pos="n">cowshed</t>
 				<t pos="n">cowhouse</t>
-				<t pos="[NP]">cow barn</t>
-				<t pos="[NP]">cattle shed</t>
+				<t pos="[NP] n n">cow barn</t>
+				<t pos="[NP] n n">cattle shed</t>
 			</tg>
 			<tg xml:lang="eng">
 				<t variant="british" pos="n">byre</t>
@@ -5699,7 +5745,7 @@ For the full license text, see the link above.</lic>
 				<t pos="adp">imøte</t>
 			</tg>
 			<xg>
-				<x>ouddâl ko</x>
+				<x pos="con">ouddâl ko</x>
 				<xtg xml:lang="rus">
 					<xt>до того как</xt>
 					<xt>пока не</xt>
@@ -5871,7 +5917,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">water smartweed</t>
+				<t pos="[NP] n n">water smartweed</t>
 			</tg>
 			<lexicon xml:lang="lat">Polygonum amphibium</lexicon>
 			<semantics>
@@ -6922,7 +6968,7 @@ For the full license text, see the link above.</lic>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">cranberry</t>
-				<t pos="[NP]">mountain cranberry</t>
+				<t pos="[NP] n n">mountain cranberry</t>
 				<t pos="[NP]">common cranberry</t>
 				<t pos="[NP]">northern cranberry</t>
 			</tg>
@@ -7063,7 +7109,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">Christmas Eve</t>
+				<t pos="[NP] n n">Christmas Eve</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">jouluaatto</t>
@@ -7082,8 +7128,8 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">Santa Claus</t>
-				<t pos="[NP]">Father Christmas</t>
+				<t pos="[NP] n pn">Santa Claus</t>
+				<t pos="[NP] n n">Father Christmas</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">joulupukki</t>
@@ -7102,7 +7148,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">Christmas tree</t>
+				<t pos="[NP] n n">Christmas tree</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">joulukuusi</t>
@@ -7143,7 +7189,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">Christmas holidays</t>
+				<t pos="[NP] n n">Christmas holidays</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">joulunpyhät</t>
@@ -7324,7 +7370,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">Arctic char</t>
+				<t pos="[NP] n n">Arctic char</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">nieriä</t>
@@ -7563,7 +7609,7 @@ For the full license text, see the link above.</lic>
 				<t pos="pro">sii</t>
 			</tg>
 			<xg>
-				<x>suäna</x>
+				<x pos="pro">suäna</x>
 				<xtg xml:lang="eng">
 					<xt pos="pro">they</xt>
 					<xtr>two</xtr>
@@ -7628,7 +7674,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">silver medal</t>
+				<t pos="[NP] n n">silver medal</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -7883,7 +7929,7 @@ For the full license text, see the link above.</lic>
 				<t pos="pro" gender="f">she</t>
 			</tg>
 			<xg>
-				<x>suu</x>
+				<x pos="pro">suu</x>
 				<xtg xml:lang="eng">
 					<xt pos="pro" gender="m">his</xt>
 					<xt pos="pro" gender="f">hers</xt>
@@ -8685,7 +8731,7 @@ For the full license text, see the link above.</lic>
 				<t pos="adv">sunt</t>
 			</tg>
 			<xg>
-				<x>kuõđđu tiõrvân!</x>
+				<x pos="[S]">kuõđđu tiõrvân!</x>
 				<xtg xml:lang="rus">
 					<xt>до свидания!</xt>
 					<xtr>тому, кто будь здоров!</xtr>
@@ -8696,7 +8742,7 @@ For the full license text, see the link above.</lic>
 				</xtg>
 			</xg>
 			<xg>
-				<x>mõõn tiõrvân!</x>
+				<x pos="[S]">mõõn tiõrvân!</x>
 				<xtg xml:lang="rus">
 					<xt>до свидания!</xt>
 					<xtr>уходящему, t.e. счастливо добраться!</xtr>
@@ -9575,7 +9621,7 @@ For the full license text, see the link above.</lic>
 				<t pos="v">kunne</t>
 			</tg>
 			<xg>
-				<x>vuäitam-a</x>
+				<x pos="[S]">vuäitam-a</x>
 				<xtg xml:lang="rus">
 					<xt pos="[S]">могу ли?</xt>
 				</xtg>
@@ -9725,7 +9771,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">ring finger</t>
+				<t pos="[NP] n n">ring finger</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">nimetön</t>
@@ -10144,7 +10190,7 @@ For the full license text, see the link above.</lic>
 				<t pos="v">xxx</t>
 			</tg>
 			<xg>
-				<x>vääldam ǩidd</x>
+				<x pos="[VP]">vääldam ǩidd</x>
 				<xtg xml:lang="rus">
 					<xt pos="v">поймаю</xt>
 				</xtg>
@@ -10941,7 +10987,7 @@ For the full license text, see the link above.</lic>
 				<t pos="xxx">xxx</t>
 			</tg>
 			<xg>
-				<x>mon õõlǥam</x>
+				<x pos="[VP]">mon õõlǥam</x>
 				<xtg xml:lang="rus">
 					<xt>мне надо</xt>
 					<xt>мне нужно</xt>
@@ -11119,7 +11165,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">rye bread</t>
+				<t pos="[NP] n n">rye bread</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">ruisleipä</t>
@@ -11334,7 +11380,7 @@ For the full license text, see the link above.</lic>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
-				<t pos="[NP]">index finger</t>
+				<t pos="[NP] n n">index finger</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
