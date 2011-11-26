@@ -13,7 +13,7 @@ For the full license text, see the link above.</lic>
  words, download the file, edit it, and send it back to <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are not necessarily sorted, or could be wrongly sorted.
 </sourcenote>
 	</lics>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="prtcl">-a</l>
 		</lg>
@@ -47,7 +47,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="prtcl">-i</l>
 		</lg>
@@ -77,7 +77,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="pn">Aanar</l>
 		</lg>
@@ -96,7 +96,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">Biblija</l>
 		</lg>
@@ -113,7 +113,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="pn">Bååˊres</l>
 		</lg>
@@ -127,7 +127,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="pn">Evvan</l>
 		</lg>
@@ -152,7 +152,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="pn">Mäˊrjj</l>
 			<infl>
@@ -180,7 +180,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="pn">Såff</l>
 		</lg>
@@ -197,7 +197,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="pn">Uccjokk</l>
 		</lg>
@@ -216,7 +216,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="con">a</l>
 		</lg>
@@ -258,7 +258,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">aacaǩ</l>
 		</lg>
@@ -274,7 +274,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">aassâd</l>
 		</lg>
@@ -291,7 +291,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">aaˊrhel</l>
 		</lg>
@@ -310,7 +310,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">aaˊrhelkåˊdd</l>
 		</lg>
@@ -335,7 +335,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">addrõs</l>
 		</lg>
@@ -354,7 +354,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">algg</l>
 		</lg>
@@ -373,7 +373,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">alggneäˊttel</l>
 		</lg>
@@ -389,7 +389,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">alggpuättmõš</l>
 		</lg>
@@ -405,7 +405,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">alggsääˊnn</l>
 		</lg>
@@ -424,7 +424,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">anttbiott</l>
 		</lg>
@@ -440,7 +440,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">autt</l>
 		</lg>
@@ -456,7 +456,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">auttstäˊllj</l>
 		</lg>
@@ -472,7 +472,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">aˊmmrik</l>
 		</lg>
@@ -492,7 +492,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">aˊrddi</l>
 		</lg>
@@ -508,7 +508,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">aˊŋǧǧel</l>
 		</lg>
@@ -528,7 +528,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">bakteer</l>
 		</lg>
@@ -544,7 +544,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">baŋkk</l>
 		</lg>
@@ -560,7 +560,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">baŋkktiill</l>
 		</lg>
@@ -577,7 +577,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">beton</l>
 		</lg>
@@ -593,7 +593,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">bieˊzmen</l>
 		</lg>
@@ -611,7 +611,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">biolog</l>
 		</lg>
@@ -633,7 +633,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">biologii</l>
 		</lg>
@@ -655,7 +655,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">biõvv</l>
 		</lg>
@@ -668,7 +668,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">bliin</l>
 		</lg>
@@ -688,7 +688,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">brålleǩ</l>
 		</lg>
@@ -702,7 +702,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">budjett</l>
 		</lg>
@@ -715,7 +715,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">bukva</l>
 		</lg>
@@ -731,7 +731,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">buss</l>
 		</lg>
@@ -744,7 +744,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">caar</l>
 		</lg>
@@ -764,7 +764,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ceerkav</l>
 		</lg>
@@ -784,7 +784,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ceerkavlaauljoukk</l>
 		</lg>
@@ -797,7 +797,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ceeʒʒaž</l>
 		</lg>
@@ -811,7 +811,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">ceäˊlǩǩed</l>
 		</lg>
@@ -844,7 +844,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="con">da</l>
 		</lg>
@@ -880,7 +880,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="con">de</l>
 		</lg>
@@ -904,7 +904,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="con">di</l>
 		</lg>
@@ -931,7 +931,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">diˊll</l>
 		</lg>
@@ -950,7 +950,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">domoi</l>
 		</lg>
@@ -980,7 +980,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">doohhat</l>
 			<lv variant="xxx">dohat</lv>
@@ -1004,7 +1004,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">dåmvičč</l>
 		</lg>
@@ -1015,7 +1015,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">dååma</l>
 		</lg>
@@ -1037,7 +1037,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">eeˊđeld</l>
 			<lv variant="xxx">eeˊđääld</lv>
@@ -1062,7 +1062,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">eeˊđääldõž</l>
 		</lg>
@@ -1084,7 +1084,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">eeˊǩǩ</l>
 		</lg>
@@ -1106,7 +1106,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">eeˊǩǩ</l>
 			<infl>
@@ -1140,7 +1140,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">ekka</l>
 		</lg>
@@ -1153,7 +1153,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">euˊnn</l>
 		</lg>
@@ -1182,7 +1182,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">eˊčč</l>
 		</lg>
@@ -1204,7 +1204,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">eˊčč</l>
 			<infl>
@@ -1229,7 +1229,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">faaˊnal</l>
 		</lg>
@@ -1248,7 +1248,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">faˊmilja</l>
 		</lg>
@@ -1270,7 +1270,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">garmaan</l>
 		</lg>
@@ -1296,7 +1296,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">gaˊzeâˊt</l>
 			<lv variant="xxx">gaˊzaat</lv>
@@ -1326,7 +1326,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">gramm</l>
 		</lg>
@@ -1345,7 +1345,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">groob</l>
 		</lg>
@@ -1361,7 +1361,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">gåårad</l>
 		</lg>
@@ -1381,7 +1381,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="4">
+  <e meta="4">
 		<lg>
 			<l pos="n">hoˊzjeˊn</l>
 		</lg>
@@ -1409,7 +1409,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">hutt</l>
 		</lg>
@@ -1428,7 +1428,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">hääˊrveld</l>
 		</lg>
@@ -1451,7 +1451,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="con">håˊt</l>
 		</lg>
@@ -1477,7 +1477,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">ij</l>
 		</lg>
@@ -1510,7 +1510,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ijj</l>
 		</lg>
@@ -1533,7 +1533,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">inn</l>
 		</lg>
@@ -1556,7 +1556,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">inn</l>
 		</lg>
@@ -1590,7 +1590,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">išttâd</l>
 		</lg>
@@ -1612,7 +1612,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">išttâd</l>
 		</lg>
@@ -1647,7 +1647,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">iˊlddi</l>
 		</lg>
@@ -1669,7 +1669,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">jarplan</l>
 		</lg>
@@ -1698,7 +1698,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">jeäˊnn</l>
 		</lg>
@@ -1717,7 +1717,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">jeäˊrǧǧ</l>
 			<infl>
@@ -1742,7 +1742,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">jeäˊǩǩää</l>
 		</lg>
@@ -1755,7 +1755,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">jeäˊǩǩääž</l>
 		</lg>
@@ -1768,7 +1768,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">joorbâs</l>
 		</lg>
@@ -1802,7 +1802,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">joŋŋ</l>
 		</lg>
@@ -1822,7 +1822,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">jueˊlǧǧ</l>
 		</lg>
@@ -1867,7 +1867,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">juukkâd</l>
 		</lg>
@@ -1883,7 +1883,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">juukkâd</l>
 		</lg>
@@ -1917,7 +1917,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">jânnam</l>
 		</lg>
@@ -1950,7 +1950,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">jâđđa</l>
 		</lg>
@@ -1969,7 +1969,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="adv">jâđđa</l>
 		</lg>
@@ -1991,7 +1991,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">jälsted</l>
 			<infl>
@@ -2028,7 +2028,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">jättmöš</l>
 		</lg>
@@ -2050,7 +2050,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">jäuˊrr</l>
 		</lg>
@@ -2072,7 +2072,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">jävv</l>
 		</lg>
@@ -2092,7 +2092,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">jävvˊveˊll</l>
 		</lg>
@@ -2105,7 +2105,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">jään</l>
 		</lg>
@@ -2125,7 +2125,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">jääˊmmed</l>
 		</lg>
@@ -2144,7 +2144,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">jääˊmmed</l>
 		</lg>
@@ -2179,7 +2179,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">jääˊmmem</l>
 		</lg>
@@ -2204,7 +2204,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="a" state="a">jääˊmteˊmes</l>
 		</lg>
@@ -2223,7 +2223,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">jäˊstt</l>
 		</lg>
@@ -2245,7 +2245,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">jåhtta</l>
 		</lg>
@@ -2264,7 +2264,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">jåått</l>
 		</lg>
@@ -2283,7 +2283,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="a">jõnn</l>
 		</lg>
@@ -2311,7 +2311,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kaass</l>
 		</lg>
@@ -2330,7 +2330,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">kaaˊfstõõllâd</l>
 		</lg>
@@ -2355,7 +2355,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">kaupp</l>
 			<infl>
@@ -2383,7 +2383,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">keäˊpper</l>
 			<lv variant="xxx">kâˊpper</lv>
@@ -2406,7 +2406,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="sbj">ko</l>
 		</lg>
@@ -2445,7 +2445,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">koonǥs</l>
 		</lg>
@@ -2464,7 +2464,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">koonǥõskaav</l>
 		</lg>
@@ -2483,7 +2483,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">koumm</l>
 			<lv variant="xxx">kolmm</lv>
@@ -2503,7 +2503,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">koˊst</l>
 		</lg>
@@ -2526,7 +2526,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">koˊst</l>
 		</lg>
@@ -2545,7 +2545,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="adv">koˊst</l>
 		</lg>
@@ -2578,7 +2578,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">kueˊhtt</l>
 		</lg>
@@ -2597,7 +2597,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="num">kueˊhtt</l>
 		</lg>
@@ -2631,7 +2631,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kueˊll</l>
 		</lg>
@@ -2650,7 +2650,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">kueˊll</l>
 		</lg>
@@ -2684,7 +2684,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">kunn</l>
 		</lg>
@@ -2717,7 +2717,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kuss</l>
 		</lg>
@@ -2739,7 +2739,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">kutt</l>
 		</lg>
@@ -2758,7 +2758,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">kuullâd</l>
 		</lg>
@@ -2792,7 +2792,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">kuus</l>
 		</lg>
@@ -2812,7 +2812,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">kuuđad</l>
 		</lg>
@@ -2831,7 +2831,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">kuuđõs</l>
 		</lg>
@@ -2850,7 +2850,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">kuâhttlo</l>
 		</lg>
@@ -2869,7 +2869,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="num">kuâhttlokutt</l>
 		</lg>
@@ -2891,7 +2891,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="num">kuâhttlonellj</l>
 		</lg>
@@ -2913,7 +2913,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">kuâlddad</l>
 		</lg>
@@ -2929,7 +2929,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">kuälmad</l>
 		</lg>
@@ -2945,7 +2945,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">kuälmõs</l>
 		</lg>
@@ -2961,7 +2961,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">kuärrad</l>
 		</lg>
@@ -2980,7 +2980,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">kuärrad</l>
 		</lg>
@@ -2996,7 +2996,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kuärrammašina</l>
 		</lg>
@@ -3012,7 +3012,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">kuäˊss</l>
 		</lg>
@@ -3028,7 +3028,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kuõpp</l>
 		</lg>
@@ -3048,7 +3048,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="a">kuˊǩes</l>
 		</lg>
@@ -3070,7 +3070,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">kuˊǩǩ</l>
 		</lg>
@@ -3104,7 +3104,32 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="3">
+		<lg>
+			<l pos="v">kââmted</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="v">грохнуть</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="v">рухнуть</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
+		</mg>
+	</e>
+  <e meta="1">
 		<lg>
 			<l pos="pro">kâˊll</l>
 		</lg>
@@ -3123,7 +3148,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">kälkked</l>
 		</lg>
@@ -3136,7 +3161,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">källsaž</l>
 		</lg>
@@ -3149,7 +3174,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">käärt</l>
 		</lg>
@@ -3162,7 +3187,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">kääucad</l>
 		</lg>
@@ -3178,7 +3203,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">kääuˊc</l>
 		</lg>
@@ -3194,7 +3219,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="a">kääˊmes</l>
 		</lg>
@@ -3211,7 +3236,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="a">kääˊmesruõpssâd</l>
 		</lg>
@@ -3227,7 +3252,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="a">kääˊmesââˊleǩ</l>
 		</lg>
@@ -3243,7 +3268,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kääˊnmââˊnn</l>
 		</lg>
@@ -3259,7 +3284,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kääˊnn</l>
 		</lg>
@@ -3275,7 +3300,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kääˊnnliõmm</l>
 		</lg>
@@ -3291,7 +3316,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kääˊnnliõmm</l>
 		</lg>
@@ -3310,7 +3335,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">käˊcǩǩed</l>
 		</lg>
@@ -3344,7 +3369,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">käˊhcclo</l>
 		</lg>
@@ -3360,7 +3385,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">käˊhccmlo</l>
 		</lg>
@@ -3376,7 +3401,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kålggmään</l>
 		</lg>
@@ -3392,7 +3417,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kååraǩ</l>
 		</lg>
@@ -3408,7 +3433,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kååraǩveärr</l>
 		</lg>
@@ -3427,7 +3452,30 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="3">
+		<lg>
+			<l pos="n">kååvas</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">кувакса</t>
+				<t pos="n">шалаш</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">laavu</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="HUMAN"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
+		</mg>
+	</e>
+  <e meta="1">
 		<lg>
 			<l pos="n">kååˊff</l>
 			<lv variant="xxx">kaaˊff</lv>
@@ -3447,7 +3495,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">kååˊšǩes</l>
 		</lg>
@@ -3482,7 +3530,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">kåˊdded</l>
 		</lg>
@@ -3517,7 +3565,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kåˊll</l>
 		</lg>
@@ -3533,7 +3581,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kåˊllkueˊll</l>
 		</lg>
@@ -3549,7 +3597,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kåˊllmedal</l>
 		</lg>
@@ -3565,7 +3613,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kõskksuõrmm</l>
 		</lg>
@@ -3587,7 +3635,30 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="3">
+		<lg>
+			<l pos="n">kõõskâs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">можжевельник</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="BOT"/>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
+		</mg>
+	</e>
+  <e meta="2">
 		<lg>
 			<l pos="a">kõõumâs</l>
 		</lg>
@@ -3621,7 +3692,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">kõʒʒ</l>
 		</lg>
@@ -3646,7 +3717,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">kõʒʒ</l>
 		</lg>
@@ -3679,7 +3750,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">laakk</l>
 		</lg>
@@ -3695,7 +3766,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">labratoria</l>
 		</lg>
@@ -3711,7 +3782,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">lavkkâ</l>
 		</lg>
@@ -3730,7 +3801,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">leeˊd</l>
 		</lg>
@@ -3746,7 +3817,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">leeˊd</l>
 			<infl>
@@ -3785,7 +3856,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">leiˊbb</l>
 		</lg>
@@ -3801,7 +3872,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">lettar</l>
 		</lg>
@@ -3823,7 +3894,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="con">leâža</l>
 		</lg>
@@ -3842,7 +3913,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="con">leâˊša</l>
 			<lv variant="xxx">leša</lv>
@@ -3877,7 +3948,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">leättad</l>
 		</lg>
@@ -3893,7 +3964,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="con">leˊbe</l>
 		</lg>
@@ -3915,7 +3986,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">leˊšǩǩ</l>
 		</lg>
@@ -3948,7 +4019,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">liâššâd</l>
 		</lg>
@@ -3983,7 +4054,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">liõmm</l>
 		</lg>
@@ -4002,7 +4073,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">lookkâd</l>
 		</lg>
@@ -4018,7 +4089,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">loppâ</l>
 		</lg>
@@ -4037,7 +4108,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">lueˊm</l>
 		</lg>
@@ -4063,7 +4134,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">luuhâd</l>
 		</lg>
@@ -4079,7 +4150,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">luuhâd</l>
 		</lg>
@@ -4098,7 +4169,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">luukk</l>
 		</lg>
@@ -4114,7 +4185,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">luuvdá</l>
 		</lg>
@@ -4133,7 +4204,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">luõss</l>
 		</lg>
@@ -4153,23 +4224,29 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">lååi</l>
 		</lg>
 		<mg>
-			<tg xml:lang="eng">
-				<t pos="num">ten</t>
+			<tg xml:lang="rus">
+				<t pos="num">десять</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="num">десятеро</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="num">kymmenen</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="num">ten</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">lååǥǥad</l>
 		</lg>
@@ -4185,7 +4262,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">låˊdd</l>
 		</lg>
@@ -4219,7 +4296,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">lõstt</l>
 		</lg>
@@ -4236,7 +4313,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">lõstt</l>
 		</lg>
@@ -4270,7 +4347,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">mainsted</l>
 		</lg>
@@ -4283,7 +4360,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">manah</l>
 		</lg>
@@ -4299,7 +4376,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">manaših</l>
 		</lg>
@@ -4315,7 +4392,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">manstar</l>
 		</lg>
@@ -4337,7 +4414,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">medal</l>
 		</lg>
@@ -4353,7 +4430,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">mettar</l>
 		</lg>
@@ -4370,7 +4447,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">mieˊlǩǩ</l>
 		</lg>
@@ -4386,7 +4463,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">mieˊrreed</l>
 		</lg>
@@ -4402,7 +4479,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="pro">mii</l>
 			<infl>
@@ -4456,7 +4533,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="pro">mij</l>
 		</lg>
@@ -4489,7 +4566,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">miljard</l>
 		</lg>
@@ -4503,7 +4580,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">miljon</l>
 		</lg>
@@ -4516,7 +4593,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="adv">miâlggâd</l>
 		</lg>
@@ -4544,7 +4621,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="pro">mon</l>
 			<infl>
@@ -4594,7 +4671,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="a">mooččâs</l>
 		</lg>
@@ -4619,7 +4696,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">mostt</l>
 		</lg>
@@ -4635,7 +4712,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">motorǩeâlkk</l>
 		</lg>
@@ -4648,7 +4725,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">muõrr</l>
 		</lg>
@@ -4688,7 +4765,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="pro">mâiˊd-ne</l>
 		</lg>
@@ -4710,7 +4787,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">mââiˊbargg</l>
 		</lg>
@@ -4726,7 +4803,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">mââˊnn</l>
 		</lg>
@@ -4760,7 +4837,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">mâŋŋa jââđast</l>
 		</lg>
@@ -4773,7 +4850,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">mään</l>
 		</lg>
@@ -4791,7 +4868,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">mään</l>
 		</lg>
@@ -4807,7 +4884,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">mään</l>
 		</lg>
@@ -4856,7 +4933,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">määnpââˊjj</l>
 		</lg>
@@ -4874,7 +4951,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">määˊnn</l>
 		</lg>
@@ -4890,7 +4967,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">määˊrf</l>
 		</lg>
@@ -4906,7 +4983,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="pro">mäŋgg</l>
 		</lg>
@@ -4940,7 +5017,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">mäˊtǩǩ</l>
 		</lg>
@@ -4965,7 +5042,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="pro">måkam</l>
 		</lg>
@@ -4978,7 +5055,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">môônnâd</l>
 		</lg>
@@ -4994,7 +5071,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">mõõnnâd</l>
 			<infl>
@@ -5025,7 +5102,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="prtcl">naa</l>
 		</lg>
@@ -5059,7 +5136,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">naaurâs</l>
 		</lg>
@@ -5075,7 +5152,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">neelljad</l>
 		</lg>
@@ -5091,7 +5168,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">neelljõs</l>
 		</lg>
@@ -5104,7 +5181,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">neezzan</l>
 			<infl>
@@ -5138,7 +5215,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">nellj</l>
 		</lg>
@@ -5154,7 +5231,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">nelljdpeiˊvv</l>
 		</lg>
@@ -5170,7 +5247,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">nelljlo</l>
 		</lg>
@@ -5186,7 +5263,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">nelljumblo</l>
 			<lv variant="xxx">nelljmlo</lv>
@@ -5204,7 +5281,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">neäˊttel</l>
 		</lg>
@@ -5227,7 +5304,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">neäˊttel-lopp</l>
 		</lg>
@@ -5246,7 +5323,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">nijdd</l>
 		</lg>
@@ -5262,7 +5339,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">nijdd</l>
 		</lg>
@@ -5278,7 +5355,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">njiˊšǩǩ-maadd</l>
 		</lg>
@@ -5311,7 +5388,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">njuhččmään</l>
 		</lg>
@@ -5328,7 +5405,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">njuhččâm</l>
 		</lg>
@@ -5362,7 +5439,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">njuuˊnn</l>
 		</lg>
@@ -5410,7 +5487,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">njäˊlmm</l>
 		</lg>
@@ -5443,7 +5520,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">nuˊbb</l>
 		</lg>
@@ -5459,7 +5536,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="prtcl">nuˊtt</l>
 		</lg>
@@ -5481,7 +5558,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">nââmar</l>
 		</lg>
@@ -5494,7 +5571,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">nääˊvet</l>
 		</lg>
@@ -5523,7 +5600,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">nõmm</l>
 		</lg>
@@ -5539,7 +5616,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">nõmm</l>
 		</lg>
@@ -5572,7 +5649,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">nõmm</l>
 			<infl>
@@ -5597,7 +5674,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="a">occkaž</l>
 			<infl>
@@ -5623,7 +5700,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">ooumaž</l>
 			<infl>
@@ -5648,7 +5725,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">oouˊdbu peeiˊv</l>
 		</lg>
@@ -5661,7 +5738,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">oovâš</l>
 		</lg>
@@ -5677,7 +5754,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">oođâs</l>
 		</lg>
@@ -5711,7 +5788,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adp">ouddâl</l>
 		</lg>
@@ -5727,7 +5804,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="adp">ouddâl</l>
 		</lg>
@@ -5765,7 +5842,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ođđeeˊjjmään</l>
 		</lg>
@@ -5781,7 +5858,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">papp</l>
 		</lg>
@@ -5807,7 +5884,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">paradiis</l>
 		</lg>
@@ -5823,7 +5900,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">peiˊvv</l>
 		</lg>
@@ -5842,7 +5919,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">peiˊvv</l>
 		</lg>
@@ -5862,7 +5939,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">peiˊvv</l>
 		</lg>
@@ -5911,7 +5988,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">peälpp</l>
 		</lg>
@@ -5925,7 +6002,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">peäˊlǧǧ</l>
 		</lg>
@@ -5944,7 +6021,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">peˊllj</l>
 		</lg>
@@ -5977,7 +6054,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">pieˊll</l>
 		</lg>
@@ -5996,7 +6073,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">pirsted</l>
 			<lv variant="xxx">piirsted</lv>
@@ -6016,7 +6093,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">piânnai</l>
 		</lg>
@@ -6050,7 +6127,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">piâtnâc</l>
 		</lg>
@@ -6072,7 +6149,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="4">
+  <e meta="4">
 		<lg>
 			<l pos="con">poka</l>
 		</lg>
@@ -6107,7 +6184,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">poojâs</l>
 		</lg>
@@ -6135,7 +6212,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">poorjâsvõõnâs</l>
 		</lg>
@@ -6154,7 +6231,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">poorrâd</l>
 		</lg>
@@ -6173,7 +6250,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">poorrâd</l>
 		</lg>
@@ -6207,7 +6284,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">porgâđ</l>
 		</lg>
@@ -6226,7 +6303,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">porrmõš</l>
 			<infl>
@@ -6252,7 +6329,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">poʒʒ</l>
 		</lg>
@@ -6286,7 +6363,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">pueˊlled</l>
 		</lg>
@@ -6320,7 +6397,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">pueˊtted</l>
 		</lg>
@@ -6353,7 +6430,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">pueˊtted</l>
 		</lg>
@@ -6387,7 +6464,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">pueˊtted</l>
 		</lg>
@@ -6420,7 +6497,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="pro">puk</l>
 		</lg>
@@ -6453,7 +6530,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">purrâmâš</l>
 		</lg>
@@ -6472,7 +6549,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">puäʒʒooumaž</l>
 		</lg>
@@ -6495,7 +6572,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">puõlvv</l>
 		</lg>
@@ -6528,7 +6605,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">puõˊl'li</l>
 		</lg>
@@ -6562,7 +6639,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">pââˊzzmään</l>
 		</lg>
@@ -6579,7 +6656,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">pâˊsspeiˊvv</l>
 		</lg>
@@ -6595,7 +6672,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">pâˊzzlâšttammään</l>
 		</lg>
@@ -6611,7 +6688,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">pärkk</l>
 		</lg>
@@ -6645,7 +6722,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">pävvar</l>
 			<infl>
@@ -6670,7 +6747,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">päärnai vuâstta</l>
 		</lg>
@@ -6689,7 +6766,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">päärnaž</l>
 		</lg>
@@ -6705,7 +6782,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">pääˊljes</l>
 		</lg>
@@ -6738,7 +6815,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">pääˊnn</l>
 		</lg>
@@ -6754,7 +6831,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">pääˊnnkõpp</l>
 		</lg>
@@ -6770,7 +6847,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">päˊštted</l>
 			<infl>
@@ -6795,7 +6872,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">pååttaǩ</l>
 		</lg>
@@ -6814,7 +6891,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">påˊrdd</l>
 		</lg>
@@ -6838,7 +6915,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">påˊrǧǧmään</l>
 		</lg>
@@ -6854,7 +6931,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">põlvv</l>
 		</lg>
@@ -6887,7 +6964,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">põrtt</l>
 		</lg>
@@ -6909,7 +6986,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">põrtt</l>
 			<infl>
@@ -6961,7 +7038,32 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="3">
+		<lg>
+			<l pos="v">põõssâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="v">мыть</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="v">стирать</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
+		</mg>
+	</e>
+  <e meta="1">
 		<lg>
 			<l pos="n">reppjoŋŋ</l>
 		</lg>
@@ -6987,7 +7089,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">reâugg</l>
 			<infl>
@@ -7025,7 +7127,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">reäppen</l>
 		</lg>
@@ -7046,7 +7148,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ristt</l>
 		</lg>
@@ -7065,7 +7167,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">roošš</l>
 		</lg>
@@ -7084,7 +7186,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">rosttov</l>
 		</lg>
@@ -7103,7 +7205,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">rosttovkäänan</l>
 		</lg>
@@ -7122,7 +7224,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">rosttovkääˊlles</l>
 		</lg>
@@ -7142,7 +7244,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">rosttovmuõrr</l>
 		</lg>
@@ -7164,7 +7266,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">rosttovmään</l>
 		</lg>
@@ -7183,7 +7285,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">rosttovpââˊzz</l>
 		</lg>
@@ -7205,7 +7307,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="a">ruánn</l>
 		</lg>
@@ -7222,7 +7324,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">ruõnâs</l>
 		</lg>
@@ -7264,7 +7366,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">ruõpssâd</l>
 		</lg>
@@ -7299,7 +7401,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ruˊvdd</l>
 		</lg>
@@ -7315,7 +7417,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ruˊvddčuâǥǥas</l>
 		</lg>
@@ -7331,7 +7433,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">râˊdd</l>
 		</lg>
@@ -7364,7 +7466,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">räudd</l>
 		</lg>
@@ -7381,7 +7483,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="a">rääˊǩǩes</l>
 		</lg>
@@ -7400,7 +7502,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">rääˊǩǩesvuõtt</l>
 		</lg>
@@ -7416,7 +7518,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">räˊǩsted</l>
 		</lg>
@@ -7432,7 +7534,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="adv">sami</l>
 		</lg>
@@ -7457,7 +7559,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">seiˊbb</l>
 		</lg>
@@ -7491,7 +7593,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">seiˊnn</l>
 		</lg>
@@ -7504,7 +7606,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">sekund</l>
 		</lg>
@@ -7518,7 +7620,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="a">seuˊŋŋed</l>
 		</lg>
@@ -7532,7 +7634,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">seärad</l>
 		</lg>
@@ -7554,7 +7656,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">seˊntt</l>
 		</lg>
@@ -7575,7 +7677,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">seˊst</l>
 		</lg>
@@ -7591,7 +7693,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="pro">sij</l>
 			<infl>
@@ -7627,7 +7729,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">sijdd</l>
 			<infl>
@@ -7655,7 +7757,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">silbb</l>
 		</lg>
@@ -7668,7 +7770,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">silbbmedal</l>
 		</lg>
@@ -7681,7 +7783,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">sinap</l>
 		</lg>
@@ -7694,7 +7796,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">sizz</l>
 		</lg>
@@ -7707,7 +7809,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">siâŋgg</l>
 		</lg>
@@ -7723,7 +7825,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">siõm</l>
 		</lg>
@@ -7757,7 +7859,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">siõmâž</l>
 		</lg>
@@ -7776,7 +7878,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">skammˊmään</l>
 		</lg>
@@ -7796,7 +7898,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">skääˊtar</l>
 		</lg>
@@ -7812,7 +7914,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">smaragd</l>
 		</lg>
@@ -7825,7 +7927,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">sniimmi</l>
 		</lg>
@@ -7838,7 +7940,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">sniimmâd</l>
 		</lg>
@@ -7852,7 +7954,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">sniimmâmmašina</l>
 		</lg>
@@ -7865,7 +7967,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">snimldõk</l>
 		</lg>
@@ -7878,7 +7980,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">sokk</l>
 			<infl>
@@ -7906,7 +8008,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="pro">son</l>
 			<infl>
@@ -7949,7 +8051,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">steehl</l>
 		</lg>
@@ -7966,7 +8068,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">stueˊll</l>
 			<lv variant="xxx">stuâˊll</lv>
@@ -7990,7 +8092,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">stuuˊl</l>
 		</lg>
@@ -8020,7 +8122,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">stääˊll</l>
 		</lg>
@@ -8033,7 +8135,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ståkkan</l>
 		</lg>
@@ -8050,7 +8152,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">sueibbad</l>
 			<lv variant="xxx">suâibbad</lv>
@@ -8067,7 +8169,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">sueiˊnn</l>
 		</lg>
@@ -8083,7 +8185,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">sueiˊnnmään</l>
 		</lg>
@@ -8099,7 +8201,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">sueˊvet</l>
 		</lg>
@@ -8115,7 +8217,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">sukkâr</l>
 		</lg>
@@ -8135,7 +8237,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">suutk</l>
 		</lg>
@@ -8159,7 +8261,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">suâibbamstuuˊl</l>
 		</lg>
@@ -8178,7 +8280,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">suõrmm</l>
 		</lg>
@@ -8197,7 +8299,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">suõrmâs</l>
 		</lg>
@@ -8216,7 +8318,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">suõvv</l>
 		</lg>
@@ -8252,7 +8354,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">sââˊrr</l>
 		</lg>
@@ -8273,7 +8375,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">särnnad</l>
 		</lg>
@@ -8289,7 +8391,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">sätkk</l>
 		</lg>
@@ -8305,7 +8407,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">säuˊnn</l>
 		</lg>
@@ -8321,7 +8423,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">säähhar</l>
 		</lg>
@@ -8341,7 +8443,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">sääldat</l>
 		</lg>
@@ -8360,7 +8462,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">sääˊnn</l>
 		</lg>
@@ -8379,7 +8481,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">säˊltt</l>
 		</lg>
@@ -8395,7 +8497,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="a">säˊlttai</l>
 		</lg>
@@ -8411,7 +8513,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">säˊppli</l>
 		</lg>
@@ -8427,7 +8529,29 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="3">
+		<lg>
+			<l pos="n">sååbbar</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">собрание</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="HUMAN"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
+		</mg>
+	</e>
+  <e meta="1">
 		<lg>
 			<l pos="n">såˊff</l>
 		</lg>
@@ -8455,7 +8579,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">taa</l>
 		</lg>
@@ -8468,7 +8592,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">tanccâmkååˊlez</l>
 		</lg>
@@ -8490,7 +8614,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">taˊnni</l>
 		</lg>
@@ -8509,7 +8633,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">teimma</l>
 		</lg>
@@ -8528,7 +8652,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">teâttmašina</l>
 		</lg>
@@ -8547,7 +8671,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">teärmmazjohss</l>
 		</lg>
@@ -8569,7 +8693,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">teäˊdd</l>
 		</lg>
@@ -8582,7 +8706,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">teˊǩǩ</l>
 		</lg>
@@ -8616,7 +8740,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">tieˊtted</l>
 			<infl>
@@ -8654,7 +8778,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">tiiudâs</l>
 		</lg>
@@ -8688,7 +8812,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="interj">tiõrv!</l>
 		</lg>
@@ -8716,7 +8840,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="adv">tiõrvân</l>
 		</lg>
@@ -8760,7 +8884,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">toll</l>
 		</lg>
@@ -8796,7 +8920,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">tolltuõddâr</l>
 		</lg>
@@ -8815,7 +8939,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="pro">ton</l>
 			<lv variant="xxx">tun</lv>
@@ -8866,7 +8990,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">truuba</l>
 		</lg>
@@ -8892,7 +9016,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">truubšeǩ</l>
 		</lg>
@@ -8911,7 +9035,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">tuejj</l>
 			<infl>
@@ -8949,7 +9073,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">tuejjeed</l>
 			<infl>
@@ -8978,7 +9102,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="pro">tut</l>
 		</lg>
@@ -9011,7 +9135,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">tälvva</l>
 		</lg>
@@ -9028,7 +9152,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="pro">tät</l>
 		</lg>
@@ -9062,7 +9186,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">tääiˊb</l>
 			<lv variant="xxx">tääiˊben</lv>
@@ -9076,7 +9200,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">tääˊl</l>
 		</lg>
@@ -9091,7 +9215,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="adv">täˊbbe</l>
 		</lg>
@@ -9119,7 +9243,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">täˊhtt</l>
 		</lg>
@@ -9153,7 +9277,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">täˊlvv</l>
 		</lg>
@@ -9169,7 +9293,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">täˊlvvmään</l>
 		</lg>
@@ -9188,7 +9312,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">täˊsnn</l>
 		</lg>
@@ -9221,7 +9345,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="adv">täˊst</l>
 		</lg>
@@ -9246,7 +9370,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">uhss</l>
 		</lg>
@@ -9268,7 +9392,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">uuˊlec</l>
 		</lg>
@@ -9291,7 +9415,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">uˊcc</l>
 		</lg>
@@ -9325,7 +9449,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">uˊccbõššán</l>
 		</lg>
@@ -9341,7 +9465,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">uˊvvded</l>
 		</lg>
@@ -9374,7 +9498,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">uˊčteeˊl</l>
 		</lg>
@@ -9399,7 +9523,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">velkk</l>
 		</lg>
@@ -9425,7 +9549,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">veˊrrddeed</l>
 		</lg>
@@ -9441,7 +9565,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">viiđad</l>
 		</lg>
@@ -9457,7 +9581,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">viskkâd</l>
 		</lg>
@@ -9492,7 +9616,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">vitt</l>
 		</lg>
@@ -9508,7 +9632,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">viõlggâd</l>
 		</lg>
@@ -9543,7 +9667,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">viõˊlǧǧesleiˊbb</l>
 			<infl>
@@ -9569,7 +9693,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">vueiˊnned</l>
 			<infl>
@@ -9603,7 +9727,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">vueiˊtted</l>
 			<infl>
@@ -9637,7 +9761,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">vueiˊvv</l>
 		</lg>
@@ -9670,7 +9794,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">vuejjad</l>
 		</lg>
@@ -9703,7 +9827,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">vueˊddes</l>
 		</lg>
@@ -9737,7 +9861,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">vueˊlǧǧed</l>
 			<infl>
@@ -9765,7 +9889,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">vueˊrbešn</l>
 		</lg>
@@ -9781,7 +9905,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">vueˊssmään</l>
 		</lg>
@@ -9797,7 +9921,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">vueˊđđed</l>
 		</lg>
@@ -9832,7 +9956,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">vuäǯǯad</l>
 		</lg>
@@ -9845,7 +9969,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">vuäˊstted</l>
 		</lg>
@@ -9867,7 +9991,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">vuäˊǯ'ǯ</l>
 			<lv variant="ortho">vuäˊǯǯ</lv>
@@ -9902,7 +10026,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">vuõddâs</l>
 		</lg>
@@ -9935,7 +10059,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">vuõivâs</l>
 		</lg>
@@ -9969,7 +10093,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">vuõjj</l>
 		</lg>
@@ -10018,7 +10142,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">vuõjjâd</l>
 		</lg>
@@ -10053,7 +10177,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">vuõptt</l>
 		</lg>
@@ -10086,7 +10210,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">vuõssarg</l>
 		</lg>
@@ -10102,7 +10226,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="ord">vuõssmõs</l>
 		</lg>
@@ -10122,7 +10246,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">vuˊvrrmmään</l>
 		</lg>
@@ -10139,7 +10263,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">vääˊrr</l>
 		</lg>
@@ -10172,7 +10296,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">väˊldded</l>
 			<infl>
@@ -10203,7 +10327,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">väˊstteed</l>
 			<lv variant="xxx">vaˊstteed</lv>
@@ -10220,7 +10344,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">väˊʒʒed</l>
 		</lg>
@@ -10254,7 +10378,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="adv">võl</l>
 		</lg>
@@ -10276,7 +10400,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">võrr</l>
 		</lg>
@@ -10310,7 +10434,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">xxx</l>
 		</lg>
@@ -10329,7 +10453,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">xxx</l>
 		</lg>
@@ -10348,7 +10472,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">zâˊveâz</l>
 		</lg>
@@ -10368,7 +10492,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">zääˊvesǩ</l>
 		</lg>
@@ -10388,26 +10512,35 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="3">
 		<lg>
 			<l pos="pn">Âˊvvel</l>
 		</lg>
 		<mg>
-			<tg xml:lang="eng">
-				<t pos="pn">Ivalo</t>
+			<tg xml:lang="rus">
+				<t pos="pn">Ивало</t>
 			</tg>
 			<tg xml:lang="fin">
+				<t pos="pn">Ivalo</t>
+			</tg>
+			<tg xml:lang="nob">
 				<t pos="pn">Ivalo</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="pn">Avvil</t>
 			</tg>
+			<tg xml:lang="eng">
+				<t pos="pn">Ivalo</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">âskkeed</l>
 		</lg>
@@ -10421,13 +10554,32 @@ For the full license text, see the link above.</lic>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="v">обнимать</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">ââlda</l>
 		</lg>
 		<mg>
+			<tg xml:lang="rus">
+				<t pos="adv">близко</t>
+			</tg>
 			<tg xml:lang="eng">
 				<t pos="adv">nearby</t>
 			</tg>
@@ -10436,7 +10588,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="a">ââˊliǩ</l>
 		</lg>
@@ -10452,7 +10604,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="adv">ââˊn</l>
 			<lv variant="xxx">ååˊn</lv>
@@ -10483,7 +10635,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">ââˊǩǩ</l>
 		</lg>
@@ -10521,7 +10673,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">âˊbrr</l>
 		</lg>
@@ -10557,7 +10709,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">âˊbrred</l>
 		</lg>
@@ -10576,7 +10728,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">âˊbrrkähttan</l>
 		</lg>
@@ -10604,7 +10756,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">âˊbrrčâˊmm</l>
 		</lg>
@@ -10623,7 +10775,29 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="3">
+		<lg>
+			<l pos="n">âˊlmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">небо</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
+		</mg>
+	</e>
+  <e meta="1">
 		<lg>
 			<l pos="n">âˊlǧǧ</l>
 		</lg>
@@ -10640,7 +10814,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">âˊmm</l>
 		</lg>
@@ -10659,7 +10833,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">äiggad</l>
 			<infl>
@@ -10684,7 +10858,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">äiˊtt</l>
 		</lg>
@@ -10703,7 +10877,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">äkk</l>
 		</lg>
@@ -10722,7 +10896,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ääkkaž</l>
 		</lg>
@@ -10738,7 +10912,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">äˊjj</l>
 		</lg>
@@ -10757,7 +10931,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">ålggan</l>
 		</lg>
@@ -10773,7 +10947,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="adp">årra</l>
 		</lg>
@@ -10797,7 +10971,51 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
+		<lg>
+			<l pos="v">årsted</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="v">останавливаться</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
+		</mg>
+	</e>
+  <e meta="3">
+		<lg>
+			<l pos="n">åskk</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">вера</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
+		</mg>
+	</e>
+  <e meta="3">
 		<lg>
 			<l pos="adv">åuggan</l>
 		</lg>
@@ -10819,7 +11037,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">åålmai</l>
 		</lg>
@@ -10852,7 +11070,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">åålǥas</l>
 		</lg>
@@ -10868,7 +11086,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">ååucad</l>
 		</lg>
@@ -10884,7 +11102,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">ååuˊc</l>
 		</lg>
@@ -10900,7 +11118,29 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="3">
+		<lg>
+			<l pos="n">ååˊres</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">самец</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="REINDEER"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
+		</mg>
+	</e>
+  <e meta="1">
 		<lg>
 			<l pos="num">õhtt</l>
 		</lg>
@@ -10916,7 +11156,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="num">õhtt</l>
 		</lg>
@@ -10953,7 +11193,33 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="3">
+		<lg>
+			<l pos="adv">õhttu</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="adv">один</t>
+				<te>только</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">yksin</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="adv">alone</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
+		</mg>
+	</e>
+  <e meta="1">
 		<lg>
 			<l pos="adv">õiˊdde</l>
 		</lg>
@@ -10966,7 +11232,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="v">õlggâd</l>
 			<infl>
@@ -11004,7 +11270,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">õllâdvuõtt</l>
 		</lg>
@@ -11017,7 +11283,54 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="3">
+		<lg>
+			<l pos="n">õpss</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">запах</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
+		</mg>
+	</e>
+  <e meta="3">
+		<lg>
+			<l pos="v">õsttâd</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="v">успевать</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="v">достигать</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
+		</mg>
+	</e>
+  <e meta="1">
 		<lg>
 			<l pos="num">õtmlo</l>
 		</lg>
@@ -11033,7 +11346,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">õumm-ooumaž</l>
 		</lg>
@@ -11066,7 +11379,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">õõđ</l>
 		</lg>
@@ -11080,7 +11393,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="pn">Čeˊvetjäuˊrr</l>
 			<infl>
@@ -11124,7 +11437,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">čappâd</l>
 		</lg>
@@ -11159,7 +11472,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">čaˊppesleiˊbb</l>
 		</lg>
@@ -11175,20 +11488,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
-		<lg>
-			<l pos="num">čiččâm</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="num">seven</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">čeei</l>
 			<lv variant="xxx">čee</lv>
@@ -11208,7 +11508,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">čiiččad</l>
 		</lg>
@@ -11221,7 +11521,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">čiiˊlčešn</l>
 		</lg>
@@ -11238,7 +11538,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">čičmlo</l>
 		</lg>
@@ -11251,7 +11551,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">čiččmõs</l>
 		</lg>
@@ -11264,7 +11564,20 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
+		<lg>
+			<l pos="num">čiččâm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="num">seven</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
+  <e meta="1">
 		<lg>
 			<l pos="num">čueˊđ</l>
 		</lg>
@@ -11278,7 +11591,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="num">čueˊđes</l>
 		</lg>
@@ -11291,7 +11604,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">čuâǯ'ǯad</l>
 		</lg>
@@ -11326,7 +11639,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">čuäˊrvv</l>
 		</lg>
@@ -11360,7 +11673,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="a">čuåkˊkâd</l>
 		</lg>
@@ -11374,7 +11687,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">čuõjjiǩ</l>
 		</lg>
@@ -11387,7 +11700,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">čuõrmsted</l>
 		</lg>
@@ -11400,7 +11713,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">čuõvv</l>
 		</lg>
@@ -11413,7 +11726,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">čuõˊmmjõš</l>
 		</lg>
@@ -11427,7 +11740,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">čuõˊttešt</l>
 		</lg>
@@ -11440,7 +11753,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">čâhčča</l>
 		</lg>
@@ -11456,7 +11769,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">čââˊđ</l>
 		</lg>
@@ -11490,7 +11803,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">čâˊlmm</l>
 		</lg>
@@ -11549,7 +11862,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">čâˊlmmluõmm</l>
 		</lg>
@@ -11566,7 +11879,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">čâˊlmmriõbbâs</l>
 		</lg>
@@ -11582,7 +11895,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">čâˊlmmrååmm</l>
 		</lg>
@@ -11599,7 +11912,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">čâˊlmmˊmââˊnn</l>
 		</lg>
@@ -11615,7 +11928,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">čääˊcc</l>
 		</lg>
@@ -11649,7 +11962,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">čåuˊjj</l>
 		</lg>
@@ -11682,7 +11995,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">čõhčč</l>
 		</lg>
@@ -11698,7 +12011,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">čõhččmään</l>
 		</lg>
@@ -11711,7 +12024,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">čõõuči</l>
 		</lg>
@@ -11727,7 +12040,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="prtcl">še</l>
 		</lg>
@@ -11755,7 +12068,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">šellj</l>
 		</lg>
@@ -11769,7 +12082,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">šiõǥǥ</l>
 		</lg>
@@ -11803,7 +12116,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">škaapp</l>
 		</lg>
@@ -11825,7 +12138,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="n">škooul</l>
 			<infl>
@@ -11865,7 +12178,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="4">
+  <e meta="4">
 		<lg>
 			<l pos="con">što</l>
 		</lg>
@@ -11889,7 +12202,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="a">šurr</l>
 		</lg>
@@ -11923,7 +12236,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">šâˊldd</l>
 		</lg>
@@ -11936,7 +12249,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ǩeeuˊniǩ</l>
 		</lg>
@@ -11952,7 +12265,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">ǩeâđđa</l>
 		</lg>
@@ -11969,7 +12282,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="adv">ǩeässa</l>
 		</lg>
@@ -11989,7 +12302,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">ǩeäˊdǧǧ</l>
 		</lg>
@@ -12022,7 +12335,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="v">ǩeˊrdded</l>
 		</lg>
@@ -12057,7 +12370,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ǩeˊrjj</l>
 		</lg>
@@ -12084,7 +12397,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ǩeˊrjjpõrtt</l>
 		</lg>
@@ -12100,7 +12413,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ǩeˊrjjtemmašina</l>
 		</lg>
@@ -12116,7 +12429,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ǩieˊss</l>
 		</lg>
@@ -12135,7 +12448,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ǩieˊssmään</l>
 		</lg>
@@ -12151,7 +12464,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="3">
+  <e meta="3">
 		<lg>
 			<l pos="pro">ǩii</l>
 		</lg>
@@ -12184,7 +12497,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ǩiirbâč</l>
 		</lg>
@@ -12203,7 +12516,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="v">ǩiirjted</l>
 		</lg>
@@ -12219,7 +12532,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ǩilo</l>
 		</lg>
@@ -12237,7 +12550,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ǩilomettar</l>
 		</lg>
@@ -12254,7 +12567,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ǩiõll</l>
 		</lg>
@@ -12271,7 +12584,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ǩiõlljåårǧlõˊtti</l>
 		</lg>
@@ -12287,7 +12600,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="2">
+  <e meta="2">
 		<lg>
 			<l pos="n">ǩiõtt</l>
 		</lg>
@@ -12332,7 +12645,7 @@ For the full license text, see the link above.</lic>
 			</sources>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ǩiõǥǥnjuõll</l>
 		</lg>
@@ -12349,7 +12662,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+  <e meta="1">
 		<lg>
 			<l pos="n">ǩiđđâ</l>
 		</lg>
