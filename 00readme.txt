@@ -48,3 +48,8 @@ Pronouns
 PoS
 ====
 * multiword (phrasal) expressions, does this make sense: pos="[AdP]" "[NP]" "[S]" etc.?
+
+=====
+Variants
+=====
+* check orthographic variants with and without "overlenght", e.g. ǩeâđđa ~ ǩeâđ'đa
