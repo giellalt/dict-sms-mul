@@ -15,6 +15,31 @@ For the full license text, see the link above.</lic>
 	</lics>
 	<e meta="3">
 		<lg>
+			<l pos="n">eeˊžžed</l>
+			<infl>
+			<stem case="nom" number="pl">eeˊžžed</stem>
+			</infl>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">хозяин</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">isäntä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<semantics>
+				<sem class="HUMAN"/>
+			</semantics>
+			<sources>
+				<book name="l1" lesson="0"/>
+			</sources>
+		</mg>
+		</e>
+	<e meta="3">
+		<lg>
 			<l pos="prtcl">-a</l>
 		</lg>
 		<mg>
