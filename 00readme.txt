@@ -53,3 +53,9 @@ PoS
 Variants
 =====
 * check orthographic variants with and without "overlenght", e.g. ǩeâđđa ~ ǩeâđ'đa
+
+=====
+pos="abbr"
+=====
+for Abbreviations as own lemmas; does this make sense?
+
