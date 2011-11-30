@@ -13,6 +13,225 @@ For the full license text, see the link above.</lic>
  words, download the file, edit it, and send it back to <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are not necessarily sorted, or could be wrongly sorted.
 </sourcenote>
 	</lics>
+	<e meta="4">
+		<lg>
+			<l pos="n">kurss</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">курс</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">kurssi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">course</t>
+			</tg>
+			<xg>
+				<x pos="[NP] n n">nuõrttsääˊmǩiõl vuâđđkurss</x>
+				<xtg xml:lang="fin">
+					<xt pos="[NP] a n n">kolansaamen kielen peruskurssi</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
+			<l pos="n">prääˊzneǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">juhla</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
+			<l pos="n">peˊssertuejj</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">helmityö</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="[NP] n n">bead work</t>
+			</tg>
+			<semantics>
+				<sem class="DUODJI"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
+			<l pos="a">ortodokslaž</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="a">orthodox</t>
+			</tg>
+			<xg>
+				<x pos="[NP] a n n">ortodokslaž ceerkav Njeäˊllmest</x>
+				<xtg xml:lang="eng">
+					<xt pos="[NP] det a n prep n">the orthodox church in Nellim</xt>
+				</xtg>
+			</xg>
+			<xg>
+				<x pos="[NP] a n">ortodokslaž sluuˊžv</x>
+				<xtg xml:lang="eng">
+					<xt pos="[NP] a n">orthodox service</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="RELIGION"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
+			<l pos="n">troicǩipeiˊvv</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">helluntai</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">Pentecost</t>
+			</tg>
+			<semantics>
+				<sem class="RELIGION"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
+			<l pos="pn">Luujäuˊrr</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="pn">Lovozero</t>
+			</tg>
+			<semantics>
+				<sem class="TOPONYM"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
+			<l pos="n">muˊzei</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">музей</t>
+			</tg>
+			<xg>
+				<x pos="[NP] a n">nuõrttsaaˊmi muˊzei</x>
+				<xtg xml:lang="rus">
+					<xt pos="[NP] a n">колттасаамский музей</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
+			<l pos="n">čuäjtõs</l>
+			<lv variant="xxx">čuäitõs</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">näyttely</t>
+			</tg>
+			<xg>
+				<x pos="n">ǩiõttʼtuejjčuäjtõs</x>
+				<xtg xml:lang="deu">
+					<xt pos="n">Handwerksausstellung</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
+			<l pos="n">ǩiõttʼtuejj</l>
+			<lv variant="xxx">ǩiõttʼtuâjj</lv>
+			<lv variant="orth">ǩiõtt-tuâjj</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">рукоделие</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">käsityö</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">duodji</t>
+			</tg>
+			<xg>
+				<x pos="[NP] a n">nuõrttsaaˊmi ǩiõttʼtuejj</x>
+				<xtg xml:lang="rus">
+					<xt pos="[NP] a n">колттасаамское рукоделие</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="DUODJI"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
 	<e meta="3">
 		<lg>
 			<l pos="prtcl">-a</l>
