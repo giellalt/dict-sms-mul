@@ -15,6 +15,170 @@ For the full license text, see the link above.</lic>
 	</lics>
 	<e meta="4">
 		<lg>
+			<l pos="n">mättʼtempirrõs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">opetusjärjestelmä</t>
+			</tg>
+			<xg>
+				<x pos="n">Learnlinc-ougglestmättʼtempirrõõzzâst</x>
+				<xtg xml:lang="fin">
+					<xt pos="n">Learnlinc-etäopetusjärjestelmässä</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
+			<l pos="n">ougglestmättʼtõssân</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">etäopetus</t>
+			</tg>
+			<xg>
+				<x pos="xxx"></x>
+				<xtg xml:lang="xxx">
+					<xt pos="ххх">xxx</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
+			<l pos="n">vuâđđkurss</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">peruskurssi</t>
+			</tg>
+			<xg>
+				<x pos="[NP] n n">nuõrttsääˊmǩiõl vuâđđkurss</x>
+				<xtg xml:lang="fin">
+					<xt pos="[NP] a n n">koltansaamen kielen peruskurssi</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
+			<l pos="abbr">mâ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="abbr">ti</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">tiistai</t>
+			</tg>
+			<xg>
+				<x pos="xxx">älgg mâ 15.11.11 č 17.00</x>
+				<xtg xml:lang="fin">
+					<xt pos="ххх">alkaen ti 15.11.11 klo 17.00</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="TIME"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
+			<l pos="abbr">mn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="abbr">ov</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">opintoviikko</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
+			<l pos="abbr">č</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="abbr">h</t>
+			</tg>
+			<xg>
+				<x pos="xxx">40 č</x>
+				<xtg xml:lang="fin">
+					<xt pos="ххх">40 h</xt>
+					<xt pos="ххх">40 tuntia</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="TIME"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	<mg>
+			<tg xml:lang="fin">
+				<t pos="abbr">klo</t>
+			</tg>
+			<xg>
+				<x pos="xxx">č 17.00</x>
+				<xtg xml:lang="fin">
+					<xt pos="ххх">klo 17.00</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="TIME"/>
+			</semantics>
+			<sources>
+				<book name="l1"/>
+				<book name="l2"/>
+				<book name="l3"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="4">
+		<lg>
 			<l pos="n">kurss</l>
 		</lg>
 		<mg>
@@ -28,9 +192,9 @@ For the full license text, see the link above.</lic>
 				<t pos="n">course</t>
 			</tg>
 			<xg>
-				<x pos="[NP] n n">nuõrttsääˊmǩiõl vuâđđkurss</x>
+				<x pos="[NP] n n">nuõrttsääˊmǩiõl kurss</x>
 				<xtg xml:lang="fin">
-					<xt pos="[NP] a n n">kolansaamen kielen peruskurssi</xt>
+					<xt pos="[NP] a n n">koltansaamen kielen kurssi</xt>
 				</xtg>
 			</xg>
 			<semantics>
