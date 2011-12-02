@@ -8354,7 +8354,7 @@ For the full license text, see the link above.</lic>
 			</semantics>
 		</mg>
 	</e>
-	<e meta="1">
+	<e meta="4">
 		<lg>
 			<l pos="n">rosttov</l>
 		</lg>
@@ -8368,6 +8368,19 @@ For the full license text, see the link above.</lic>
 			<tg xml:lang="sme">
 				<t pos="n">juovllat</t>
 			</tg>
+			<xg>
+				<x pos="idiom">Šiõǥǥ Rosttov da leklvaž Ođđ Eeʹjj!</x>
+				<xtg xml:lang="nob">
+					<xt pos="idiom">God jul og godt nytt år!</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="idiom">Hyvää joulua ja onnellista uutta vuotta!</xt>
+					<xtg xml:lang="rus">
+					<xt pos="idiom">Счастливого Роҗдества! С Новым годом!</xt>
+					<xtg xml:lang="fin">
+					<xt pos="idiom">Merry Christmas and a Happy New Year!</xt>
+				</xtg>
+			</xg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
