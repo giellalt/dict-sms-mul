@@ -3,365 +3,17 @@
 	<lics xml:space="preserve">
 		<lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>
+            
             . You are free to copy, distribute and adapt the work, as long as you always give proper attribution using the attribution text below. For the full license text, see the link above.</lic>
 		<ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament, and members of the language communities. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>
 		</ref>
 		<sourcenote> THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a full styled and published dictionary. As such it can and will contain unfinished entries, unpublished entries, entries with objectionable translations, etc. If you find any errors or want to add more words, download the file, edit it, and send it back to <a>mailto:divvun@samediggi.no</a>
+            
              and <a>mailto:giellatekno@hum.uit.no</a>
+            
             . Please also note that the entries are not necessarily sorted, or could be wrongly sorted.
 </sourcenote>
 	</lics>
-	<e meta="04">
-		<lg>
-			<l pos="n">mättʼtempirrõs</l>
-		</lg>
-		<mg>
-			<tg xml:lang="fin">
-				<t pos="n">opetusjärjestelmä</t>
-			</tg>
-			<xg>
-				<x pos="n">Learnlinc-ougglestmättʼtempirrõõzzâst</x>
-				<xtg xml:lang="fin">
-					<xt pos="n">Learnlinc-etäopetusjärjestelmässä</xt>
-				</xtg>
-			</xg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="n">ougglestmättʼtõssân</l>
-		</lg>
-		<mg>
-			<tg xml:lang="fin">
-				<t pos="n">etäopetus</t>
-			</tg>
-			<xg>
-				<x pos="xxx"/>
-				<xtg xml:lang="xxx">
-					<xt pos="ххх">xxx</xt>
-				</xtg>
-			</xg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="n">vuâđđkurss</l>
-		</lg>
-		<mg>
-			<tg xml:lang="fin">
-				<t pos="n">peruskurssi</t>
-			</tg>
-			<xg>
-				<x type="np" pos="n-n">nuõrttsääˊmǩiõl vuâđđkurss</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">koltansaamen kielen peruskurssi</xt>
-				</xtg>
-			</xg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="abbr">mâ</l>
-		</lg>
-		<mg>
-			<tg xml:lang="fin">
-				<t pos="abbr">ti</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="n">tiistai</t>
-			</tg>
-			<xg>
-				<x pos="xxx">älgg mâ 15.11.11 č 17.00</x>
-				<xtg xml:lang="fin">
-					<xt pos="ххх">alkaen ti 15.11.11 klo 17.00</xt>
-				</xtg>
-			</xg>
-			<semantics>
-				<sem class="TIME"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="abbr">mn</l>
-		</lg>
-		<mg>
-			<tg xml:lang="fin">
-				<t pos="abbr">ov</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="n">opintoviikko</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="abbr">č</l>
-		</lg>
-		<mg>
-			<tg xml:lang="fin">
-				<t pos="abbr">h</t>
-			</tg>
-			<xg>
-				<x pos="xxx">40 č</x>
-				<xtg xml:lang="fin">
-					<xt pos="ххх">40 h</xt>
-					<xt pos="ххх">40 tuntia</xt>
-				</xtg>
-			</xg>
-			<semantics>
-				<sem class="TIME"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-		<mg>
-			<tg xml:lang="fin">
-				<t pos="abbr">klo</t>
-			</tg>
-			<xg>
-				<x pos="xxx">č 17.00</x>
-				<xtg xml:lang="fin">
-					<xt pos="ххх">klo 17.00</xt>
-				</xtg>
-			</xg>
-			<semantics>
-				<sem class="TIME"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="n">kurss</l>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="n">курс</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="n">kurssi</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="n">course</t>
-			</tg>
-			<xg>
-				<x type="np" pos="n-n">nuõrttsääˊmǩiõl kurss</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">koltansaamen kielen kurssi</xt>
-				</xtg>
-			</xg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="n">prääˊzneǩ</l>
-		</lg>
-		<mg>
-			<tg xml:lang="fin">
-				<t pos="n">juhla</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="n">peˊssertuejj</l>
-		</lg>
-		<mg>
-			<tg xml:lang="fin">
-				<t pos="n">helmityö</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">bead work</t>
-			</tg>
-			<semantics>
-				<sem class="DUODJI"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="a">ortodokslaž</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="a">orthodox</t>
-			</tg>
-			<xg>
-				<x type="np" pos="a-n-n">ortodokslaž ceerkav Njeäˊllmest</x>
-				<xtg xml:lang="eng">
-					<xt pos="xxx">the orthodox church in Nellim</xt>
-				</xtg>
-			</xg>
-			<xg>
-				<x type="np" pos="a-n">ortodokslaž sluuˊžv</x>
-				<xtg xml:lang="eng">
-					<xt pos="xxx">orthodox service</xt>
-				</xtg>
-			</xg>
-			<semantics>
-				<sem class="RELIGION"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="n">troicǩipeiˊvv</l>
-		</lg>
-		<mg>
-			<tg xml:lang="fin">
-				<t pos="n">helluntai</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="n">Pentecost</t>
-			</tg>
-			<semantics>
-				<sem class="RELIGION"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="pn">Luujäuˊrr</l>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="pn">Lovozero</t>
-			</tg>
-			<semantics>
-				<sem class="TOPONYM"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="n">muˊzei</l>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="n">музей</t>
-			</tg>
-			<xg>
-				<x type="np" pos="a-n">nuõrttsaaˊmi muˊzei</x>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">колттасаамский музей</xt>
-				</xtg>
-			</xg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="n">čuäjtõs</l>
-			<lv variant="xxx">čuäitõs</lv>
-		</lg>
-		<mg>
-			<tg xml:lang="fin">
-				<t pos="n">näyttely</t>
-			</tg>
-			<xg>
-				<x pos="n">ǩiõttʼtuejjčuäjtõs</x>
-				<xtg xml:lang="deu">
-					<xt pos="n">Handwerksausstellung</xt>
-				</xtg>
-			</xg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="04">
-		<lg>
-			<l pos="n+n">ǩiõttʼtuejj</l>
-			<lv variant="xxx">ǩiõttʼtuâjj</lv>
-			<lv variant="orth">ǩiõtt-tuâjj</lv>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="n">рукоделие</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="n">käsityö</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="n">duodji</t>
-			</tg>
-			<xg>
-				<x type="np" pos="a-n">nuõrttsaaˊmi ǩiõttʼtuejj</x>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">колттасаамское рукоделие</xt>
-				</xtg>
-			</xg>
-			<semantics>
-				<sem class="DUODJI"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
 	<e meta="03">
 		<lg>
 			<l pos="prtcl">-a</l>
@@ -424,6 +76,31 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="1"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">-tâma</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t labial="-pa">-pä</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t labial="-han">-hän</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">ведь</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -501,6 +178,22 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="04">
+		<lg>
+			<l pos="pn">Luujäuˊrr</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="pn">Lovozero</t>
+			</tg>
+			<semantics>
+				<sem class="TOPONYM"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
+		</mg>
+	</e>
 	<e meta="03">
 		<lg>
 			<l pos="pn">Mäˊrjj</l>
@@ -570,6 +263,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">Taarr</l>
+			<infl gloss="ill.sg">Taʹrre</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">Norja</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">Новрегия</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="pn">Uccjokk</l>
@@ -587,6 +303,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">Väʹsǩǩ</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">Vasko</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">Василий</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -2139,6 +1877,89 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
+			<l pos="a/adv">jiânnai</l>
+			<infl gloss="comp">jäänab</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">enemmän</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">many</t>
+			</tg>
+		</mg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">очень</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">much</t>
+			</tg>
+			<xg oahpa="no" kurss="yes">
+				<x type="infl" pos="adv">teänab</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">enää</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">(не) больше</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="pro">jiõčč</l>
+			<variants>
+				<var dialect="P" source="1991">jiičč</var>
+			</variants>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">itse</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
 			<l pos="n">jiõŋŋ</l>
 		</lg>
 		<mg>
@@ -3037,6 +2858,34 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</tg>
 			<semantics>
 				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n">kurss</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">курс</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">kurssi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">course</t>
+			</tg>
+			<xg>
+				<x type="np" pos="n-n">nuõrttsääˊmǩiõl kurss</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">koltansaamen kielen kurssi</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="xxx"/>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -4554,6 +4403,26 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="v" class="xxx">lue′štted</l>
+			<infl gloss="conneg.prs">lue′št</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">päästää</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">release</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="v">luuhâd</l>
@@ -5076,6 +4945,25 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="04">
+		<lg>
+			<l pos="abbr">mn</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="abbr">ov</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">opintoviikko</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
+		</mg>
+	</e>
 	<e meta="03">
 		<lg>
 			<l pos="pro">mon</l>
@@ -5239,6 +5127,53 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n">muˊzei</l>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">музей</t>
+			</tg>
+			<xg>
+				<x type="np" pos="a-n">nuõrttsaaˊmi muˊzei</x>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">колттасаамский музей</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="abbr">mâ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="abbr">ti</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">tiistai</t>
+			</tg>
+			<xg>
+				<x pos="xxx">älgg mâ 15.11.11 č 17.00</x>
+				<xtg xml:lang="fin">
+					<xt pos="ххх">alkaen ti 15.11.11 klo 17.00</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="TIME"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
+		</mg>
+	</e>
 	<e meta="03">
 		<lg>
 			<l pos="pro">mâiˊd-ne</l>
@@ -5320,6 +5255,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n">mättʼtempirrõs</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">opetusjärjestelmä</t>
+			</tg>
+			<xg>
+				<x pos="n">Learnlinc-ougglestmättʼtempirrõõzzâst</x>
+				<xtg xml:lang="fin">
+					<xt pos="n">Learnlinc-etäopetusjärjestelmässä</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
 		</mg>
 	</e>
 	<e meta="01">
@@ -5543,6 +5500,31 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="adv">mä′htt</l>
+			<variants>
+				<var dialect="P" source="ksdp">mohtt</var>
+			</variants>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">как</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -6395,6 +6377,34 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="04">
+		<lg>
+			<l pos="a">ortodokslaž</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="a">orthodox</t>
+			</tg>
+			<xg>
+				<x type="np" pos="a-n-n">ortodokslaž ceerkav Njeäˊllmest</x>
+				<xtg xml:lang="eng">
+					<xt pos="xxx">the orthodox church in Nellim</xt>
+				</xtg>
+			</xg>
+			<xg>
+				<x type="np" pos="a-n">ortodokslaž sluuˊžv</x>
+				<xtg xml:lang="eng">
+					<xt pos="xxx">orthodox service</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="RELIGION"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
+		</mg>
+	</e>
 	<e meta="03">
 		<lg>
 			<l pos="adp">ouddâl</l>
@@ -6433,6 +6443,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n">ougglestmättʼtõssân</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">etäopetus</t>
+			</tg>
+			<xg>
+				<x pos="xxx"/>
+				<xtg xml:lang="xxx">
+					<xt pos="ххх">xxx</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
 			</sources>
 		</mg>
 	</e>
@@ -6634,6 +6666,25 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</tg>
 			<semantics>
 				<sem class="BODY"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n">peˊssertuejj</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">helmityö</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">bead work</t>
+			</tg>
+			<semantics>
+				<sem class="DUODJI"/>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -6997,6 +7048,22 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n">prääˊzneǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">juhla</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
 			</sources>
 		</mg>
 	</e>
@@ -8274,6 +8341,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
+			<l pos="xxx">sami</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">hyvin</t>
+				<t pos="xxx">oikein</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">очень</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
 			<l pos="n">sauʒʒ</l>
 			<etymology>
 				<etymon type="loan" source="nob">sau</etymon>
@@ -8368,6 +8458,50 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">seämma</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">sama</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">одинаковый; равный; такой же; тот же</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">seämmanalla</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">samalla tavalla, samoin</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">так же, таким же/подобным образом</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -8493,6 +8627,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">sijdd</l>
+			<infl gloss="nom.pl">siid</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">kylä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">село</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">silbb</l>
@@ -8517,6 +8674,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">siltteed</l>
+			<infl gloss="conneg.prs">silttâd</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">osata</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">уметь</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -8545,6 +8725,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">sizz</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">sisään, sisälle</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">в (куда)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">siâŋgg</l>
@@ -8559,6 +8761,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">siâŋgg</l>
+			<infl gloss="nom.pl">siâŋg</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">sänky</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">кровать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="02">
@@ -8593,6 +8818,50 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">siõm</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">pieni</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">маленький</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">siõmmna</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">vähän</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">чуточку, чуть-чуть, немного</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">siõmâž</l>
@@ -8610,6 +8879,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">siõrrâd</l>
+			<infl gloss="3pl.prs">seäʹrre</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">leikkiä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">играть</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -8743,6 +9035,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
+			<l pos="xxx">soiʹttjed</l>
+			<infl gloss="3sg.prs">såitt</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">soittaa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">звонить</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
 			<l pos="n">sokk</l>
 			<infl>
 				<form case="nom" number="pl">sooǥǥ</form>
@@ -8767,6 +9082,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="1"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">sokk</l>
+			<infl gloss="nom.pl">sooǥǥ</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">(naisen) suku</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">род (женщины) (о родословне)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -8812,6 +9150,50 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">son</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">hän</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t fem="она">он</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">späʹsseb</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">kiitos</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">спасибо</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">takk</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">steehl</l>
@@ -8851,6 +9233,43 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="n">stuuʹl</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tuoli</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">stuuˊl</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">стул</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="yes" kurss="yes">
+				<x type="deriv" pos="n">stuälaž</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">pöytänen, (pikkupöytä)</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">столик</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -8962,6 +9381,63 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="n">sueʹvet</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">lauantai</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">суббота</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="yes" kurss="yes">
+				<x type="infl" pos="n">sueʹvet</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">lauantaina</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">в субботу</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">sueʹǩǩ</l>
+			<infl gloss="nom.pl">sueʹjj</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">koivu</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">берёза</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">sueˊvet</l>
@@ -9069,6 +9545,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="v">suåppâd</l>
+			<infl gloss="2sg.prs">suåvak</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">sopia</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">подходить; договариваться, подходишь; договариваешься</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">suõrmm</l>
@@ -9141,6 +9640,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">sââʹrr</l>
+			<infl gloss="nom.pl">sââʹr</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">mustikka</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">бот черника</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">sââˊrr</l>
@@ -9194,6 +9716,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="n">säuʹnn</l>
+			<infl gloss="nom.pl">sääuʹn</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">sauna</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">баня</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">säuˊnn</l>
@@ -9228,6 +9773,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="n">säähhar</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">sokeri</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">сахар</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -9266,6 +9833,41 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="v">säʹtted</l>
+			<infl gloss="3sg.prs">sätt</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">saattaa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">может быть</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="no" kurss="yes">
+				<x type="infl" pos="v">sätt</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">(se) saattaa</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">(это) может быть</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">kanskje</xt>
+				</xtg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -9388,6 +9990,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">sõrgg</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">pian</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">скоро</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="adv">taa</l>
@@ -9426,6 +10050,30 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
+			<l pos="xxx">taalkâs</l>
+			<infl gloss="nom.pl">talkkâz</infl>
+			<infl gloss="acc.pl">talkksid</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">lääke</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">лекарство</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
 			<l pos="v">taarbšed</l>
 		</lg>
 		<mg>
@@ -9445,6 +10093,31 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">taarbšed</l>
+			<infl gloss="1sg.prs">taarbšam</infl>
+			<infl gloss="conneg.prs">taarbâš</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tarvita</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">надо</t>
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -9530,6 +10203,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">telvisia</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">televisio</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">телевизор</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">teâttmašina</l>
@@ -9584,6 +10279,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">teʹl</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">silloin, sitten</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">тогда</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="02">
 		<lg>
 			<l pos="n">teˊǩǩ</l>
@@ -9614,6 +10331,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="xxx"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tieʹtted</l>
+			<infl gloss="conneg.prs">tieʹđ</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tietää</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">знать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -9652,6 +10392,25 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="v" class="2.1.3.4">tie′tted</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tietää</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">know</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="02">
 		<lg>
 			<l pos="a">tiiudâs</l>
@@ -9686,6 +10445,76 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
+			<l pos="xxx">tiiʹǩ</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tänne</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">сюда</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tiârrâd</l>
+			<infl gloss="3pl.prs">teäʹrre</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">laukkoa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">бежать (о стаде)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="interj">tiõrv</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">terve</t>
+				<t pos="xxx">päivää</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">привет</t>
+				<t pos="xxx">добрый день</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">hei</t>
+				<t pos="xxx">god dag</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
 			<l pos="interj">tiõrv!</l>
 		</lg>
 		<mg>
@@ -9710,6 +10539,52 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="1"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tiõrvted</l>
+			<infl gloss="3sg.prs">tiõrvad</infl>
+			<infl gloss="3pl.prs">tiõrvte</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tervehtiä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">(по)здороваться</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="interj">tiõrvvsa</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">ole hyvä (vastauksena kiitokseen)</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">пожалуйста; не стоит благодарности (в ответ на изъявление благодарности)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -9756,6 +10631,101 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tiõrvâsvuõttpõrtt</l>
+			<infl gloss="ill.sg">tiõrvâsvuõttpõʹrtte</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">terveystalo</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">амбулатория (в деревне)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tiõttlõs</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tietenkin</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">известно</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tobddâd</l>
+			<infl gloss="1sg.prs">toobdam</infl>
+			<infl gloss="3sg.prs">tåbdd</infl>
+			<infl gloss="conneg.prs">toobd</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tuntea</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">чувствовать</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">знать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tok</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">sinne</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">туда</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="02">
 		<lg>
 			<l pos="n">toll</l>
@@ -9788,6 +10758,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="xxx"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tollstõõllâd</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tulistella</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">сидеть у костра</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -9860,6 +10852,51 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
+			<l pos="xxx">ton</l>
+			<infl gloss="gen.sg">tuu</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">sinä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">ты</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">toʹben</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">siellä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">там</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
 			<l pos="n">triâŋgg</l>
 			<etymology>
 				<etymon type="loan" source="nob">dreng</etymon>
@@ -9880,6 +10917,25 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n">troicǩipeiˊvv</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">helluntai</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">Pentecost</t>
+			</tg>
+			<semantics>
+				<sem class="RELIGION"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
 			</sources>
 		</mg>
 	</e>
@@ -9968,6 +11024,41 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
+			<l pos="xxx">tuejj</l>
+			<infl gloss="loc.sg">tuejast</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">työ</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">работа</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="yes" kurss="yes">
+				<x type="infl" pos="n">tuejast</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">työssä</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">на работе</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
 			<l pos="v">tuejjeed</l>
 			<infl>
 				<form person="2" number="sg">tuejjääk</form>
@@ -9993,6 +11084,132 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="1"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tuejjeed</l>
+			<infl gloss="2sg.prs">tuejjääk</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tehdä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t imperf="сделать">делать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tueʹllʹjed</l>
+			<infl gloss="imp.sg">tueʹlle</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">pitää kiinni</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">держать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="n">tueʹlääž</l>
+			<infl gloss="xxx">tueʹlää</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">aamu</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">утро</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="yes" kurss="yes">
+				<x type="infl" pos="n">tueˊlää</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">aamulla</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">утром</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tueʹǩǩen</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">takana</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">за, из-за</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tueˊles-</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">aamu-</t>
+				<t pos="a">aamuinen</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="а" gender="m">утренний</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="02">
@@ -10028,6 +11245,88 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
+			<l pos="pro">tut</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tuo</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="yes" kurss="yes">
+				<x type="infl" pos="pro">tõõzz</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">sille</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">туда</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tuõddâr</l>
+			<infl gloss="nom.pl">tuõddra</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tunturi</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">сопка</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">тундра</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tuõtt</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tosi, totta</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">правда, правду (по правде); настоящий</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
 			<l pos="xxx">tuõvâs</l>
 			<infl>
 				<form case="nom" number="pl">tuõvˈvâz</form>
@@ -10052,6 +11351,96 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tuõđi</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">todella, tosiaan</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">на самом деле, вправду</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tuʹtǩǩeed</l>
+			<infl gloss="3sg.prs">tuʹtǩǩad</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tutkia</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">обследовать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tuʹvdded</l>
+			<infl gloss="3sg.prs">toudd</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">peitellä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">укрывать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="n">tâʹlles</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">heti</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">сразу (же)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -10103,6 +11492,90 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tät</l>
+			<infl gloss="gen.sg">tän</infl>
+			<infl gloss="loc.sg">täˊst</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tämä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">этот</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="yes" kurss="yes">
+				<x type="infl" pos="pro">täʹst</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">tässä</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">здесь</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">отсюда</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tättad</l>
+			<infl gloss="3sg.prs">tätt</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tahtoa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">хотеть</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">täujja</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">usein</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">часто</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="adv">tääiˊb</l>
@@ -10130,6 +11603,103 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="v">tää′vted</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tavoittaa</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">napata</t>
+				<t pos="xxx">siepata</t>
+				<t pos="xxx">tarttua</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="no" kurss="yes">
+				<x type="vp" pos="v-n">tääˊvted ǩidd</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">ottaa kiinni</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">брать (кого-что), схватить (кого-что)</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">täʹbbe</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tänään</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">сегодня</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">täʹlvv</l>
+			<infl gloss="nom.pl">tääʹlv</infl>
+			<infl gloss="ill.sg">tälvva</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">talvi</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">зима</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="yes" kurss="yes">
+				<x type="infl" pos="n">tälvva</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">talvella</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">зимой</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -10283,6 +11853,116 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="pro">tå′ben</l>
+			<variants>
+				<var dialect="P" source="1991">to′ben</var>
+			</variants>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">siellä, tuolla</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">там</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tõnt</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">siksi, sen takia</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">поэтому, по этой причине</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="pro">tõt</l>
+			<infl gloss="gen.sg">tõn</infl>
+			<infl gloss="ill.sg">tõõzz</infl>
+			<infl gloss="ill.sg">tõˊst</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">se</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">этот</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="yes" kurss="yes">
+				<x type="infl" pos="pro">tõʹst</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">siinä</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">оттуда</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">там</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">tõõŋâs</l>
+			<infl gloss="nom.pl">tõŋŋâz</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">varpu</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">веточка</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">uhss</l>
@@ -10303,6 +11983,31 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">uhss</l>
+			<infl gloss="nom.pl">uus</infl>
+			<infl gloss="ill.sg">uʹhsse</infl>
+			<infl gloss="loc.sg">uusâst</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">ovi</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">дверь</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -10326,6 +12031,30 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">uuˊrčted</l>
+			<infl gloss="3pl.prs">uuˊrčte</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">juoksuttaa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">гонять</t>
+				<t pos="xxx">заставлять бегать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="02">
@@ -10360,6 +12089,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="a">uˊcc</l>
+			<infl gloss="comp">uuˊccab</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">pieni</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">маленький</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="adv">uˊccbõššán</l>
@@ -10374,6 +12126,52 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">uˊrččâd</l>
+			<infl gloss="3sg.prs">orčč</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">juosta</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">бегать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">uˊvdded</l>
+			<infl gloss="3sg.prs">oudd</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">antaa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">давать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="02">
@@ -10434,6 +12232,66 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
+			<l pos="xxx">vaalmâš</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">valmis</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">готовый</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vaarõõttâd</l>
+			<infl gloss="3sg.prs">vaarââtt</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">olla varuillaan, varoa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">остерегаться,  опасаться</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="no" kurss="yes">
+				<x type="vp" pos="v-pro">vaarââtt tõʹst</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">(hän) varoo sitä</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">(он) остерегается</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">(он) опасается этого</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
 			<l pos="n">vacc</l>
 		</lg>
 		<mg>
@@ -10452,6 +12310,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vaʹstteed</l>
+			<infl gloss="3sg.prs">vaʹsttad</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">vastata</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">отвечать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -10502,6 +12383,35 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">veärr</l>
+			<infl gloss="nom.pl">veär</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">keitto</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">ruoka</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">еда</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">суп</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="v">veˊrrddeed</l>
@@ -10532,6 +12442,52 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">viiššlânji</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">ahkerastit</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">усердно</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">viiššâd</l>
+			<infl gloss="conneg.prs">viižž</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">viitsiä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">мне полениться, мне лень</t>
+				<!-- typo im Buch-->
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="02">
@@ -10565,6 +12521,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="xxx"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">viskkâd (#viˊsǩǩes)</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">keltainen</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">жёлтый</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -10614,6 +12592,74 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="xxx"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">viõlggâd (#viõʹlǧǧes)</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">valkoinen</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">белый</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">viõǥǥteʹmes</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">voimaton</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">бессильный, слабый</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">viõʹlǧǧesleiʹbb</l>
+			<infl gloss="nom.pl">viõʹlǧǧesleeiʹb</infl>
+			<infl gloss="acc.pl">viõʹlǧǧesleeiʹbid</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">pulla</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">булка</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -10681,6 +12727,115 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">viʹllj</l>
+			<infl gloss="nom.pl">viiʹllj</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">veli</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">брат</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vueiʹnned</l>
+			<infl gloss="conneg.prs">vuäinnam</infl>
+			<infl gloss="3sg.prs">vuäinn</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">nähdä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">видеть</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vueiʹtted</l>
+			<infl gloss="conneg.prs">vueiʹt</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">voida, jaksaa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">мочь</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">быть в силах</t>
+				<t pos="xxx">быть в состоянии</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="no" kurss="yes">
+				<x type="question" pos="v-pcle">vuäitam-a</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">voinko</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">могу ли</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vueiʹvv</l>
+			<infl gloss="nom.sg">vueiʹv</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">pää</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">голова</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -10813,6 +12968,193 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="1"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vuejjad</l>
+			<infl gloss="3sg.prs">vuejj</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">ajaa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">ехать, кататься</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vuejted</l>
+			<infl gloss="1pl.prs">vuejtep</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">ajattaa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">гнать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vueʹlǧǧed</l>
+			<infl gloss="1sg.prs">vuâlǥam</infl>
+			<infl gloss="2sg.prs">vuâlǥak</infl>
+			<infl gloss="3sg.prs">vuâlgg</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">lähteä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">идти</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">уходить</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="no" kurss="yes">
+				<x type="question" pos="v-ptcl">vueʹlǧǧep-a</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">lähdemmekö</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">пойдём что ли</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">уходим что ли</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vueʹrdded</l>
+			<infl gloss="3sg.prs">vuârdd</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">odottaa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">ждать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vueʹss</l>
+			<infl gloss="nom.pl">vueʹzz</infl>
+			<infl gloss="acc.pl">vueʹzzid</infl>
+			<infl gloss="nom.poss3sg">vueʹzzes</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">vasa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">телёнок (оленя)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vueʹǯǯ</l>
+			<infl gloss="loc.sg">vueʹǯǯest</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">liha</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">мясо</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="yes" kurss="yes">
+				<x type="infl" pos="n">vueʹǯǯest</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">lihasta</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">из мяса</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+			<xg oahpa="yes" kurss="yes">
+				<x type="compound" pos="n+n">vueʹǯǯveärr</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">lihakeito</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">мясный суп</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">мясное блюдо</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="02">
@@ -10949,6 +13291,72 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
+			<l pos="xxx">vuâlla</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">alle</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">под (куда)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vuâsti</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">varmaan, varmasti</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">наверно</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n">vuâđđkurss</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">peruskurssi</t>
+			</tg>
+			<xg>
+				<x type="np" pos="n-n">nuõrttsääˊmǩiõl vuâđđkurss</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">koltansaamen kielen peruskurssi</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
 			<l pos="n">vuäǯǯad</l>
 		</lg>
 		<mg>
@@ -10967,6 +13375,116 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vuäǯǯad</l>
+			<infl gloss="2sg.prs">vuäǯǯak</infl>
+			<infl gloss="prtpfc">vuäǯǯam</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">saada</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">моч</t>
+				<t pos="xxx">иметь право</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">получать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vuäʹbb</l>
+			<infl gloss="nom.pl">vueʹbb</infl>
+			<infl gloss="xxx">vuäʹbbed</infl>
+			<infl gloss="xxx">vuäbbab</infl>
+			<infl gloss="poss3.com.sg">vueʹbbines</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">sisar</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">сестра (echte)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="no" kurss="yes">
+				<x type="infl" pos="n">vueʹbbines</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">sisarensa kanssa</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">с сестрой</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="a">vuäʹmes (#vuäʹmm)</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">vanha</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">старый</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vuäʹstted</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">ostaa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">покупать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -11133,6 +13651,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vuõjj</l>
+			<infl gloss="nom.pl">vuõj</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">voi</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">масло</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="02">
 		<lg>
 			<l pos="v">vuõjjâd</l>
@@ -11213,6 +13754,43 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vuõssargg</l>
+			<infl gloss="nom.pl">vuõssaarǥ</infl>
+			<infl gloss="gen.sg">vuõssaarǥ</infl>
+			<infl gloss="acc.sg">vuõssaarǥ</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">maanantai</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">понедельник</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="yes" kurss="yes">
+				<x type="infl" pos="n">vuõssaarǥ</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">maanantaina</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">в понедельник</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="ord">vuõssmõs</l>
@@ -11233,6 +13811,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vuõššân</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">ensin, ensiksi</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">во-первых, сначала</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">vuˊvrrmmään</l>
@@ -11248,6 +13848,51 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">vâjjeei</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">vihainen (koirasta)</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">злой (о собаке)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="v">väällad</l>
+			<infl gloss="3sg.prs">vääll</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">kaataa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t imperf="налить">лить</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -11274,6 +13919,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="v">vääʹlʼjed</l>
+			<infl gloss="1sg.prs">vääʹlʼjam</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">leipoa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">печь (хлеб, булку)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="02">
@@ -11305,6 +13973,40 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="xxx"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">väʹldded</l>
+			<infl gloss="1sg.prs">vääldam</infl>
+			<infl gloss="3sg.prs">väldd</infl>
+			<infl gloss="imp.sg">vääʹld</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">ottaa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">брать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="no" kurss="yes">
+				<x type="imperative" pos="v">täʹst, vääʹld</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">ole hyvä! (= Tässä, ota!)</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">пожалуйста, будь добр! (= Возьми!)</xt>
+				</xtg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -11410,6 +14112,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">võl</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">vielä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">ещё</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="02">
 		<lg>
 			<l pos="n">võrr</l>
@@ -11440,6 +14164,30 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="xxx"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">võrr</l>
+			<infl gloss="nom.pl">võõr</infl>
+			<infl gloss="loc.pl">võõrâst</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">veri</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">кровь</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -11569,6 +14317,51 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">Äännaž</l>
+			<infl gloss="xxx">Äännže</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">Anni</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">Анюшка</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">Äʹnn</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">Anni</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">Аня</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -11824,6 +14617,25 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="01">
+		<lg>
+			<l pos="n">âˊlmm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="n">xxxsky</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">xxxheaven</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">taivas</t>
+			</tg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+		</mg>
+	</e>
 	<e meta="03">
 		<lg>
 			<l pos="n">âˊlǧǧ</l>
@@ -11860,25 +14672,6 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
-	<e meta="01">
-		<lg>
-			<l pos="n">âˊlmm</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="n">xxxsky</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="n">xxxheaven</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="n">taivas</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
 	<e meta="03">
 		<lg>
 			<l pos="v">äiggad</l>
@@ -11902,6 +14695,95 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="1"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">äiggad</l>
+			<infl gloss="1sg.prs">ääiǥam</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">aikoa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">планировать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">äiʹdd</l>
+			<infl gloss="nom.pl">ääiʹd</infl>
+			<infl gloss="xxx">aiddu</infl>
+			<infl gloss="loc.sg">ääiˊdest</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">aita</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">aitaan</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">ограда</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">забор</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">äiʹǧǧ</l>
+			<infl gloss="nom.pl">ääiʹj</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">aika</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">время</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<xg oahpa="no" kurss="yes">
+				<x type="np" pos="n-n">ääiʹj ǩeeʹjjest</x>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">ajan kuluttua</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">с течением времени</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="xxx">xxx</xt>
+				</xtg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -11942,6 +14824,30 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">äldd</l>
+			<infl gloss="nom.pl">ääld</infl>
+			<infl gloss="acc.pl">ääldaid</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">vaadin</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">важенка</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">ääkkaž</l>
@@ -11978,6 +14884,55 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">ääʹveed</l>
+			<infl gloss="3sg.prs">äävad</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">avata</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">открывать</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">äʹlǧǧed</l>
+			<infl gloss="3sg.prs">älgg</infl>
+			<infl gloss="2sg.prs">äälǥak</infl>
+			<infl gloss="3pl.prs">äˊlǧǧe</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">alkaa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">начинать</t>
+				<t pos="xxx">начинаться</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -12086,6 +15041,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
+			<l pos="xxx">årra</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">luo, luokse</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">к (кому)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
 			<l pos="v">årsted</l>
 		</lg>
 		<mg>
@@ -12130,6 +15107,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
+			<l pos="xxx">åskkad</l>
+			<infl gloss="conneg.prs">ååsk</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">uskoa</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">верить</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
 			<l pos="adv">åuggan</l>
 		</lg>
 		<mg>
@@ -12148,6 +15148,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="1"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">åuggan</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">ulkona</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">на дворе</t>
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="02">
@@ -12249,6 +15272,34 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">åʹrnn</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">luona</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="xxx">luota</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">у (кого)</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">от (кого)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -12544,6 +15595,46 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="04">
+		<lg>
+			<l pos="abbr">č</l>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="abbr">h</t>
+			</tg>
+			<xg>
+				<x pos="xxx">40 č</x>
+				<xtg xml:lang="fin">
+					<xt pos="ххх">40 h</xt>
+					<xt pos="ххх">40 tuntia</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="TIME"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
+		</mg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="abbr">klo</t>
+			</tg>
+			<xg>
+				<x pos="xxx">č 17.00</x>
+				<xtg xml:lang="fin">
+					<xt pos="ххх">klo 17.00</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="TIME"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
+		</mg>
+	</e>
 	<e meta="02">
 		<lg>
 			<l pos="a">čappâd</l>
@@ -12761,6 +15852,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<sem class="ASE"/>
 				<sem class="MOTION"/>
 				<sem class="NATURE"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n">čuäjtõs</l>
+			<lv variant="xxx">čuäitõs</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="fin">
+				<t pos="n">näyttely</t>
+			</tg>
+			<xg>
+				<x pos="n">ǩiõttʼtuejjčuäjtõs</x>
+				<xtg xml:lang="deu">
+					<xt pos="n">Handwerksausstellung</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="xxx"/>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -13220,6 +16334,30 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">še</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">myös</t>
+				<t pos="xxx">-kin</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">тоже</t>
+				<t pos="xxx">также</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">šellj</l>
@@ -13232,6 +16370,30 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">šellj</l>
+			<infl gloss="nom.pl">šeellj</infl>
+			<infl gloss="xxx">šillju</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">piha</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">двор</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -13274,6 +16436,50 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
+			<l pos="a">šiõǥǥ</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">hyvä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">хороший</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="adv">šiõǥǥ</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">hyvä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">хорошо</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
 			<l pos="n">škaapp</l>
 			<etymology>
 				<etymon type="loan" source="xxx">xxx</etymon>
@@ -13306,6 +16512,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">škaapp</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">kaappi</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">шкаф</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -13352,6 +16580,29 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">škooul</l>
+			<infl gloss="loc.sg">škooulâst</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">koulu</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">школа</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="04">
 		<lg>
 			<l pos="con">što</l>
@@ -13372,6 +16623,28 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="xxx"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">što</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">että</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">что</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="02">
@@ -13406,6 +16679,53 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">šâʹldd</l>
+			<infl gloss="nom.pl">šââʹld</infl>
+			<infl gloss="acc.pl">šââʹldid</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">lattia</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">полы</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">šâʹlddräänn</l>
+			<infl gloss="nom.pl">šâʹlddrään</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">matto</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">ковёр</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">šâˊldd</l>
@@ -13417,6 +16737,67 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">šõddâd</l>
+			<infl gloss="3sg.prs">šâdd</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">syntyä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">родиться</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+		<mg>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">tulla (jksn)</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">становиться (кем-, чем-либо)</t>
+				<t pos="xxx">появляться (на свет)</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">šõddâmpeiʹvv</l>
+			<infl gloss="nom.pl">šõddâmpeeiʹv</infl>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">syntymäpäivä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">день рождения</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -13439,6 +16820,30 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
+		</mg>
+	</e>
+	<e meta="03">
+		<lg>
+			<l pos="xxx">žaar</l>
+		</lg>
+		<mg>
+			<sources>
+				<book name="Kurss" lesson="dict"/>
+			</sources>
+			<semantics>
+				<sem class="xxx"/>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="xxx">kuume</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">лихорадка</t>
+				<t pos="xxx">жар</t>
+				<t pos="xxx">повышенная температура</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -13867,6 +17272,36 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n+n">ǩiõttʼtuejj</l>
+			<lv variant="xxx">ǩiõttʼtuâjj</lv>
+			<lv variant="orth">ǩiõtt-tuâjj</lv>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="n">рукоделие</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">käsityö</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">duodji</t>
+			</tg>
+			<xg>
+				<x type="np" pos="a-n">nuõrttsaaˊmi ǩiõttʼtuejj</x>
+				<xtg xml:lang="rus">
+					<xt pos="xxx">колттасаамское рукоделие</xt>
+				</xtg>
+			</xg>
+			<semantics>
+				<sem class="DUODJI"/>
+			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
+		</mg>
+	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">ǩiõǥǥnjuõll</l>
@@ -13908,3438 +17343,6 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">äiʹdd</l>
-			<infl gloss="nom.pl">ääiʹd</infl>
-			<infl gloss="xxx">aiddu</infl>
-			<infl gloss="loc.sg">ääiˊdest</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">aita</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">aitaan</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">ограда</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">забор</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">äiggad</l>
-			<infl gloss="1sg.prs">ääiǥam</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">aikoa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">планировать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">äiʹǧǧ</l>
-			<infl gloss="nom.pl">ääiʹj</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">aika</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">время</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="no" kurss="yes">
-				<x type="np" pos="n-n">ääiʹj ǩeeʹjjest</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">ajan kuluttua</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">с течением времени</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">äldd</l>
-			<infl gloss="nom.pl">ääld</infl>
-			<infl gloss="acc.pl">ääldaid</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">vaadin</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">важенка</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">äʹlǧǧed</l>
-			<infl gloss="3sg.prs">älgg</infl>
-			<infl gloss="2sg.prs">äälǥak</infl>
-			<infl gloss="3pl.prs">äˊlǧǧe</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">alkaa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">начинать</t>
-				<t pos="xxx">начинаться</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">Äʹnn</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">Anni</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">Аня</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">Äännaž</l>
-			<infl gloss="xxx">Äännže</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">Anni</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">Анюшка</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">ääʹveed</l>
-			<infl gloss="3sg.prs">äävad</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">avata</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">открывать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">åʹrnn</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">luona</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">luota</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">у (кого)</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">от (кого)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">årra</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">luo, luokse</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">к (кому)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">åskkad</l>
-			<infl gloss="conneg.prs">ååsk</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">uskoa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">верить</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">åuggan</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">ulkona</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">на дворе</t>
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">žaar</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">kuume</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">лихорадка</t>
-				<t pos="xxx">жар</t>
-				<t pos="xxx">повышенная температура</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vaalmâš</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">valmis</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">готовый</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vaarõõttâd</l>
-			<infl gloss="3sg.prs">vaarââtt</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">olla varuillaan, varoa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">остерегаться,  опасаться</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="no" kurss="yes">
-				<x type="vp" pos="v-pro">vaarââtt tõʹst</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">(hän) varoo sitä</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">(он) остерегается</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">(он) опасается этого</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vaʹstteed</l>
-			<infl gloss="3sg.prs">vaʹsttad</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">vastata</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">отвечать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vâjjeei</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">vihainen (koirasta)</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">злой (о собаке)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">veärr</l>
-			<infl gloss="nom.pl">veär</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">keitto</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">ruoka</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">еда</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">суп</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">viiššâd</l>
-			<infl gloss="conneg.prs">viižž</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">viitsiä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">мне полениться, мне лень</t>
-				<!-- typo im Buch-->
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">viiššlânji</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">ahkerastit</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">усердно</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">viʹllj</l>
-			<infl gloss="nom.pl">viiʹllj</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">veli</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">брат</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">viõǥǥteʹmes</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">voimaton</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">бессильный, слабый</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">viõlggâd (#viõʹlǧǧes)</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">valkoinen</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">белый</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">viõʹlǧǧesleiʹbb</l>
-			<infl gloss="nom.pl">viõʹlǧǧesleeiʹb</infl>
-			<infl gloss="acc.pl">viõʹlǧǧesleeiʹbid</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">pulla</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">булка</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">viskkâd (#viˊsǩǩes)</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">keltainen</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">жёлтый</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">võl</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">vielä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">ещё</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">võrr</l>
-			<infl gloss="nom.pl">võõr</infl>
-			<infl gloss="loc.pl">võõrâst</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">veri</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">кровь</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vueʹlǧǧed</l>
-			<infl gloss="1sg.prs">vuâlǥam</infl>
-			<infl gloss="2sg.prs">vuâlǥak</infl>
-			<infl gloss="3sg.prs">vuâlgg</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">lähteä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">идти</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">уходить</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="no" kurss="yes">
-				<x type="question" pos="v-ptcl">vueʹlǧǧep-a</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">lähdemmekö</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">пойдём что ли</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">уходим что ли</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vuâlla</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">alle</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">под (куда)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vuâsti</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">varmaan, varmasti</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">наверно</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vueiʹnned</l>
-			<infl gloss="conneg.prs">vuäinnam</infl>
-			<infl gloss="3sg.prs">vuäinn</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">nähdä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">видеть</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vueiʹtted</l>
-			<infl gloss="conneg.prs">vueiʹt</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">voida, jaksaa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">мочь</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">быть в силах</t>
-				<t pos="xxx">быть в состоянии</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="no" kurss="yes">
-				<x type="question" pos="v-pcle">vuäitam-a</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">voinko</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">могу ли</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vueiʹvv</l>
-			<infl gloss="nom.sg">vueiʹv</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">pää</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">голова</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vuejjad</l>
-			<infl gloss="3sg.prs">vuejj</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">ajaa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">ехать, кататься</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vuejted</l>
-			<infl gloss="1pl.prs">vuejtep</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">ajattaa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">гнать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vueʹrdded</l>
-			<infl gloss="3sg.prs">vuârdd</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">odottaa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">ждать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vueʹss</l>
-			<infl gloss="nom.pl">vueʹzz</infl>
-			<infl gloss="acc.pl">vueʹzzid</infl>
-			<infl gloss="nom.poss3sg">vueʹzzes</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">vasa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">телёнок (оленя)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vueʹǯǯ</l>
-			<infl gloss="loc.sg">vueʹǯǯest</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">liha</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">мясо</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="yes" kurss="yes">
-				<x type="infl" pos="n">vueʹǯǯest</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">lihasta</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">из мяса</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-			<xg oahpa="yes" kurss="yes">
-				<x type="compound" pos="n+n">vueʹǯǯveärr</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">lihakeito</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">мясный суп</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">мясное блюдо</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vuõjj</l>
-			<infl gloss="nom.pl">vuõj</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">voi</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">масло</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vuõssargg</l>
-			<infl gloss="nom.pl">vuõssaarǥ</infl>
-			<infl gloss="gen.sg">vuõssaarǥ</infl>
-			<infl gloss="acc.sg">vuõssaarǥ</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">maanantai</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">понедельник</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="yes" kurss="yes">
-				<x type="infl" pos="n">vuõssaarǥ</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">maanantaina</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">в понедельник</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vuõššân</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">ensin, ensiksi</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">во-первых, сначала</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vuäʹbb</l>
-			<infl gloss="nom.pl">vueʹbb</infl>
-			<infl gloss="xxx">vuäʹbbed</infl>
-			<infl gloss="xxx">vuäbbab</infl>
-			<infl gloss="poss3.com.sg">vueʹbbines</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">sisar</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">сестра (echte)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="no" kurss="yes">
-				<x type="infl" pos="n">vueʹbbines</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">sisarensa kanssa</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">с сестрой</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="a">vuäʹmes (#vuäʹmm)</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">vanha</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">старый</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vuäʹstted</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">ostaa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">покупать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">vuäǯǯad</l>
-			<infl gloss="2sg.prs">vuäǯǯak</infl>
-			<infl gloss="prtpfc">vuäǯǯam</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">saada</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">моч</t>
-				<t pos="xxx">иметь право</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">получать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">väʹldded</l>
-			<infl gloss="1sg.prs">vääldam</infl>
-			<infl gloss="3sg.prs">väldd</infl>
-			<infl gloss="imp.sg">vääʹld</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">ottaa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">брать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="no" kurss="yes">
-				<x type="imperative" pos="v">täʹst, vääʹld</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">ole hyvä! (= Tässä, ota!)</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">пожалуйста, будь добр! (= Возьми!)</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">Väʹsǩǩ</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">Vasko</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">Василий</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="v">vääʹlʼjed</l>
-			<infl gloss="1sg.prs">vääʹlʼjam</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">leipoa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">печь (хлеб, булку)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="v">väällad</l>
-			<infl gloss="3sg.prs">vääll</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">kaataa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t imperf="налить">лить</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="a">uˊcc</l>
-			<infl gloss="comp">uuˊccab</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">pieni</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">маленький</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">uhss</l>
-			<infl gloss="nom.pl">uus</infl>
-			<infl gloss="ill.sg">uʹhsse</infl>
-			<infl gloss="loc.sg">uusâst</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">ovi</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">дверь</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">uˊrččâd</l>
-			<infl gloss="3sg.prs">orčč</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">juosta</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">бегать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">uuˊrčted</l>
-			<infl gloss="3pl.prs">uuˊrčte</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">juoksuttaa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">гонять</t>
-				<t pos="xxx">заставлять бегать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">uˊvdded</l>
-			<infl gloss="3sg.prs">oudd</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">antaa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">давать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">taalkâs</l>
-			<infl gloss="nom.pl">talkkâz</infl>
-			<infl gloss="acc.pl">talkksid</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">lääke</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">лекарство</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">taarbšed</l>
-			<infl gloss="1sg.prs">taarbšam</infl>
-			<infl gloss="conneg.prs">taarbâš</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tarvita</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">надо</t>
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">Taarr</l>
-			<infl gloss="ill.sg">Taʹrre</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">Norja</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">Новрегия</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="n">tâʹlles</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">heti</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">сразу (же)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">-tâma</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t labial="-pa">-pä</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t labial="-han">-hän</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">ведь</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">teʹl</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">silloin, sitten</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">тогда</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">telvisia</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">televisio</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">телевизор</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="a/adv">jiânnai</l>
-			<infl gloss="comp">jäänab</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">enemmän</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">many</t>
-			</tg>
-		</mg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">очень</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">much</t>
-			</tg>
-			<xg oahpa="no" kurss="yes">
-				<x type="infl" pos="adv">teänab</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">enää</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">(не) больше</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tiârrâd</l>
-			<infl gloss="3pl.prs">teäʹrre</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">laukkoa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">бежать (о стаде)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tieʹtted</l>
-			<infl gloss="conneg.prs">tieʹđ</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tietää</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">знать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tiiʹǩ</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tänne</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">сюда</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="interj">tiõrv</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">terve</t>
-				<t pos="xxx">päivää</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">привет</t>
-				<t pos="xxx">добрый день</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">hei</t>
-				<t pos="xxx">god dag</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tiõrvâsvuõttpõrtt</l>
-			<infl gloss="ill.sg">tiõrvâsvuõttpõʹrtte</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">terveystalo</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">амбулатория (в деревне)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tiõrvted</l>
-			<infl gloss="3sg.prs">tiõrvad</infl>
-			<infl gloss="3pl.prs">tiõrvte</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tervehtiä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">(по)здороваться</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="interj">tiõrvvsa</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">ole hyvä (vastauksena kiitokseen)</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">пожалуйста; не стоит благодарности (в ответ на изъявление благодарности)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tiõttlõs</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tietenkin</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">известно</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tobddâd</l>
-			<infl gloss="1sg.prs">toobdam</infl>
-			<infl gloss="3sg.prs">tåbdd</infl>
-			<infl gloss="conneg.prs">toobd</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tuntea</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">чувствовать</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">знать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">toʹben</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">siellä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">там</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tok</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">sinne</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">туда</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tollstõõllâd</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tulistella</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">сидеть у костра</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">ton</l>
-			<infl gloss="gen.sg">tuu</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">sinä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">ты</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tõnt</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">siksi, sen takia</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">поэтому, по этой причине</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tõõŋâs</l>
-			<infl gloss="nom.pl">tõŋŋâz</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">varpu</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">веточка</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="pro">tõt</l>
-			<infl gloss="gen.sg">tõn</infl>
-			<infl gloss="ill.sg">tõõzz</infl>
-			<infl gloss="ill.sg">tõˊst</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">se</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">этот</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="yes" kurss="yes">
-				<x type="infl" pos="pro">tõʹst</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">siinä</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">оттуда</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">там</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="pro">tut</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tuo</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="yes" kurss="yes">
-				<x type="infl" pos="pro">tõõzz</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">sille</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">туда</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tuejj</l>
-			<infl gloss="loc.sg">tuejast</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">työ</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">работа</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="yes" kurss="yes">
-				<x type="infl" pos="n">tuejast</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">työssä</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">на работе</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tuejjeed</l>
-			<infl gloss="2sg.prs">tuejjääk</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tehdä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t imperf="сделать">делать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tueʹǩǩen</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">takana</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">за, из-за</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tueʹllʹjed</l>
-			<infl gloss="imp.sg">tueʹlle</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">pitää kiinni</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">держать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="n">tueʹlääž</l>
-			<infl gloss="xxx">tueʹlää</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">aamu</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">утро</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="yes" kurss="yes">
-				<x type="infl" pos="n">tueˊlää</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">aamulla</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">утром</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tueˊles-</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">aamu-</t>
-				<t pos="a">aamuinen</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="а" gender="m">утренний</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tuõddâr</l>
-			<infl gloss="nom.pl">tuõddra</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tunturi</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">сопка</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">тундра</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tuõđi</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">todella, tosiaan</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">на самом деле, вправду</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tuõtt</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tosi, totta</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">правда, правду (по правде); настоящий</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tuʹtǩǩeed</l>
-			<infl gloss="3sg.prs">tuʹtǩǩad</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tutkia</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">обследовать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tuʹvdded</l>
-			<infl gloss="3sg.prs">toudd</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">peitellä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">укрывать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">täʹbbe</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tänään</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">сегодня</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">täʹlvv</l>
-			<infl gloss="nom.pl">tääʹlv</infl>
-			<infl gloss="ill.sg">tälvva</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">talvi</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">зима</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="yes" kurss="yes">
-				<x type="infl" pos="n">tälvva</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">talvella</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">зимой</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tät</l>
-			<infl gloss="gen.sg">tän</infl>
-			<infl gloss="loc.sg">täˊst</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tämä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">этот</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="yes" kurss="yes">
-				<x type="infl" pos="pro">täʹst</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">tässä</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">здесь</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">отсюда</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">tättad</l>
-			<infl gloss="3sg.prs">tätt</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tahtoa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">хотеть</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">täujja</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">usein</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">часто</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="v">tää′vted</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tavoittaa</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">napata</t>
-				<t pos="xxx">siepata</t>
-				<t pos="xxx">tarttua</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="no" kurss="yes">
-				<x type="vp" pos="v-n">tääˊvted ǩidd</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">ottaa kiinni</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">брать (кого-что), схватить (кого-что)</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">šâʹldd</l>
-			<infl gloss="nom.pl">šââʹld</infl>
-			<infl gloss="acc.pl">šââʹldid</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">lattia</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">полы</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">šâʹlddräänn</l>
-			<infl gloss="nom.pl">šâʹlddrään</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">matto</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">ковёр</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">še</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">myös</t>
-				<t pos="xxx">-kin</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">тоже</t>
-				<t pos="xxx">также</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">šellj</l>
-			<infl gloss="nom.pl">šeellj</infl>
-			<infl gloss="xxx">šillju</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">piha</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">двор</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="a">šiõǥǥ</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">hyvä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">хороший</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="adv">šiõǥǥ</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">hyvä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">хорошо</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">škaapp</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">kaappi</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">шкаф</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">škooul</l>
-			<infl gloss="loc.sg">škooulâst</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">koulu</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">школа</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">šõddâd</l>
-			<infl gloss="3sg.prs">šâdd</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">syntyä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">родиться</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-		<mg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tulla (jksn)</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">становиться (кем-, чем-либо)</t>
-				<t pos="xxx">появляться (на свет)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">šõddâmpeiʹvv</l>
-			<infl gloss="nom.pl">šõddâmpeeiʹv</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">syntymäpäivä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">день рождения</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">što</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">että</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">что</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="adv">mä′htt</l>
-			<variants>
-				<var dialect="P" source="ksdp">mohtt</var>
-			</variants>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">как</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="pro">jiõčč</l>
-			<variants>
-				<var dialect="P" source="1991">jiičč</var>
-			</variants>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">itse</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="pro">tå′ben</l>
-			<variants>
-				<var dialect="P" source="1991">to′ben</var>
-			</variants>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">siellä, tuolla</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">там</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">sami</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">hyvin</t>
-				<t pos="xxx">oikein</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">очень</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">sââʹrr</l>
-			<infl gloss="nom.pl">sââʹr</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">mustikka</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">бот черника</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">seämma</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">sama</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">одинаковый; равный; такой же; тот же</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">seämmanalla</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">samalla tavalla, samoin</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">так же, таким же/подобным образом</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">siâŋgg</l>
-			<infl gloss="nom.pl">siâŋg</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">sänky</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">кровать</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">sijdd</l>
-			<infl gloss="nom.pl">siid</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">kylä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">село</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">siltteed</l>
-			<infl gloss="conneg.prs">silttâd</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">osata</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">уметь</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">siõm</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">pieni</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">маленький</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">siõmmna</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">vähän</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">чуточку, чуть-чуть, немного</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">siõrrâd</l>
-			<infl gloss="3pl.prs">seäʹrre</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">leikkiä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">играть</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="v" class="xxx">lue′štted</l>
-			<infl gloss="conneg.prs">lue′št</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">päästää</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">release</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="v" class="2.1.3.4">tie′tted</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tietää</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">know</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">sizz</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">sisään, sisälle</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">в (куда)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">soiʹttjed</l>
-			<infl gloss="3sg.prs">såitt</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">soittaa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">звонить</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">sokk</l>
-			<infl gloss="nom.pl">sooǥǥ</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">(naisen) suku</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">род (женщины) (о родословне)</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">son</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">hän</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t fem="она">он</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">sõrgg</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">pian</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">скоро</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">späʹsseb</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">kiitos</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">спасибо</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">takk</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="n">stuuʹl</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">tuoli</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">stuuˊl</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">стул</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="yes" kurss="yes">
-				<x type="deriv" pos="n">stuälaž</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">pöytänen, (pikkupöytä)</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">столик</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="xxx">sueʹǩǩ</l>
-			<infl gloss="nom.pl">sueʹjj</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">koivu</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">берёза</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="n">sueʹvet</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">lauantai</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">суббота</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="yes" kurss="yes">
-				<x type="infl" pos="n">sueʹvet</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">lauantaina</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">в субботу</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="v">suåppâd</l>
-			<infl gloss="2sg.prs">suåvak</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">sopia</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">подходить; договариваться, подходишь; договариваешься</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="n">säuʹnn</l>
-			<infl gloss="nom.pl">sääuʹn</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">sauna</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">баня</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="v">säʹtted</l>
-			<infl gloss="3sg.prs">sätt</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">saattaa</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">может быть</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<xg oahpa="no" kurss="yes">
-				<x type="infl" pos="v">sätt</x>
-				<xtg xml:lang="fin">
-					<xt pos="xxx">(se) saattaa</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">(это) может быть</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">kanskje</xt>
-				</xtg>
-			</xg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="n">säähhar</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">sokeri</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">сахар</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
 		</mg>
 	</e>
 </r>
