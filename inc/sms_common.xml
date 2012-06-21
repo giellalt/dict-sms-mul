@@ -16319,6 +16319,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="pcle">также</t>
+				<t pos="pcle">тоже</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="pcle">mjös</t>
@@ -16339,47 +16340,9 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pcle">še</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">myös</t>
-				<t pos="xxx">-kin</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">тоже</t>
-				<t pos="xxx">также</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="01">
-		<lg>
-			<l pos="n">šellj</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="n">courtyard</t>
-				<t pos="n">yard</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
 			<l pos="n">šellj</l>
 			<infl gloss="nom.pl">šeellj</infl>
-			<infl gloss="xxx">šillju</infl>
+			<infl gloss="ill.sg">šillju</infl>
 		</lg>
 		<mg>
 			<sources>
@@ -16396,6 +16359,10 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">courtyard</t>
+				<t pos="n">yard</t>
 			</tg>
 		</mg>
 	</e>
@@ -16439,28 +16406,6 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="a">šiõǥǥ</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">hyvä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">хороший</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
 			<l pos="adv">šiõǥǥ</l>
 		</lg>
 		<mg>
@@ -16495,7 +16440,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<t pos="n">шкаф</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="n">xxx</t>
+				<t pos="xxx">kaappi</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="n">xxx</t>
@@ -16515,28 +16460,6 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<sources>
 				<book name="Kurss" lesson="phon"/>
 			</sources>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="n">škaapp</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">kaappi</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">шкаф</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -16583,54 +16506,12 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
-	<e meta="03">
-		<lg>
-			<l pos="n">škooul</l>
-			<infl gloss="loc.sg">škooulâst</infl>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">koulu</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">школа</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
 	<e meta="04">
 		<lg>
 			<l pos="con">što</l>
 			<etymology>
 				<etymon type="loan" source="rus">что</etymon>
 			</etymology>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="con">что</t>
-			</tg>
-			<tg xml:lang="deu">
-				<t pos="con">dass</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="con">što</l>
 		</lg>
 		<mg>
 			<sources>
@@ -16647,6 +16528,9 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="con">dass</t>
 			</tg>
 		</mg>
 	</e>
@@ -17277,7 +17161,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="n+n">ǩiõttʼtuejj</l>
+			<l pos="n">ǩiõttʼtuejj</l>
 			<lv variant="xxx">ǩiõttʼtuâjj</lv>
 			<lv variant="orth">ǩiõtt-tuâjj</lv>
 		</lg>
