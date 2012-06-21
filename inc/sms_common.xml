@@ -16,7 +16,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</lics>
 	<e meta="03">
 		<lg>
-			<l pos="prtcl">-a</l>
+			<l pos="pcle">-a</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -29,7 +29,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<t pos="xxx">xxx</t>
 			</tg>
 			<xg>
-				<x type="xxx" pos="prtcl">naa-a</x>
+				<x type="xxx" pos="pcle">naa-a</x>
 				<xtg xml:lang="rus">
 					<xt pos="xxx">да есть</xt>
 				</xtg>
@@ -50,22 +50,22 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="prtcl">-i</l>
+			<l pos="pcle">-i</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="prtcl">ведь</t>
+				<t pos="pcle">ведь</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="prtcl">же</t>
+				<t pos="pcle">же</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="prtcl">-pa</t>
-				<t pos="prtcl">-pä</t>
+				<t pos="pcle">-pa</t>
+				<t pos="pcle">-pä</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="prtcl">-han</t>
-				<t pos="prtcl">-hän</t>
+				<t pos="pcle">-han</t>
+				<t pos="pcle">-hän</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
@@ -80,7 +80,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">-tâma</l>
+			<l pos="pcle">-tâma</l>
 		</lg>
 		<mg>
 			<sources>
@@ -265,7 +265,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">Taarr</l>
+			<l pos="pn">Taarr</l>
 			<infl gloss="ill.sg">Taʹrre</infl>
 		</lg>
 		<mg>
@@ -307,7 +307,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">Väʹsǩǩ</l>
+			<l pos="pn">Väʹsǩǩ</l>
 		</lg>
 		<mg>
 			<sources>
@@ -1627,7 +1627,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="prtcl">не</t>
+				<t pos="pcle">не</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="v">эйй</t>
@@ -1636,13 +1636,13 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<t pos="v">ei</t>
 			</tg>
 			<tg xml:lang="eng">
-				<t pos="prtcl">not</t>
+				<t pos="pcle">not</t>
 			</tg>
 			<tg xml:lang="deu">
-				<t pos="prtcl">nicht</t>
+				<t pos="pcle">nicht</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="prtcl">ikke</t>
+				<t pos="pcle">ikke</t>
 			</tg>
 			<semantics>
 				<sem class="ABSTRACT"/>
@@ -3116,7 +3116,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">kuâŋˈŋad</l>
+			<l pos="adp">kuâŋˈŋad</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -5589,7 +5589,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="prtcl">naa</l>
+			<l pos="pcle">naa</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -5602,7 +5602,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<t pos="xxx">xxx</t>
 			</tg>
 			<xg>
-				<x pos="prtcl">naa-a</x>
+				<x pos="pcle">naa-a</x>
 				<xtg xml:lang="rus">
 					<xt pos="xxx">да есть</xt>
 				</xtg>
@@ -6104,17 +6104,17 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="prtcl">nuˊtt</l>
+			<l pos="pcle">nuˊtt</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="prtcl">так</t>
+				<t pos="pcle">так</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="prtcl">niin</t>
+				<t pos="pcle">niin</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="prtcl">så</t>
+				<t pos="pcle">så</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -8341,7 +8341,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">sami</l>
+			<l pos="adv">sami</l>
 		</lg>
 		<mg>
 			<sources>
@@ -8462,7 +8462,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">seämma</l>
+			<l pos="a">seämma</l>
 		</lg>
 		<mg>
 			<sources>
@@ -8484,7 +8484,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">seämmanalla</l>
+			<l pos="a">seämmanalla</l>
 		</lg>
 		<mg>
 			<sources>
@@ -8678,7 +8678,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">siltteed</l>
+			<l pos="v">siltteed</l>
 			<infl gloss="conneg.prs">silttâd</infl>
 		</lg>
 		<mg>
@@ -8714,7 +8714,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="01">
 		<lg>
-			<l pos="adv">sizz</l>
+			<l pos="adp">sizz</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -8727,7 +8727,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">sizz</l>
+			<l pos="adp">sizz</l>
 		</lg>
 		<mg>
 			<sources>
@@ -8820,7 +8820,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">siõm</l>
+			<l pos="a">siõm</l>
 		</lg>
 		<mg>
 			<sources>
@@ -8842,7 +8842,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">siõmmna</l>
+			<l pos="adv">siõmmna</l>
 		</lg>
 		<mg>
 			<sources>
@@ -8883,7 +8883,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">siõrrâd</l>
+			<l pos="v">siõrrâd</l>
 			<infl gloss="3pl.prs">seäʹrre</infl>
 		</lg>
 		<mg>
@@ -9035,7 +9035,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">soiʹttjed</l>
+			<l pos="v">soiʹttjed</l>
 			<infl gloss="3sg.prs">såitt</infl>
 		</lg>
 		<mg>
@@ -9152,7 +9152,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">son</l>
+			<l pos="pro">son</l>
 		</lg>
 		<mg>
 			<sources>
@@ -9174,7 +9174,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">späʹsseb</l>
+			<l pos="interj">späʹsseb</l>
 		</lg>
 		<mg>
 			<sources>
@@ -9992,7 +9992,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">sõrgg</l>
+			<l pos="adv">sõrgg</l>
 		</lg>
 		<mg>
 			<sources>
@@ -10050,7 +10050,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">taalkâs</l>
+			<l pos="n">taalkâs</l>
 			<infl gloss="nom.pl">talkkâz</infl>
 			<infl gloss="acc.pl">talkksid</infl>
 		</lg>
@@ -10097,7 +10097,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">taarbšed</l>
+			<l pos="v">taarbšed</l>
 			<infl gloss="1sg.prs">taarbšam</infl>
 			<infl gloss="conneg.prs">taarbâš</infl>
 		</lg>
@@ -10281,7 +10281,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">teʹl</l>
+			<l pos="pcle">teʹl</l>
 		</lg>
 		<mg>
 			<sources>
@@ -10335,7 +10335,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tieʹtted</l>
+			<l pos="v">tieʹtted</l>
 			<infl gloss="conneg.prs">tieʹđ</infl>
 		</lg>
 		<mg>
@@ -10445,7 +10445,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tiiʹǩ</l>
+			<l pos="adv">tiiʹǩ</l>
 		</lg>
 		<mg>
 			<sources>
@@ -10467,7 +10467,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tiârrâd</l>
+			<l pos="v">tiârrâd</l>
 			<infl gloss="3pl.prs">teäʹrre</infl>
 		</lg>
 		<mg>
@@ -10543,7 +10543,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tiõrvted</l>
+			<l pos="v">tiõrvted</l>
 			<infl gloss="3sg.prs">tiõrvad</infl>
 			<infl gloss="3pl.prs">tiõrvte</infl>
 		</lg>
@@ -10656,7 +10656,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tiõttlõs</l>
+			<l pos="adv">tiõttlõs</l>
 		</lg>
 		<mg>
 			<sources>
@@ -10678,7 +10678,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tobddâd</l>
+			<l pos="v">tobddâd</l>
 			<infl gloss="1sg.prs">toobdam</infl>
 			<infl gloss="3sg.prs">tåbdd</infl>
 			<infl gloss="conneg.prs">toobd</infl>
@@ -10706,7 +10706,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tok</l>
+			<l pos="adv">tok</l>
 		</lg>
 		<mg>
 			<sources>
@@ -10762,7 +10762,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tollstõõllâd</l>
+			<l pos="v">tollstõõllâd</l>
 		</lg>
 		<mg>
 			<sources>
@@ -10852,7 +10852,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">ton</l>
+			<l pos="pro">ton</l>
 			<infl gloss="gen.sg">tuu</infl>
 		</lg>
 		<mg>
@@ -10875,7 +10875,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">toʹben</l>
+			<l pos="adv">toʹben</l>
 		</lg>
 		<mg>
 			<sources>
@@ -11088,7 +11088,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tuejjeed</l>
+			<l pos="v">tuejjeed</l>
 			<infl gloss="2sg.prs">tuejjääk</infl>
 		</lg>
 		<mg>
@@ -11111,7 +11111,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tueʹllʹjed</l>
+			<l pos="v">tueʹllʹjed</l>
 			<infl gloss="imp.sg">tueʹlle</infl>
 		</lg>
 		<mg>
@@ -11169,7 +11169,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tueʹǩǩen</l>
+			<l pos="adp">tueʹǩǩen</l>
 		</lg>
 		<mg>
 			<sources>
@@ -11191,7 +11191,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tueˊles-</l>
+			<l pos="a">tueˊles-</l>
 		</lg>
 		<mg>
 			<sources>
@@ -11327,7 +11327,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tuõvâs</l>
+			<l pos="n">tuõvâs</l>
 			<infl>
 				<form case="nom" number="pl">tuõvˈvâz</form>
 			</infl>
@@ -11355,7 +11355,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tuõđi</l>
+			<l pos="adv">tuõđi</l>
 		</lg>
 		<mg>
 			<sources>
@@ -11377,7 +11377,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tuʹtǩǩeed</l>
+			<l pos="v">tuʹtǩǩeed</l>
 			<infl gloss="3sg.prs">tuʹtǩǩad</infl>
 		</lg>
 		<mg>
@@ -11400,7 +11400,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tuʹvdded</l>
+			<l pos="v">tuʹvdded</l>
 			<infl gloss="3sg.prs">toudd</infl>
 		</lg>
 		<mg>
@@ -11494,7 +11494,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tät</l>
+			<l pos="pro">tät</l>
 			<infl gloss="gen.sg">tän</infl>
 			<infl gloss="loc.sg">täˊst</infl>
 		</lg>
@@ -11533,7 +11533,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tättad</l>
+			<l pos="v">tättad</l>
 			<infl gloss="3sg.prs">tätt</infl>
 		</lg>
 		<mg>
@@ -11556,7 +11556,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">täujja</l>
+			<l pos="adv">täujja</l>
 		</lg>
 		<mg>
 			<sources>
@@ -11646,7 +11646,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">täʹbbe</l>
+			<l pos="adv">täʹbbe</l>
 		</lg>
 		<mg>
 			<sources>
@@ -11942,7 +11942,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">tõõŋâs</l>
+			<l pos="n">tõõŋâs</l>
 			<infl gloss="nom.pl">tõŋŋâz</infl>
 		</lg>
 		<mg>
@@ -12035,7 +12035,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">uuˊrčted</l>
+			<l pos="v">uuˊrčted</l>
 			<infl gloss="3pl.prs">uuˊrčte</infl>
 		</lg>
 		<mg>
@@ -12130,7 +12130,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">uˊrččâd</l>
+			<l pos="v">uˊrččâd</l>
 			<infl gloss="3sg.prs">orčč</infl>
 		</lg>
 		<mg>
@@ -12153,7 +12153,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">uˊvdded</l>
+			<l pos="v">uˊvdded</l>
 			<infl gloss="3sg.prs">oudd</infl>
 		</lg>
 		<mg>
@@ -12232,7 +12232,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vaalmâš</l>
+			<l pos="a">vaalmâš</l>
 		</lg>
 		<mg>
 			<sources>
@@ -12254,7 +12254,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vaarõõttâd</l>
+			<l pos="v">vaarõõttâd</l>
 			<infl gloss="3sg.prs">vaarââtt</infl>
 		</lg>
 		<mg>
@@ -12314,7 +12314,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vaʹstteed</l>
+			<l pos="v">vaʹstteed</l>
 			<infl gloss="3sg.prs">vaʹsttad</infl>
 		</lg>
 		<mg>
@@ -12446,7 +12446,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">viiššlânji</l>
+			<l pos="adv">viiššlânji</l>
 		</lg>
 		<mg>
 			<sources>
@@ -12468,7 +12468,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">viiššâd</l>
+			<l pos="v">viiššâd</l>
 			<infl gloss="conneg.prs">viižž</infl>
 		</lg>
 		<mg>
@@ -12525,7 +12525,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">viskkâd (#viˊsǩǩes)</l>
+			<l pos="a">viskkâd (#viˊsǩǩes)</l>
 		</lg>
 		<mg>
 			<sources>
@@ -12596,7 +12596,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">viõlggâd (#viõʹlǧǧes)</l>
+			<l pos="a">viõlggâd (#viõʹlǧǧes)</l>
 		</lg>
 		<mg>
 			<sources>
@@ -12618,7 +12618,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">viõǥǥteʹmes</l>
+			<l pos="a">viõǥǥteʹmes</l>
 		</lg>
 		<mg>
 			<sources>
@@ -12754,7 +12754,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vueiʹnned</l>
+			<l pos="v">vueiʹnned</l>
 			<infl gloss="conneg.prs">vuäinnam</infl>
 			<infl gloss="3sg.prs">vuäinn</infl>
 		</lg>
@@ -12778,7 +12778,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vueiʹtted</l>
+			<l pos="v">vueiʹtted</l>
 			<infl gloss="conneg.prs">vueiʹt</infl>
 		</lg>
 		<mg>
@@ -12972,7 +12972,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vuejjad</l>
+			<l pos="v">vuejjad</l>
 			<infl gloss="3sg.prs">vuejj</infl>
 		</lg>
 		<mg>
@@ -12995,7 +12995,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vuejted</l>
+			<l pos="v">vuejted</l>
 			<infl gloss="1pl.prs">vuejtep</infl>
 		</lg>
 		<mg>
@@ -13018,7 +13018,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vueʹlǧǧed</l>
+			<l pos="v">vueʹlǧǧed</l>
 			<infl gloss="1sg.prs">vuâlǥam</infl>
 			<infl gloss="2sg.prs">vuâlǥak</infl>
 			<infl gloss="3sg.prs">vuâlgg</infl>
@@ -13061,7 +13061,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vueʹrdded</l>
+			<l pos="v">vueʹrdded</l>
 			<infl gloss="3sg.prs">vuârdd</infl>
 		</lg>
 		<mg>
@@ -13291,7 +13291,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vuâlla</l>
+			<l pos="adp">vuâlla</l>
 		</lg>
 		<mg>
 			<sources>
@@ -13313,7 +13313,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vuâsti</l>
+			<l pos="adv">vuâsti</l>
 		</lg>
 		<mg>
 			<sources>
@@ -13379,7 +13379,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vuäǯǯad</l>
+			<l pos="v">vuäǯǯad</l>
 			<infl gloss="2sg.prs">vuäǯǯak</infl>
 			<infl gloss="prtpfc">vuäǯǯam</infl>
 		</lg>
@@ -13467,7 +13467,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vuäʹstted</l>
+			<l pos="v">vuäʹstted</l>
 		</lg>
 		<mg>
 			<sources>
@@ -13813,7 +13813,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vuõššân</l>
+			<l pos="adv">vuõššân</l>
 		</lg>
 		<mg>
 			<sources>
@@ -13852,7 +13852,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">vâjjeei</l>
+			<l pos="a">vâjjeei</l>
 		</lg>
 		<mg>
 			<sources>
@@ -13977,7 +13977,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">väʹldded</l>
+			<l pos="v">väʹldded</l>
 			<infl gloss="1sg.prs">vääldam</infl>
 			<infl gloss="3sg.prs">väldd</infl>
 			<infl gloss="imp.sg">vääʹld</infl>
@@ -14114,7 +14114,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">võl</l>
+			<l pos="adv">võl</l>
 		</lg>
 		<mg>
 			<sources>
@@ -14699,7 +14699,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">äiggad</l>
+			<l pos="v">äiggad</l>
 			<infl gloss="1sg.prs">ääiǥam</infl>
 		</lg>
 		<mg>
@@ -14888,7 +14888,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">ääʹveed</l>
+			<l pos="v">ääʹveed</l>
 			<infl gloss="3sg.prs">äävad</infl>
 		</lg>
 		<mg>
@@ -14911,7 +14911,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">äʹlǧǧed</l>
+			<l pos="v">äʹlǧǧed</l>
 			<infl gloss="3sg.prs">älgg</infl>
 			<infl gloss="2sg.prs">äälǥak</infl>
 			<infl gloss="3pl.prs">äˊlǧǧe</infl>
@@ -15041,7 +15041,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">årra</l>
+			<l pos="adp">årra</l>
 		</lg>
 		<mg>
 			<sources>
@@ -15107,7 +15107,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">åskkad</l>
+			<l pos="v">åskkad</l>
 			<infl gloss="conneg.prs">ååsk</infl>
 		</lg>
 		<mg>
@@ -15152,7 +15152,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">åuggan</l>
+			<l pos="adv">åuggan</l>
 		</lg>
 		<mg>
 			<sources>
@@ -15276,7 +15276,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">åʹrnn</l>
+			<l pos="adp">åʹrnn</l>
 		</lg>
 		<mg>
 			<sources>
@@ -16308,23 +16308,23 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="prtcl">še</l>
+			<l pos="pcle">še</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="prtcl">тоже</t>
+				<t pos="pcle">тоже</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="prtcl">также</t>
+				<t pos="pcle">также</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="prtcl">mjös</t>
+				<t pos="pcle">mjös</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="prtcl">-kin</t>
+				<t pos="pcle">-kin</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="prtcl">også</t>
+				<t pos="pcle">også</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -16336,7 +16336,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">še</l>
+			<l pos="pcle">še</l>
 		</lg>
 		<mg>
 			<sources>
@@ -16627,7 +16627,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">što</l>
+			<l pos="con">što</l>
 		</lg>
 		<mg>
 			<sources>
@@ -16741,7 +16741,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="xxx">šõddâd</l>
+			<l pos="v">šõddâd</l>
 			<infl gloss="3sg.prs">šâdd</infl>
 		</lg>
 		<mg>
