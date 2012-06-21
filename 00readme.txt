@@ -4,9 +4,18 @@ Documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
 
 Incoming raw files go into inc/
 
-Apostrophe ´ is Modifier Letter Apostrophe
+=====
+Preliminary conventions
+=====
+′ = 02B9.PRIME
+ˈ = 02C8 MODIFIER LETTER VERTICAL LINE (overlang geminate, P.Sammallahti)
+ʼ = 02BC MODIFIER LETTER APOSTROPHE (marking a new "palatalization foot") 
 
 English default is "American"
+Russian uses ё
+
+* the current solution with inflected forms in <xg> is preliminary (I want to include both the nom.sg and the inflected forms with their translations, because they all are also included in the teaching materials. However, I do not want to have own lemmas for inflected forms)
+* field <infl> is preliminary, the listed forms are used while finding a better system to describe inflection classes
 
 =====
 meta
@@ -18,7 +27,7 @@ on the e-element in the xml files:
 
 02 - 99-word list from the current smsoahpa; this word list with multiple translations, taken from the 100-Swadesh-list, was originally collected by Michael Rießler.
 
-03 - word list from teaching materials under deveolpment by the Project "Skolt Saami Culture across Borders" (building on an already existing Finnish version, which is extended with Russian [Eino Koponen] and Norwegian [Michael Rießler] translations); each lesson of this materials gets its own attribute
+03 - word list from teaching materials under deveolpment by the Project "Skolt Saami Culture across Borders" (building on an already existing Finnish version, which is extended with Russian [Eino Koponen] and Norwegian [Michael Rießler] translations); each lesson of this materials gets its own attribute ("phon" is from the phonological explanations and exercises, "dict" is from the word list)
 
 04 - entries added manually by Michael Rießler; these are mostly from field- or other notes and will serve to test the most appropriate structure for the "common" dictionary database
 
@@ -28,12 +37,6 @@ TODO
 
 TODO's 
 * write better documentation
-* think about better grouping, e.g.
-** <lg>
-** <etymology group>
-** <oahpa group> (simpler <mg> for oahpa export) 
-** <mg> (complete information, for dictionary export)
-** …
 * fill in xxx's
 * check <t> vs. <tg> vs. <mg>
 * check <tr> <te> (what exactly does it mean?)
@@ -42,17 +45,16 @@ TODO's
 Pronouns
 =====
 * check inflected personal pronouns (e.g. <l pos="PRO" person="2" number="sg">tun</l>) (how should they be listed?)
-* the current solution with inflected forms in <xg> is preliminary (I want to include both the nom.sg and the inflected forms with their translations, because they all are also included in the teaching materials. However, I do not want to have own lemmas for inflected forms)
 
 ====
 PoS
 ====
-* multiword (phrasal) expressions, does this make sense: pos="[AdP]" "[NP]" "[S]" etc.?
+* how to deal with multiword (phrasal) expressions?
 
 =====
 Variants
 =====
-* check orthographic variants with and without "overlenght", e.g. ǩeâđđa ~ ǩeâđ'đa
+* how to deal with different kinds of variants
 
 =====
 pos="abbr"
