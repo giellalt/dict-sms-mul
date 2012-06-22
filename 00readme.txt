@@ -7,7 +7,7 @@ Incoming raw files go into inc/
 =====
 Preliminary conventions
 =====
-′ = 02B9.PRIME
+ʹ = 02B9.MODIFIER LETTER PRIME
 ˈ = 02C8 MODIFIER LETTER VERTICAL LINE (overlang geminate, P.Sammallahti)
 ʼ = 02BC MODIFIER LETTER APOSTROPHE (marking a new "palatalization foot") 
 
