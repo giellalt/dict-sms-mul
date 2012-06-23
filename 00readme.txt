@@ -7,9 +7,17 @@ Incoming raw files go into inc/
 =====
 Preliminary conventions
 =====
-ʹ = 02B9.MODIFIER LETTER PRIME
-ˈ = 02C8 MODIFIER LETTER VERTICAL LINE (overlang geminate, P.Sammallahti)
+ʹ = 02B9.MODIFIER LETTER PRIME (This is a syllable break)
+!! e.g. 'to be heard' kollʹjed 
+ˈ = 02C8 MODIFIER LETTER VERTICAL LINE (extra long geminate, P.Sammallahti)
+!! e.g. 'to trust' veârrad+V+Ind+Prs+Pl3: veâr'ra
 ʼ = 02BC MODIFIER LETTER APOSTROPHE (marking a new "palatalization foot") 
+!! e.g. 'to eat' poorrâd+V+Ind+Prs+Pl3: påˊrre
+
+!! example of all three at once:
+!! 'hot, burning' puõˊlli+A+Sg+loc: puõʼlˈlʹjest
+!! puõʼ[02BC]lˈ[02C8]lʹ[02B9]jest
+
 
 English default is "American"
 Russian uses ё
