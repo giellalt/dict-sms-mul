@@ -5,20 +5,27 @@ Documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
 Incoming raw files go into inc/
 
 =====
-Preliminary conventions
+Preliminary conventions: apostophe
 =====
-ʹ = 02B9.MODIFIER LETTER PRIME (This is a syllable break)
-!! e.g. 'to be heard' kollʹjed 
-ˈ = 02C8 MODIFIER LETTER VERTICAL LINE (extra long geminate, P.Sammallahti)
-!! e.g. 'to trust' veârrad+V+Ind+Prs+Pl3: veâr'ra
-ʼ = 02BC MODIFIER LETTER APOSTROPHE (marking a new "palatalization foot") 
-!! e.g. 'to eat' poorrâd+V+Ind+Prs+Pl3: påˊrre
+Conventions used preliminary for the present file by M.Rießler (unlike the xfst). Note that KOTUS standardized U+00B4 ACUTE ACCENT as the Skolt Saami Palatalization (http://scripta.kotus.fi/www/verkkojulkaisut/julk6/Omin_sanoin.pdf). However, Skolt Saami writers in Sevettijärvi seem not to follow this standard today.
+
+ʹ = 02B9.MODIFIER LETTER PRIME (suprasegmental palatalization affecting the whole "palatalization foot")
+!! e.g. 'to eat' poorrâd+V+Ind+Prs+Pl3: påʹrre
+
+ˈ = 02C8 MODIFIER LETTER VERTICAL LINE (extra long geminate, used by P.Sammallahti in dictionaries)
+!! e.g. 'to trust' veârrad+V+Ind+Prs+Pl3: veârˈra
+
+ʼ = 02BC MODIFIER LETTER APOSTROPHE (a syllable break, marking also a new "palatalization foot") 
+!! e.g. 'to be heard' kollʼjed 
 
 !! example of all three at once:
-!! 'hot, burning' puõˊlli+A+Sg+loc: puõʼlˈlʹjest
-!! puõʼ[02BC]lˈ[02C8]lʹ[02B9]jest
+!! 'hot, burning' puõˊlli+A+Sg+loc: puõʹlˈlʼjest
+!! puõʹ[02B9]lˈ[02C8]lʼ[02BC]jest
 
 
+=====
+Preliminary conventions: other
+=====
 English default is "American"
 Russian uses ё
 
