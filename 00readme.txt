@@ -5,12 +5,12 @@ Documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
 Incoming raw files go into inc/
 
 =====
-Preliminary conventions: apostophe
+Preliminary conventions: apostophes
 =====
-Conventions used preliminary for the present file by M.Rießler (unlike the xfst). Note that KOTUS standardized U+00B4 ACUTE ACCENT as the Skolt Saami Palatalization (http://scripta.kotus.fi/www/verkkojulkaisut/julk6/Omin_sanoin.pdf). However, Skolt Saami writers in Sevettijärvi seem not to follow this standard today.
+Conventions used preliminary for the present file by M.Rießler (like the xfst). Note that KOTUS standardized U+00B4 ACUTE ACCENT as the Skolt Saami Palatalization (http://scripta.kotus.fi/www/verkkojulkaisut/julk6/Omin_sanoin.pdf). However, Skolt Saami writers in Sevettijärvi seem not to follow this standard today.
 
-ʹ = 02B9.MODIFIER LETTER PRIME (suprasegmental palatalization affecting the whole "palatalization foot")
-!! e.g. 'to eat' poorrâd+V+Ind+Prs+Pl3: påʹrre
+ˊ = 02CA MODIFIER LETTER ACUTE ACCENT (suprasegmental palatalization affecting the whole "palatalization foot")
+!! e.g. 'to eat' poorrâd+V+Ind+Prs+Pl3: påˊrre
 
 ˈ = 02C8 MODIFIER LETTER VERTICAL LINE (extra long geminate, used by P.Sammallahti in dictionaries)
 !! e.g. 'to trust' veârrad+V+Ind+Prs+Pl3: veârˈra
@@ -19,8 +19,8 @@ Conventions used preliminary for the present file by M.Rießler (unlike the xfst
 !! e.g. 'to be heard' kollʼjed 
 
 !! example of all three at once:
-!! 'hot, burning' puõˊlli+A+Sg+loc: puõʹlˈlʼjest
-!! puõʹ[02B9]lˈ[02C8]lʼ[02BC]jest
+!! 'hot, burning' puõˊlli+A+Sg+loc: puõˊlˈlʼjest
+!! puõˊ[02B9]lˈ[02C8]lʼ[02BC]jest
 
 
 =====
