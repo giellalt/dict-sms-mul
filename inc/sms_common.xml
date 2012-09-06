@@ -1182,7 +1182,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ASE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -1870,7 +1870,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ABSTRACT"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -1932,7 +1932,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -1971,7 +1971,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ANIMAL"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -2244,7 +2244,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -2350,7 +2350,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -2381,7 +2381,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -2580,7 +2580,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ANIMAL"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -3018,7 +3018,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NUMBER"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -3053,7 +3053,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -3084,7 +3084,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -3197,7 +3197,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -3631,7 +3631,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ABSTRACT"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -3890,7 +3890,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ANIMAL"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -4049,7 +4049,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -4082,7 +4082,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ANIMAL"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -4214,7 +4214,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -4234,6 +4234,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 		<mg>
@@ -4526,7 +4527,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -4559,7 +4560,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ANIMAL"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -4875,7 +4876,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -4911,7 +4912,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -5128,7 +5129,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -5368,7 +5369,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -5489,6 +5490,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -5557,7 +5559,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 		<mg>
@@ -6183,7 +6185,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -6255,7 +6257,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -6301,7 +6303,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -6332,7 +6334,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -6447,6 +6449,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -6640,7 +6643,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ABSTRACT"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -6845,6 +6848,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="TIME"/>
 				<sem class="NATURE"/>
 			</semantics>
+			<sources>
+				<book name="100"/>
+			</sources>
 		</mg>
 		<mg>
 			<tg xml:lang="nob">
@@ -6935,7 +6941,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -7047,7 +7053,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -7210,7 +7216,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -7362,7 +7368,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -7412,6 +7418,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 		<mg>
@@ -7423,6 +7430,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -7453,7 +7461,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NUMBER"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -7578,7 +7586,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -7610,7 +7618,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -7691,7 +7699,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -7795,7 +7803,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -7942,7 +7950,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -8373,7 +8381,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="PLANT"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -8406,7 +8414,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -8513,7 +8521,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -8666,7 +8674,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -9038,7 +9046,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -9823,7 +9831,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -10488,7 +10496,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -10582,7 +10590,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ABSTRACT"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -10880,7 +10888,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -11269,6 +11277,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="dict"/>
+				<book name="100"/>
 			</sources>
 			<xg oahpa="yes" kurss="yes">
 				<x type="infl" pos="pro">tõõzz</x>
@@ -11779,7 +11788,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -11845,7 +11854,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -12105,6 +12114,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="dict"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -12201,7 +12211,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ASE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -12542,7 +12552,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -12613,7 +12623,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -12815,6 +12825,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<mg>
 			<sources>
 				<book name="Kurss" lesson="dict"/>
+				<book name="100"/>
 			</sources>
 			<semantics>
 				<sem class="BODY"/>
@@ -13098,7 +13109,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -13215,7 +13226,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ANIMAL"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -13424,7 +13435,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -13455,7 +13466,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -13487,7 +13498,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -13538,6 +13549,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="dict"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -13570,7 +13582,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -13605,7 +13617,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -13835,7 +13847,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -13967,6 +13979,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<mg>
 			<sources>
 				<book name="Kurss" lesson="dict"/>
+				<book name="100"/>
 			</sources>
 			<semantics>
 				<sem class="BODY"/>
@@ -14335,6 +14348,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="kurss" lesson="phon"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -14946,7 +14960,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -15084,6 +15098,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="kurss" lesson="phon"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -15282,7 +15297,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -15421,7 +15436,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -15611,7 +15626,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -15666,7 +15681,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -15967,6 +15982,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="kurss" lesson="phon"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -15997,7 +16013,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -16329,7 +16345,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ABSTRACT"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -16578,7 +16594,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
@@ -16611,7 +16627,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="100"/>
 			</sources>
 		</mg>
 	</e>
