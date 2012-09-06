@@ -5,9 +5,9 @@ Documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
 Incoming raw files go into inc/
 
 =====
-Preliminary conventions: apostophes
+Preliminary conventions: apostrophes
 =====
-Conventions used preliminary for the present file by M.Rießler (like the xfst). Note that KOTUS standardized U+00B4 ACUTE ACCENT as the Skolt Saami Palatalization (http://scripta.kotus.fi/www/verkkojulkaisut/julk6/Omin_sanoin.pdf). However, Skolt Saami writers in Sevettijärvi seem not to follow this standard today.
+Conventions used preliminary for the present file by M.Rießler (like the xfst). Note that KOTUS standardized U+00B4 ACUTE ACCENT as the Skolt Saami Palatalization (http://scripta.kotus.fi/www/verkkojulkaisut/julk6/Omin_sanoin.pdf). However, Skolt Saami writers in Sevettijärvi seem not to follow this standard today, but use the modifier letter Prime.
 
 ˊ = 02CA MODIFIER LETTER ACUTE ACCENT (suprasegmental palatalization affecting the whole "palatalization foot")
 !! e.g. 'to eat' poorrâd+V+Ind+Prs+Pl3: påˊrre
@@ -22,6 +22,10 @@ Conventions used preliminary for the present file by M.Rießler (like the xfst).
 !! 'hot, burning' puõˊlli+A+Sg+loc: puõˊlˈlʼjest
 !! puõˊ[02B9]lˈ[02C8]lʼ[02BC]jest
 
+=====
+Preliminary conventions: media
+=====
+* link to audiofiles go under <lg> (because they are representations of the lemma, but not of the meaning)
 
 =====
 Preliminary conventions: other
@@ -40,9 +44,9 @@ on the e-element in the xml files:
 
 01 - this is a list of sme entries with multiple translations collected by Kimberly Mäkäräinen (http://www.uta.fi/~km56049/same/skolt/koltansaame.html).
 
-02 - 99-word list from the current smsoahpa; this word list with multiple translations, taken from the 100-Swadesh-list, was originally collected by Michael Rießler.
+02 - a 99-word list from the current smsoahpa; this word list with multiple translations, taken from the 100-Swadesh-list, was originally collected by Michael Rießler.
 
-03 - word list from teaching materials under deveolpment by the Project "Skolt Saami Culture across Borders" (building on an already existing Finnish version, which is extended with Russian [Eino Koponen] and Norwegian [Michael Rießler] translations); each lesson of this materials gets its own attribute ("phon" is from the phonological explanations and exercises, "dict" is from the word list)
+03 - word list from teaching materials under development by the Project "Skolt Saami Culture across Borders" (building on an already existing Finnish version, which is extended with Russian [Eino Koponen] and Norwegian [Michael Rießler] translations); each lesson of this materials gets its own attribute ("phon" is from the phonological explanations and exercises, "dict" is from the word list)
 
 04 - entries added manually by Michael Rießler; these are mostly from field- or other notes and will serve to test the most appropriate structure for the "common" dictionary database
 

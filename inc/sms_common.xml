@@ -1,33 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <r xml:lang="sms">
 	<lics xml:space="preserve">
-		<lic xml:lang="en">
-This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>
-            
-            
-            
-            
-            
-            
-            . You are free to copy, distribute and adapt the work, as long as you always give proper attribution using the attribution text below. For the full license text, see the link above.</lic>
-		<ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament, and members of the language communities. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>
-		</ref>
+		<lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>. You are free to copy, distribute and adapt the work, as long as you always give proper attribution using the attribution text below. For the full license text, see the link above.</lic> 
+		<ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament, and members of the language communities. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a> </ref> 
 		<sourcenote> THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a full styled and published dictionary. As such it can and will contain unfinished entries, unpublished entries, entries with objectionable translations, etc. If you find any errors or want to add more words, download the file, edit it, and send it back to <a>mailto:divvun@samediggi.no</a>
-            
-            
-            
-            
-            
-            
-             and <a>mailto:giellatekno@hum.uit.no</a>
-            
-            
-            
-            
-            
-            
-            . Please also note that the entries are not necessarily sorted, or could be wrongly sorted.
-</sourcenote>
+and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are not necessarily sorted, or could be wrongly sorted.</sourcenote>
 	</lics>
 	<e meta="03">
 		<lg>
@@ -118,9 +95,13 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</tg>
 		</mg>
 	</e>
-	<e meta="01">
+	<e meta="03">
 		<lg>
 			<l pos="pn">Aanar</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/Aanar_SKO111210_ZMN.wav"/>
+				<a dialect="peä" speaker="KJ" href="xxx/Aanar_SKO111219_KJ_2.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -129,11 +110,206 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<tg xml:lang="fin">
 				<t pos="pn">Inari</t>
 			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Инари</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Enare</t>
+			</tg>
 			<tg xml:lang="sme">
 				<t pos="pn">Anár</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="TOPONYMY"/>
+				<sem class="PLACENAME"/>
+			</semantics>
+			<sources>
+				<book name="Kurss" lesson="phon"/>
+			</sources>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="pn">Njauddâm</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="pn">Neiden</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Näätämö</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Нейден</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Neiden</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Njávdán</t>
+			</tg>
+			<semantics>
+				<sem class="TOPONYMY"/>
+				<sem class="PLACENAME"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="pn">Paaččjokk</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="pn">Paatsjoki</t>
+				<t pos="pn">Pasvik</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Paatsjoki</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Пазрека</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Pasvik</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Báhcaveadji</t>
+			</tg>
+			<semantics>
+				<sem class="TOPONYMY"/>
+				<sem class="PLACENAME"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="pn">Peäc'cam</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="pn">Petsamo</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Petsamo</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Печенга</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Peisen</t>
+				<t pos="pn">Petsjenga</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Beahccam</t>
+			</tg>
+			<semantics>
+				<sem class="TOPONYMY"/>
+				<sem class="PLACENAME"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="pn">Suõˊnn'jel</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="pn">xxx</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Suonikylä</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Сонгельск</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Suenjel</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Suonjil</t>
+			</tg>
+			<semantics>
+				<sem class="TOPONYMY"/>
+				<sem class="PLACENAME"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="pn">Mueˊtǩǩ</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="pn">xxx</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">xxx</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Мотка</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Muotka</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Muotki</t>
+			</tg>
+			<semantics>
+				<sem class="TOPONYMY"/>
+				<sem class="PLACENAME"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="pn">Nuõˊttjäuˊrr</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="pn">Notozero</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Nuortijärvi</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Нотозеро</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Nøttiager</t>
+				<t pos="pn">Notozero</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Nuohttejávri</t>
+			</tg>
+			<semantics>
+				<sem class="TOPONYMY"/>
+				<sem class="PLACENAME"/>
+			</semantics>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="pn">Sââˊrvesjäuˊrr</l>
+		</lg>
+		<mg>
+			<tg xml:lang="eng">
+				<t pos="pn">Girvasozero</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Hirvasjärvi</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Гирвасозеро</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Girvasozero</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Sárvesjávri</t>
+			</tg>
+			<semantics>
+				<sem class="TOPONYMY"/>
+				<sem class="PLACENAME"/>
 			</semantics>
 		</mg>
 	</e>
@@ -183,7 +359,10 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<t pos="pn">Jussi</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="pn">xxx</t>
+				<t pos="pn">Ivan</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="pn">Ivan</t>
 			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
@@ -199,10 +378,23 @@ This code is made available under a Creative Commons Attribution license <a>http
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
+				<t pos="pn">Ловозеро</t>
+			</tg>
+			<tg xml:lang="eng">
 				<t pos="pn">Lovozero</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Lovozero</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">xxx</t>
+			</tg>
 			<semantics>
-				<sem class="TOPONYM"/>
+				<sem class="TOPONYMY"/>
+				<sem class="PLACENAME"/>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -252,8 +444,11 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
 			</tg>
+			<tg xml:lang="eng">
+				<t pos="xxx">xxx</t>
+			</tg>
 			<semantics>
-				<sem class="TOPONYM"/>
+				<sem class="TOPONYMY"/>
 				<sem class="PLACENAME"/>
 			</semantics>
 			<sources>
@@ -314,11 +509,15 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<tg xml:lang="fin">
 				<t pos="pn">Utsjoki</t>
 			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Utsjoki</t>
+			</tg>
 			<tg xml:lang="sme">
 				<t pos="pn">Ohcejohka</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="TOPONYMY"/>
+				<sem class="PLACENAME"/>
 			</semantics>
 		</mg>
 	</e>
@@ -892,9 +1091,13 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</semantics>
 		</mg>
 	</e>
-	<e meta="01">
+	<e meta="03">
 		<lg>
 			<l pos="n">ceerkav</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/ceerkav_SKO111211_ZMN_5.wav"/>
+				<a dialect="peä" speaker="KJ" href="xxx/ceerkav_SKO111219_KJ_1.wav"/>
+			</audio>
 			<etymology>
 				<etymon type="loan" source="rus">церковь</etymon>
 				<note>missing palatalization</note>
@@ -907,9 +1110,18 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<tg xml:lang="rus">
 				<t pos="n">церковь</t>
 			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">kirke</t>
+			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="RELIGION"/>
 			</semantics>
+			<sources>
+				<book name="Kurss" lesson="phon"/>
+			</sources>
 		</mg>
 	</e>
 	<e meta="01">
@@ -1122,8 +1334,8 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="01">
 		<lg>
 			<l pos="num">doohhat</l>
-			<lv variant="xxx">dohat</lv>
 		</lg>
+		<lv variant="xxx">dohat</lv>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="num">thousand</t>
@@ -1148,7 +1360,8 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<l pos="n">dåmvičč</l>
 		</lg>
 		<mg>
-			<lexicon xml:lang="eng">the little houselike objects on top of graves in the orthodox religion</lexicon>
+			<lexicon xml:lang="eng">the little houselike objects on top of graves in the orthodox
+				religion</lexicon>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -1201,8 +1414,8 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="01">
 		<lg>
 			<l pos="adv">eeˊđeld</l>
-			<lv variant="xxx">eeˊđääld</lv>
 		</lg>
+		<lv variant="xxx">eeˊđääld</lv>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="xxx">in the morning</t>
@@ -1462,8 +1675,8 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="01">
 		<lg>
 			<l pos="n">gaˊzeâˊt</l>
-			<lv variant="xxx">gaˊzaat</lv>
 		</lg>
+		<lv variant="xxx">gaˊzaat</lv>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">gazette</t>
@@ -2486,6 +2699,10 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="03">
 		<lg>
 			<l pos="a">jõnn</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/jynn_SKO111211_ZMN_5.wav"/>
+				<a dialect="xxx" speaker="EL" href="xxx/jynn_SKO111220_EL.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -2612,8 +2829,8 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="01">
 		<lg>
 			<l pos="n">keäˊpper</l>
-			<lv variant="xxx">kâˊpper</lv>
 		</lg>
+		<lv variant="xxx">kâˊpper</lv>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">cap</t>
@@ -2712,8 +2929,8 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="01">
 		<lg>
 			<l pos="num">koumm</l>
-			<lv variant="xxx">kolmm</lv>
 		</lg>
+		<lv variant="xxx">kolmm</lv>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="num">three</t>
@@ -3278,16 +3495,25 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="03">
 		<lg>
 			<l pos="n">kuäˊllec</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/kuaeqllec_SKO111211_ZMN_5.wav"/>
+				<a dialect="peä" speaker="KJ" href="xxx/kuaeqllec_SKO111219_KJ_1.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="n">крендель</t>
+			</tg>
+			<tg xml:lang="rus">
 				<t pos="n">баранка</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="xxx">xxx</t>
 			</tg>
 			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="eng">
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
@@ -3785,8 +4011,8 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="01">
 		<lg>
 			<l pos="n">kååˊff</l>
-			<lv variant="xxx">kaaˊff</lv>
 		</lg>
+		<lv variant="xxx">kaaˊff</lv>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">coffee</t>
@@ -3941,15 +4167,22 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="03">
 		<lg>
 			<l pos="n">kõõskâs</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/kyyskays_SKO111211_ZMN_5.wav"/>
+				<a dialect="xxx" speaker="EL" href="xxx/kyyskays_SKO111220_EL.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="n">можжевельник</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">xxx</t>
+				<t pos="n">kataja</t>
 			</tg>
 			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="eng">
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
@@ -4204,8 +4437,8 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="03">
 		<lg>
 			<l pos="con">leâˊša</l>
-			<lv variant="xxx">leša</lv>
 		</lg>
+		<lv variant="xxx">leša</lv>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="con">но</t>
@@ -5235,6 +5468,9 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="02">
 		<lg>
 			<l pos="n">mââˊnn</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/mayayqnn_SKO111210_ZMN.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -5260,7 +5496,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<sem class="FOOD"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="Kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -5575,6 +5811,9 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="03">
 		<lg>
 			<l pos="v">mõõnnâd</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/moyoynnayd_SKO111210_ZMN.wav"/>
+			</audio>
 			<infl>
 				<form gloss="3sg.prs">mâânn</form>
 			</infl>
@@ -5582,11 +5821,15 @@ This code is made available under a Creative Commons Attribution license <a>http
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="v">идти</t>
+				<t pos="v">пойти</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="v">mennä</t>
 			</tg>
 			<tg xml:lang="nob">
+				<t pos="v">go</t>
+			</tg>
+			<tg xml:lang="eng">
 				<t pos="v">go</t>
 			</tg>
 			<xg>
@@ -5770,9 +6013,9 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="01">
 		<lg>
 			<l pos="num">nelljumblo</l>
-			<lv variant="xxx">nelljmlo</lv>
-			<lv variant="xxx">nenjmlo</lv>
 		</lg>
+		<lv variant="xxx">nelljmlo</lv>
+		<lv variant="xxx">nenjmlo</lv>
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="num">fourteen</t>
@@ -5891,7 +6134,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</tg>
 			<semantics>
 				<sem class="NATURE"/>
-				<sem class="TOPONYM"/>
+				<sem class="TOPONYMY"/>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -6244,6 +6487,10 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="03">
 		<lg>
 			<l pos="adv">occanj</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/occanj_SKO111211_ZMN_5.wav"/>
+				<a dialect="peä" speaker="KJ" href="xxx/occanj_SKO111219_KJ_1.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -6254,6 +6501,10 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="adv">litt</t>
+				<t pos="adv-expr">en smule</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="adv-expr">a little bit</t>
 			</tg>
 			<semantics>
 				<sem class="xxx"/>
@@ -6292,11 +6543,14 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="03">
 		<lg>
 			<l pos="n">ooumaž</l>
-			<lv variant="xxx">ååumaž</lv>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/ooumazh_SKO111210_ZMN.wav"/>
+			</audio>
 			<infl>
 				<form gloss="nom.pl">oummu</form>
 			</infl>
 		</lg>
+		<lv variant="peä">ååumaž</lv>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="n">мужчина</t>
@@ -6305,7 +6559,10 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<t pos="n">mies</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="n">xxx</t>
+				<t pos="n">mann</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">man</t>
 			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
@@ -6322,7 +6579,10 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<t pos="n">ihminen</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="n">xxx</t>
+				<t pos="n">person</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">person</t>
 			</tg>
 			<semantics>
 				<sem class="HUMAN"/>
@@ -7759,6 +8019,10 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="03">
 		<lg>
 			<l pos="v">põõssâd</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/pyyssayd_SKO111211_ZMN_5.wav"/>
+				<a dialect="xxx" speaker="EL" href="xxx/pyyssayd_SKO111220_EL.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -10444,7 +10708,8 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<t pos="xxx">ole hyvä (vastauksena kiitokseen)</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">пожалуйста; не стоит благодарности (в ответ на изъявление благодарности)</t>
+				<t pos="xxx">пожалуйста; не стоит благодарности (в ответ на изъявление
+					благодарности)</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
@@ -12014,7 +12279,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<t pos="xxx">olla varuillaan, varoa</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">остерегаться,  опасаться</t>
+				<t pos="xxx">остерегаться, опасаться</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
@@ -12039,6 +12304,10 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="03">
 		<lg>
 			<l pos="n">vacc</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/vacc_SKO111211_ZMN_5.wav"/>
+				<a dialect="peä" speaker="KJ" href="xxx/vacc_SKO111219_KJ_1.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -12048,6 +12317,9 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<t pos="xxx">xxx</t>
 			</tg>
 			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="eng">
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
@@ -12112,15 +12384,23 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="03">
 		<lg>
 			<l pos="v">veäncceed</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/veaencceed_SKO111211_ZMN_5.wav"/>
+				<a dialect="peä" speaker="KJ" href="xxx/veaencceed_SKO111219_KJ_1.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
+				<t pos="v">венчать</t>
 				<t pos="v">обвенчать</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="xxx">xxx</t>
 			</tg>
 			<tg xml:lang="nob">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="eng">
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
@@ -13306,9 +13586,13 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="02">
 		<lg>
 			<l pos="n">vuõptt</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/vuoyptt_SKO111210_ZMN.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
+				<t pos="n">волос</t>
 				<t pos="n" number="pl">волосы</t>
 			</tg>
 			<tg xml:lang="sjd">
@@ -13790,7 +14074,8 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
 			</tg>
-			<lexicon xml:lang="rus">рыболовная застава, плетень поперёк реки для ловли лосося</lexicon>
+			<lexicon xml:lang="rus">рыболовная застава, плетень поперёк реки для ловли
+				лосося</lexicon>
 			<semantics>
 				<sem class="FISH"/>
 			</semantics>
@@ -13840,7 +14125,8 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<t pos="pn">Ivalo</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="TOPONYMY"/>
+				<sem class="PLACENAME"/>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -14028,6 +14314,9 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="02">
 		<lg>
 			<l pos="n">âˊbrr</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/ayqlmm_SKO111211_ZMN_5.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -14055,7 +14344,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<sem class="NATURE"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -14772,6 +15061,10 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="02">
 		<lg>
 			<l pos="num">õhtt</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/yhtt_SKO111211_ZMN_5.wav"/>
+				<a dialect="xxx" speaker="EL" href="xxx/yhtt_SKO111220_EL.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -14800,13 +15093,17 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<sem class="NUMBER"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
 	<e meta="03">
 		<lg>
 			<l pos="adv">õhttu</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/yhtt_SKO111211_ZMN_5.wav"/>
+				<a dialect="xxx" speaker="EL" href="xxx/yhtt_SKO111220_EL.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -14897,19 +15194,26 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="03">
 		<lg>
 			<l pos="n">õpss</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/ypss_SKO111211_ZMN_5.wav"/>
+				<a dialect="xxx" speaker="EL" href="xxx/ypss_SKO111220_EL.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="n">запах</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">xxx</t>
+				<t pos="n">haju</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
 			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">smell</t>
+			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="HUMAN"/>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -14919,6 +15223,10 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="03">
 		<lg>
 			<l pos="v">õsttâd</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/ysttayd_SKO111211_ZMN_5.wav"/>
+				<a dialect="xxx" speaker="EL" href="xxx/ysttayd_SKO111220_EL.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -15020,8 +15328,13 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<tg xml:lang="nob">
 				<t pos="pn">Sevettijärvi</t>
 			</tg>
+			<tg xml:lang="eng">
+				<t pos="pn">Sevettijärvi</t>
+				<te>lake</te>
+			</tg>
 			<semantics>
-				<sem class="HUMAN"/>
+				<sem class="TOPONYMY"/>
+				<sem class="PLACENAME"/>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -15038,11 +15351,16 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<tg xml:lang="nob">
 				<t pos="pn">Sevettijärvi</t>
 			</tg>
+			<tg xml:lang="eng">
+				<t pos="pn">Sevettijärvi</t>
+				<te>village</te>
+			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="TOPONYMY"/>
+				<sem class="PLACENAME"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="ххх"/>
+				<book name="Kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -15496,9 +15814,13 @@ This code is made available under a Creative Commons Attribution license <a>http
 			</sources>
 		</mg>
 	</e>
-	<e meta="01">
+	<e meta="03">
 		<lg>
 			<l pos="n">čâˊlmm</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/tchayqlmm_SKO111211_ZMN_5.wav"/>
+				<a dialect="peä" speaker="KJ" href="xxx/tchayqlmm_SKO111219_KJ_1.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -15525,6 +15847,9 @@ This code is made available under a Creative Commons Attribution license <a>http
 			<semantics>
 				<sem class="BODY"/>
 			</semantics>
+			<sources>
+				<book name="Kurss" lesson="phon"/>
+			</sources>
 		</mg>
 		<mg>
 			<tg xml:lang="eng">
@@ -15624,6 +15949,10 @@ This code is made available under a Creative Commons Attribution license <a>http
 	<e meta="02">
 		<lg>
 			<l pos="n">čääˊcc</l>
+			<audio>
+				<a dialect="muo" speaker="ZMN" href="xxx/tchaeaeqcc_SKO111211_ZMN_5.wav"/>
+				<a dialect="peä" speaker="KJ" href="xxx/tchaeaeqcc_SKO111219_KJ_1.wav"/>
+			</audio>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -15649,7 +15978,7 @@ This code is made available under a Creative Commons Attribution license <a>http
 				<sem class="FOOD"/>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
