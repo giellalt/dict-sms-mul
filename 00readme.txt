@@ -44,11 +44,13 @@ on the e-element in the xml files:
 
 01 - this is a list of sme entries with multiple translations collected by Kimberly Mäkäräinen (http://www.uta.fi/~km56049/same/skolt/koltansaame.html).
 
-02 - a 99-word list from the current smsoahpa; this word list with multiple translations, taken from the 100-Swadesh-list, was originally collected by Michael Rießler.
+02 - a 99-word list imported from the current smsoahpa; this word list with multiple translations, taken from the 100-Swadesh-list, was originally collected by Michael Rießler.
 
 03 - word list from teaching materials under development by the Project "Skolt Saami Culture across Borders" (building on an already existing Finnish version, which is extended with Russian [Eino Koponen] and Norwegian [Michael Rießler] translations); each lesson of this materials gets its own attribute ("phon" is from the phonological explanations and exercises, "dict" is from the word list)
 
 04 - entries added manually by Michael Rießler; these are mostly from field- or other notes and will serve to test the most appropriate structure for the "common" dictionary database
+
+05 - a 226-word list with Sami cognates, etymologies and English/Finnish translations imported from the BEDLAN project (http://kielievoluutio.uta.fi) with which Michael Rießler collaborates. The list was originally created by Jyri Lehtinen. It includes the 207 meanings from the different Swadesh lists along with further 19 meanings from the so-called Leipzig-Jakarta list (see http://wold.livingsources.org/). Obs! Note that the Sami translations might be somewhat inprecise and have to be checked carefully because the original wordlist is about cognates rather than translations.
 
 =====
 TODO
