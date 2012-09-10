@@ -97,7 +97,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn">Aanar</l>
+			<l pos="pn" class="place">Aanar</l>
 			<audio>
 				<a dialect="muo" speaker="ZMN" href="xxx/Aanar_SKO111210_ZMN.wav"/>
 				<a dialect="peä" speaker="KJ" href="xxx/Aanar_SKO111219_KJ_2.wav"/>
@@ -120,7 +120,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Anár</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_NAME"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -129,7 +129,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="pn">Njauddâm</l>
+			<l pos="pn" class="place">Njauddâm</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -148,13 +148,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Njávdán</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_NAME"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="pn">Paaččjokk</l>
+			<l pos="pn" class="place">Paaččjokk</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -174,7 +174,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Báhcaveadji</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_NAME"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 		</mg>
 		<mg>
@@ -195,13 +195,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_RIVER"/>
+				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="pn">Peäc'cam</l>
+			<l pos="pn" class="place">Peäc'cam</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -221,13 +221,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Beahccam</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_NAME"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="pn">Suõˊnn'jel</l>
+			<l pos="pn" class="place">Suõˊnn'jel</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -246,13 +246,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Suonjil</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_NAME"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="pn">Mueˊtǩǩ</l>
+			<l pos="pn" class="place">Mueˊtǩǩ</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -271,13 +271,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Muotki</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_NAME"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="pn">Nuõˊttjäuˊrr</l>
+			<l pos="pn" class="place">Nuõˊttjäuˊrr</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -297,7 +297,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Nuohttejávri</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_NAME"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 		</mg>
 		<mg>
@@ -318,13 +318,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Nuohttejávri</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_LAKE"/>
+				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="pn">Sââˊrvesjäuˊrr</l>
+			<l pos="pn" class="place">Sââˊrvesjäuˊrr</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -343,7 +343,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Sárvesjávri</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_NAME"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 		</mg>
 		<mg>
@@ -363,13 +363,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Sárvesjávri</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_LAKE"/>
+				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
 		</mg>
 	</e>
 	<e meta="01">
 		<lg>
-			<l pos="pn">Biblija</l>
+			<l pos="pn" class="oevre">Biblija</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -380,13 +380,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Raamattu</t>
 			</tg>
 			<semantics>
-				<sem class="SOCIETY_RELIGION"/>
+				<sem class="HUMAN">RELIGION</sem>
 			</semantics>
 		</mg>
 	</e>
 	<e meta="01">
 		<lg>
-			<l pos="pn">Bååˊres</l>
+			<l pos="pn" class="person">Bååˊres</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -394,13 +394,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 			<lexicon xml:lang="eng">man's name</lexicon>
 			<semantics>
-				<sem class="PERSNAME_MALE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 		</mg>
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn">Evvan</l>
+			<l pos="pn" nameclass="person" gender="m">Evvan</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -419,7 +419,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Ivan</t>
 			</tg>
 			<semantics>
-				<sem class="PERSNAME_MALE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -428,7 +428,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="pn">Luujäuˊrr</l>
+			<l pos="pn" class="place">Luujäuˊrr</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -447,7 +447,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_NAME"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -470,7 +470,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_LAKE"/>
+				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -479,7 +479,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn">Mäˊrjj</l>
+			<l pos="pn" nameclass="person" gender="fem">Mäˊrjj</l>
 			<infl>
 				<form gloss="nom.pl">Määˊrj</form>
 			</infl>
@@ -498,7 +498,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Maria</t>
 			</tg>
 			<semantics>
-				<sem class="PERSNAME_FEMALE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -507,7 +507,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn">Njeˊǯǯjäuˊrr</l>
+			<l pos="pn" class="place">Njeˊǯǯjäuˊrr</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -524,7 +524,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_LAKE"/>
+				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -533,7 +533,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="01">
 		<lg>
-			<l pos="pn">Såff</l>
+			<l pos="pn" nameclass="person" gender="fem">Såff</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -544,13 +544,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Sofia</t>
 			</tg>
 			<semantics>
-				<sem class="PERSNAME_FEMALE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 		</mg>
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn">Taarr</l>
+			<l pos="pn" class="nation">Taarr</l>
 			<infl>
 				<form gloss="ill.sg">Taˊrre</form>
 			</infl>
@@ -560,7 +560,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<book name="Kurss" lesson="dict"/>
 			</sources>
 			<semantics>
-				<sem class="PLACE_COUNTRY"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="pn">Norja</t>
@@ -578,7 +578,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="01">
 		<lg>
-			<l pos="pn">Uccjokk</l>
+			<l pos="pn" class="place">Uccjokk</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -594,7 +594,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Ohcejohka</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_NAME"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 		</mg>
 		<mg>
@@ -611,20 +611,20 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Ohcejohka</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_RIVER"/>
+				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
 		</mg>
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn">Väˊsǩǩ</l>
+			<l pos="pn" nameclass="person" gender="m">Väˊsǩǩ</l>
 		</lg>
 		<mg>
 			<sources>
 				<book name="Kurss" lesson="dict"/>
 			</sources>
 			<semantics>
-				<sem class="PERSNAME_MALE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="xxx">Vasko</t>
@@ -691,7 +691,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">heinäsirkka</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_INSECT"/>
+				<sem class="ZOO">INSECT</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -708,7 +708,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">asua</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_VERBAL"/>
+				<sem class="HOUSE">DWELLING</sem>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -727,8 +728,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">bisma</t>
 			</tg>
 			<semantics>
-				<sem class="SOCIETY_RELIGION"/>
-				<sem class="HUMAN_PERSON"/>
+				<sem class="HUMAN">RELIGION</sem>
+				<sem class="HUMAN">PERSON</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -753,7 +754,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">bismagoddi</t>
 			</tg>
 			<semantics>
-				<sem class="SOCIETY_RELIGION"/>
+				<sem class="HUMAN">RELIGION</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -772,8 +773,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">адрес</t>
 			</tg>
 			<semantics>
-				<sem class="TRAVEL_MOTION"/>
-				<sem class="BUILDING_DWELLING"/>
+				<sem class="SPACE">MOTION</sem>
+				<sem class="HOUSE">DWELLING</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -792,7 +793,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">alku</t>
 			</tg>
 			<semantics>
-				<sem class="TIME_OTHER"/>
+				<sem class="TIME">POINT</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -808,7 +809,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">alkuviikko</t>
 			</tg>
 			<semantics>
-				<sem class="TIME_NATURE"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -824,7 +825,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">alkuperä</t>
 			</tg>
 			<semantics>
-				<sem class="TIME_OTHER"/>
+				<sem class="TIME">POINT</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -843,7 +844,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">esipuhe</t>
 			</tg>
 			<semantics>
-				<sem class="LANGUAGE_TEXT"/>
+				<sem class="LANG">TEXT</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -859,8 +860,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">antibiootti</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_HEALING"/>
-				<sem class="NATURE_MATERIAL"/>
+				<sem class="BODY">HEALTH</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -876,7 +876,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">auto</t>
 			</tg>
 			<semantics>
-				<sem class="TRAVEL_VEHICLE"/>
+				<sem class="SPACE">MOTION</sem>
+				<sem class="WORK">TRAVEL</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -892,8 +893,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">autotalli</t>
 			</tg>
 			<semantics>
-				<sem class="TRAVEL_VEHICLE"/>
-				<sem class="BUILDING_DWELLING"/>
+				<sem class="SPACE">MOTION</sem>
+				<sem class="HOUSE">DWELLING</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -912,8 +913,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="sme">
 				<t pos="n">amerihkálaš</t>
 			</tg>
+			<species class="NATION"/>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -929,7 +931,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">olka</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -949,7 +951,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">eŋgal</t>
 			</tg>
 			<semantics>
-				<sem class="SOCIETY_RELIGION"/>
+				<sem class="HUMAN">RELIGION</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -965,7 +967,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">bakteria</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="BODY">HEALTH</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -981,18 +983,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">pankki</t>
 			</tg>
 			<semantics>
-				<sem class="SOCIETY_ECONOMY"/>
-			</semantics>
-		</mg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="n">bank</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="n">pankki</t>
-			</tg>
-			<semantics>
-				<sem class="BUILDING_DWELLING"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="HOUSE">DWELLING</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1009,7 +1001,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">pankkitili</t>
 			</tg>
 			<semantics>
-				<sem class="SOCIETY_ECONOMY"/>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1025,8 +1017,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">betoni</t>
 			</tg>
 			<semantics>
-				<sem class="BUILDING_DWELLING"/>
-				<sem class="NATURE_MATERIAL"/>
+				<sem class="HOUSE">DWELLING</sem>
+				<sem class="ENVIR">ELEMENT</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1044,7 +1036,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 			<lexicon xml:lang="eng">instrument for weighting</lexicon>
 			<semantics>
-				<sem class="INSTRUMENT_TOOL"/>
+				<sem class="WORK">TOOL</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1065,8 +1057,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="rus">
 				<t pos="n">биолог</t>
 			</tg>
+			<species class="PROFESSION"/>
 			<semantics>
-				<sem class="SOCIETY_PROFESSION"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1088,7 +1082,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">биология</t>
 			</tg>
 			<semantics>
-				<sem class="EDUCATION_SUBJECT"/>
+				<sem class="WORK">SCHOOL</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1100,8 +1094,11 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="eng">
 				<t pos="n">valve</t>
 			</tg>
+			<tg xml:lang="deu">
+				<t pos="n">Ventil</t>
+			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="WORK">TOOL</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1121,7 +1118,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">блин</t>
 			</tg>
 			<semantics>
-				<sem class="FOOD_DISH"/>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1135,7 +1132,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<tr>on trousers or pants</tr>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PART</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1164,7 +1161,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">буква</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="LANG">TEXT</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1173,11 +1170,22 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<l pos="n">buss</l>
 		</lg>
 		<mg>
+			<tg xml:lang="рус">
+				<t pos="n">автобус</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">buss</t>
+			</tg>
 			<tg xml:lang="eng">
 				<t pos="n">bus</t>
 			</tg>
 			<semantics>
-				<sem class="MOTION"/>
+				<sem class="SPACE">MOTION</sem>
+				<sem class="WORK">TRAVEL</sem>
+				<sem class="WORK">SCHOOL</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1197,7 +1205,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">царь</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1227,7 +1235,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">kirke</t>
 			</tg>
 			<semantics>
-				<sem class="SOCIETY_RELIGION"/>
+				<sem class="HUMAN">RELIGION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -1266,7 +1274,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">titmouse</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_BIRD"/>
+				<sem class="ZOO">BIRD</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -1297,7 +1305,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">snakke</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
+				<sem class="WORK">SCHOOL</sem>
+				<sem class="LANG">SPEECH</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -1437,7 +1446,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">nach Hause</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_ADVERBAL"/>
+				<sem class="SPACE">MOTION</sem>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1471,7 +1481,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<lexicon xml:lang="eng">the little houselike objects on top of graves in the orthodox
-				SOCIETY_RELIGION</lexicon>
+				HUMAN_RELIGION</lexicon>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -1517,7 +1527,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">spider</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_INSECT"/>
+				<sem class="ZOO">INSECT</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -1592,7 +1602,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -1635,7 +1645,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="TIME_NATURE"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -1711,7 +1721,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">eeči</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_FAMILY"/>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -1732,8 +1742,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="sme">
 				<t pos="n">flánel</t>
 			</tg>
+			<tg xml:lang="deu">
+				<t pos="n">Flanell</t>
+			</tg>
+			<terminology class="DUODJI"/>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">MATERIAL</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1752,7 +1767,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">etternavn</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_FAMILY"/>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -1811,7 +1826,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">газета</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="LANG">TEXT</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -1889,7 +1904,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Hausherr</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -1988,7 +2003,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pcle">ikke</t>
 			</tg>
 			<semantics>
-				<sem class="ABSTRACT"/>
+				<sem class="SENSE">COGNITION</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -2049,7 +2064,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 			<synonym>ijj</synonym>
 			<semantics>
-				<sem class="TIME_NATURE"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -2086,8 +2101,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">čokkáđ</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="HUMAN_VERBAL"/>
+				<sem class="HOUSE">DWELLING</sem>
+				<sem class="SPACE">POSITION</sem>
+				<sem class="WORK">SCHOOL</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -2141,7 +2157,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">girdi</t>
 			</tg>
 			<semantics>
-				<sem class="TRAVEL_VEHICLE"/>
+				<sem class="SPACE">MOTION</sem>
+				<sem class="WORK">TRAVEL</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -2182,9 +2199,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
 			</tg>
+			<terminology class="REINDEER"/>
 			<semantics>
-				<sem class="ANIMAL_DOMESTIC"/>
-				<sem class="REINDEER_HERDING"/>
+				<sem class="ZOO">DOMESTIC</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -2329,7 +2347,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">ELEMENT</sem>
+				<sem class="WORK">TRAVEL</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -2360,7 +2379,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">rund</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_QUALITY"/>
+				<sem class="SPACE">RELATION</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -2389,9 +2408,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">cowberry</t>
 			</tg>
 			<lexicon xml:lang="lat">vaccinium vitis-idaea</lexicon>
+			<species class="BOT"/>
 			<semantics>
-				<sem class="PLANT_BERRY"/>
-				<sem class="FOOD_NATURE"/>
+				<sem class="BOT">BERRY</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -2434,7 +2454,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">bein</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -2465,8 +2485,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">drikke</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="FOOD_VERBAL"/>
+				<sem class="BODY">HEALTH</sem>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -2497,7 +2517,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">jord</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">ELEMENT</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -2587,8 +2607,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">juogot</t>
 			</tg>
 			<lexicon xml:lang="lat">Vaccinium uliginosum</lexicon>
+			<species class="BOT"/>
 			<semantics>
-				<sem class="PLANT_BERRY"/>
+				<sem class="BOT">BERRY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -2663,7 +2684,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">eanu</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_FAMILY"/>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -2694,8 +2715,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">jápmit</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="HUMAN_VERBAL"/>
+				<sem class="HUMAN">FAMILY</sem>
+				<sem class="BODY">HEALTH</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -2874,8 +2895,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_VERBAL"/>
-				<sem class="FOOD_VERBAL"/>
+				<sem class="FOOD">DISH</sem>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -2929,7 +2950,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">forretning</t>
 			</tg>
 			<semantics>
-				<sem class="BUILDING_DWELLING"/>
+				<sem class="HOUSE">DWELLING</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -2955,7 +2976,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">gahpir</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">WHOLE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -3016,7 +3037,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">gonagas</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -3135,7 +3156,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="num">to</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_QUANTITY"/>
+				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -3169,9 +3190,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">fisk</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_FISH"/>
-				<sem class="FOOD_NATURE"/>
-				<sem class="FOOD_GROCERY"/>
+				<sem class="ZOO">FISH</sem>
+				<sem class="FOOD">NATURE</sem>
+				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -3202,7 +3223,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">aske</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">ELEMENT</sem>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -3230,7 +3252,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="WORK">SCHOOL</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -3264,7 +3286,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">ku</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_DOMESTIC"/>
+				<sem class="ZOO">DOMESTIC</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -3314,8 +3336,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">høre</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="SENSE"/>
+				<sem class="WORK">MUSIC</sem>
+				<sem class="WORK">SCHOOL</sem>
+				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -3475,7 +3498,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="SPACE_MOTION"/>
+				<sem class="SPACE">MOTION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -3528,8 +3551,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="fin">
 				<t pos="v">neuloa</t>
 			</tg>
+			<terminology class="DUODJI"/>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PART</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 		</mg>
 		<mg>
@@ -3539,8 +3564,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="fin">
 				<t pos="v">ommella</t>
 			</tg>
+			<terminology class="DUODJI"/>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PART</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -3555,8 +3582,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="fin">
 				<t pos="n">ompelukone</t>
 			</tg>
+			<terminology class="DUODJI"/>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PART</sem>
+				<sem class="WORK">TOOL</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -3598,7 +3627,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_ADVERBAL"/>
+				<sem class="SENSE">EMOTION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -3607,7 +3636,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="n">kuäˊllec</l>
+			<l pos="n">kuäˊl'lec</l>
 			<audio>
 				<a dialect="muo" speaker="ZMN" href="xxx/kuaeqllec_SKO111211_ZMN_5.wav"/>
 				<a dialect="peä" speaker="KJ" href="xxx/kuaeqllec_SKO111219_KJ_1.wav"/>
@@ -3621,16 +3650,16 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">баранка</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">xxx</t>
+				<t pos="n">rinkeli</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
 			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">xxx</t>
+			<tg xml:lang="deu">
+				<t pos="n">Kringel</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -3669,7 +3698,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">guohpa</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="FOOD">DISH</sem>
+				<sem class="BOT">GRASS</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -3694,8 +3724,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 			<lexicon xml:lang="rus">рыба из семейства лосесевых</lexicon>
 			<semantics>
-				<sem class="ANIMAL_FISH"/>
-				<sem class="FOOD_NATURE"/>
+				<sem class="ZOO">FISH</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -3717,7 +3747,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">pitkä</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="SPACE">RELATION</sem>
+				<sem class="CLOTH">PART</sem>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -3748,7 +3780,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">lang</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_QUALITY"/>
+				<sem class="SPACE">RELATION</sem>
+				<sem class="CLOTH">PART</sem>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -3834,7 +3868,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">picture</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PART</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -4006,8 +4040,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">bite</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="ANIMAL_VERBAL"/>
+				<sem class="FOOD">DISH</sem>
+				<sem class="ZOO">MAMMAL</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -4073,6 +4107,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="fin">
 				<t pos="n">herne</t>
 			</tg>
+			<tg xml:lang="deu">
+				<t pos="n">Erbse</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -4113,7 +4150,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="BUILDING_DWELLING"/>
+				<sem class="HOUSE">DWELLING</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -4164,7 +4201,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">tørr</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_QUALITY"/>
+				<sem class="SENSE">PERCEPTION</sem>
+				<sem class="ENVIR">WEATHER</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -4195,9 +4233,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">drepe</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="HUMAN_VERBAL"/>
-				<sem class="ANIMAL_VERBAL"/>
+				<sem class="BODY">HEALTH</sem>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -4232,7 +4270,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">kultakala</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="ZOO">PET</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -4296,7 +4334,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="PLANT_TREE"/>
+				<sem class="BOT">TREE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -4327,7 +4365,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">kald</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_SENSE"/>
+				<sem class="SENSE">PERCEPTION</sem>
+				<sem class="ENVIR">WEATHER</sem>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -4346,7 +4386,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">gazza</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -4386,7 +4426,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">gazza</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -4440,7 +4480,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">laukku</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PIECE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -4640,8 +4680,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">hud</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
-				<sem class="NATURE_MATERIAL"/>
+				<sem class="BODY">PART</sem>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="ZOO">REINDEER</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -4672,9 +4713,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">ligge</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="HUMAN_VERBAL"/>
-				<sem class="ANIMAL_VERBAL"/>
+				<sem class="SPACE">POSITION</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -4756,9 +4795,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">luomi</t>
 			</tg>
 			<lexicon xml:lang="lat">Rubus chamaemorus</lexicon>
+			<species class="BOT"/>
 			<semantics>
-				<sem class="PLANT_BERRY"/>
-				<sem class="FOOD_NATURE"/>
+				<sem class="BOT">BERRY</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -4796,7 +4836,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">lukea</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="LANG">TEXT</sem>
+				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
 		</mg>
 		<mg>
@@ -4810,7 +4851,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">laskea</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -4844,6 +4886,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="fin">
 				<t pos="n">luuta</t>
 			</tg>
+			<tg xml:lang="deu">
+				<t pos="n">Besen</t>
+			</tg>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
@@ -4865,7 +4910,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="MOTION"/>
+				<sem class="SPACE">MOTION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -4899,8 +4944,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<lexicon xml:lang="lat">Salmo salar</lexicon>
 			<lexicon xml:lang="rus">вид лососёвых рыб из рода лососей</lexicon>
 			<semantics>
-				<sem class="ANIMAL_FISH"/>
-				<sem class="FOOD_NATURE"/>
+				<sem class="ZOO">FISH</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -4922,7 +4967,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PIECE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -4991,8 +5036,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">fugl</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_BIRD"/>
-				<sem class="FOOD_NATURE"/>
+				<sem class="ZOO">BIRD</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -5027,8 +5072,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">blad</t>
 			</tg>
 			<semantics>
-				<sem class="PLANT_TREE"/>
-				<sem class="NATURE_MATERIAL"/>
+				<sem class="BOT">TREE</sem>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -5044,7 +5089,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">tell</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="LANG">SPEECH</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -5163,7 +5208,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">mitata</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PART</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -5214,7 +5259,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="ABSTRACT"/>
+				<sem class="SENSE">COGNITION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -5245,7 +5290,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pro">vi</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PERSON"/>
+				<sem class="HUMAN">PERSON</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -5370,7 +5415,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<xtg xml:lang="sme" pos="pro">mu</xtg>
 			</xg>
 			<semantics>
-				<sem class="HUMAN_PERSON"/>
+				<sem class="HUMAN">PERSON</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -5395,7 +5440,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">pen</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_QUALITY"/>
+				<sem class="SENSE">PERCEPTION</sem>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -5446,7 +5492,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_FAMILY"/>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -5483,8 +5529,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">tre</t>
 			</tg>
 			<semantics>
-				<sem class="PLANT_TREE"/>
-				<sem class="NATURE_MATERIAL"/>
+				<sem class="BOT">TREE</sem>
+				<sem class="ENVIR">ELEMENT</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -5531,7 +5577,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="TIME_NATURE"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -5603,9 +5649,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">egg</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_BIRD"/>
-				<sem class="FOOD_GROCERY"/>
-				<sem class="FOOD_NATURE"/>
+				<sem class="ZOO">BIRD</sem>
+				<sem class="FOOD">GROCERY</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -5674,7 +5720,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 			<synonym>määnpââˊjj</synonym>
 			<semantics>
-				<sem class="TIME_NATURE"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -5701,7 +5747,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">måne</t>
 			</tg>
 			<semantics>
-				<sem class="TIME_NATURE"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -5782,7 +5828,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pro">mange</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_QUANTITY"/>
+				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -5806,7 +5852,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="SOCIETY_ECONOMY"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -5840,7 +5887,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">mätki</t>
 			</tg>
 			<semantics>
-				<sem class="TRAVEL_MOTIO"/>
+				<sem class="SPACE">MOTION</sem>
+				<sem class="WORK">TRAVEL</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -5857,7 +5905,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="TRAVEL_MOTIO"/>
+				<sem class="SPACE">RELATION</sem>
+				<sem class="WORK">TRAVEL</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -6065,7 +6114,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Frau</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -6198,7 +6247,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">daughter</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_FAMILY"/>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -6218,7 +6267,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">girl</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -6243,7 +6292,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">nes</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE_ENVIRONMENT"/>
+				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -6298,7 +6347,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">nakke</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -6320,7 +6369,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_BIRD"/>
+				<sem class="ZOO">BIRD</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -6340,7 +6389,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 			<synonym>pââˊzzmään</synonym>
 			<semantics>
-				<sem class="TIME_NATURE"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -6368,8 +6417,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">tunge</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
-				<sem class="FOOD_SLAUGHTER"/>
+				<sem class="BODY">PART</sem>
+				<sem class="FOOD">NATURE</sem>
+				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -6415,7 +6465,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">snabel</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -6446,7 +6496,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">munn</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -6560,7 +6610,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">navn</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_FAMILY"/>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -6580,13 +6630,16 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">рукоятка</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">xxx</t>
+				<t pos="n">kahva</t>
 			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+			<tg xml:lang="fin">
+				<t pos="n">varsi</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="n">Griff</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="WORK">TOOL</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -6674,7 +6727,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">man</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -6694,7 +6747,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">person</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -6754,7 +6807,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">ny</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_QUALITY"/>
+				<sem class="TIME">UNIT</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -6782,7 +6835,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="SOCIETY_RELIGION"/>
+				<sem class="HUMAN">RELIGION</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -6959,7 +7012,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Tag</t>
 			</tg>
 			<semantics>
-				<sem class="TIME_NATURE"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -6989,7 +7042,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Sonne</t>
 			</tg>
 			<semantics>
-				<sem class="TIME_NATURE"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -7050,7 +7103,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">øre</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -7068,8 +7121,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="eng">
 				<t pos="xxx">bead work</t>
 			</tg>
+			<terminology class="DUODJI"/>
 			<semantics>
-				<sem class="SOCIETY_PROFESSION"/>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -7091,7 +7145,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">bealli</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PART</sem>
+				<sem class="BODY">PART</sem>
+				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -7133,7 +7189,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">tevdnet</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="WORK">SCHOOL</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -7161,8 +7218,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">hund</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_DOMESTIC"/>
-				<sem class="REINDEER_HERDING"/>
+				<sem class="ZOO">DOMESTIC</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -7324,8 +7380,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">borrat</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="FOOD_VERBAL"/>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -7369,7 +7424,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">mat</t>
 			</tg>
 			<semantics>
-				<sem class="FOOD_OTHER"/>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -7427,9 +7482,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Feder</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_BIRD"/>
-				<sem class="BODY_PART"/>
-				<sem class="NATURE_MATERIAL"/>
+				<sem class="ZOO">BIRD</sem>
+				<sem class="BODY">PART</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -7476,8 +7531,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">brenne</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="NATURE"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="ENVIR">ELEMENT</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -7525,8 +7580,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="MOTION"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="SPACE">MOTION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -7538,7 +7593,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">идти</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="SPACE">MOTION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -7570,7 +7626,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pro">alle</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_QUANTITY"/>
+				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -7611,7 +7667,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="CLOTHING_WHOLE"/>
+				<sem class="CLOTH">WHOLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -7640,9 +7696,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="n">reinsdyr</t>
 			</tg>
+			<terminology class="REINDEER"/>
 			<semantics>
-				<sem class="REINDEER_HERDING"/>
-				<sem class="ANIMAL_DOMESTIC"/>
+				<sem class="ZOO">REINDEER</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -7663,9 +7720,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="n">reineier</t>
 			</tg>
+			<terminology class="REINDEER"/>
 			<semantics>
-				<sem class="SOCIETY_PROFESSION"/>
-				<sem class="REINDEER_HERDING"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -7696,7 +7754,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">kne</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -7727,7 +7785,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">het</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_SENSE"/>
+				<sem class="SENSE">PERCEPTION</sem>
+				<sem class="ENVIR">WEATHER</sem>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -7807,8 +7867,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">bark</t>
 			</tg>
 			<semantics>
-				<sem class="PLANT_TREE"/>
-				<sem class="NATURE_MATERIAL"/>
+				<sem class="BOT">TREE</sem>
+				<sem class="ENVIR">ELEMENT</sem>
+				<sem class="FOOD">DISH</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -7835,8 +7897,11 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="n">kokk</t>
 			</tg>
+			<species class="PROFESSION"/>
 			<semantics>
-				<sem class="SOCIETY_PROFESSION"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="HUMAN">PEOPLE</sem>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -7858,7 +7923,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">olla paksuna</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -7881,7 +7946,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">child</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -7912,7 +7977,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">stig</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -8059,7 +8124,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">sky</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">WEATHER</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -8149,7 +8214,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PART</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -8177,9 +8242,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">báddemuorji</t>
 			</tg>
 			<lexicon xml:lang="lat">Vaccinium oxycoccos</lexicon>
+			<species class="BOT"/>
 			<semantics>
-				<sem class="FOOD_NATURE"/>
-				<sem class="PLANT_BERRY"/>
+				<sem class="FOOD">NATURE</sem>
+				<sem class="BOT">BERRY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -8214,7 +8280,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="SOCIETY_PROFESSION"/>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -8239,7 +8305,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_VERB"/>
+				<sem class="HUMAN">SOCIAL</sem>
+				<sem class="SENSE">EMOTION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -8479,8 +8546,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">руэнн</t>
 				<tr>xxx</tr>
 			</tg>
+			<terminology class="color"/>
 			<semantics>
-				<sem class="PROPERTY_COLOR"/>
+				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -8512,7 +8580,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<tr>von Pflanzen</tr>
 			</tg>
 			<semantics>
-				<sem class="NATURE_PLANT"/>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -8542,8 +8610,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="a">rød</t>
 			</tg>
+			<terminology class="color"/>
 			<semantics>
-				<sem class="PROPERTY_COLOR"/>
+				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -8565,7 +8634,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">russisk</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -8587,8 +8656,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="n">russer</t>
 			</tg>
+			<species class="NATION"/>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -8651,7 +8721,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">bryst</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -8772,7 +8842,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">sau</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_DOMESTIC"/>
+				<sem class="ZOO">DOMESTIC</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -8803,8 +8873,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">svans</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_FISH"/>
-				<sem class="BODY_PART"/>
+				<sem class="ZOO">FISH</sem>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -8935,7 +9005,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">centimehter</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PART</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -9013,7 +9083,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">siida</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE_HUMAN"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -9132,7 +9202,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<book name="Kurss" lesson="dict"/>
 			</sources>
 			<semantics>
-				<sem class="BUILDING_FURNITURE"/>
+				<sem class="HOUSE">FURNITURE</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="xxx">sänky</t>
@@ -9175,9 +9245,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">frø</t>
 			</tg>
 			<semantics>
-				<sem class="PLANT_TREE"/>
-				<sem class="FOOD_NATURE"/>
-				<sem class="NATURE_MATERIAL"/>
+				<sem class="BOT">TREE</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -9244,7 +9313,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">njuoratmánná</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -9305,7 +9374,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">скатерть</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PIECE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -9329,7 +9398,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="SOCIETY_RELIGION"/>
+				<sem class="HUMAN">RELIGION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -9357,8 +9426,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="eng">
 				<t pos="n">photographer</t>
 			</tg>
+			<terminology class="PROFESSION"/>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -9449,7 +9519,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<tr>kvinnens</tr>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_FAMILY"/>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -9490,7 +9560,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="HUMAN_PERSON"/>
+				<sem class="HUMAN">PERSON</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -9569,7 +9639,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<book name="Kurss" lesson="dict"/>
 			</sources>
 			<semantics>
-				<sem class="BUILDING_FURNITURE"/>
+				<sem class="HOUSE">FURNITURE</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="n">tuoli</t>
@@ -9607,7 +9677,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">penkki</t>
 			</tg>
 			<semantics>
-				<sem class="BUILDING_FURNITURE"/>
+				<sem class="HOUSE">FURNITURE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -9699,7 +9769,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<book name="Kurss" lesson="dict"/>
 			</sources>
 			<semantics>
-				<sem class="TIME_HUMAN"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="n">lauantai</t>
@@ -9768,7 +9838,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 			<synonym>säähhar</synonym>
 			<semantics>
-				<sem class="FOOD_GROCERY"/>
+				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -9793,7 +9863,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="TRAVEL_MOTION"/>
+				<sem class="SPACE">MOTION</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -9933,7 +10004,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Rauch</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">ELEMENT</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -9968,9 +10040,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">sarrit</t>
 			</tg>
 			<lexicon xml:lang="lat">Vaccinium myrtillus</lexicon>
+			<species class="BOT"/>
 			<semantics>
-				<sem class="FOOD_NATURE"/>
-				<sem class="PLANT_BERRY"/>
+				<sem class="FOOD">NATURE</sem>
+				<sem class="BOT">BERRY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -9986,7 +10059,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">talk</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="LANG">SPEECH</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -10018,7 +10091,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<book name="Kurss" lesson="dict"/>
 			</sources>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="HOUSE">DWELLING</sem>
+				<sem class="BODY">HEALTH</sem>
+				<sem class="HUMAN">FAMILY</sem>
+				<sem class="WORK">LAISURE</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="n">sauna</t>
@@ -10059,7 +10135,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 			<synonym>sukkâr</synonym>
 			<semantics>
-				<sem class="FOOD_GROCERY"/>
+				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -10097,7 +10173,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">sátni</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="LANG">TEXT</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -10223,7 +10299,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="SOCIETY_ORGANIZATION"/>
+				<sem class="HUMAN">SOCIAL</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -10329,7 +10405,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<book name="Kurss" lesson="dict"/>
 			</sources>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="BODY">HEALTH</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="xxx">lääke</t>
@@ -10427,7 +10503,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="LANG">TEXT</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -10490,7 +10566,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">dihtor</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="WORK">TOOL</sem>
+				<sem class="LANG">TEXT</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -10575,7 +10652,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">lus</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_INSECT"/>
+				<sem class="ZOO">INSECT</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -10611,9 +10688,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">wissen</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="SENSE"/>
-				<sem class="HUMAN_VERBAL"/>
+				<sem class="WORK">SCHOOL</sem>
+				<sem class="SENSE">COGNITION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -10644,7 +10720,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">full</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_QUANTITY"/>
+				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -10704,7 +10780,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -10809,7 +10885,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="BODY_ADVERBAL"/>
+				<sem class="BODY">HEALTH</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -10942,7 +11018,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Feuer</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">ELEMENT</sem>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -11037,7 +11114,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="HUMAN_PERSON"/>
+				<sem class="HUMAN">PERSON</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -11062,7 +11139,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="INSTRUMENT_MUSIC"/>
+				<sem class="WORK">MUSIC</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -11081,7 +11158,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Pentecost</t>
 			</tg>
 			<semantics>
-				<sem class="SOCIETY_RELIGION"/>
+				<sem class="HUMAN">RELIGION</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -11164,7 +11241,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="SOCIETY_PROFESSION"/>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -11330,7 +11407,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pro">det</t>
 			</tg>
 			<semantics>
-				<sem class="ABSTRACT"/>
+				<sem class="SPACE">POSITION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="dict"/>
@@ -11592,7 +11669,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pro">dieses</t>
 			</tg>
 			<semantics>
-				<sem class="ABSTRACT"/>
+				<sem class="SPACE">POSITION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -11742,7 +11819,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<book name="Kurss" lesson="dict"/>
 			</sources>
 			<semantics>
-				<sem class="TIME_NATURE"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="n">talvi</t>
@@ -11791,7 +11868,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="adv">today</t>
 			</tg>
 			<semantics>
-				<sem class="TIME_NATURE"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -11822,9 +11899,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">bein</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
-				<sem class="FOOD_SLAUGHTER"/>
-				<sem class="NATURE_MATERIAL"/>
+				<sem class="BODY">PART</sem>
+				<sem class="FOOD">NATURE</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -11874,7 +11951,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">stjerne</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">ELEMENT</sem>
+				<sem class="HUMAN">MYTHOLOGY</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -12132,7 +12210,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">klein</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_QUALITY"/>
+				<sem class="SPACE">RELATION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="dict"/>
@@ -12208,7 +12286,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">gi</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
+				<sem class="HUMAN">POSSESSION</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -12237,7 +12315,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">учитель</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="WORK">SCHOOL</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -12325,7 +12404,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">WHOLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -12547,8 +12626,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="deu">
 				<t pos="a">gelb</t>
 			</tg>
+			<terminology class="color"/>
 			<semantics>
-				<sem class="PROPERTY_COLOR"/>
+				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -12616,8 +12696,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="a">hvit</t>
 			</tg>
+			<terminology class="color"/>
 			<semantics>
-				<sem class="PROPERTY_COLOR"/>
+				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -12642,7 +12723,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">белый</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="CLOTHING">PART</t>
 			</tg>
 		</mg>
 	</e>
@@ -12690,7 +12771,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="FOOD_GROCERY"/>
+				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -12811,7 +12892,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<book name="100"/>
 			</sources>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="xxx">pää</t>
@@ -13054,8 +13135,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">rot</t>
 			</tg>
 			<semantics>
-				<sem class="PLANT_TREE"/>
-				<sem class="NATURE_MATERIAL"/>
+				<sem class="BOT">TREE</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -13170,8 +13251,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">sove</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="HUMAN_VERBAL"/>
+				<sem class="SPACE">POSITION</sem>
+				<sem class="BODY">HEALTH</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -13348,7 +13429,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">kjøpe</t>
 			</tg>
 			<semantics>
-				<sem class="SOCIETY_ECONOMY"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -13379,8 +13461,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Fleisch</t>
 			</tg>
 			<semantics>
-				<sem class="FOOD_GROCERY"/>
-				<sem class="BODY_PART"/>
+				<sem class="FOOD">GROCERY</sem>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -13411,7 +13493,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">sand</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">ELEMENT</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -13442,8 +13524,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">lever</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
-				<sem class="FOOD_SLAUGHTER"/>
+				<sem class="BODY">PART</sem>
+				<sem class="FOOD">NATURE</sem>
+				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -13477,7 +13560,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">smør</t>
 			</tg>
 			<semantics>
-				<sem class="FOOD_GROCERY"/>
+				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="dict"/>
@@ -13504,8 +13587,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">fett</t>
 			</tg>
 			<semantics>
-				<sem class="FOOD_SLAUGHTER"/>
-				<sem class="BODY_PART"/>
+				<sem class="FOOD">GROCERY</sem>
+				<sem class="FOOD">NATURE</sem>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="dict"/>
@@ -13537,9 +13621,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">svømme</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="MOTION"/>
-				<sem class="NATURE"/>
+				<sem class="WORK">SPORT</sem>
+				<sem class="SPACE">MOTION</sem>
+				<sem class="ZOO">FISH</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -13574,8 +13658,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">hår</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
-				<sem class="NATURE_MATERIAL"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -13805,7 +13888,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">fjell</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -13870,7 +13953,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">vastata</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="LANG">SPEECH</sem>
+				<sem class="SENSE">COGNITION</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -13899,8 +13983,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">gehen</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="MOTION"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="SPACE">MOTION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -13943,8 +14027,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<book name="100"/>
 			</sources>
 			<semantics>
-				<sem class="BODY_PART"/>
-				<sem class="FOOD_SLAUGHTER"/>
+				<sem class="BODY">PART</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="n">veri</t>
@@ -14021,7 +14105,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">завеса</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PIECE</sem>
+				<sem class="HOUSE">FURNITURE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -14042,8 +14127,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<lexicon xml:lang="rus">рыболовная застава, плетень поперёк реки для ловли
 				лосося</lexicon>
 			<semantics>
-				<sem class="ANIMAL_FISH"/>
-				<sem class="FOOD_NATURE"/>
+				<sem class="ZOO">FISH</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -14066,13 +14151,14 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">занавеска</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PIECE</sem>
+				<sem class="HOUSE">FURNITURE</sem>
 			</semantics>
 		</mg>
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn">Âˊvvel</l>
+			<l pos="pn" class="place">Âˊvvel</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -14091,7 +14177,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pn">Ivalo</t>
 			</tg>
 			<semantics>
-				<sem class="PLACE_NAME"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -14100,7 +14186,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn">Äännaž</l>
+			<l pos="pn" nameclass="person" gender="fem">Äännaž</l>
 			<infl>
 				<form gloss="xxx">Äännže</form>
 			</infl>
@@ -14110,7 +14196,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<book name="Kurss" lesson="dict"/>
 			</sources>
 			<semantics>
-				<sem class="PERSNAME_FEMALE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="xxx">Anni</t>
@@ -14125,14 +14211,14 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn">Äˊnn</l>
+			<l pos="pn" nameclass="person" gender="fem">Äˊnn</l>
 		</lg>
 		<mg>
 			<sources>
 				<book name="Kurss" lesson="dict"/>
 			</sources>
 			<semantics>
-				<sem class="PERSNAME_FEMALE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="xxx">Anni</t>
@@ -14306,7 +14392,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Regen</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">WEATHER</sem>
 			</semantics>
 			<sources>
 				<book name="kurss" lesson="phon"/>
@@ -14357,7 +14443,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">arvemuoddá</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">WHOLE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -14398,7 +14484,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">sky</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">WEATHER</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -14409,7 +14495,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">heaven</t>
 			</tg>
 			<semantics>
-				<sem class="SOCIETY_RELIGION"/>
+				<sem class="HUMAN">RELIGION</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -14431,7 +14517,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">son</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_FAMILY"/>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -14445,7 +14531,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">poika</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -14638,9 +14724,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
 			</tg>
-			<terminology class="naut"/>
+			<terminology class="NAUTIC"/>
 			<semantics>
-				<sem class="TRAVEL_VEHICLE"/>
+				<sem class="SPACE">MOTION</sem>
+				<sem class="WORK">TRAVEL</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -14757,7 +14844,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -14920,7 +15007,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">mann</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -14989,9 +15076,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
 			</tg>
+			<terminology class="REINDEER"/>
 			<semantics>
-				<sem class="NATURE_MAMMAL"/>
-				<sem class="REINDEER_HERDING"/>
+				<sem class="ZOO">MAMMAL</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -15057,7 +15145,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="num">eins</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_QUANTITY"/>
+				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<sources>
 				<book name="kurss" lesson="phon"/>
@@ -15155,7 +15243,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">height</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PART</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -15181,7 +15269,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">smell</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE_SENSE"/>
+				<sem class="SENSE">PERCEPTION</sem>
+				<sem class="ENVIR">ELEMENT</sem>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -15257,7 +15347,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">menneske</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PERSON"/>
+				<sem class="HUMAN">PERSON</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -15274,13 +15364,14 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<tr>of bones</tr>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="BODY">PART</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 		</mg>
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn">Čeˊvetjäuˊrr</l>
+			<l pos="pn" class="place">Čeˊvetjäuˊrr</l>
 			<infl>
 				<form gloss="gen.sg">Čeˊvetjääuˊr</form>
 			</infl>
@@ -15301,7 +15392,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<te>lake</te>
 			</tg>
 			<semantics>
-				<sem class="PLACE_NAME"/>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -15323,7 +15414,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<te>village</te>
 			</tg>
 			<semantics>
-				<sem class="PLACE_LAKE"/>
+				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -15346,7 +15437,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="TIME_UNIT"/>
+				<sem class="TIME">UNIT</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -15363,7 +15454,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="TIME_UNIT"/>
+				<sem class="TIME">UNIT</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -15393,8 +15484,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="a">svart</t>
 			</tg>
+			<terminology class="color"/>
 			<semantics>
-				<sem class="PROPERTY_COLOR"/>
+				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -15522,8 +15614,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 			<lexicon xml:lang="rus">обрубок дерева</lexicon>
 			<semantics>
-				<sem class="NATURE_MATERIAL"/>
-				<sem class="PLANT_TREE"/>
+				<sem class="BOT">TREE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -15581,9 +15672,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">stå</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="MOTION"/>
-				<sem class="NATURE"/>
+				<sem class="WORK">TRAVEL</sem>
+				<sem class="SPACE">POSITION</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -15606,7 +15696,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="HUMAN">SOCIAL</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -15637,9 +15728,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">horn</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_MAMMAL"/>
-				<sem class="BODY_PART"/>
-				<sem class="NATURE_MATERIAL"/>
+				<sem class="ZOO">MAMMAL</sem>
+				<sem class="BODY">PART</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -15656,7 +15747,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<tr>color</tr>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PART</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -15672,7 +15763,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Zeigefinger</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -15696,9 +15787,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">light</t>
+				<te>of color</te>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="CLOTH">PART</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -15711,9 +15803,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">crowberry</t>
 			</tg>
 			<lexicon xml:lang="lat">Empetrum nigrum</lexicon>
+			<species class="BOT"/>
 			<semantics>
-				<sem class="FOOD_NATURE"/>
-				<sem class="PLANT_BERRY"/>
+				<sem class="FOOD">NATURE</sem>
+				<sem class="BOT">BERRY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -15770,8 +15863,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Herz</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
-				<sem class="FOOD_SLAUGHTER"/>
+				<sem class="BODY">PART</sem>
+				<sem class="FOOD">NATURE</sem>
+				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -15809,8 +15903,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Auge</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
-				<sem class="SENSE"/>
+				<sem class="BODY">PART</sem>
+				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -15821,7 +15915,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">drop</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">ELEMENT</sem>
 			</semantics>
 		</mg>
 		<mg>
@@ -15832,7 +15926,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">flake</t>
 			</tg>
 			<semantics>
-				<sem class="FOOD_GROCERY"/>
+				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 		</mg>
 		<mg>
@@ -15939,9 +16033,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">Wasser</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE_MATERIAL"/>
-				<sem class="FOOD_NATURE"/>
-				<sem class="FOOD_GROCERY"/>
+				<sem class="ENVIR">ELEMENT</sem>
+				<sem class="FOOD">NATURE</sem>
+				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
 				<book name="kurss" lesson="phon"/>
@@ -15973,7 +16067,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">mage</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -15993,7 +16087,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">autumn</t>
 			</tg>
 			<semantics>
-				<sem class="TIME_NATURE"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -16044,8 +16138,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">sik</t>
 			</tg>
 			<semantics>
-				<sem class="ANIMAL_FISH"/>
-				<sem class="FOOD_NATURE"/>
+				<sem class="ZOO">FISH</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -16141,7 +16235,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">gut</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_QUALITY"/>
+				<sem class="SENSE">EMOTION</sem>
+				<sem class="HUMAN">PEOPLE</sem>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -16243,7 +16339,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				</xtg>
 			</xg>
 			<semantics>
-				<sem class="BUILDING_DWELLING"/>
+				<sem class="HOUSE">DWELLING</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -16302,7 +16398,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">stor</t>
 			</tg>
 			<semantics>
-				<sem class="PROPERTY_QUALITY"/>
+				<sem class="SPACE">RELATION</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -16350,7 +16446,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<book name="Kurss" lesson="dict"/>
 			</sources>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="HOUSE">FURNITURE</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="xxx">matto</t>
@@ -16551,7 +16647,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">stein</t>
 			</tg>
 			<semantics>
-				<sem class="NATURE"/>
+				<sem class="ENVIR">ELEMENT</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -16582,9 +16678,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">fly</t>
 			</tg>
 			<semantics>
-				<sem class="ASE"/>
-				<sem class="MOTION"/>
-				<sem class="NATURE"/>
+				<sem class="ZOO">BIRD</sem>
+				<sem class="SPACE">MOTION</sem>
+				<sem class="WORK">TRAVEL</sem>
 			</semantics>
 			<sources>
 				<book name="100"/>
@@ -16609,7 +16705,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">book</t>
 			</tg>
 			<semantics>
-				<sem class="LANGUAGE_OTHER"/>
+				<sem class="LANG">TEXT</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -16623,7 +16719,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">kirje</t>
 			</tg>
 			<semantics>
-				<sem class="LANGUAGE_OTHER"/>
+				<sem class="LANG">TEXT</sem>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -16639,7 +16736,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">kirjasto</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="LANG">TEXT</sem>
+				<sem class="HOUSE">DWELLING</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -16655,7 +16754,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">kirjoituskone</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="LANG">TEXT</sem>
+				<sem class="WORK">TOOL</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -16718,7 +16818,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="pro">hvem</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN_PEOPLE"/>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="1"/>
@@ -16756,7 +16856,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="v">kirjoittaa</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="LANG">TEXT</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -16814,7 +16915,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">ankle</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -16834,7 +16935,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">kieli</t>
 			</tg>
 			<semantics>
-				<sem class="LANGUAGE_OTHER"/>
+				<sem class="LANG">SPEECH</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -16850,7 +16951,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">kääntäjä</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="LANG">TEXT</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -16893,7 +16995,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">hand</t>
 			</tg>
 			<semantics>
-				<sem class="BODY_PART"/>
+				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
@@ -16923,8 +17025,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 					<xt pos="xxx">колттасаамское рукоделие</xt>
 				</xtg>
 			</xg>
+			<terminology class="DUODJI"/>
 			<semantics>
-				<sem class="SOCIETY_PROFESSION"/>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
 				<book name="xxx"/>
@@ -16965,7 +17068,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<te>season</te>
 			</tg>
 			<semantics>
-				<sem class="TIME_NATURE"/>
+				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<sources>
 				<book name="Kurss" lesson="phon"/>
