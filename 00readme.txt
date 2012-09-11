@@ -30,8 +30,9 @@ Preliminary conventions: media
 =====
 Preliminary conventions: other
 =====
-English default is "American"
-Russian uses ё
+* English default is "American"
+* Russian uses ё
+* Skolt uses uẹ
 
 * the current solution with inflected forms in <xg> is preliminary (I want to include both the nom.sg and the inflected forms with their translations, because they all are also included in the teaching materials. However, I do not want to have own lemmas for inflected forms)
 * field <infl> is preliminary, the listed forms are used while finding a better system to describe inflection classes
