@@ -98,6 +98,9 @@ urgent TODO's in order to compile new smsoahpa/smsdict
 ** resolve the preliminary tagging of what was called "synonyms"
 * <mg>
 ** for all entries from "term", "kurss", "200", "100" complete <semantics>, and <tg> in eng, rus, nob, fin
+* check consistency of adjective entries:
+** <l> with pred, attr under <der>?
+** pos-tagging: as "a", "a:attr", "a:pred"?
 
 Other TODO's 
 * write better documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
