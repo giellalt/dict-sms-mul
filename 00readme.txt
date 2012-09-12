@@ -72,6 +72,17 @@ on the e-element in the xml files:
 05 - a 226-word list with Sami cognates, etymologies and English/Finnish translations imported from the BEDLAN project (http://kielievoluutio.uta.fi) with which Michael Rießler collaborates. The list was originally created by Jyri Lehtinen. It includes the 207 meanings from the different Swadesh lists along with further 19 meanings from the so-called Leipzig-Jakarta list (see http://wold.livingsources.org/). Obs! Note that the sme/sju equivalents are often inprecise and have to be checked carefully because the original wordlist is about etymological relations rather than translations.
 
 =====
+Oahpa!-nuõrti
+=====
+The next generation of smsoahpa will include all entries tagged with
+* book="kurss" - a textbook
+* book="term" - smaller terminological and other sets (placenames, personnames, months, weekdays, pronouns, etc.)
+* book="200" - basic semantic meanings (100 items)
+* book="100" - basic semantic meanings (200 items)
+
+For later versions of smsoahpa we will work with other textbooks (which is the original idea of Oahpa!) and can remove the other word lists.
+
+=====
 TODO
 =====
 
@@ -86,7 +97,7 @@ urgent TODO's in order to compile new smsoahpa/smsdict
 * <variants>
 ** resolve the preliminary tagging of what was called "synonyms"
 * <mg>
-** for all entries from "kurss", "200", "100" complete <semantics>, and <tg> in eng, rus, nob, fin
+** for all entries from "term", "kurss", "200", "100" complete <semantics>, and <tg> in eng, rus, nob, fin
 
 Other TODO's 
 * write better documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
