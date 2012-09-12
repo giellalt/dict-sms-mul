@@ -57,7 +57,18 @@ on the e-element in the xml files:
 TODO
 =====
 
-TODO's 
+TODO's in order to compile a new smsoahpa
+* clean <l>
+** expressions which are not lemmata
+** search for , ~ etc. in <l>
+** complete pos
+* <lg>
+** find a systematic and consistent way for handling variants (dial and orth) 
+** find a systematic and consistent way for handling an example set of audiofiles
+* <mg>
+** for all entries from "kurss", "200", "100" complete <semantics>, and <tg> in eng, rus, nob, fin
+
+Other TODO's 
 * write better documentation
 * fill in xxx's
 * check <t> vs. <tg> vs. <mg>
