@@ -10,13 +10,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="pcle">-a</l>
 		</lg>
-		<mg>
+		<sources>
+			<book name="kurss" lesson="1"/>
+		</sources>
+		<mg oahpa="no" kurss="yes">
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
-			<sources>
-				<book name="Kurss" lesson="1"/>
-			</sources>
 			<tg xml:lang="rus">
 				<t pos="xxx">xxx</t>
 			</tg>
@@ -66,7 +66,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -76,7 +76,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -123,7 +123,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -422,7 +422,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -501,7 +501,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -527,7 +527,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -557,7 +557,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
@@ -621,7 +621,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
@@ -675,7 +675,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -902,7 +902,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">aˊmmrik</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" spec="NATION">
 			<tg xml:lang="eng">
 				<t pos="n">American</t>
 				<te>person</te>
@@ -913,7 +913,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="sme">
 				<t pos="n">amerihkálaš</t>
 			</tg>
-			<species class="NATION"/>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
@@ -1044,7 +1043,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">biolog</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" spec="PROFESSION">
 			<tg xml:lang="eng">
 				<t pos="n">biologist</t>
 			</tg>
@@ -1057,7 +1056,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="rus">
 				<t pos="n">биолог</t>
 			</tg>
-			<species class="PROFESSION"/>
 			<semantics>
 				<sem class="WORK">ECONOMY</sem>
 				<sem class="HUMAN">PEOPLE</sem>
@@ -1238,7 +1236,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">RELIGION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -1278,7 +1276,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ZOO">BIRD</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -1330,7 +1328,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE">COGNITION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 				<book name="200" BEDLAN_ID="2"/>
 			</sources>
 			<tg xml:lang="sju">
@@ -1560,7 +1558,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ZOO">INSECT</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -1637,7 +1635,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -1680,7 +1678,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -1740,13 +1738,12 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
-		<mg>
-			<terminology class="KINSHIP"/>
+		<mg oahpa="yes" term="KINSHIP">
 			<semantics>
 				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 				<book name="200" BEDLAN_ID="45"/>
 			</sources>
 			<tg xml:lang="rus">
@@ -1776,7 +1773,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">faaˊnal</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="DUODJI">
 			<tg xml:lang="eng">
 				<t pos="n">flannel</t>
 			</tg>
@@ -1789,7 +1786,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="deu">
 				<t pos="n">Flanell</t>
 			</tg>
-			<terminology class="DUODJI"/>
 			<semantics>
 				<sem class="CLOTH">MATERIAL</sem>
 				<sem class="WORK">ECONOMY</sem>
@@ -1814,7 +1810,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -2244,7 +2240,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">jeäˊnn</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="KINSHIP">
 			<tg xml:lang="eng">
 				<t pos="n">mother</t>
 			</tg>
@@ -2254,7 +2250,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="sme">
 				<t pos="n">eadni</t>
 			</tg>
-			<terminology class="KINSHIP"/>
 			<semantics>
 				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
@@ -2267,7 +2262,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<form gloss="nom.pl">jieˊrj</form>
 			</infl>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="REINDEER">
 			<tg xml:lang="rus">
 				<t pos="n">бык</t>
 				<tr>олений</tr>
@@ -2278,13 +2273,12 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
 			</tg>
-			<terminology class="REINDEER"/>
 			<semantics>
 				<sem class="ZOO">DOMESTIC</sem>
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -2329,7 +2323,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -2361,7 +2355,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</mg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -2401,7 +2395,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
@@ -2436,7 +2430,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="WORK">TRAVEL</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -2475,7 +2469,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">joŋŋ</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" spec="BOT">
 			<tg xml:lang="rus">
 				<t pos="n">брусника</t>
 			</tg>
@@ -2493,13 +2487,12 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">cowberry</t>
 			</tg>
 			<lexicon xml:lang="lat">vaccinium vitis-idaea</lexicon>
-			<species class="BOT"/>
 			<semantics>
 				<sem class="BOT">BERRY</sem>
 				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -2509,7 +2502,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">jalka</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -2517,7 +2509,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 				<book name="200" BEDLAN_ID="*58"/>
 				<book name="100" Swades_ID="46"/>
 			</sources>
@@ -2551,7 +2543,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 				<book name="200" BEDLAN_ID="93"/>
 			</sources>
 			<tg xml:lang="rus">
@@ -2648,6 +2640,12 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<l pos="adv">jâđđa</l>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="TIME">POINT</sem>
+			</semantics>
+			<sources>
+				<book name="kurss" lesson="1"/>
+			</sources>
 			<tg xml:lang="rus">
 				<t pos="adv">завтра</t>
 			</tg>
@@ -2655,7 +2653,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="adv">huomenna</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">i morgen</t>
+				<t pos="mwe">i morgen</t>
 			</tg>
 			<tg xml:lang="eng">
 				<t pos="adv">tomorrow</t>
@@ -2663,12 +2661,18 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="sme">
 				<t pos="adv">ihttin</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="Kurss" lesson="1"/>
-			</sources>
+			<xg oahpa="yes" kurss="no">
+				<x pos="mwe">mâŋŋa jââđast</x>
+				<xtg xml:lang="eng">
+					<xt pos="mwe">the day after tomorrow</xt>
+				</xtg>
+				<xtg xml:lang="deu">
+					<xt pos="adv">übermorgen</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="adv">послезавтра</xt>
+				</xtg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -2696,7 +2700,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SPACE">POSITION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 		<mg>
@@ -2708,7 +2712,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SPACE">POSITION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -2716,7 +2720,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">jättmöš</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" spec="BOT">
 			<tg xml:lang="eng">
 				<t pos="xxx">box whortleberry</t>
 				<t pos="xxx">bog blueberry</t>
@@ -2729,7 +2733,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">juogot</t>
 			</tg>
 			<lexicon xml:lang="lat">Vaccinium uliginosum</lexicon>
-			<species class="BOT"/>
 			<semantics>
 				<sem class="BOT">BERRY</sem>
 			</semantics>
@@ -2781,7 +2784,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">jävvʼveˊll</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="COOKING">
 			<tg xml:lang="eng">
 				<t pos="n">gruel</t>
 			</tg>
@@ -2791,7 +2794,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="deu">
 				<t pos="n">Schleimsuppe</t>
 			</tg>
-			<terminology class="cooking"/>
 			<semantics>
 				<sem class="FOOD">DISH</sem>
 			</semantics>
@@ -2986,7 +2988,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SPACE">RELATION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -3030,7 +3032,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -3056,7 +3058,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -3084,7 +3086,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HOUSE">DWELLING</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -3140,7 +3142,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 		<mg>
@@ -3151,7 +3153,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -3249,7 +3251,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 		<mg>
@@ -3269,7 +3271,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -3447,7 +3449,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ZOO">DOMESTIC</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -3598,7 +3600,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -3620,7 +3622,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -3659,7 +3661,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SPACE">MOTION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -3699,7 +3701,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="v">kuärrad</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="DUODJI">
 			<tg xml:lang="eng">
 				<t pos="v">knit</t>
 			</tg>
@@ -3709,20 +3711,18 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="fin">
 				<t pos="v">neuloa</t>
 			</tg>
-			<terminology class="DUODJI"/>
 			<semantics>
 				<sem class="CLOTH">PART</sem>
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 		</mg>
-		<mg>
+		<mg oahpa="xxx" term="DUODJI">
 			<tg xml:lang="eng">
 				<t pos="v">sew</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="v">ommella</t>
 			</tg>
-			<terminology class="DUODJI"/>
 			<semantics>
 				<sem class="CLOTH">PART</sem>
 				<sem class="WORK">ECONOMY</sem>
@@ -3733,14 +3733,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">kuärrammašina</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="DUODJI">
 			<tg xml:lang="eng">
 				<t pos="xxx">sewing machine</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">ompelukone</t>
 			</tg>
-			<terminology class="DUODJI"/>
 			<semantics>
 				<sem class="CLOTH">PART</sem>
 				<sem class="WORK">TOOL</sem>
@@ -3765,7 +3764,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -3788,7 +3787,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE">EMOTION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -3820,7 +3819,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -3886,7 +3885,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -3910,7 +3909,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -3968,7 +3967,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -4064,7 +4063,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -4311,7 +4310,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HOUSE">DWELLING</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -4505,7 +4504,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BOT">TREE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -4519,7 +4518,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="inher" source="finnopermic">külmä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -4573,7 +4571,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 				<book name="100"/>
 			</sources>
 		</mg>
@@ -4613,7 +4611,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -4706,7 +4704,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -4779,7 +4777,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE">COGNITION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 			<tg xml:lang="rus">
 				<t pos="con">но</t>
@@ -4964,7 +4962,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">lueˊm</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" spec="BOT">
 			<tg xml:lang="eng">
 				<t pos="n">cloudberry</t>
 			</tg>
@@ -4981,7 +4979,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">luomi</t>
 			</tg>
 			<lexicon xml:lang="lat">Rubus chamaemorus</lexicon>
-			<species class="BOT"/>
 			<semantics>
 				<sem class="BOT">BERRY</sem>
 				<sem class="FOOD">NATURE</sem>
@@ -4997,7 +4994,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -5099,7 +5096,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SPACE">MOTION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -5134,7 +5131,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -5156,7 +5153,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="CLOTH">PIECE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -5409,8 +5406,19 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<form gloss="acc.sg">mõõn</form>
 				<form gloss="acc.pl">mâiˊd</form>
 			</infl>
+			<etymology>
+				<etymon type="inher" source="uralic">mɜ</etymon>
+				<cognate xml:lang="xxx"/>
+			</etymology>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="SENSE">COGNITION</sem>
+			</semantics>
+			<sources>
+				<book name="kurss" lesson="1"/>
+				<book name="200" BEDLAN_ID="153"/>
+			</sources>
 			<tg xml:lang="rus">
 				<t pos="pro">что</t>
 			</tg>
@@ -5447,12 +5455,40 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 					<xt pos="pro">mitä</xt>
 				</xtg>
 			</xg>
-			<semantics>
-				<sem class="SENSE">COGNITION</sem>
-			</semantics>
-			<sources>
-				<book name="Kurss" lesson="1"/>
-			</sources>
+			<xg oahpa="yes" kurss="no">
+				<x pos="xxx">mii-ne</x>
+				<xtg xml:lang="eng">
+					<xt pos="xxx">some</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="xxx">jokin</xt>
+					<xt pos="xxx">jotain</xt>
+				</xtg>
+				<xtg xml:lang="rus">
+					<xt pos="pro">что-нибудь</xt>
+				</xtg>
+				<xtg xml:lang="nob">
+					<xt pos="pro">noe</xt>
+				</xtg>
+				<xtg xml:lang="sme">
+					<xt pos="xxx">juoga</xt>
+				</xtg>
+				<xtg xml:lang="sju">
+					<xt pos="xxx">sååmès</xt>
+				</xtg>
+			</xg>
+			<xg oahpa="yes" kurss="no">
+				<x pos="xxx">mâiˊd-ne</x>
+				<xtg xml:lang="rus">
+					<xt pos="pro">что-нибудь</xt>
+				</xtg>
+				<tg xml:lang="fin">
+					<t pos="pro">jotain</t>
+				</tg>
+				<xtg xml:lang="nob">
+					<xt pos="pro">noe</xt>
+				</xtg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="02">
@@ -5537,7 +5573,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -5607,7 +5643,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PERSON</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -5633,7 +5669,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -5685,7 +5721,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -5774,28 +5810,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</sources>
 		</mg>
 	</e>
-	<e meta="03">
-		<lg>
-			<l pos="pro">mâiˊd-ne</l>
-		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="pro">что-нибудь</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pro">jotain</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="pro">noe</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="Kurss" lesson="1"/>
-			</sources>
-		</mg>
-	</e>
 	<e meta="01">
 		<lg>
 			<l pos="n">mââiˊbargg</l>
@@ -5844,22 +5858,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 				<book name="100"/>
 			</sources>
-		</mg>
-	</e>
-	<e meta="01">
-		<lg>
-			<l pos="n">mâŋŋa jââđast</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">the day after tomorrow</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
 		</mg>
 	</e>
 	<e meta="04">
@@ -6025,7 +6026,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -6050,7 +6051,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -6085,7 +6086,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="WORK">TRAVEL</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 		<mg>
@@ -6103,7 +6104,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="WORK">TRAVEL</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -6116,7 +6117,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -6196,7 +6197,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -6230,7 +6231,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -6312,7 +6313,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -6409,21 +6410,29 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="01">
 		<lg>
-			<l pos="n">neäˊttel-lopp</l>
+			<l pos="n">neäˊttelʼlopp</l>
+			<variants>
+				<orth source="xxx">neäˊttel-lopp</orth>
+			</variants>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="TIME">CYCLE</sem>
+				<sem class="HUMAN">FAMILY</sem>
+				<sem class="WORK">ECONOMY</sem>
+			</semantics>
 			<tg xml:lang="eng">
 				<t pos="n">weekend</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">viikonloppu</t>
 			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">helg</t>
+			</tg>
 			<tg xml:lang="sme">
 				<t pos="n">vahkkoloahppa</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
 		</mg>
 	</e>
 	<e meta="03">
@@ -6447,7 +6456,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 		<mg>
@@ -6467,7 +6476,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -6492,7 +6501,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -6516,14 +6525,20 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
 	<e meta="02">
 		<lg>
-			<l pos="n">njiˊšǩǩ-maadd</l>
+			<l pos="n">njiˊšǩǩmaadd</l>
 		</lg>
+		<semantics>
+			<sem class="BODY">PART</sem>
+		</semantics>
+		<sources>
+			<book name="100"/>
+		</sources>
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="n">шея</t>
@@ -6543,12 +6558,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="n">nakke</t>
 			</tg>
-			<semantics>
-				<sem class="BODY">PART</sem>
-			</semantics>
-			<sources>
-				<book name="100"/>
-			</sources>
 		</mg>
 	</e>
 	<e meta="03">
@@ -6569,7 +6578,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ZOO">BIRD</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -6736,7 +6745,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -6812,7 +6821,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 				<book name="100"/>
 			</sources>
 		</mg>
@@ -6841,38 +6850,87 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="WORK">TOOL</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
 	<e meta="03">
 		<lg>
 			<l pos="adv">occanj</l>
+			<variants>
+				<dial dialect="P" source="1991">õccanj</dial>
+				<synonym source="1991">occnja</synonym>
+				<synonym source="1991">simmna</synonym>
+			</variants>
 			<audio>
 				<a dialect="muo" speaker="ZMN" href="xxx/occanj_SKO111211_ZMN_5.wav"/>
 				<a dialect="peä" speaker="KJ" href="xxx/occanj_SKO111219_KJ_1.wav"/>
 			</audio>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="SENSE">QUANTITY</sem>
+			</semantics>
+			<sources>
+				<book name="kurss" lesson="phon"/>
+				<book name="200" BEDLAN_ID="48"/>
+			</sources>
 			<tg xml:lang="rus">
 				<t pos="adv">чуть-чуть</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">xxx</t>
+				<t pos="adv">vähän</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="adv">litt</t>
-				<t pos="adv-expr">en smule</t>
+				<t pos="mwe_adv">en smule</t>
 			</tg>
 			<tg xml:lang="eng">
-				<t pos="adv-expr">a little bit</t>
+				<t pos="mwe_adv">a little bit</t>
 			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">veahá</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="xxx">gille</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="adv">occnja</l>
+			<variants>
+				<dial dialect="P" source="1991">õccnja</dial>
+				<synonym source="1991">occanj</synonym>
+				<synonym source="1991">simmna</synonym>
+			</variants>
+		</lg>
+		<mg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="200" BEDLAN_ID="48"/>
 			</sources>
+			<tg xml:lang="rus">
+				<t pos="adv">чуть-чуть</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">vähän</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="adv">litt</t>
+				<t pos="mwe_adv">en smule</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="mwe_adv">a little bit</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="xxx">veahá</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="xxx">gille</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -6897,13 +6955,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="n">ooumaž</l>
+			<l pos="n:dim" root="åålm">ooumaž</l>
 			<variants>
 				<dial dialect="P" source="1991">ååumaž</dial>
 			</variants>
@@ -6914,58 +6972,98 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<form gloss="nom.pl">oummu</form>
 			</infl>
 		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="n">мужчина</t>
-			</tg>
+		<sources>
+			<book name="kurss" lesson="1"/>
+			<book name="200" BEDLAN_ID="*99"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes" term="KINSHIP">
+			<semantics>
+				<sem class="HUMAN">FAMILY</sem>
+			</semantics>
 			<tg xml:lang="fin">
 				<t pos="n">mies</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="n">mann</t>
 			</tg>
-			<tg xml:lang="eng">
-				<t pos="n">man</t>
+			<tg xml:lang="rus">
+				<t pos="n">муж</t>
 			</tg>
+			<tg xml:lang="deu">
+				<t pos="n" stat="pref">Ehemann</t>
+				<t pos="n">Mann</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">dievdu</t>
+				<t pos="n">almmái</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="n">ålmài</t>
+				<t pos="n">ålˈmaah</t>
+			</tg>
+		</mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
-			<sources>
-				<book name="Kurss" lesson="1"/>
-			</sources>
-		</mg>
-		<mg>
 			<tg xml:lang="rus">
 				<t pos="n">человек</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">ihminen</t>
+				<t pos="n">henkilö</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="n">person</t>
 			</tg>
 			<tg xml:lang="eng">
 				<t pos="n">person</t>
+				<t pos="n">human</t>
 			</tg>
-			<semantics>
-				<sem class="HUMAN">PEOPLE</sem>
-			</semantics>
-			<sources>
-				<book name="Kurss" lesson="phon"/>
-			</sources>
+			<tg xml:lang="sme">
+				<t pos="n">olmmoš</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="n">alˈmatja</t>
+			</tg>
 		</mg>
 	</e>
-	<e meta="01">
+	<e meta="04">
 		<lg>
-			<l pos="n">oouˊdbu peeiˊv</l>
+			<l pos="a">oouˊdab</l>
+			<variants>
+				<dial dialect="P" source="1991">õõuˊdab</dial>
+			</variants>
 		</lg>
 		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">the day before yesterday</t>
-			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="TIME">POINT</sem>
 			</semantics>
+			<sources>
+				<book name="xxx"/>
+			</sources>
+			<tg xml:lang="fin">
+				<t pos="a">edellinen</t>
+			</tg>
+			<xg oahpa="no" kurss="no">
+				<x type="np" pos="mwe">oouˊdab peiˊvv</x>
+				<xtg xml:lang="fin">
+					<xt pos="mwe_n">edellinen päivä</xt>
+				</xtg>
+				<xtg xml:lang="eng">
+					<xt pos="mwe_n">the day before yesterday</xt>
+				</xtg>
+				<xtg xml:lang="deu">
+					<xt pos="n">Vorgestern</xt>
+				</xtg>
+			</xg>
+			<xg oahpa="no" kurss="no">
+				<x type="np" pos="mwe">oouˊdab eeˊjj</x>
+				<xtg xml:lang="fin">
+					<xt pos="mwe_n">edellisenä vuonna</xt>
+				</xtg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -6975,12 +7073,11 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<mg>
 			<tg xml:lang="eng">
 				<t pos="n">vegetable</t>
-			</tg>
-			<tg xml:lang="eng">
 				<t pos="n" style="coll">veggie</t>
 			</tg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="FOOD">GROCERY</sem>
+				<sem class="FOOD">NATURE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -7111,7 +7208,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -7155,7 +7252,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -7179,7 +7276,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">papp</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="PROFESSION">
 			<tg xml:lang="eng">
 				<t pos="n">priest</t>
 			</tg>
@@ -7196,7 +7293,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">báhppa</t>
 				<t pos="n">páhppa</t>
 			</tg>
-			<terminology class="PROFESSION"/>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 				<sem class="HUMAN">RELIGION</sem>
@@ -7348,21 +7444,29 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">peˊssertuẹjj</l>
+			<variants>
+				<dial dialect="P" source="1991">peˊssertuâjj</dial>
+			</variants>
 		</lg>
-		<mg>
-			<tg xml:lang="fin">
-				<t pos="n">helmityö</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="xxx">bead work</t>
-			</tg>
-			<terminology class="DUODJI"/>
+		<mg oahpa="xxx" term="DUODJI">
 			<semantics>
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
-				<book name="xxx"/>
+				<book name="term"/>
 			</sources>
+			<tg xml:lang="fin">
+				<t pos="n">helmityö</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="mwe_n">bead work</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">perlbroderi</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -7404,7 +7508,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -7484,7 +7588,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -7664,7 +7768,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -7690,7 +7794,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -7724,7 +7828,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -7825,7 +7929,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SPACE">MOTION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 				<book name="100"/>
 			</sources>
 		</mg>
@@ -7838,7 +7942,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SPACE">MOTION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 				<book name="100"/>
 			</sources>
 		</mg>
@@ -7911,7 +8015,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="CLOTH">WHOLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -7926,7 +8030,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<cognate lang="sme">boazu</cognate>
 			</etymology>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="REINDEER">
 			<tg xml:lang="rus">
 				<t pos="n">олень</t>
 				<tr>северный</tr>
@@ -7937,13 +8041,12 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="n">reinsdyr</t>
 			</tg>
-			<terminology class="REINDEER"/>
 			<semantics>
 				<sem class="ZOO">REINDEER</sem>
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -7951,7 +8054,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">puäʒʒooumaž</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="REINDEER">
 			<tg xml:lang="rus">
 				<t pos="n">оленевод</t>
 			</tg>
@@ -7961,13 +8064,12 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="n">reineier</t>
 			</tg>
-			<terminology class="REINDEER"/>
 			<semantics>
 				<sem class="WORK">ECONOMY</sem>
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -8070,20 +8172,33 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 		</mg>
 	</e>
-	<e meta="01">
+	<e meta="04">
 		<lg>
 			<l pos="n">pâˊzzlâšttammään</l>
+			<variants>
+				<orth source="ksdp">pâˊzzlâšttamʼmään</orth>
+				<orth source="ksdp">pâˊzzlâšttam-mään</orth>
+			</variants>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="TIME">CYCLE</sem>
+			</semantics>
+			<sources>
+				<book name="term"/>
+			</sources>
 			<tg xml:lang="eng">
 				<t pos="n">March</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">maaliskuu</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
+			<tg xml:lang="nob">
+				<t pos="n">mars</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="n">март</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="02">
@@ -8130,7 +8245,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<form gloss="acc.sg">pävvar</form>
 			</infl>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" spec="PROFESSION">
 			<tg xml:lang="rus">
 				<t pos="n">повар</t>
 			</tg>
@@ -8140,34 +8255,14 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="n">kokk</t>
 			</tg>
-			<species class="PROFESSION"/>
 			<semantics>
 				<sem class="WORK">ECONOMY</sem>
 				<sem class="HUMAN">PEOPLE</sem>
 				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
-		</mg>
-	</e>
-	<e meta="01">
-		<lg>
-			<l pos="mwe">päärnai vuâstta</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="mwe">be pregnant</t>
-				<t pos="mwe">be with child</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="mwe">olla raskaana</t>
-				<t pos="mwe">odottaa lasta</t>
-				<t pos="mwe">olla paksuna</t>
-			</tg>
-			<semantics>
-				<sem class="HUMAN">FAMILY</sem>
-			</semantics>
 		</mg>
 	</e>
 	<e meta="04">
@@ -8175,9 +8270,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<l pos="n">päˊrnn</l>
 			<der gloss="dim">päärnaž</der>
 			<etymology>
-				<etymon type="xxx" source="xxx"/>
-				<cognate xml:lang="xxx"/>
-				<note>Latter derivation; loan from Scand</note>
+				<etymon type="loan" source="NG"/>
+				<etymon type="inher" source="PS"/>
+				<cognate xml:lang="swe">barn</cognate>
 			</etymology>
 		</lg>
 		<mg>
@@ -8185,7 +8280,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 				<book name="200" BEDLAN_ID="21"/>
 			</sources>
 			<tg xml:lang="rus">
@@ -8210,14 +8305,28 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="sju">
 				<t pos="xxx">jugˈloo</t>
 			</tg>
+			<xg oahpa="no" kurss="no">
+				<x pos="mwe_a">päärnai jälstempõrtt</x>
+				<xtg xml:lang="eng">
+					<xt pos="mwe_n">boarding house</xt>
+				</xtg>
+				<xtg xml:lang="eng">
+					<xt pos="n">dormitory</xt>
+					<xt pos="n">dorm</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="n">asuntola</xt>
+					<xt pos="mwe_n">opiskelija-asuntola</xt>
+					<xt pos="n">oppilasasuntola</xt>
+				</xtg>
+			</xg>
 		</mg>
-		<mg>
-			<terminology class="KINSHIP"/>
+		<mg oahpa="yes" term="KINSHIP">
 			<semantics>
 				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 				<book name="200" BEDLAN_ID="215"/>
 			</sources>
 			<tg xml:lang="eng">
@@ -8231,7 +8340,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="n">lapsi</t>
+				<t pos="n">poika</t>
 				<tr>sukulaisena</tr>
 			</tg>
 			<tg xml:lang="sme">
@@ -8243,6 +8352,16 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="sju">
 				<t pos="xxx">jugˈloo</t>
 			</tg>
+			<xg oahpa="yes" kurss="yes">
+				<x pos="mwe_a">päärnai vuâstta</x>
+				<xtg xml:lang="eng">
+					<xt pos="a">pregnant</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="xxx" stat="pref">raskaana</xt>
+					<xt pos="mwe_a">olla paksuna</xt>
+				</xtg>
+			</xg>
 		</mg>
 	</e>
 	<e meta="02">
@@ -8329,7 +8448,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -8442,7 +8561,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HOUSE">DWELLING</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 				<book name="200" BEDLAN_ID="211"/>
 			</sources>
 			<tg xml:lang="rus">
@@ -8523,7 +8642,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="CLOTH">PART</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -8531,7 +8650,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">reppjoŋŋ</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" spec="BOT">
 			<tg xml:lang="eng">
 				<t pos="n">cranberry</t>
 				<t pos="xxx">mountain cranberry</t>
@@ -8548,7 +8667,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">báddemuorji</t>
 			</tg>
 			<lexicon xml:lang="lat">Vaccinium oxycoccos</lexicon>
-			<species class="BOT"/>
 			<semantics>
 				<sem class="FOOD">NATURE</sem>
 				<sem class="BOT">BERRY</sem>
@@ -8589,7 +8707,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -8615,7 +8733,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE">EMOTION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -8846,7 +8964,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="a">ruõnâs</l>
 		</lg>
-		<mg>
+		<mg oahpa="yes" term="COLOR">
 			<tg xml:lang="rus">
 				<t pos="a">зелёный</t>
 				<tr>xxx</tr>
@@ -8863,7 +8981,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="a">руэнн</t>
 				<tr>xxx</tr>
 			</tg>
-			<terminology class="color"/>
 			<semantics>
 				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
@@ -8908,7 +9025,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="a">ruõpssâd</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="COLOR">
 			<tg xml:lang="rus">
 				<t pos="a">красный</t>
 			</tg>
@@ -8927,7 +9044,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="a">rød</t>
 			</tg>
-			<terminology class="color"/>
 			<semantics>
 				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
@@ -8962,7 +9078,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">ruõšˈšlaž</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" spec="NATION">
 			<tg xml:lang="rus">
 				<t pos="n">русский</t>
 				<tr>человек</tr>
@@ -8973,12 +9089,11 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="n">russer</t>
 			</tg>
-			<species class="NATION"/>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -9140,7 +9255,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -9165,7 +9280,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ZOO">DOMESTIC</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -9248,7 +9363,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
@@ -9271,7 +9386,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
@@ -9408,7 +9523,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -9447,7 +9562,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -9482,7 +9597,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -9521,7 +9636,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HOUSE">FURNITURE</sem>
@@ -9540,14 +9655,30 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
+	<e meta="04">
 		<lg>
-			<l pos="n">siõm</l>
+			<l pos="n">sieˊm</l>
+			<variants>
+				<dial dialect="P" source="1991">siõm</dial>
+			</variants>
 			<infl>
 				<form gloss="nom.pl">siõmˈmân</form>
 			</infl>
+			<etymology>
+				<etymon type="loan" source="finnic?"/>
+				<etymon type="inher" source="S?"/>
+				<cognate xml:lang="xxx"/>
+			</etymology>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="BOT">TREE</sem>
+				<sem class="FOOD">NATURE</sem>
+			</semantics>
+			<sources>
+				<book name="200" BEDLAN_ID="*138"/>
+				<book name="100"/>
+			</sources>
 			<tg xml:lang="rus">
 				<t pos="n">семя</t>
 			</tg>
@@ -9566,13 +9697,12 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="n">frø</t>
 			</tg>
-			<semantics>
-				<sem class="BOT">TREE</sem>
-				<sem class="FOOD">NATURE</sem>
-			</semantics>
-			<sources>
-				<book name="100"/>
-			</sources>
+			<tg xml:lang="sme">
+				<t pos="n">siepman</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="n">sàjjoo</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -9581,7 +9711,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -9630,7 +9760,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="WORK">LAISURE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 				<book name="200" BEDLAN_ID="118"/>
 			</sources>
 			<tg xml:lang="eng">
@@ -9665,18 +9795,27 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</variants>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="TIME">CYCLE</sem>
+			</semantics>
+			<sources>
+				<book name="term"/>
+			</sources>
 			<tg xml:lang="eng">
 				<t pos="n">November</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">marraskuu</t>
 			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">november</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="n">ноябрь</t>
+			</tg>
 			<tg xml:lang="sme">
 				<t pos="n">skábmamánnu</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
 		</mg>
 	</e>
 	<e meta="01">
@@ -9711,7 +9850,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">RELIGION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 			<tg xml:lang="rus">
 				<t pos="n">богослужение</t>
@@ -9768,11 +9907,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">sniimmi</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="PROFESSION">
 			<tg xml:lang="eng">
 				<t pos="n">photographer</t>
 			</tg>
-			<terminology class="PROFESSION"/>
 			<semantics>
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
@@ -9792,17 +9930,22 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 		</mg>
 	</e>
-	<e meta="01">
+	<e meta="04">
 		<lg>
-			<l pos="n">sniimmâmmašina</l>
+			<l pos="n">sniimmâmʼmašina</l>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="WORK">TOOL</sem>
+				<sem class="HUMAN">FAMILY</sem>
+				<sem class="SENSE">PERCEPTION</sem>
+			</semantics>
 			<tg xml:lang="eng">
 				<t pos="n">camera</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
+			<tg xml:lang="nob">
+				<t pos="n">kamera</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -9827,7 +9970,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="LANG">SPEECH</sem>
@@ -9869,7 +10012,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -9882,7 +10025,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">sɤ̈ (sɤ̈n ~ sɤ̈ŋ)</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -9890,7 +10032,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PERSON</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 				<book name="200" BEDLAN_ID="70"/>
 			</sources>
 			<tg xml:lang="rus">
@@ -9935,7 +10077,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
@@ -10004,7 +10146,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HOUSE">FURNITURE</sem>
@@ -10137,7 +10279,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="TIME">CYCLE</sem>
@@ -10177,7 +10319,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -10240,7 +10382,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -10296,7 +10438,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -10392,9 +10534,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<form gloss="nom.pl">sââˊr</form>
 			</infl>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" spec="BOT">
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<tg xml:lang="fin">
 				<t pos="n">mustikka</t>
@@ -10413,7 +10555,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">sarrit</t>
 			</tg>
 			<lexicon xml:lang="lat">Vaccinium myrtillus</lexicon>
-			<species class="BOT"/>
 			<semantics>
 				<sem class="FOOD">NATURE</sem>
 				<sem class="BOT">BERRY</sem>
@@ -10461,7 +10602,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HOUSE">DWELLING</sem>
@@ -10495,7 +10636,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<tg xml:lang="fin">
 				<t pos="xxx">sokeri</t>
@@ -10518,7 +10659,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">sääldat</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="PROFESSION">
 			<tg xml:lang="eng">
 				<t pos="n">soldier</t>
 			</tg>
@@ -10528,7 +10669,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="rus">
 				<t pos="n">солдат</t>
 			</tg>
-			<terminology class="PROFESSION"/>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 				<sem class="WORK">ECONOMY</sem>
@@ -10564,7 +10704,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -10658,7 +10798,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -10680,7 +10820,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">SOCIAL</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -10718,7 +10858,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -10766,7 +10906,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -10780,7 +10920,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="BODY">HEALTH</sem>
@@ -10820,7 +10960,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">POSSESSION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -10884,7 +11024,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="LANG">TEXT</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -10913,7 +11053,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -10990,7 +11130,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11070,7 +11210,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE">COGNITION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -11111,7 +11251,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11134,9 +11274,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<form gloss="3pl.prs">teäˊrre</form>
 			</infl>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="REINDEER">
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11148,7 +11288,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">бежать</t>
 				<tr>о стаде</tr>
 			</tg>
-			<terminology class="REINDEER"/>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
 			</tg>
@@ -11163,7 +11302,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 			<tg xml:lang="fin">
 				<t pos="interj">terve</t>
@@ -11189,7 +11328,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">SOCIAL</sem>
@@ -11211,7 +11350,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">SOCIAL</sem>
@@ -11268,7 +11407,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY">HEALTH</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -11281,7 +11420,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11303,7 +11442,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11330,7 +11469,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11355,7 +11494,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11412,7 +11551,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">SOCIAL</sem>
@@ -11499,7 +11638,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PERSON</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -11524,7 +11663,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="WORK">MUSIC</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -11596,12 +11735,18 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="n">tuejj</l>
+			<l pos="n">tuẹjj</l>
 			<infl>
-				<form gloss="loc.sg">tuejast</form>
+				<form gloss="loc.sg">tuẹjast</form>
 			</infl>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="WORK">ECONOMY</sem>
+			</semantics>
+			<sources>
+				<book name="kurss" lesson="1"/>
+			</sources>
 			<tg xml:lang="rus">
 				<t pos="n">работа</t>
 			</tg>
@@ -11613,7 +11758,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">jobb</t>
 			</tg>
 			<xg oahpa="no" kurss="no">
-				<x pos="n">tuejast</x>
+				<x pos="n">tuẹjast</x>
 				<xtg xml:lang="rus">
 					<xt pos="xxx">на работе</xt>
 				</xtg>
@@ -11624,19 +11769,13 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 					<xt pos="xxx">på jobben</xt>
 				</xtg>
 			</xg>
-			<semantics>
-				<sem class="WORK">ECONOMY</sem>
-			</semantics>
-			<sources>
-				<book name="Kurss" lesson="1"/>
-			</sources>
 		</mg>
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="v">tuejjeed</l>
+			<l pos="v">tuẹjˈjeed</l>
 			<infl>
-				<form gloss="2sg.prs">tuejjääk</form>
+				<form gloss="2sg.prs">tuẹjjääk</form>
 			</infl>
 		</lg>
 		<mg>
@@ -11656,7 +11795,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -11672,7 +11811,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11697,7 +11836,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11731,7 +11870,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11753,7 +11892,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11776,7 +11915,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">to+tɜ</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -11784,7 +11922,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SPACE">POSITION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 				<book name="200" BEDLAN_ID="*168"/>
 				<book name="100"/>
 			</sources>
@@ -11838,7 +11976,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11863,7 +12001,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11883,7 +12021,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</mg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
@@ -11927,7 +12065,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HOUSE">FURNITURE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -11937,7 +12075,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11962,7 +12100,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -11987,7 +12125,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -12009,7 +12147,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -12075,7 +12213,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SPACE">POSITION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 			<xg oahpa="yes" kurss="yes">
 				<x type="infl" pos="pro">täˊst</x>
@@ -12103,7 +12241,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">POSSESSION</sem>
@@ -12126,7 +12264,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -12148,17 +12286,34 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<variants>
 				<synonym source="xxx">tääiˊb</synonym>
 			</variants>
+			<etymology>
+				<etymon type="inher" source="uralic">tä-</etymon>
+				<cognate xml:lang="xxx"/>
+				<note>derivation</note>
+			</etymology>
 		</lg>
 		<mg>
 			<semantics>
 				<sem class="SPACE">POSITION</sem>
 			</semantics>
+			<sources>
+				<book name="200" BEDLAN_ID="75"/>
+			</sources>
 			<tg xml:lang="eng">
 				<t pos="adv">here</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="adv">täällä</t>
+			</tg>
+			<tg xml:lang="fin">
 				<t pos="adv">täältä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="adv">dáppe</t>
+				<t pos="adv">dá</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="adv">dàdnee</t>
 			</tg>
 		</mg>
 	</e>
@@ -12168,17 +12323,34 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<variants>
 				<synonym source="xxx">tääiˊben</synonym>
 			</variants>
+			<etymology>
+				<etymon type="inher" source="uralic">tä-</etymon>
+				<cognate xml:lang="xxx"/>
+				<note>derivation</note>
+			</etymology>
 		</lg>
 		<mg>
 			<semantics>
 				<sem class="SPACE">POSITION</sem>
 			</semantics>
+			<sources>
+				<book name="200" BEDLAN_ID="75"/>
+			</sources>
 			<tg xml:lang="eng">
 				<t pos="adv">here</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="adv">täällä</t>
+			</tg>
+			<tg xml:lang="fin">
 				<t pos="adv">täältä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="adv">dáppe</t>
+				<t pos="adv">dá</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="adv">dàdnee</t>
 			</tg>
 		</mg>
 	</e>
@@ -12204,7 +12376,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -12247,7 +12419,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="TIME">CYCLE</sem>
@@ -12302,7 +12474,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -12358,11 +12530,31 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 		</mg>
 	</e>
-	<e meta="02">
+	<e meta="04">
+		<lg>
+			<l pos="n" state="dispref">täˊstt</l>
+			<variants>
+				<synonym source="meta05">täˊsnn</synonym>
+			</variants>
+		</lg>
+	</e>
+	<e meta="04">
 		<lg>
 			<l pos="n">täˊsnn</l>
+			<etymology>
+				<etymon type="inher" source="finnovolgaic?">täštä</etymon>
+				<cognate xml:lang="xxx"/>
+			</etymology>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="ENVIR">ELEMENT</sem>
+				<sem class="HUMAN">MYTHOLOGY</sem>
+			</semantics>
+			<sources>
+				<book name="200" BEDLAN_ID="*159"/>
+				<book name="100"/>
+			</sources>
 			<tg xml:lang="rus">
 				<t pos="n">звезда</t>
 			</tg>
@@ -12381,13 +12573,12 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="n">stjerne</t>
 			</tg>
-			<semantics>
-				<sem class="ENVIR">ELEMENT</sem>
-				<sem class="HUMAN">MYTHOLOGY</sem>
-			</semantics>
-			<sources>
-				<book name="100"/>
-			</sources>
+			<tg xml:lang="sme">
+				<t pos="n">násti</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="n">nàsstee</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -12411,7 +12602,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -12432,7 +12623,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 				<book name="200" BEDLAN_ID="169"/>
 			</sources>
 			<tg xml:lang="eng">
@@ -12457,27 +12648,133 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 		</mg>
 	</e>
-	<e meta="03">
+	<e meta="04">
 		<lg>
-			<l pos="adv">tõnt</l>
+			<l pos="adv">tõˊnt</l>
+			<variants>
+				<synonym>tõndiõtt</synonym>
+			</variants>
+			<etymology>
+				<etymon type="inher" source="psa">te̮</etymon>
+				<cognate xml:lang="xxx"/>
+				<note>derivation</note>
+			</etymology>
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
+				<book name="200" BEDLAN_ID="9"/>
 			</sources>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="SENSE">COGNITION</sem>
 			</semantics>
 			<tg xml:lang="fin">
 				<t pos="adv">siksi</t>
 				<te>sen takia</te>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="adv">therefore</t>
+				<te>for that reason</te>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="mwe_adv">that's why</t>
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="adv">поэтому</t>
 				<te>по этой причине</te>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="adv">derfor</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="adv">danne</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="adv">diaht</t>
+				<t pos="adv">diahta</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="adv">tõndiõtt</l>
+			<variants>
+				<synonym>tõˊnt</synonym>
+			</variants>
+			<etymology>
+				<etymon type="inher" source="psa">te̮</etymon>
+				<cognate xml:lang="xxx"/>
+				<note>derivation</note>
+			</etymology>
+		</lg>
+		<mg>
+			<sources>
+				<book name="kurss" lesson="dict"/>
+				<book name="200" BEDLAN_ID="9"/>
+			</sources>
+			<semantics>
+				<sem class="SENSE">COGNITION</sem>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="mwe_adv" stat="pref">sen takia</t>
+				<t pos="adv">siksi</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="mwe_adv" stat="pref">for that reason</t>
+				<t pos="adv">therefore</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="mwe_adv">that's why</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="mwe_adv" stat="pref">по этой причине</t>
+				<t pos="adv">поэтому</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="adv">derfor</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="adv">danne</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="adv">diaht</t>
+				<t pos="adv">diahta</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="con">tõˊnt</l>
+			<etymology>
+				<etymon type="inher" source="psa">te̮</etymon>
+				<cognate xml:lang="xxx"/>
+				<note>derivation</note>
+			</etymology>
+		</lg>
+		<mg>
+			<sources>
+				<book name="kurss" lesson="dict"/>
+				<book name="200" BEDLAN_ID="9"/>
+			</sources>
+			<semantics>
+				<sem class="SENSE">COGNITION</sem>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="con">koska</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="con">sille</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="con">because</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="con">fordi</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="con">потомучто</t>
+				<t pos="con">потому что</t>
+				<t pos="con">потому, что</t>
 			</tg>
 		</mg>
 	</e>
@@ -12492,7 +12789,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -12532,7 +12829,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -12559,7 +12856,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -12613,7 +12910,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -12639,7 +12936,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">uccē</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -12683,7 +12979,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SPACE">RELATION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 				<book name="200" BEDLAN_ID="*147"/>
 				<book name="100"/>
 			</sources>
@@ -12707,26 +13003,40 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="v">uˊrččâd</l>
+			<l pos="v">urččâd</l>
+			<variants>
+				<dial dialect="P" source="1991">uˊrččâd</dial>
+			</variants>
 			<infl>
 				<form gloss="3sg.prs">orčč</form>
 			</infl>
 		</lg>
 		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="SPACE">MOTION</sem>
+				<sem class="SENSE">EMOTION</sem>
 			</semantics>
+			<sources>
+				<book name="kurss" lesson="dict"/>
+				<book name="200" BEDLAN_ID="221"/>
+			</sources>
+			<tg xml:lang="eng">
+				<t pos="v">run</t>
+			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">juosta</t>
+				<t pos="v">juosta</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">бегать</t>
+				<t pos="v">бегать</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="v">viehkat</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="v">viahkat</t>
 			</tg>
 		</mg>
 	</e>
@@ -12761,7 +13071,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="100"/>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 		</mg>
 	</e>
@@ -12797,7 +13107,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -12822,7 +13132,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -12878,7 +13188,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="CLOTH">WHOLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -12891,7 +13201,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="LANG">SPEECH</sem>
@@ -12959,7 +13269,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -12972,7 +13282,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -13032,7 +13342,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -13057,33 +13367,44 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
 			<tg xml:lang="fin">
-				<t pos="xxx">viitsiä</t>
+				<t pos="v">viitsiä</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">мне полениться, мне лень</t>
-				<!-- typo im Buch-->
+				<t pos="mwe_v" stat="pref">мне лень</t>
+				<t pos="mwe_v">мне полениться</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
+	<e meta="03">
 		<lg>
-			<l pos="a">viskkâd</l>
+			<l pos="a:pred">viskkâd</l>
+			<der gloss="attr">viˊsǩǩes</der>
 		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="a">жёлтый</t>
+		<mg oahpa="xxx" term="COLOR">
+			<sources>
+				<book name="kurss" lesson="dict"/>
+				<book name="100"/>
+			</sources>
+			<semantics>
+				<sem class="SENSE">PERCEPTION</sem>
+			</semantics>
+			<tg xml:lang="eng">
+				<t pos="a">yellow</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">keltainen</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="a:attr">жёлтый</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">gul</t>
@@ -13091,40 +13412,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="sjd">
 				<t pos="a">руччкэ</t>
 			</tg>
-			<tg xml:lang="eng">
-				<t pos="a">yellow</t>
-			</tg>
 			<tg xml:lang="deu">
 				<t pos="a">gelb</t>
-			</tg>
-			<terminology class="color"/>
-			<semantics>
-				<sem class="SENSE">PERCEPTION</sem>
-			</semantics>
-			<sources>
-				<book name="100"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="a">viskkâd (#viˊsǩǩes)</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">keltainen</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">жёлтый</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
 			</tg>
 		</mg>
 	</e>
@@ -13144,57 +13433,37 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 		</mg>
 	</e>
-	<e meta="02">
+	<e meta="03">
 		<lg>
 			<l pos="a">viõlggâd</l>
+			<der gloss="attr">viõˊlǧǧes</der>
 		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="a">белый</t>
-			</tg>
-			<tg xml:lang="sjd">
-				<t pos="a">вӣллкэ</t>
+		<mg oahpa="xxx" term="COLOR">
+			<semantics>
+				<sem class="CLOTHING">PART</sem>
+				<sem class="SENSE">PERCEPTION</sem>
+			</semantics>
+			<sources>
+				<book name="kurss" lesson="dict"/>
+				<book name="100"/>
+			</sources>
+			<tg xml:lang="eng">
+				<t pos="a">white</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">valkoinen</t>
 			</tg>
-			<tg xml:lang="eng">
-				<t pos="a">white</t>
-			</tg>
-			<tg xml:lang="deu">
-				<t pos="a">weiß</t>
+			<tg xml:lang="rus">
+				<t pos="a_attr">белый</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">hvit</t>
 			</tg>
-			<terminology class="color"/>
-			<semantics>
-				<sem class="SENSE">PERCEPTION</sem>
-			</semantics>
-			<sources>
-				<book name="100"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="a">viõlggâd (#viõˊlǧǧes)</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">valkoinen</t>
+			<tg xml:lang="deu">
+				<t pos="a">weiß</t>
 			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">белый</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="CLOTHING">PART</t>
+			<tg xml:lang="sjd">
+				<t pos="a:pred">вӣллкэ</t>
 			</tg>
 		</mg>
 	</e>
@@ -13204,7 +13473,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
@@ -13246,7 +13515,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -13269,7 +13538,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 		<mg>
@@ -13287,7 +13556,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -13298,10 +13567,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<form gloss="nom.pl">viiˊllj</form>
 			</infl>
 		</lg>
-		<mg>
-			<terminology class="KINSHIP"/>
+		<mg oahpa="yes" term="KINSHIP">
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">FAMILY</sem>
@@ -13330,7 +13598,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -13364,7 +13632,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 				<book name="100"/>
 			</sources>
 			<semantics>
@@ -13424,7 +13692,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -13445,7 +13713,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 			<tg xml:lang="eng">
 				<t pos="v">drive</t>
@@ -13478,7 +13746,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -13503,7 +13771,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">SOCIAL</sem>
@@ -13531,7 +13799,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -13570,7 +13838,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 				<book name="200" BEDLAN_ID="*101"/>
 				<book name="100"/>
 			</sources>
@@ -13630,11 +13898,52 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</xg>
 		</mg>
 	</e>
-	<e meta="02">
+	<e meta="04">
 		<lg>
-			<l pos="n">vueˊddes</l>
+			<l pos="n" state="dispref">vuäˊdˈd-</l>
+			<note>unclear if this root can occur unbound</note>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="DUODJI">
+			<tg xml:lang="eng">
+				<t pos="mwe-a">of root</t>
+				<t pos="n">root-</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n">vuäˊdˈdkõrr</l>
+		</lg>
+		<mg oahpa="xxx" term="DUODJI">
+			<tg xml:lang="fin">
+				<t pos="n">työkalupussi</t>
+				<te>miesten</te>
+			</tg>
+			<lexicon xml:lang="fin">alaosa juuripunosta, yläosa nahkaa</lexicon>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n">vuẹˊddes</l>
+			<variants>
+				<dial dialect="P" source="1988">vuâˊddes</dial>
+			</variants>
+			<etymology>
+				<etymon type="inher" source="finnovolgaic">ontɜ</etymon>
+				<cognate xml:lang="xxx"/>
+				<note>derivation</note>
+			</etymology>
+		</lg>
+		<mg oahpa="xxx" term="DUODJI">
+			<semantics>
+				<sem class="BOT">TREE</sem>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="FOOD">NATURE</sem>
+			</semantics>
+			<sources>
+				<book name="200" BEDLAN_ID="*127"/>
+				<book name="100"/>
+			</sources>
 			<tg xml:lang="rus">
 				<t pos="n">корень</t>
 			</tg>
@@ -13653,13 +13962,12 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="n">rot</t>
 			</tg>
-			<semantics>
-				<sem class="BOT">TREE</sem>
-				<sem class="WORK">ECONOMY</sem>
-			</semantics>
-			<sources>
-				<book name="100"/>
-			</sources>
+			<tg xml:lang="sme">
+				<t pos="n">ruohtas</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="n">ruahdas</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -13710,7 +14018,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -13759,7 +14067,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">oδa-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -13806,7 +14113,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -13828,7 +14135,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -13890,7 +14197,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -13904,10 +14211,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<form gloss="poss3.com.sg">vueˊbbines</form>
 			</infl>
 		</lg>
-		<mg>
-			<terminology class="KINSHIP"/>
+		<mg oahpa="yes" term="KINSHIP">
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">FAMILY</sem>
@@ -13938,21 +14244,22 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="a">vuäˊmes (#vuäˊmm)</l>
+			<l pos="a">vuäˊmes</l>
+			<der gloss="attr">vuäˊmm</der>
 		</lg>
 		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 				<sem class="TIME">UNIT</sem>
 			</semantics>
+			<sources>
+				<book name="kurss" lesson="dict"/>
+			</sources>
 			<tg xml:lang="fin">
 				<t pos="a">vanha</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a">старый</t>
+				<t pos="a:attr">старый</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">gammel</t>
@@ -13981,7 +14288,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -14089,7 +14396,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 				<book name="100"/>
 			</sources>
 		</mg>
@@ -14118,7 +14425,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 				<book name="100"/>
 			</sources>
 		</mg>
@@ -14202,7 +14509,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -14259,7 +14566,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -14275,23 +14582,35 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 		</mg>
 	</e>
-	<e meta="01">
+	<e meta="04">
 		<lg>
-			<l pos="n">vuˊvrrmmään</l>
+			<l pos="n">vuˊvrrmään</l>
 			<variants>
 				<synonym source="xxx">skammʼmään</synonym>
 			</variants>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="TIME">CYCLE</sem>
+			</semantics>
+			<sources>
+				<book name="term"/>
+			</sources>
 			<tg xml:lang="eng">
 				<t pos="n">November</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">marraskuu</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
+			<tg xml:lang="nob">
+				<t pos="n">november</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="n">ноябрь</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">skábmamánnu</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
@@ -14300,7 +14619,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -14327,7 +14646,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -14366,7 +14685,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY">HEALTH</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -14379,7 +14698,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -14467,7 +14786,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -14529,7 +14848,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SPACE">MOTION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -14551,7 +14870,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -14565,7 +14884,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 				<book name="100"/>
 			</sources>
 			<semantics>
@@ -14676,7 +14995,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -14710,7 +15029,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 			<tg xml:lang="rus">
 				<t pos="pn">Ивало</t>
@@ -14738,7 +15057,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
@@ -14760,7 +15079,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
@@ -14801,24 +15120,64 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE">EMOTION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
-	<e meta="01">
+	<e meta="04">
 		<lg>
-			<l pos="adv">ââlda</l>
+			<l pos="adv" stat="dispref">âˊldd-</l>
+			<note>bound root of ââld(a)</note>
 		</lg>
 		<mg>
+			<xg oahpa="no" kurss="no">
+				<x pos="n">âˊlddpuäʒʒ</x>
+				<xtg xml:lang="fin">
+					<xt>käsiporo</xt>
+					<te>joka on aina käsillä</te>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="adv">ââlda</l>
+			<variants>
+				<dial dialect="xxx" source="1991">ââld</dial>
+			</variants>
+			<etymology>
+				<etymon type="inher" source="U?">wülä</etymon>
+				<etymon type="inher" source="FU">wülä</etymon>
+				<cognate xml:lang="xxx"/>
+				<note>derivation</note>
+			</etymology>
+		</lg>
+		<mg>
+			<semantics>
+				<sem class="SPACE">POSITION</sem>
+			</semantics>
+			<sources>
+				<book name="200" BEDLAN_ID="108"/>
+			</sources>
 			<tg xml:lang="rus">
 				<t pos="adv">близко</t>
 			</tg>
 			<tg xml:lang="eng">
+				<t pos="adv" stat="pref">near</t>
 				<t pos="adv">nearby</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
+			<tg xml:lang="fin">
+				<t pos="adv">lähellä</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adv">läheltä</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="adv">lahka</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="adv">lahka</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -14850,7 +15209,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="TIME">POINT</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 			<tg xml:lang="rus">
 				<t pos="adv">теперь</t>
@@ -14905,7 +15264,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="TIME">UNIT</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -15019,7 +15378,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">ilma</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -15027,7 +15385,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ENVIR">WEATHER</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 				<book name="200" BEDLAN_ID="145"/>
 			</sources>
 			<tg xml:lang="rus">
@@ -15082,7 +15440,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 		<mg>
@@ -15121,7 +15479,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="TIME">POINT</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -15136,7 +15494,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -15167,7 +15525,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -15218,8 +15576,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">äkk</l>
 		</lg>
-		<mg>
-			<terminology class="KINSHIP"/>
+		<mg oahpa="yes" term="KINSHIP">
 			<tg xml:lang="eng">
 				<t pos="n">grandmother</t>
 			</tg>
@@ -15244,7 +15601,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -15283,7 +15640,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">ääŋŋ</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="NAUTIC">
 			<tg xml:lang="rus">
 				<t pos="n">уключина</t>
 			</tg>
@@ -15293,13 +15650,12 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
 			</tg>
-			<terminology class="NAUTIC"/>
 			<semantics>
 				<sem class="SPACE">MOTION</sem>
 				<sem class="WORK">TRAVEL</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -15312,7 +15668,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">SOCIAL</sem>
@@ -15340,7 +15696,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -15361,8 +15717,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">äˊjj</l>
 		</lg>
-		<mg>
-			<terminology class="KINSHIP"/>
+		<mg oahpa="yes" term="KINSHIP">
 			<tg xml:lang="eng">
 				<t pos="n">grandfather</t>
 			</tg>
@@ -15395,7 +15750,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -15418,7 +15773,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -15460,7 +15815,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SPACE">MOTION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -15483,7 +15838,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SPACE">POSITION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -15507,7 +15862,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">RELIGION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -15520,7 +15875,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
@@ -15544,7 +15899,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -15560,35 +15915,140 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 		</mg>
 	</e>
-	<e meta="02">
+	<e meta="04">
 		<lg>
-			<l pos="n">åålmai</l>
+			<l pos="n" root="åålm">åålmai</l>
+			<variants>
+				<dial dialect="P">ååumai</dial>
+			</variants>
+			<etymology>
+				<etymon type="inher" source="psa">e̮lmāj</etymon>
+				<cognate xml:lang="xxx"/>
+			</etymology>
 		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="n">мужчина</t>
-			</tg>
-			<tg xml:lang="sjd">
-				<t pos="n">оалм-олма</t>
-			</tg>
+		<sources>
+			<book name="kurss" lesson="1"/>
+			<book name="200" BEDLAN_ID="*99"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes" term="KINSHIP">
+			<semantics>
+				<sem class="HUMAN">FAMILY</sem>
+			</semantics>
 			<tg xml:lang="fin">
 				<t pos="n">mies</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="n">man</t>
-			</tg>
-			<tg xml:lang="deu">
-				<t pos="n">Mann</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="n">mann</t>
 			</tg>
+			<tg xml:lang="rus">
+				<t pos="n">муж</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="n" stat="pref">Ehemann</t>
+				<t pos="n">Mann</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">dievdu</t>
+				<t pos="n">almmái</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="n">ålmài</t>
+				<t pos="n">ålˈmaah</t>
+			</tg>
+		</mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
-			<sources>
-				<book name="100"/>
-			</sources>
+			<tg xml:lang="rus">
+				<t pos="n">человек</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">ihminen</t>
+				<t pos="n">henkilö</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">person</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">person</t>
+				<t pos="n">human</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">olmmoš</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="n">alˈmatja</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n">åål</l>
+			<variants>
+				<dial dialect="P">ååum</dial>
+			</variants>
+			<etymology>
+				<etymon type="inher" source="psa">olmɔ̄-</etymon>
+				<cognate xml:lang="xxx"/>
+			</etymology>
+		</lg>
+		<sources>
+			<book name="kurss" lesson="1"/>
+			<book name="200" BEDLAN_ID="*99"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes" term="KINSHIP">
+			<semantics>
+				<sem class="HUMAN">FAMILY</sem>
+			</semantics>
+			<tg xml:lang="fin">
+				<t pos="n">mies</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">mann</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="n">муж</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="n" stat="pref">Ehemann</t>
+				<t pos="n">Mann</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">dievdu</t>
+				<t pos="n">almmái</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="n">ålmài</t>
+				<t pos="n">ålˈmaah</t>
+			</tg>
+		</mg>
+		<mg oahpa="yes">
+			<semantics>
+				<sem class="HUMAN">PEOPLE</sem>
+			</semantics>
+			<tg xml:lang="rus">
+				<t pos="n">человек</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">ihminen</t>
+				<t pos="n">henkilö</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">person</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">person</t>
+				<t pos="n">human</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">olmmoš</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="n">alˈmatja</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -15643,7 +16103,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">ååˊres</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="REINDEER">
 			<tg xml:lang="rus">
 				<t pos="n">самец</t>
 			</tg>
@@ -15653,33 +16113,43 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
 			</tg>
-			<terminology class="REINDEER"/>
 			<semantics>
 				<sem class="ZOO">MAMMAL</sem>
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
-	<e meta="03">
+	<e meta="04">
 		<lg>
 			<l pos="adp">åˊrnn</l>
+			<variants>
+				<dial dialect="xxx" source="1991">åˊrren</dial>
+				<dial dialect="xxx" source="1991">vueˊrrn</dial>
+			</variants>
 		</lg>
-		<mg>
-			<sources>
-				<book name="Kurss" lesson="dict"/>
-			</sources>
+		<sources>
+			<book name="kurss" lesson="dict"/>
+			<book name="200" BEDLAN_ID="5"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 				<sem class="SPACE">MOTION</sem>
 			</semantics>
-			<tg xml:lang="fin">
-				<t pos="xxx">luona</t>
+			<tg xml:lang="eng">
+				<t pos="adp" rection="somebody">at</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="adp" rection="somebody">from</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">luota</t>
+				<t pos="adp">luona</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adp">luota</t>
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="adp" rection="кого">у</t>
@@ -15688,7 +16158,40 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="adp" rection="кого">от</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="adp" rection="nåen">hos</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="adp" rection="nåen">fra</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="adp">luhtte</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="adp">lüdˈnee</t>
+			</tg>
+		</mg>
+		<mg oahpa="yes">
+			<semantics>
+				<sem class="HUMAN">PEOPLE</sem>
+				<sem class="SPACE">POSITION</sem>
+			</semantics>
+			<tg xml:lang="eng">
+				<t pos="adp" rection="somebody">from</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="adp">luota</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="adp" rection="кого">от</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="adp" rection="nåen">fra</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="adp">luhtte</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="adp">lüdˈnee</t>
 			</tg>
 		</mg>
 	</e>
@@ -15758,7 +16261,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -15810,7 +16313,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE">EMOTION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -15854,7 +16357,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -15883,7 +16386,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -15975,7 +16478,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 		<mg>
@@ -15997,7 +16500,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -16045,7 +16548,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="a">čappâd</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="COLOR">
 			<tg xml:lang="rus">
 				<t pos="a">чёрный</t>
 			</tg>
@@ -16064,7 +16567,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="nob">
 				<t pos="a">svart</t>
 			</tg>
-			<terminology class="color"/>
 			<semantics>
 				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
@@ -16204,7 +16706,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BOT">TREE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -16296,7 +16798,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">näyttely</t>
 			</tg>
 			<xg oahpa="no" kurss="no">
-				<x pos="n">ǩiõttʼtuejjčuäjtõs</x>
+				<x pos="n">ǩiõttʼtuẹjjčuäjtõs</x>
 				<xtg xml:lang="deu">
 					<xt pos="n">Handwerksausstellung</xt>
 				</xtg>
@@ -16397,12 +16899,11 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		<lg>
 			<l pos="n">čuõˊmmjõš</l>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" spec="BOT">
 			<tg xml:lang="eng">
 				<t pos="n">crowberry</t>
 			</tg>
 			<lexicon xml:lang="lat">Empetrum nigrum</lexicon>
-			<species class="BOT"/>
 			<semantics>
 				<sem class="FOOD">NATURE</sem>
 				<sem class="BOT">BERRY</sem>
@@ -16467,7 +16968,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -16506,7 +17007,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 		<mg>
@@ -16693,7 +17194,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -16745,7 +17246,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -16774,7 +17275,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -16788,7 +17289,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -16819,7 +17320,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 				<book name="200" BEDLAN_ID="*64"/>
 				<book name="100"/>
 			</sources>
@@ -16862,7 +17363,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
@@ -16911,7 +17412,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -16955,7 +17456,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HOUSE">DWELLING</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -16968,7 +17469,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -17028,7 +17529,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -17056,7 +17557,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HOUSE">FURNITURE</sem>
@@ -17081,7 +17582,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">FAMILY</sem>
@@ -17121,7 +17622,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="HUMAN">FAMILY</sem>
@@ -17158,7 +17659,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="xxx"/>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -17168,7 +17669,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 		</lg>
 		<mg>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 			</sources>
 			<semantics>
 				<sem class="xxx"/>
@@ -17324,7 +17825,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="LANG">TEXT</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 		<mg>
@@ -17437,7 +17938,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="1"/>
+				<book name="kurss" lesson="1"/>
 			</sources>
 		</mg>
 	</e>
@@ -17536,7 +18037,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -17616,20 +18117,20 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="BODY">PART</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="n">ǩiõttʼtuejj</l>
+			<l pos="n">ǩiõttʼtuẹjj</l>
 			<variants>
 				<dial dialect="P" source="1991">ǩiõttʼtuâjj</dial>
-				<orth source="xxx">ǩiõtt-tuejj</orth>
+				<orth source="xxx">ǩiõtt-tuẹjj</orth>
 				<orth source="xxx">ǩiõtt-tuâjj</orth>
 			</variants>
 		</lg>
-		<mg>
+		<mg oahpa="xxx" term="DUODJI">
 			<tg xml:lang="rus">
 				<t pos="n">рукоделие</t>
 			</tg>
@@ -17640,12 +18141,11 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">duodji</t>
 			</tg>
 			<xg oahpa="no" kurss="no">
-				<x type="np" pos="mwe">nuõrttsaaˊmi ǩiõttʼtuejj</x>
+				<x type="np" pos="mwe">nuõrttsaaˊmi ǩiõttʼtuẹjj</x>
 				<xtg xml:lang="rus">
 					<xt pos="xxx">колттасаамское рукоделие</xt>
 				</xtg>
 			</xg>
-			<terminology class="DUODJI"/>
 			<semantics>
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
@@ -17693,7 +18193,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="phon"/>
+				<book name="kurss" lesson="phon"/>
 			</sources>
 		</mg>
 	</e>
@@ -17820,7 +18320,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -17856,7 +18355,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">ipɜ ~ ipɜ-sɜ (ipsɜ)</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -17923,47 +18421,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">ââld(a) ~ âˊldd</l>
-			<etymology>
-				<etymon type="xxx" source="FU, U?">wülä</etymon>
-				<cognate xml:lang="xxx"/>
-				<note>derivation</note>
-			</etymology>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">near</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">lähellä</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">lahka</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">lahka</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="108"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
 			<l pos="xxx">čâˊcǩǩed</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -17999,7 +18460,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">śilmä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18035,7 +18495,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">śüδä+mɜ</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18071,7 +18530,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">ćāppe̮</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18107,7 +18565,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18143,7 +18600,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18179,7 +18635,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18215,7 +18670,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">śepä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18247,16 +18701,20 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">čiˊǯǯ- ~ čiˊǯs-</l>
-			<etymology>
-				<etymon type="xxx" source="xxx"/>
-				<cognate xml:lang="xxx"/>
-				<note/>
-			</etymology>
+			<l pos="adv">čiˊǯǯ-</l>
+			<variants>
+				<dial dialect="P" source="1991">čiˊǯs-</dial>
+			</variants>
 		</lg>
+		<sources>
+			<book name="200" BEDLAN_ID="92"/>
+		</sources>
 		<mg>
+			<semantics>
+				<sem class="SPACE">POSITION</sem>
+			</semantics>
 			<tg xml:lang="eng">
-				<t pos="xxx">left</t>
+				<t pos="adv">left</t>
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="xxx">xxx</t>
@@ -18265,20 +18723,14 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">vasen</t>
+				<t pos="adv">vasen</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">gurut</t>
+				<t pos="adv">gurut</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">gårroo</t>
+				<t pos="adv">gårroo</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="92"/>
-			</sources>
 		</mg>
 	</e>
 	<e meta="05">
@@ -18287,7 +18739,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnovolgaic">śelkä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18323,7 +18774,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FS">śäki-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18359,7 +18809,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">śülˊke-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18395,7 +18844,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">će̮ne̮-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18431,7 +18879,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18467,7 +18914,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18503,7 +18949,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">ćɔ̄ckē</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18539,7 +18984,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">śola</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18575,7 +19019,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">saŋća-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18683,7 +19126,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FU?">ćappɜ-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18719,7 +19161,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">śorwa</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18755,7 +19196,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18791,7 +19231,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">ćācē</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18827,7 +19266,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">ćowja ~ ćojwa</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18863,7 +19301,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">ikä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -18971,7 +19408,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">üje</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19007,7 +19443,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19079,7 +19514,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">ɛ̄ne̮m</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19115,7 +19549,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19151,7 +19584,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19187,7 +19619,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnopermic">enä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19223,7 +19654,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnopermic">enä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19259,7 +19689,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">elä-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19295,7 +19724,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnic">elä+jä ~ elä+vä ?</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19331,7 +19759,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">jäŋe</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19367,7 +19794,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">jäŋe</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19403,7 +19829,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">joke</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19439,7 +19864,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">joke</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19475,7 +19899,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">jorpe̮</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19511,7 +19934,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">jorpe̮</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19547,7 +19969,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">juɣe-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19583,7 +20004,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19619,7 +20039,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnovolgaic">järwä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19655,7 +20074,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">jama-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19691,7 +20109,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FS">ektɤ̈-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19727,7 +20144,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">jorke̮-lē ~ jork-ēhtē-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19763,7 +20179,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnopermic">külmä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19799,7 +20214,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19835,7 +20249,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19871,7 +20284,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FS">kīri-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19907,7 +20319,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -19943,7 +20354,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">kɛ̄δkē</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20015,7 +20425,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20051,7 +20460,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">kɛ̄sē-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20087,7 +20495,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FU, U?">ke</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20123,7 +20530,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">käte</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20195,7 +20601,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">kumte</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20231,7 +20636,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">ke̮ćće̮</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20267,7 +20671,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20303,7 +20706,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">kolme</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20339,7 +20741,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnovolgaic">kirɜ</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20375,7 +20776,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20411,7 +20811,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">kere</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20447,7 +20846,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">kere</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20555,7 +20953,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnopermic">kutke</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20591,7 +20988,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FU, U?">künče</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20668,7 +21064,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnic">ku+jn ~ ku+δen?</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20704,7 +21099,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">kukkē</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20740,7 +21134,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">kuhkē</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20776,7 +21169,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">küje</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20812,7 +21204,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">kanta</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20848,7 +21239,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">kala</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20884,7 +21274,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnopermic">konɜ</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20920,7 +21309,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20956,7 +21344,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">koje</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -20992,7 +21379,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">koje</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21028,7 +21414,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FU, U?">kule</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21064,7 +21449,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FS">ko+nsa</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21100,7 +21484,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FP, U?">kojwa-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21136,7 +21519,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">kɔ̄rɔ̄-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21172,7 +21554,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnopermic">kačka-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21208,7 +21589,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnopermic">kačka-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21244,7 +21624,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">kunta-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21280,7 +21659,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">kunta-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21352,7 +21730,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">kuśka</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21427,7 +21804,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21495,14 +21871,24 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">laullad ~ läullad</l>
+			<l pos="v">laullad</l>
+			<variants>
+				<dial dialect="P" source="1991">läullad</dial>
+			</variants>
 			<etymology>
-				<etymon type="xxx" source="BF, FS?">lavla-</etymon>
+				<etymon type="inher" source="FS?">lavla-</etymon>
+				<etymon type="inher" source="BF">lavla-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="HUMAN">SOCIAL</sem>
+				<sem class="SENSE">EMOTION</sem>
+			</semantics>
+			<sources>
+				<book name="200" BEDLAN_ID="142"/>
+			</sources>
 			<tg xml:lang="eng">
 				<t pos="xxx">sing</t>
 			</tg>
@@ -21521,12 +21907,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<tg xml:lang="sju">
 				<t pos="xxx">làuloot</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="142"/>
-			</sources>
 		</mg>
 	</e>
 	<e meta="05">
@@ -21535,7 +21915,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21607,7 +21986,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21643,7 +22021,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21679,7 +22056,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">losē</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21715,7 +22091,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnovolgaic">lešte</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21751,7 +22126,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FS?">lō+na ?</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21787,7 +22161,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">lōntɔ̄-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21823,7 +22196,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -21895,7 +22267,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">lunta</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22003,7 +22374,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">muna</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22107,38 +22477,42 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">miẹˊc(c)sted</l>
+			<l pos="xxx">miẹˊcsted</l>
+			<variants>
+				<dial dialect="P" source="1991">miẹˊccsted</dial>
+			</variants>
 			<etymology>
-				<etymon type="xxx" source="xxx"/>
+				<etymon type="loan" source="fin?">metsästää</etymon>
 				<cognate xml:lang="xxx"/>
-				<note>Loan from Fin "metsästää" (data_id 633, cogn_id 105) ?</note>
 			</etymology>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="FOOD">NATURE</sem>
+				<sem class="INVIR">TOPONOMY</sem>
+			</semantics>
+			<sources>
+				<book name="200" BEDLAN_ID="80"/>
+			</sources>
 			<tg xml:lang="eng">
-				<t pos="xxx">hunt</t>
+				<t pos="v">hunt</t>
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="xxx">xxx</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="v">jage</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">metsästää</t>
+				<t pos="v">metsästää</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">bivdit</t>
+				<t pos="v">bivdit</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">biwˈdeet</t>
+				<t pos="v">biwˈdeet</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="80"/>
-			</sources>
 		</mg>
 	</e>
 	<e meta="05">
@@ -22147,7 +22521,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">mɜ</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22179,47 +22552,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">mii-ne</l>
-			<etymology>
-				<etymon type="xxx" source="uralic">mɜ</etymon>
-				<cognate xml:lang="xxx"/>
-				<note>derivation?</note>
-			</etymology>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">some</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">jokin, jotain</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">juoga</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">sååmès</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="153"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
 			<l pos="xxx">mij</l>
 			<etymology>
 				<etymon type="xxx" source="uralic">mɤ̈</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22255,7 +22591,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">mɜn-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22291,7 +22626,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">mene-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22363,7 +22697,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">mōre̮</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22399,7 +22732,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FS">matta-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22543,7 +22875,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">mānɔ̄</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22615,7 +22946,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">nisɔ̄n</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22651,7 +22981,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">nisɔ̄n</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22687,7 +23016,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">ńeljä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22759,7 +23087,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">ńime-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22795,7 +23122,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22867,7 +23193,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">ńačkɜ</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22903,7 +23228,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FS">ńana</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22939,7 +23263,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">ńälmä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -22975,7 +23298,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="Sa, FS?">ńälkä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23011,7 +23333,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">nime</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23083,7 +23404,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">nāpē</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23115,47 +23435,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">occanj ~ õccnja etc.</l>
-			<etymology>
-				<etymon type="xxx" source="xxx"/>
-				<cognate xml:lang="xxx"/>
-				<note/>
-			</etymology>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">few</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">vähän, harva</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">veahá</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">gille</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="48"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
 			<l pos="xxx">õhtt</l>
 			<etymology>
 				<etymon type="xxx" source="finnougric">üke</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23191,7 +23474,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23227,7 +23509,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23263,7 +23544,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">wuδˊe</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23295,47 +23575,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">ooumaž ~ ååumaž</l>
-			<etymology>
-				<etymon type="xxx" source="psa">olmɔ̄-</etymon>
-				<cognate xml:lang="xxx"/>
-				<note/>
-			</etymology>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">person, human</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">ihminen, henkilö</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">olmmoš</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">alˈmatja</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*117"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
 			<l pos="xxx">pâˊsttel</l>
 			<etymology>
 				<etymon type="xxx" source="finnovolgaic">pise+tä-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23371,7 +23614,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnovolgaic">pise+tä-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23407,7 +23649,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23443,7 +23684,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23479,7 +23719,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">peljä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23551,7 +23790,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">päjwä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23587,7 +23825,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">päjwä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23623,7 +23860,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FP, FU?">pene</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23659,7 +23895,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FP, FU?">pene</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23695,7 +23930,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">pēŋke̮</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23731,7 +23965,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">pilwe</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23803,7 +24036,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">pele-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23839,7 +24071,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">pure-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23875,7 +24106,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnovolgaic">pese-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23911,7 +24141,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">palˊa</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23947,7 +24176,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnopermic">para</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -23983,7 +24211,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">pɔ̄tē-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24013,18 +24240,30 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</sources>
 		</mg>
 	</e>
-	<e meta="05">
+	<e meta="04">
 		<lg>
-			<l pos="xxx">pueiˊdd ~ puõiˊdd</l>
+			<l pos="n">pueiˊdd</l>
+			<variants>
+				<dial dialect="P" source="1991">puõiˊdd</dial>
+			</variants>
 			<etymology>
-				<etymon type="xxx" source="FS?">pajta</etymon>
-				<cognate xml:lang="xxx"/>
-				<note/>
+				<etymon type="inher" source="FS?">pajta</etymon>
+				<etymon type="inher" source="S">xxx</etymon>
+				<cognate xml:lang="sme">buoidi</cognate>
 			</etymology>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="FOOD">DISH</sem>
+				<sem class="FOOD">NATURE</sem>
+			</semantics>
+			<sources>
+				<book name="200" BEDLAN_ID="*44"/>
+				<book name="100"/>
+			</sources>
 			<tg xml:lang="eng">
-				<t pos="xxx">fat, grease</t>
+				<t pos="n">fat</t>
+				<t pos="n">grease</t>
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="xxx">xxx</t>
@@ -24033,20 +24272,39 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">rasva, ihra</t>
+				<t pos="n" stat="pref">rasva</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n" state="dispref">pinta</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">buoidi</t>
+				<t pos="n">buoidi</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">vuajja</t>
+				<t pos="n">vuajja</t>
 			</tg>
+		</mg>
+		<mg>
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="BODY">PART</sem>
+				<sem class="FOOD">NATURE</sem>
+				<sem class="ANIMAL">REINDEER</sem>
 			</semantics>
 			<sources>
-				<book name="200" BEDLAN_ID="*44"/>
+				<book name="xxx"/>
 			</sources>
+			<tg xml:lang="eng">
+				<t pos="n">suet</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="xxx">xxx</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">ister</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">ihra</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -24055,7 +24313,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24091,7 +24348,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">polwe</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24127,7 +24383,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnopermic">porɜ</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24163,7 +24418,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">piŋe</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24199,7 +24453,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24235,7 +24488,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24368,7 +24620,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FS">rinta</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24404,7 +24655,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24548,7 +24798,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">ruvije̮-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24620,7 +24869,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="BF, Sa?">reisi ~ raisi</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24656,7 +24904,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">rōpse̮</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24692,7 +24939,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24728,7 +24974,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24836,7 +25081,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnovolgaic">šiŋa-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24908,7 +25152,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">sejpä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24944,7 +25187,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -24980,7 +25222,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25048,47 +25289,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">sieˊm ~ siõm</l>
-			<etymology>
-				<etymon type="xxx" source="xxx"/>
-				<cognate xml:lang="xxx"/>
-				<note>Loan from Balt, prob. via BF</note>
-			</etymology>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">seed</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">siemen</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">siepman</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">sàjjoo</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*138"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
 			<l pos="xxx">sij</l>
 			<etymology>
 				<etymon type="xxx" source="finnougric">sɤ̈ (sɤ̈n ~ sɤ̈ŋ)</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25130,7 +25334,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<sources>
-				<book name="Kurss" lesson="dict"/>
+				<book name="kurss" lesson="dict"/>
 				<book name="200" BEDLAN_ID="48"/>
 			</sources>
 			<tg xml:lang="eng">
@@ -25165,7 +25369,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25201,7 +25404,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25309,7 +25511,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25345,7 +25546,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25377,16 +25577,18 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">šuõrš-</l>
-			<etymology>
-				<etymon type="xxx" source="xxx"/>
-				<cognate xml:lang="xxx"/>
-				<note/>
-			</etymology>
+			<l pos="n">šuõrš-</l>
 		</lg>
+		<sources>
+			<book name="200" BEDLAN_ID="212"/>
+		</sources>
 		<mg>
+			<semantics>
+				<sem class="FOOD">DISH</sem>
+				<sem class="SENSE">PERCEPTION</sem>
+			</semantics>
 			<tg xml:lang="eng">
-				<t pos="xxx">bitter</t>
+				<t pos="a">bitter</t>
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="xxx">xxx</t>
@@ -25395,20 +25597,14 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="xxx">xxx</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">kitkerä</t>
+				<t pos="a">kitkerä</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">rihča</t>
+				<t pos="a">rihča</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">prihtjas</t>
+				<t pos="a">prihtjas</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="212"/>
-			</sources>
 		</mg>
 	</e>
 	<e meta="05">
@@ -25417,7 +25613,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnovolgaic">sawe</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25489,7 +25684,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25525,7 +25719,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">sɔ̄jē</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25669,7 +25862,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">tikkē</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25741,7 +25933,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">tɤ̈</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25813,7 +26004,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">tule</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25849,7 +26039,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">tun ~ tə̑n</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25876,42 +26065,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="200" BEDLAN_ID="*207"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
-			<l pos="xxx">tõndiõtt, tõˊnt</l>
-			<etymology>
-				<etymon type="xxx" source="psa">te̮</etymon>
-				<cognate xml:lang="xxx"/>
-				<note>derivation</note>
-			</etymology>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">because</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">koska, siksi että</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">danne</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">diaht(a)</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="9"/>
 			</sources>
 		</mg>
 	</e>
@@ -25957,7 +26110,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -25993,7 +26145,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26029,7 +26180,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">torɜ-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26065,7 +26215,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FU?">täktä</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26092,42 +26241,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</semantics>
 			<sources>
 				<book name="200" BEDLAN_ID="*17"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
-			<l pos="xxx">täˊstt ~ täˊsnn</l>
-			<etymology>
-				<etymon type="xxx" source="finnovolgaic">täštä</etymon>
-				<cognate xml:lang="xxx"/>
-				<note/>
-			</etymology>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">star</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">tähti</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">násti</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">nàsstee</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*159"/>
 			</sources>
 		</mg>
 	</e>
@@ -26169,47 +26282,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">tääiˊb(en)</l>
-			<etymology>
-				<etymon type="xxx" source="uralic">tä-</etymon>
-				<cognate xml:lang="xxx"/>
-				<note>derivation</note>
-			</etymology>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">here</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">täällä</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">dáppe, dá</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">dàdnee</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="75"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
 			<l pos="xxx">täävvad</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26319,7 +26395,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">tulka</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26355,7 +26430,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">amta-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26387,47 +26461,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">urččâd ~ uˊrččâd</l>
-			<etymology>
-				<etymon type="xxx" source="xxx"/>
-				<cognate xml:lang="xxx"/>
-				<note/>
-			</etymology>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">run</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">juosta</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">viehkat</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">viahkat</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="221"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
 			<l pos="xxx">viõlggâd</l>
 			<etymology>
 				<etymon type="xxx" source="psa">välke+δä ?</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26463,7 +26500,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">viske̮</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26499,7 +26535,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="FU, U?">witte</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26535,7 +26570,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">wire</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26567,47 +26601,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">vuẹˊddes, vuäˊdˈd</l>
-			<etymology>
-				<etymon type="xxx" source="finnovolgaic">ontɜ</etymon>
-				<cognate xml:lang="xxx"/>
-				<note>Former derivation</note>
-			</etymology>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">root</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">juuri</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">ruohtas</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">ruahdas</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*127"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
 			<l pos="xxx">vueˊhssed</l>
 			<etymology>
 				<etymon type="xxx" source="finnopermic">okse-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26643,7 +26640,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26679,7 +26675,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">ɔ̄jnē</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26715,7 +26710,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">ojwa</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26751,7 +26745,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26859,7 +26852,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">wajŋe</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26895,7 +26887,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">woje</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -26931,7 +26922,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">uje-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -27003,7 +26993,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -27039,7 +27028,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">oma</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -27075,7 +27063,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="uralic">oma</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -27147,7 +27134,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">vāltē-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -27183,7 +27169,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="finnougric">wanča-</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -27219,7 +27204,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -27255,7 +27239,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			<etymology>
 				<etymon type="xxx" source="psa">vārē</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
 		<mg>
@@ -27285,112 +27268,19 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</sources>
 		</mg>
 	</e>
-	<e meta="05">
+	<e meta="04">
 		<lg>
-			<l pos="xxx">åˊrrn</l>
+			<l pos="n">svaaik</l>
 			<etymology>
-				<etymon type="xxx" source="xxx"/>
+				<etymon type="loan" source="rus?">свёкор</etymon>
 				<cognate xml:lang="xxx"/>
-				<note/>
 			</etymology>
 		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">at</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
+		<mg oahpa="no" term="KINSHIP">
 			<tg xml:lang="fin">
-				<t pos="xxx">luona, -llA</t>
+				<t pos="n">lanko</t>
 			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">luhtte</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">lüdˈnee</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="5"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
-			<l pos="xxx">åålm(ai) ~ ååum(ai)</l>
-			<etymology>
-				<etymon type="xxx" source="psa">e̮lmāj</etymon>
-				<cognate xml:lang="xxx"/>
-				<note>From PSa *e̮lmāj</note>
-			</etymology>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">man, male</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">mies</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">almmái</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">ålmài, ålˈmaah</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*99"/>
-			</sources>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
-			<l pos="xxx">ååumaž ~ ooumaž</l>
-			<etymology>
-				<etymon type="xxx" source="xxx"/>
-				<cognate xml:lang="xxx"/>
-				<note>From PSa *olmɔ̄-</note>
-			</etymology>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="xxx">man, male</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">mies</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">dievdu</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">ålmài, ålˈmaah</t>
-			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*99"/>
-			</sources>
+			<lexicon xml:lang="fin">vaimon sisaren mies</lexicon>
 		</mg>
 	</e>
 </r>
