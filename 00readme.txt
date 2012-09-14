@@ -32,10 +32,16 @@ uẹ = is used like in the 1991 dictionary, but for looking up in the dictionary
 
 <l> = always the first variant used by the 1991 dictionary, i.e. the "main Suonikylä form"
 
+Other phonological variants (of unclear dialectal origin) are listed under <l>, e.g.:
+<l pos="adv">occanj</l>
+<lv variant="dial">õccanj</lv>
+if they are true cognates (but not derived forms, etc.).
+
 =====
-Preliminary conventions: variants
+Preliminary conventions: dialectal variants
 =====
-The group <variants> in <lg> includes dialectal and orthographic variants of <l>. These variants have to be cognates only if they are true cognates (like occanj ~  õccanj), but not different other kinds of variants (like occanj ≠ [derived] occnja or occanj ≠ [synonym] simmna). The latter should accur as own <l>, if neccessary taged as dialectal forms.
+variants marked with P or N in the dictionary (1991) are listed as own entries, e.g.:
+<l pos="n" dial="P">tåˊlǧǧ</l>
 
 =====
 Preliminary conventions: media
@@ -122,4 +128,11 @@ PoS
 pos="abbr"
 =====
 for Abbreviations as own lemmata; does this make sense?
+
+=====
+Synonyms
+=====
+cf. variants such as occanj ≠ [derived] occnja and occanj ≠ [synonym] simmna; These variants are listed as own lemmata, but I have stopped tagging them as <synonyms>
+
+
 

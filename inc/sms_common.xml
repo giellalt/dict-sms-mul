@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <r xml:lang="sms">
-	<lics xml:space="preserve">
-		<lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>. You are free to copy, distribute and adapt the work, as long as you always give proper attribution using the attribution text below. For the full license text, see the link above.</lic> 
-		<ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament, and members of the language communities. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a> </ref> 
-		<sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a full styled and published dictionary. As such it can and will contain unfinished entries, unpublished entries, entries with objectionable translations, etc. If you find any errors or want to add more words, download the file, edit it, and send it back to <a>mailto:divvun@samediggi.no</a>
-and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are not necessarily sorted, or could be wrongly sorted.</sourcenote>
-	</lics>
+	<lics xml:space="preserve"><lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>. You are free to copy, distribute and adapt the work, as long as you always give proper attribution using the attribution text below. For the full license text, see the link above.</lic><ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament, and members of the language communities. Source code available at <a>https://victorio.uit.no/langtech/trunk/</a></ref><sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a full styled and published dictionary. As such it can and will contain unfinished entries, unpublished entries, entries with objectionable translations, etc. If you find any errors or want to add more words, download the file, edit it, and send it back to <a>mailto:divvun@samediggi.no</a>and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are not necessarily sorted, or could be wrongly sorted.</sourcenote></lics>
 	<e meta="03">
 		<lg>
 			<l pos="pcle">-a</l>
@@ -1325,10 +1320,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="con">da</l>
-			<variants>
-				<synonym source="xxx">de</synonym>
-				<synonym source="xxx">di</synonym>
-			</variants>
+			<synonym>de</synonym>
+			<synonym>di</synonym>
 			<etymology>
 				<etymon type="loan" source="rus">да</etymon>
 			</etymology>
@@ -1368,10 +1361,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="con">de</l>
-			<variants>
-				<synonym source="xxx">da</synonym>
-				<synonym source="xxx">di</synonym>
-			</variants>
+			<synonym>da</synonym>
+			<synonym>di</synonym>
 		</lg>
 		<mg>
 			<semantics>
@@ -1401,10 +1392,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="con">di</l>
-			<variants>
-				<synonym source="xxx">de</synonym>
-				<synonym source="xxx">di</synonym>
-			</variants>
+			<synonym>de</synonym>
+			<synonym>di</synonym>
 		</lg>
 		<mg>
 			<semantics>
@@ -1488,9 +1477,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="num">dohat</l>
-			<variants>
-				<dial dialect="P" source="1991">doohhat</dial>
-			</variants>
+			<lv variant="dial" source="1991">doohhat</lv>
 		</lg>
 		<mg>
 			<semantics>
@@ -1575,9 +1562,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="adv">eeˊđeld</l>
-			<variants>
-				<dial dialect="P" source="1991">eeˊđääld</dial>
-			</variants>
+			<lv variant="dial" source="1991">eeˊđääld</lv>
 		</lg>
 		<mg>
 			<semantics>
@@ -1752,9 +1737,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="n">eˊčč</l>
-			<variants>
-				<dial dialect="P" source="1991">eeˊčč</dial>
-			</variants>
+			<lv variant="dial" source="1991">eeˊčč</lv>
 			<infl>
 				<form gloss="nom.pl">eeˊjj</form>
 			</infl>
@@ -1868,9 +1851,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="n">gaˊzeâˊt</l>
-			<variants>
-				<dial dialect="xxx" source="xxx">gaˊzaat</dial>
-			</variants>
+			<lv variant="dial" source="meta01">gaˊzaat</lv>
 		</lg>
 		<mg>
 			<semantics>
@@ -1937,9 +1918,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="n">gåårad</l>
-			<variants>
-				<synonym source="xxx">lâˊnn</synonym>
-			</variants>
+			<synonym>lâˊnn</synonym>
 			<etymology>
 				<etymon type="loan" source="rus">город</etymon>
 			</etymology>
@@ -2004,9 +1983,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="adv">hääˊrveld</l>
-			<variants>
-				<synonym source="xxx">häˊrvv</synonym>
-			</variants>
+			<synonym>häˊrvv</synonym>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -2097,9 +2074,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">ijj</l>
-			<variants>
-				<synonym source="xxx">inn</synonym>
-			</variants>
+			<synonym>inn</synonym>
 			<etymology>
 				<etymon type="inher" source="finnougric">üje</etymon>
 				<cognate xml:lang="xxx"/>
@@ -2145,9 +2120,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">inn</l>
-			<variants>
-				<synonym source="xxx">ijj</synonym>
-			</variants>
+			<synonym>ijj</synonym>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*111"/>
@@ -2303,9 +2276,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">jeäˊnˈn</l>
-			<variants>
-				<dial dialect="P" source="1991">jieˊnˈn</dial>
-			</variants>
+			<lv variant="dial" source="1991">jieˊnˈn</lv>
 			<etymology>
 				<etymon type="inher" source="finnopermic">enä</etymon>
 				<cognate xml:lang="xxx"/>
@@ -2469,9 +2440,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="pro">jiõčč</l>
-			<variants>
-				<dial dialect="P" source="1991">jiičč</dial>
-			</variants>
+			<lv variant="dial" source="1991">jiičč</lv>
 		</lg>
 		<mg>
 			<sources>
@@ -3243,9 +3212,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">keäˊpˈper</l>
-			<variants>
-				<dial dialect="P" source="1991">kâˊpper</dial>
-			</variants>
+			<lv variant="dial" source="1991">kâˊpper</lv>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -3351,9 +3318,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="num">kolmm</l>
-			<variants>
-				<dial dialect="P" source="1991">koumm</dial>
-			</variants>
+			<lv variant="dial" source="1991">koumm</lv>
 			<etymology>
 				<etymon type="xxx" source="finnougric">kolme</etymon>
 				<cognate xml:lang="xxx"/>
@@ -3444,9 +3409,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="num">kuõˊhtt</l>
-			<variants>
-				<dial dialect="P" source="1991">kueˊhtt</dial>
-			</variants>
+			<lv variant="dial" source="1991">kueˊhtt</lv>
 			<etymology>
 				<etymon type="inher" source="finnopermic">kakta</etymon>
 				<cognate xml:lang="fin">kaksi</cognate>
@@ -4521,9 +4484,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">kaaˊff</l>
-			<variants>
-				<dial dialect="P" source="1991">kååˊff</dial>
-			</variants>
+			<lv variant="dial" source="1991">kååˊff</lv>
 		</lg>
 		<mg>
 			<semantics>
@@ -4739,9 +4700,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="pred">kõõumâs</l>
-			<variants>
-				<dial dialect="P" source="1991">kõõlmâs</dial>
-			</variants>
+			<lv variant="dial" source="1991">kõõlmâs</lv>
 			<der gloss="attr">kõumm</der>
 			<etymology>
 				<etymon type="inher" source="finnopermic">külmä</etymon>
@@ -5020,9 +4979,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="con">leâˊša</l>
-			<variants>
-				<dial dialect="P" source="1991">leša</dial>
-			</variants>
+			<lv variant="dial" source="1991">leša</lv>
 		</lg>
 		<mg>
 			<semantics>
@@ -5909,12 +5866,10 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="pro">mon</l>
+			<lv variant="dial" source="ksdp">mun</lv>
 			<infl>
 				<form gloss="gen.sg">muu</form>
 			</infl>
-			<variants>
-				<dial dialect="N" source="ksdp">mun</dial>
-			</variants>
 			<etymology>
 				<etymon type="xxx" source="uralic">mɜn-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -6235,9 +6190,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">mään</l>
-			<variants>
-				<synonym source="xxx">määnpââˊjj</synonym>
-			</variants>
+			<synonym>määnpââˊjj</synonym>
 			<etymology>
 				<etymon type="xxx" source="psa">mānɔ̄</etymon>
 				<cognate xml:lang="xxx"/>
@@ -6311,9 +6264,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="n">määnpââˊjj</l>
-			<variants>
-				<synonym source="xxx">mään</synonym>
-			</variants>
+			<synonym>mään</synonym>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -6486,9 +6437,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="adv">mäˊhtt</l>
-			<variants>
-				<dial dialect="P" source="ksdp">mohtt</dial>
-			</variants>
+			<lv variant="dial" source="ksdp">mohtt</lv>
 			<etymology>
 				<etymon type="xxx" source="uralic">mɜ</etymon>
 				<cognate xml:lang="xxx"/>
@@ -6769,10 +6718,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="num">nelljmlo</l>
-			<variants>
-				<dial dialect="P" source="1991">nelljumblo</dial>
-				<dial dialect="xxx" source="1991">nenjmlo</dial>
-			</variants>
+			<lv variant="dial" source="1991">nelljumblo</lv>
+			<lv variant="dial" source="1991">nenjmlo</lv>
 		</lg>
 		<mg>
 			<semantics>
@@ -6812,9 +6759,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="n">neäˊttelʼlopp</l>
-			<variants>
-				<orth source="xxx">neäˊttel-lopp</orth>
-			</variants>
+			<lv variant="orth" source="xxx">neäˊttel-lopp</lv>
 		</lg>
 		<mg>
 			<semantics>
@@ -6987,9 +6932,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="n">njuhččmään</l>
-			<variants>
-				<synonym source="xxx">pââˊzzmään</synonym>
-			</variants>
+			<synonym>pââˊzzmään</synonym>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -7307,11 +7250,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="adv">occanj</l>
-			<variants>
-				<dial dialect="P" source="1991">õccanj</dial>
-				<synonym source="1991">occnja</synonym>
-				<synonym source="1991">simmna</synonym>
-			</variants>
+			<lv variant="dial" source="1991">õccanj</lv>
+			<synonym>occnja</synonym>
+			<synonym>simmna</synonym>
 			<audio>
 				<a dialect="muo" speaker="ZMN" href="xxx/occanj_SKO111211_ZMN_5.wav"/>
 				<a dialect="peä" speaker="KJ" href="xxx/occanj_SKO111219_KJ_1.wav"/>
@@ -7349,11 +7290,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="adv">occnja</l>
-			<variants>
-				<dial dialect="P" source="1991">õccnja</dial>
-				<synonym source="1991">occanj</synonym>
-				<synonym source="1991">simmna</synonym>
-			</variants>
+			<lv variant="dial" source="1991">õccnja</lv>
+			<synonym>occanj</synonym>
+			<synonym>simmna</synonym>
 		</lg>
 		<mg>
 			<semantics>
@@ -7412,9 +7351,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="a">oouˊdab</l>
-			<variants>
-				<dial dialect="P" source="1991">õõuˊdab</dial>
-			</variants>
+			<lv variant="dial" source="1991">õõuˊdab</lv>
 		</lg>
 		<mg>
 			<semantics>
@@ -7859,9 +7796,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">peˊssertuẹjj</l>
-			<variants>
-				<dial dialect="P" source="1991">peˊssertuâjj</dial>
-			</variants>
+			<lv variant="dial" source="1991">peˊssertuâjj</lv>
 		</lg>
 		<mg oahpa="xxx" term="DUODJI">
 			<semantics>
@@ -7930,9 +7865,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="v">pirsted</l>
-			<variants>
-				<dial dialect="P" source="1991">piirsted</dial>
-			</variants>
+			<lv variant="dial" source="1991">piirsted</lv>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -8236,6 +8169,98 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="04">
 		<lg>
+			<l pos="n" dial="P">tåˊlǧǧ</l>
+			<etymology>
+				<etymon type="inher" source="uralic">tulka</etymon>
+				<cognate xml:lang="xxx"/>
+			</etymology>
+		</lg>
+		<sources>
+			<book name="200" BEDLAN_ID="*47"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="no">
+			<semantics>
+				<sem class="ZOO">BIRD</sem>
+				<sem class="BODY">PART</sem>
+				<sem class="WORK">ECONOMY</sem>
+			</semantics>
+			<tg xml:lang="rus">
+				<t pos="n" stat="pref">перо</t>
+				<t pos="n">пёрышко</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">sulka</t>
+				<t pos="n">höyhen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">fjær</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="n">по̄ннц</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">feather</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="n" term="zoo">Feder</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">dolgi</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="n">dålˈgee</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n" dial="N">tåˊlǧǧ</l>
+			<etymology>
+				<etymon type="inher" source="uralic">tulka</etymon>
+				<cognate xml:lang="xxx"/>
+			</etymology>
+		</lg>
+		<sources>
+			<book name="200" BEDLAN_ID="*47"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="no">
+			<semantics>
+				<sem class="ZOO">BIRD</sem>
+				<sem class="BODY">PART</sem>
+				<sem class="WORK">ECONOMY</sem>
+			</semantics>
+			<tg xml:lang="rus">
+				<t pos="n" stat="pref">перо</t>
+				<t pos="n">пёрышко</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">sulka</t>
+				<t pos="n">höyhen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">fjær</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="n">по̄ннц</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">feather</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="n" term="zoo">Feder</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">dolgi</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="n">dålˈgee</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
 			<l pos="n">poʒʒ</l>
 		</lg>
 		<sources>
@@ -8340,9 +8365,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="v">pueˊtted</l>
-			<variants>
-				<dial dialect="P" source="1991">puẹˊtted</dial>
-			</variants>
+			<lv variant="dial" source="1991">puẹˊtted</lv>
 			<etymology>
 				<etymon type="xxx" source="psa">pɔ̄tē-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -8663,9 +8686,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="n">pââˊzzmään</l>
-			<variants>
-				<synonym source="xxx">njuhččmään</synonym>
-			</variants>
+			<synonym>njuhččmään</synonym>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -8698,10 +8719,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">pâˊzzlâšttammään</l>
-			<variants>
-				<orth source="ksdp">pâˊzzlâšttamʼmään</orth>
-				<orth source="ksdp">pâˊzzlâšttam-mään</orth>
-			</variants>
+			<lv variant="orth" source="ksdp">pâˊzzlâšttamʼmään</lv>
+			<lv variant="orth" source="ksdp">pâˊzzlâšttam-mään</lv>
 		</lg>
 		<mg>
 			<semantics>
@@ -8983,9 +9002,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="n">påˊrdd</l>
-			<variants>
-				<synonym source="xxx">stuẹˊll</synonym>
-			</variants>
+			<synonym>stuẹˊll</synonym>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -9295,9 +9312,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="n">reäppen</l>
-			<variants>
-				<synonym source="xxx">truuba</synonym>
-			</variants>
+			<synonym>truuba</synonym>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -10276,9 +10291,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">sieˊm</l>
-			<variants>
-				<dial dialect="P" source="1991">siõm</dial>
-			</variants>
+			<lv variant="dial" source="1991">siõm</lv>
 			<infl>
 				<form gloss="nom.pl">siõmˈmân</form>
 			</infl>
@@ -10408,9 +10421,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="n">skammʼmään</l>
-			<variants>
-				<synonym source="xxx">vuˊvrrmään</synonym>
-			</variants>
+			<synonym>vuˊvrrmään</synonym>
 		</lg>
 		<mg>
 			<semantics>
@@ -10455,10 +10466,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="n">sluuˊžb</l>
-			<variants>
-				<dial dialect="P" source="1991">sluuˊžv</dial>
-				<synonym source="1991">sluuž</synonym>
-			</variants>
+			<lv variant="dial" source="1991">sluuˊžv</lv>
+			<synonym>sluuž</synonym>
 			<etymology>
 				<etymon type="loan" source="rus">служба</etymon>
 			</etymology>
@@ -10485,9 +10494,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">sluuž</l>
-			<variants>
-				<synonym source="1991">sluuˊžb</synonym>
-			</variants>
+			<synonym>sluuˊžb</synonym>
 			<etymology>
 				<etymon type="loan" source="rus">служба</etymon>
 			</etymology>
@@ -10732,10 +10739,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">stuẹˊll</l>
-			<variants>
-				<dial dialect="P" source="1991">stuâˊll</dial>
-				<synonym source="xxx">påˊrdd</synonym>
-			</variants>
+			<lv variant="dial" source="1991">stuâˊll</lv>
+			<synonym>påˊrdd</synonym>
 		</lg>
 		<mg>
 			<semantics>
@@ -10842,9 +10847,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="v">suẹibbad</l>
-			<variants>
-				<dial dialect="P" source="1991">suâibbad</dial>
-			</variants>
+			<lv variant="dial" source="1991">suâibbad</lv>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -10956,9 +10959,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="n">sukkâr</l>
-			<variants>
-				<synonym source="xxx">säähhar</synonym>
-			</variants>
+			<synonym>säähhar</synonym>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -11256,9 +11257,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="n">säähhar</l>
-			<variants>
-				<synonym source="xxx">sukkâr</synonym>
-			</variants>
+			<synonym>sukkâr</synonym>
 		</lg>
 		<mg>
 			<sources>
@@ -12216,9 +12215,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="pro">ton</l>
-			<variants>
-				<dial dialect="N" source="ksdp">tun</dial>
-			</variants>
+			<lv variant="dial" source="ksdp">tun</lv>
 			<infl>
 				<form gloss="gen.sg">tuu</form>
 			</infl>
@@ -12325,9 +12322,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="n">truuba</l>
-			<variants>
-				<synonym source="xxx">reäˊppen</synonym>
-			</variants>
+			<synonym>reäˊppen</synonym>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -12450,9 +12445,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="v">tuõˊlˈlʼjed</l>
-			<variants>
-				<dial dialect="P" source="1991">tueˊlˈlʼjed</dial>
-			</variants>
+			<lv variant="dial" source="1991">tueˊlˈlʼjed</lv>
 			<infl>
 				<form gloss="imp.sg">tueˊlle</form>
 			</infl>
@@ -12969,9 +12962,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="adv">tääiˊben</l>
-			<variants>
-				<synonym source="xxx">tääiˊb</synonym>
-			</variants>
+			<synonym>tääiˊb</synonym>
 			<etymology>
 				<etymon type="inher" source="uralic">tä-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -13006,9 +12997,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="adv">tääiˊb</l>
-			<variants>
-				<synonym source="xxx">tääiˊben</synonym>
-			</variants>
+			<synonym>tääiˊben</synonym>
 			<etymology>
 				<etymon type="inher" source="uralic">tä-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -13043,9 +13032,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="adv">tääˊl</l>
-			<variants>
-				<synonym source="1991">ååˊn</synonym>
-			</variants>
+			<synonym>ååˊn</synonym>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -13229,11 +13216,46 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="n" state="dispref">täˊstt</l>
-			<variants>
-				<synonym source="meta05">täˊsnn</synonym>
-			</variants>
+			<l pos="n" dial="N">täˊstt</l>
+			<etymology>
+				<etymon type="inher" source="finnovolgaic?">täštä</etymon>
+				<cognate xml:lang="sjd">та̄ссьт</cognate>
+			</etymology>
 		</lg>
+		<sources>
+			<book name="200" BEDLAN_ID="*159"/>
+			<book name="100"/>
+		</sources>
+		<mg>
+			<semantics>
+				<sem class="ENVIR">ELEMENT</sem>
+				<sem class="HUMAN">MYTHOLOGY</sem>
+			</semantics>
+			<tg xml:lang="rus">
+				<t pos="n">звезда</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="n">та̄ссьт</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">tähti</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">star</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="n">Stern</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">stjerne</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">násti</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="n">nàsstee</t>
+			</tg>
+		</mg>
 	</e>
 	<e meta="04">
 		<lg>
@@ -13243,15 +13265,15 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
+		<sources>
+			<book name="200" BEDLAN_ID="*159"/>
+			<book name="100"/>
+		</sources>
 		<mg>
 			<semantics>
 				<sem class="ENVIR">ELEMENT</sem>
 				<sem class="HUMAN">MYTHOLOGY</sem>
 			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*159"/>
-				<book name="100"/>
-			</sources>
 			<tg xml:lang="rus">
 				<t pos="n">звезда</t>
 			</tg>
@@ -13306,14 +13328,12 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="xxx">tåˊben</l>
+			<lv variant="dial" source="1991">toˊben</lv>
 			<etymology>
 				<etymon type="inher" source="uralic">to-</etymon>
 				<cognate xml:lang="xxx"/>
 				<note>derivation</note>
 			</etymology>
-			<variants>
-				<dial dialect="P" source="1991">toˊben</dial>
-			</variants>
 		</lg>
 		<mg>
 			<semantics>
@@ -13348,9 +13368,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="adv">tõˊnt</l>
-			<variants>
-				<synonym>tõndiõtt</synonym>
-			</variants>
+			<synonym>tõndiõtt</synonym>
 			<etymology>
 				<etymon type="inher" source="psa">te̮</etymon>
 				<cognate xml:lang="xxx"/>
@@ -13395,9 +13413,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="adv">tõndiõtt</l>
-			<variants>
-				<synonym>tõˊnt</synonym>
-			</variants>
+			<synonym>tõˊnt</synonym>
 			<etymology>
 				<etymon type="inher" source="psa">te̮</etymon>
 				<cognate xml:lang="xxx"/>
@@ -13701,9 +13717,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="v">urččâd</l>
-			<variants>
-				<dial dialect="P" source="1991">uˊrččâd</dial>
-			</variants>
+			<lv variant="dial" source="1991">uˊrččâd</lv>
 			<infl>
 				<form gloss="3sg.prs">orčč</form>
 			</infl>
@@ -14413,10 +14427,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="v">vuẹjjad</l>
-			<variants>
-				<dial dialect="P" source="1991">vuâjjad</dial>
-				<dial dialect="xxx" source="1991">vueˊjjed</dial>
-			</variants>
+			<lv variant="dial" source="1991">vuâjjad</lv>
+			<lv variant="dial" source="1991">vueˊjjed</lv>
 			<infl>
 				<form gloss="3sg.prs">vuẹjj</form>
 			</infl>
@@ -14451,9 +14463,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="v">vuẹjted</l>
-			<variants>
-				<dial dialect="P" source="1991">vuâjted</dial>
-			</variants>
+			<lv variant="dial" source="1991">vuâjted</lv>
 			<infl>
 				<form gloss="1pl.prs">vuejtep</form>
 			</infl>
@@ -14533,9 +14543,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="n">vuäˊǯˈǯ</l>
-			<variants>
-				<dial dialect="P" source="1991">vueˊǯˈǯ</dial>
-			</variants>
+			<lv variant="dial" source="1991">vueˊǯˈǯ</lv>
 			<infl>
 				<form gloss="loc.sg">vueˊǯǯest</form>
 			</infl>
@@ -14639,9 +14647,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">vuẹˊddes</l>
-			<variants>
-				<dial dialect="P" source="1988">vuâˊddes</dial>
-			</variants>
+			<lv variant="dial" source="1988">vuâˊddes</lv>
 			<etymology>
 				<etymon type="inher" source="finnovolgaic">ontɜ</etymon>
 				<cognate xml:lang="xxx"/>
@@ -15355,9 +15361,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">vuˊvrrmään</l>
-			<variants>
-				<synonym source="xxx">skammʼmään</synonym>
-			</variants>
+			<synonym>skammʼmään</synonym>
 		</lg>
 		<mg>
 			<semantics>
@@ -15591,9 +15595,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="v">vaˊstteed</l>
-			<variants>
-				<dial dialect="P" source="1991">väˊstteed</dial>
-			</variants>
+			<lv variant="dial" source="1991">väˊstteed</lv>
 			<infl>
 				<form gloss="3sg.prs">vaˊsttad</form>
 			</infl>
@@ -15741,10 +15743,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="num">kuttlo</l>
-			<variants>
-				<dial dialect="P" source="1991">kuttlå-</dial>
-				<dial dialect="xxx" source="1991">kuttlåk-</dial>
-			</variants>
+			<lv variant="dial" source="1991">kuttlå-</lv>
+			<lv variant="dial" source="1991">kuttlåk-</lv>
 		</lg>
 		<mg>
 			<semantics>
@@ -15764,10 +15764,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="num">kutmlo</l>
-			<variants>
-				<dial dialect="P" source="1991">kuttmlo</dial>
-				<dial dialect="xxx" source="1991">kutumblo</dial>
-			</variants>
+			<lv variant="dial" source="1991">kuttmlo</lv>
+			<lv variant="dial" source="1991">kutumblo</lv>
 		</lg>
 		<mg>
 			<semantics>
@@ -15973,9 +15971,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="adv">ââlda</l>
-			<variants>
-				<dial dialect="xxx" source="1991">ââld</dial>
-			</variants>
+			<lv variant="dial" source="1991">ââld</lv>
 			<etymology>
 				<etymon type="inher" source="U?">wülä</etymon>
 				<etymon type="inher" source="FU">wülä</etymon>
@@ -16030,10 +16026,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="adv">ååˊn</l>
-			<variants>
-				<dial dialect="P" source="1991">ââˊn</dial>
-				<synonym source="1991">tääˊl</synonym>
-			</variants>
+			<lv variant="dial" source="1991">ââˊn</lv>
+			<synonym>tääˊl</synonym>
 		</lg>
 		<mg>
 			<semantics>
@@ -16754,9 +16748,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n" root="åålm">åålmai</l>
-			<variants>
-				<dial dialect="P">ååumai</dial>
-			</variants>
+			<lv variant="dial">ååumai</lv>
 			<etymology>
 				<etymon type="inher" source="psa">e̮lmāj</etymon>
 				<cognate xml:lang="xxx"/>
@@ -16822,9 +16814,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">åål</l>
-			<variants>
-				<dial dialect="P">ååum</dial>
-			</variants>
+			<lv variant="dial">ååum</lv>
 			<etymology>
 				<etymon type="inher" source="psa">olmɔ̄-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -16961,10 +16951,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="adp">åˊrnn</l>
-			<variants>
-				<dial dialect="xxx" source="1991">åˊrren</dial>
-				<dial dialect="xxx" source="1991">vueˊrrn</dial>
-			</variants>
+			<lv variant="dial" source="1991">åˊrren</lv>
+			<lv variant="dial" source="1991">vueˊrrn</lv>
 		</lg>
 		<sources>
 			<book name="kurss" lesson="dict"/>
@@ -17253,9 +17241,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="n:dim" root="åålm">ooumaž</l>
-			<variants>
-				<dial dialect="P" source="1991">ååumaž</dial>
-			</variants>
+			<lv variant="dial" source="1991">ååumaž</lv>
 			<audio>
 				<a dialect="muo" speaker="ZMN" href="xxx/ooumazh_SKO111210_ZMN.wav"/>
 			</audio>
@@ -17525,9 +17511,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">čee</l>
-			<variants>
-				<dial dialect="P" source="1991">čeei</dial>
-			</variants>
+			<lv variant="dial" source="1991">čeei</lv>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -17644,9 +17628,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="num">čueˊtt</l>
-			<variants>
-				<dial dialect="xxx" source="1991">čueˊđ</dial>
-			</variants>
+			<lv variant="dial" source="1991">čueˊđ</lv>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -17726,9 +17708,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">čuäjtõs</l>
-			<variants>
-				<orth source="1988">čuäitõs</orth>
-			</variants>
+			<lv variant="orth" source="1988">čuäitõs</lv>
 		</lg>
 		<mg>
 			<semantics>
@@ -18018,9 +17998,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="n">čâˊlmmluõmm</l>
-			<variants>
-				<synonym source="xxx">čâˊlmmrååmm</synonym>
-			</variants>
+			<synonym>čâˊlmmrååmm</synonym>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -18053,9 +18031,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="01">
 		<lg>
 			<l pos="n">čâˊlmmrååmm</l>
-			<variants>
-				<synonym source="xxx">čâˊlmmluõmm</synonym>
-			</variants>
+			<synonym>čâˊlmmluõmm</synonym>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -19050,9 +19026,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="n">ǩizldõk</l>
-			<variants>
-				<dial dialect="P" source="1991">ǩiizzldõk</dial>
-			</variants>
+			<lv variant="dial" source="1991">ǩiizzldõk</lv>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -19189,11 +19163,9 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">ǩiõttʼtuẹjj</l>
-			<variants>
-				<dial dialect="P" source="1991">ǩiõttʼtuâjj</dial>
-				<orth source="xxx">ǩiõtt-tuẹjj</orth>
-				<orth source="xxx">ǩiõtt-tuâjj</orth>
-			</variants>
+			<lv variant="dial" source="1991">ǩiõttʼtuâjj</lv>
+			<lv variant="orth" source="xxx">ǩiõtt-tuẹjj</lv>
+			<lv variant="orth" source="xxx">ǩiõtt-tuâjj</lv>
 		</lg>
 		<mg oahpa="xxx" term="DUODJI">
 			<tg xml:lang="rus">
@@ -19239,11 +19211,17 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="n">ǩiđđ</l>
-			<variants>
-				<synonym source="meta01">ǩiđđâ</synonym>
-			</variants>
 		</lg>
+		<sources>
+			<book name="kurss" lesson="phon"/>
+		</sources>
 		<mg>
+			<semantics>
+				<sem class="TIME">CYCLE</sem>
+			</semantics>
+			<tg xml:lang="nob">
+				<t pos="n">vår</t>
+			</tg>
 			<tg xml:lang="rus">
 				<t pos="n">весна</t>
 			</tg>
@@ -19254,12 +19232,6 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 				<t pos="n">spring</t>
 				<te>season</te>
 			</tg>
-			<semantics>
-				<sem class="TIME">CYCLE</sem>
-			</semantics>
-			<sources>
-				<book name="kurss" lesson="phon"/>
-			</sources>
 		</mg>
 	</e>
 	<e meta="01">
@@ -19285,9 +19257,34 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="03">
 		<lg>
 			<l pos="pro">tåˊlǩ</l>
-			<variants>
-				<synonym speaker="ZMN" source="ksdp">tåuka</synonym>
-			</variants>
+		</lg>
+		<mg>
+			<tg xml:lang="rus">
+				<t pos="pro">только</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="pro">only</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pro">vain</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pro">berre</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="pro">xxx</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="pro">nur</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pro">kun</t>
+			</tg>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="pro" dial="M" speaker="ZMN">tåuka</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -19510,9 +19507,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="05">
 		<lg>
 			<l pos="adv">čiˊǯǯ-</l>
-			<variants>
-				<dial dialect="P" source="1991">čiˊǯs-</dial>
-			</variants>
+			<lv variant="dial" source="1991">čiˊǯs-</lv>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="92"/>
@@ -19716,10 +19711,8 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="05">
 		<lg>
 			<l pos="n">čuâr</l>
-			<variants>
-				<dial dialect="xxx" source="1991">čuâras</dial>
-				<dial dialect="xxx" source="1991">čuâraš</dial>
-			</variants>
+			<lv variant="dial" source="1991">čuâras</lv>
+			<lv variant="dial" source="1991">čuâraš</lv>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="209"/>
@@ -20747,9 +20740,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="con">jos</l>
-			<variants>
-				<dial dialect="P" source="1991">jõs</dial>
-			</variants>
+			<lv variant="dial" source="1991">jõs</lv>
 			<etymology>
 				<etymon type="inher" source="FS?">jo+s</etymon>
 				<etymon type="inher" source="finnic">jo+s</etymon>
@@ -21209,9 +21200,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="05">
 		<lg>
 			<l pos="v">laullad</l>
-			<variants>
-				<dial dialect="P" source="1991">läullad</dial>
-			</variants>
+			<lv variant="dial" source="1991">läullad</lv>
 			<etymology>
 				<etymon type="inher" source="FS?">lavla-</etymon>
 				<etymon type="inher" source="BF">lavla-</etymon>
@@ -21593,9 +21582,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="05">
 		<lg>
 			<l pos="xxx">miẹˊcsted</l>
-			<variants>
-				<dial dialect="P" source="1991">miẹˊccsted</dial>
-			</variants>
+			<lv variant="dial" source="1991">miẹˊccsted</lv>
 			<etymology>
 				<etymon type="loan" source="fin?">metsästää</etymon>
 				<cognate xml:lang="xxx"/>
@@ -22313,9 +22300,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="n">pueiˊdd</l>
-			<variants>
-				<dial dialect="P" source="1991">puõiˊdd</dial>
-			</variants>
+			<lv variant="dial" source="1991">puõiˊdd</lv>
 			<etymology>
 				<etymon type="inher" source="FS?">pajta</etymon>
 				<etymon type="inher" source="S">xxx</etymon>
@@ -22452,9 +22437,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="05">
 		<lg>
 			<l pos="v">påǥsted</l>
-			<variants>
-				<dial dialect="P" source="1991">pååǥǥsted</dial>
-			</variants>
+			<lv variant="dial" source="1991">pååǥǥsted</lv>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="90"/>
@@ -23016,9 +22999,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	<e meta="04">
 		<lg>
 			<l pos="xxx">simmna</l>
-			<variants>
-				<dial dialect="P" source="1991">siõmˈmna</dial>
-			</variants>
+			<lv variant="dial" source="1991">siõmˈmna</lv>
 		</lg>
 		<mg>
 			<semantics>
