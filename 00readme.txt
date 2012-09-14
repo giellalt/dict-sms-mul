@@ -63,7 +63,7 @@ on the e-element in the xml files:
 
 01 - this is a list of sms entries with multiple translations collected by Kimberly Mäkäräinen (http://www.uta.fi/~km56049/same/skolt/koltansaame.html).
 
-02 - a 99-word list imported from the current smsoahpa; this word list with multiple translations, taken from the 100-Swadesh-list, was originally collected by Michael Rießler.
+02 - 
 
 03 - word list from teaching materials under development by the Project "Skolt Saami Culture across Borders" (http://www.skoltsami.com) building on an already existing Finnish version, which is extended with Russian [Eino Koponen] and Norwegian [Michael Rießler] translations; each lesson of this materials gets its own attribute ("phon" is from the phonological explanations and exercises, "dict" is from the word list)
 
@@ -77,8 +77,8 @@ Oahpa!-nuõrti
 The next generation of smsoahpa will include all entries tagged with
 * book="kurss" - a textbook
 * book="term" - smaller terminological and other sets (placenames, personnames, months, weekdays, pronouns, etc.)
-* book="200" - basic semantic meanings (100 items)
-* book="100" - basic semantic meanings (200 items)
+* book="200" - basic semantic meanings (~100 items)
+* book="100" - basic semantic meanings (~200 items)
 
 For later versions of smsoahpa we will work with other textbooks (which is the original idea of Oahpa!) and can remove the other word lists.
 
