@@ -17343,8 +17343,7 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">ihminen</t>
-				<t pos="n" stat="dispref">ihmisolento</t>"
-			</tg>
+				<t pos="n" stat="dispref">ihmisolento</t>" </tg>
 			<tg xml:lang="eng">
 				<t pos="n">human</t>
 				<t pos="mwe_n" stat="dispref">human being</t>
@@ -23147,39 +23146,44 @@ and <a>mailto:giellatekno@hum.uit.no</a>. Please also note that the entries are 
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">sõõus</l>
+			<l pos="n">sõõus</l>
 			<etymology>
-				<etymon type="xxx" source="xxx"/>
-				<cognate xml:lang="xxx"/>
-				<note>Animal hairˈ; cogn. with Fin "höyhen" ˈfeather</note>
+				<etymon type="inher" source="finnosaamic">ševšem</etymon>
+				<etymon type="inher" source="saamic">se̮vse̮m</etymon>
+				<cognate xml:lang="fin">höyhen</cognate>
 			</etymology>
 		</lg>
+		<sources>
+			<book name="200" BEDLAN_ID="*68"/>
+			<book name="100"/>
+		</sources>
 		<mg>
+			<semantics>
+				<sem class="ZOO">MAMMAL</sem>
+				<sem class="WORK">ECONOMY</sem>
+			</semantics>
 			<tg xml:lang="eng">
-				<t pos="xxx">hair</t>
+				<t pos="n">fur</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="n">шерст</t>
+				<t pos="n">шерсть</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="n" stat="pref">pels</t>
+				<t pos="n">pelshår</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">hius</t>
+				<t pos="n">karva</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="n">сэфс</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">guolga</t>
+				<t pos="n">guolga</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">gualˈga</t>
+				<t pos="n">gualˈga</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*68"/>
-				<book name="100"/>
-			</sources>
 		</mg>
 	</e>
 	<e meta="05">
