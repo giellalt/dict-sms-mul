@@ -1283,28 +1283,33 @@
 			<book name="200" BEDLAN_ID="*134"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="WORK">SCHOOL</sem>
 				<sem class="LANG">SPEECH</sem>
+				<sem class="SENSE">COGNITION</sem>
 			</semantics>
 			<tg xml:lang="rus">
+				<t pos="v" stat="pref" imperf="высказать">сказать</t>
 				<t pos="v">говорить</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="v">це̄ӆӆькэ</t>
 			</tg>
 			<tg xml:lang="fin">
+				<t pos="v" stat="pref">sanoa</t>
+				<t pos="v">lausua</t>
 				<t pos="v">puhua</t>
-				<t pos="v">sanoa</t>
 			</tg>
 			<tg xml:lang="eng">
 				<t pos="v">say</t>
 			</tg>
 			<tg xml:lang="deu">
+				<t pos="v" stat="pref">sagen</t>
 				<t pos="v">sprechen</t>
 			</tg>
 			<tg xml:lang="nob">
+				<t pos="v" stat="pref">si</t>
 				<t pos="v">snakke</t>
 			</tg>
 			<tg xml:lang="sme">
@@ -2034,14 +2039,14 @@
 			<l pos="v" person="3" number="sg">ij</l>
 			<etymology>
 				<etymon type="inher" source="uralic">e-</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd">эйй</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*113"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">COGNITION</sem>
 			</semantics>
@@ -2073,20 +2078,21 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="n">ijj</l>
+			<l pos="n" dial="???" stat="dispref">ijj</l>
 			<synonym>inn</synonym>
 			<etymology>
 				<etymon type="inher" source="finnougric">üje</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd">ыйй</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*111"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="no">
 			<semantics>
 				<sem class="TIME">CYCLE</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="n">ночь</t>
@@ -2120,15 +2126,15 @@
 	<e meta="04">
 		<lg>
 			<l pos="n">inn</l>
-			<synonym>ijj</synonym>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*111"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="TIME">CYCLE</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="n">ночь</t>
@@ -2155,7 +2161,7 @@
 				<t pos="n">ijjâ</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">jijja</t>
+				<t pos="n">jijja</t>
 			</tg>
 		</mg>
 	</e>
@@ -2163,18 +2169,18 @@
 		<lg>
 			<l pos="v">išttâd</l>
 		</lg>
+		<sources>
+			<book name="200" BEDLAN_ID="*143"/>
+			<book name="100"/>
+		</sources>
 		<mg>
 			<semantics>
 				<sem class="HOUSE">DWELLING</sem>
 				<sem class="SPACE">POSITION</sem>
 				<sem class="WORK">SCHOOL</sem>
 			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*143"/>
-				<book name="100"/>
-			</sources>
 			<tg xml:lang="rus">
-				<t pos="v">сидеть</t>
+				<t pos="v">сесть</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="v">ышштэ</t>
@@ -2197,19 +2203,10 @@
 			<tg xml:lang="smn">
 				<t pos="v">čokkáđ</t>
 			</tg>
-			<xg oahpa="yes" kurss="xxx">
-				<x type="phrase" pos="mwe">išttâd åårrad</x>
+			<xg oahpa="no" kurss="xxx">
+				<x type="phrase" pos="mwe_v">išttâd åårrad</x>
 				<xtg xml:lang="fin">
 					<t pos="v">istua</t>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
-				</xtg>
-				<xtg xml:lang="eng">
-					<xt pos="xxx">xxx_sit</xt>
 				</xtg>
 				<xtg xml:lang="sme">
 					<xt pos="v">čohkkát</xt>
@@ -2512,26 +2509,26 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a">joorbâs</l>
+			<l pos="a:pred">joorbâs</l>
 			<der gloss="attr">jorbb</der>
 			<etymology>
-				<etymon type="xxx" source="psa">jorpe̮</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">jorpe̮</etymon>
+				<cognate xml:lang="sjd">ёрпас</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*130"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SPACE">RELATION</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr">круглый</t>
+				<t pos="a:attr" pred="кругл">круглый</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a">ёрпас</t>
+				<t pos="a:аttr" pred="ёррпэ">ёррп</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">pyöreä</t>
@@ -2591,19 +2588,20 @@
 		<lg>
 			<l pos="n">jueˊlǧǧ</l>
 			<etymology>
-				<etymon type="xxx" source="finnougric">jalka</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">jalka</etymon>
+				<cognate xml:lang="sjd">ю̄лльк</cognate>
 			</etymology>
 		</lg>
-		<mg>
+		<sources>
+			<book name="kurss" lesson="phon"/>
+			<book name="200" BEDLAN_ID="*58"/>
+			<book name="100" Swades_ID="46"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
+				<sem class="SPACE">MOTION</sem>
 			</semantics>
-			<sources>
-				<book name="kurss" lesson="phon"/>
-				<book name="200" BEDLAN_ID="*58"/>
-				<book name="100" Swades_ID="46"/>
-			</sources>
 			<tg xml:lang="rus">
 				<t pos="n">стопа</t>
 			</tg>
@@ -2667,15 +2665,15 @@
 		<lg>
 			<l pos="v">juukkâd</l>
 			<etymology>
-				<etymon type="xxx" source="finnougric">juɣe-</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">juɣe-</etymon>
+				<cognate xml:lang="sjd">югкэ</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*33"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">HEALTH</sem>
 				<sem class="FOOD">DISH</sem>
@@ -2699,10 +2697,10 @@
 				<t pos="v">drikke</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">juhkat</t>
+				<t pos="v">juhkat</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">juuhkat</t>
+				<t pos="v">juuhkat</t>
 			</tg>
 		</mg>
 	</e>
@@ -2710,7 +2708,7 @@
 		<lg>
 			<l pos="n">jânnam</l>
 			<etymology>
-				<etymon type="xxx" source="psa">ɛ̄ne̮m</etymon>
+				<etymon type="xxx" source="protosaamic">ɛ̄ne̮m</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -2718,7 +2716,7 @@
 			<book name="200" BEDLAN_ID="*38"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">ELEMENT</sem>
 			</semantics>
@@ -2732,8 +2730,8 @@
 				<t pos="n">maa</t>
 			</tg>
 			<tg xml:lang="eng">
-				<t pos="n">earth</t>
-				<t pos="xxx">soil</t>
+				<t pos="n" stat="pref">earth</t>
+				<t pos="n">soil</t>
 			</tg>
 			<tg xml:lang="deu">
 				<t pos="n">Erde</t>
@@ -2742,10 +2740,18 @@
 				<t pos="n">jord</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">eana</t>
+				<t pos="n">eana</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">eädˈnama</t>
+				<t pos="n">eädˈnama</t>
+			</tg>
+		</mg>
+		<mg oahpa="no" term="ASTROLOGY">
+			<semantics>
+				<sem class="xxx">xxx</sem>
+			</semantics>
+			<tg xml:lang="rus">
+				<t pos="pn">Земля</t>
 			</tg>
 		</mg>
 	</e>
@@ -2953,18 +2959,19 @@
 		<lg>
 			<l pos="v">jääˊmmed</l>
 			<etymology>
-				<etymon type="xxx" source="uralic">jama-</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">jama-</etymon>
+				<cognate xml:lang="sjd">я̄мме</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*29"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="HUMAN">FAMILY</sem>
 				<sem class="BODY">HEALTH</sem>
+				<sem class="SENSE">EMOTION</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="v">умирать</t>
@@ -3418,14 +3425,14 @@
 				<cognate xml:lang="sjd">кӯххт</cognate>
 			</etymology>
 		</lg>
-		<mg>
+		<sources>
+			<book name="200" BEDLAN_ID="*182"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*182"/>
-				<book name="100"/>
-			</sources>
 			<tg xml:lang="rus">
 				<t pos="num">два</t>
 			</tg>
@@ -3456,15 +3463,15 @@
 		<lg>
 			<l pos="n">kueˊll</l>
 			<etymology>
-				<etymon type="xxx" source="uralic">kala</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">kala</etymon>
+				<cognate xml:lang="sjd">кӯлль</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*51"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ZOO">FISH</sem>
 				<sem class="FOOD">NATURE</sem>
@@ -3500,18 +3507,19 @@
 		<lg>
 			<l pos="n">kunn</l>
 			<etymology>
-				<etymon type="xxx" source="finnopermic">konɜ</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnopermic">konɜ</etymon>
+				<cognate xml:lang="sjd">кунн</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*4"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">ELEMENT</sem>
 				<sem class="HOUSE">FURNITURE</sem>
+				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="n">зола</t>
@@ -3524,7 +3532,7 @@
 			</tg>
 			<tg xml:lang="eng">
 				<t pos="n" stat="pref">ash</t>
-				<t pos="n" number="pl">ashes</t>
+				<t pos="n" stat="dispref" number="pl">ashes</t>
 			</tg>
 			<tg xml:lang="deu">
 				<t pos="n">Asche</t>
@@ -3627,14 +3635,14 @@
 			<etymology>
 				<etymon type="inher" source="U?">kule</etymon>
 				<etymon type="inher" source="FU">kule</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd">куллэ</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*72"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="WORK">MUSIC</sem>
 				<sem class="WORK">SCHOOL</sem>
@@ -3862,7 +3870,7 @@
 		<lg>
 			<l pos="v">kuärrad</l>
 			<etymology>
-				<etymon type="xxx" source="psa">kɔ̄rɔ̄-</etymon>
+				<etymon type="xxx" source="protosaamic">kɔ̄rɔ̄-</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -4073,27 +4081,28 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a">kuˊǩǩ</l>
+			<l pos="a:pred">kuˊǩǩ</l>
+			<der gloss="attr">kuˊǩes</der>
 			<etymology>
-				<etymon type="xxx" source="psa">kukkē</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">kukkē</etymon>
+				<cognate xml:lang="sjd">куһкь</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*97"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SPACE">RELATION</sem>
 				<sem class="CLOTH">PART</sem>
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr">длинный</t>
+				<t pos="a:attr" pred="длинен">длинный</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a">куһкь</t>
+				<t pos="a:attr" pred="куһкь">кугкесь</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">pitkä</t>
@@ -4331,22 +4340,25 @@
 		<lg>
 			<l pos="v">käˊcǩǩed</l>
 			<etymology>
-				<etymon type="xxx" source="finnopermic">kačka-</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnopermic">kačka-</etymon>
+				<cognate xml:lang="sjd">ка̄ццькэ</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*13"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="FOOD">DISH</sem>
 				<sem class="ZOO">MAMMAL</sem>
 				<sem class="SENSE">EMOTION</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="v">грызть</t>
+				<t pos="v" imperf="укусить">кусать</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="v" imperf="разгрызть">грызть</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="v">ка̄ццькэ</t>
@@ -4511,24 +4523,25 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a">kååˊšǩes</l>
+			<l pos="a:pred">kååˊšǩes</l>
+			<der gloss="attr">kåˊšǩǩ-</der>
 			<etymology>
 				<etymon type="inher" source="uralic">kuśka</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd">коашшьк</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*34"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">PERCEPTION</sem>
 				<sem class="ENVIR">WEATHER</sem>
 				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:atrr">сухой</t>
+				<t pos="a:attr" pred="сух">сухой</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="a">коашшьк</t>
@@ -4543,7 +4556,7 @@
 				<t pos="a">trocken</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a">tørr</t>
+				<t pos="a:utr" n="tørt" pl="tørre">tørr</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">goikkis</t>
@@ -4557,15 +4570,15 @@
 		<lg>
 			<l pos="v">kåˊdded</l>
 			<etymology>
-				<etymon type="xxx" source="uralic">kunta-</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">kunta-</etymon>
+				<cognate xml:lang="sjd">коаннҍтэ</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*86"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">HEALTH</sem>
 				<sem class="WORK">ECONOMY</sem>
@@ -4699,29 +4712,29 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="pred">kõõumâs</l>
-			<lv variant="dial" source="1991">kõõlmâs</lv>
+			<l pos="a:pred">kõõumâs</l>
 			<der gloss="attr">kõumm</der>
+			<lv variant="dial" source="1991">kõõlmâs</lv>
 			<etymology>
 				<etymon type="inher" source="finnopermic">külmä</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd">кэлмас</cognate>
 			</etymology>
 		</lg>
-		<mg>
+		<sources>
+			<book name="200" BEDLAN_ID="*24"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">PERCEPTION</sem>
 				<sem class="ENVIR">WEATHER</sem>
 				<sem class="FOOD">DISH</sem>
 			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*24"/>
-				<book name="100"/>
-			</sources>
 			<tg xml:lang="rus">
-				<t pos="a">холодный</t>
+				<t pos="a:attr">холодный</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a">кэлмас</t>
+				<t pos="a:attr" pred="кэлмас">кэ̄ллм</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">kylmä</t>
@@ -4736,10 +4749,10 @@
 				<t pos="a">kald</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">galmmas</t>
+				<t pos="а">galmmas</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">tjååskès</t>
+				<t pos="а">tjååskès</t>
 			</tg>
 		</mg>
 	</e>
@@ -4749,7 +4762,7 @@
 			<etymology>
 				<etymon type="inher" source="U?">künče</etymon>
 				<etymon type="inher" source="FU">künče</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd">кэ̄ннц</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -4757,7 +4770,7 @@
 			<book name="200" BEDLAN_ID="*22"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="FOOD">NATURE</sem>
@@ -4767,14 +4780,18 @@
 				<t pos="n">claw</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="n">коготь</t>
+				<t pos="n" stat="pref">коготь</t>
+				<t pos="n">копыто</t>
 			</tg>
-			<tg xml:lang="eng">
+			<tg xml:lang="deu">
 				<t pos="n">Huf</t>
-				<t pos="n">Klaue</t>
+				<t pos="n" stat="pref">Klaue</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">kynsi</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="n">кэ̄ннц</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="n">gazza</t>
@@ -4783,7 +4800,7 @@
 				<t pos="n">gadtsa</t>
 			</tg>
 		</mg>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="SPACE">MOTION</sem>
@@ -5057,7 +5074,7 @@
 			<book name="200" BEDLAN_ID="*144"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="WORK">ECONOMY</sem>
@@ -5098,9 +5115,10 @@
 			<book name="200" BEDLAN_ID="*94"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SPACE">POSITION</sem>
+				<sem class="BODY">HEALTH</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="v">лежать</t>
@@ -5425,6 +5443,7 @@
 			<l pos="n">låˊdd</l>
 			<etymology>
 				<etymon type="inher" source="finnougric">lunta</etymon>
+				<cognate xml:lang="sjd">лоаннҍт</cognate>
 				<cognate xml:lang="nob">lunde(fugl)</cognate>
 			</etymology>
 		</lg>
@@ -5432,7 +5451,7 @@
 			<book name="200" BEDLAN_ID="*12"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ZOO">BIRD</sem>
 				<sem class="FOOD">NATURE</sem>
@@ -5467,22 +5486,22 @@
 		<lg>
 			<l pos="n">lõstt</l>
 			<etymology>
-				<etymon type="xxx" source="finnovolgaic">lešte</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnovolgaic">lešte</etymon>
+				<cognate xml:lang="sjd">лэ̄сст</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*91"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BOT">TREE</sem>
 				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<tg xml:lang="eng">
 				<t pos="n">leaf</t>
-				<tr>of a tree</tr>
+				<tr>of a plant</tr>
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="n">лист</t>
@@ -5655,25 +5674,25 @@
 			</infl>
 			<etymology>
 				<etymon type="inher" source="uralic">mɜ</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd">мӣ</cognate>
 			</etymology>
 		</lg>
-		<mg>
+		<sources>
+			<book name="kurss" lesson="1"/>
+			<book name="200" BEDLAN_ID="*190"/>
+			<book name="200" BEDLAN_ID="153"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">COGNITION</sem>
 			</semantics>
-			<sources>
-				<book name="kurss" lesson="1"/>
-				<book name="200" BEDLAN_ID="*190"/>
-				<book name="200" BEDLAN_ID="153"/>
-				<book name="100"/>
-			</sources>
 			<tg xml:lang="rus">
 				<t pos="pro">что</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="pro">mikä</t>
-				<t pos="pro">mitä</t>
+				<t pos="pro" stat="dispref">mitä</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="pro">hva</t>
@@ -5693,16 +5712,16 @@
 			<tg xml:lang="sju">
 				<t pos="pro">mii</t>
 			</tg>
-			<xg oahpa="yes" kurss="yes">
+			<xg oahpa="no" kurss="yes">
 				<x pos="pro">mõõn</x>
 				<xtg xml:lang="rus">
-					<xt pos="xxx">что за</xt>
+					<xt pos="mwe_pro">что за</xt>
 				</xtg>
 				<xtg xml:lang="fin">
 					<xt pos="pro">minkä</xt>
 				</xtg>
 			</xg>
-			<xg oahpa="yes" kurss="yes">
+			<xg oahpa="no" kurss="yes">
 				<x pos="pro">mâiˊd</x>
 				<xtg xml:lang="rus">
 					<xt pos="pro">чего</xt>
@@ -5711,14 +5730,14 @@
 					<xt pos="pro">mitä</xt>
 				</xtg>
 			</xg>
-			<xg oahpa="yes" kurss="no">
-				<x pos="xxx">mii-ne</x>
+			<xg oahpa="no" kurss="no">
+				<x pos="mwe_pro">mii-ne</x>
 				<xtg xml:lang="eng">
-					<xt pos="xxx">some</xt>
+					<xt pos="pro">some</xt>
 				</xtg>
 				<xtg xml:lang="fin">
-					<xt pos="xxx">jokin</xt>
-					<xt pos="xxx">jotain</xt>
+					<xt pos="pro">jokin</xt>
+					<xt pos="pro">jotain</xt>
 				</xtg>
 				<xtg xml:lang="rus">
 					<xt pos="pro">что-нибудь</xt>
@@ -5727,14 +5746,14 @@
 					<xt pos="pro">noe</xt>
 				</xtg>
 				<xtg xml:lang="sme">
-					<xt pos="xxx">juoga</xt>
+					<xt pos="pro">juoga</xt>
 				</xtg>
 				<xtg xml:lang="sju">
-					<xt pos="xxx">sååmès</xt>
+					<xt pos="pro">sååmès</xt>
 				</xtg>
 			</xg>
-			<xg oahpa="yes" kurss="no">
-				<x pos="xxx">mâiˊd-ne</x>
+			<xg oahpa="no" kurss="no">
+				<x pos="mwe_pro">mâiˊd-ne</x>
 				<xtg xml:lang="rus">
 					<xt pos="pro">что-нибудь</xt>
 				</xtg>
@@ -5751,15 +5770,15 @@
 		<lg>
 			<l pos="pro">mij</l>
 			<etymology>
-				<etymon type="xxx" source="uralic">mɤ̈</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">mɤ̈</etymon>
+				<cognate xml:lang="sjd">мыйй</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*188"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="HUMAN">PERSON</sem>
 			</semantics>
@@ -5871,8 +5890,8 @@
 				<form gloss="gen.sg">muu</form>
 			</infl>
 			<etymology>
-				<etymon type="xxx" source="uralic">mɜn-</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">mɜn-</etymon>
+				<cognate xml:lang="sjd">мунн</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -5880,7 +5899,7 @@
 			<book name="200" BEDLAN_ID="*82"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="HUMAN">PERSON</sem>
 			</semantics>
@@ -6006,15 +6025,15 @@
 		<lg>
 			<l pos="n">muõrr</l>
 			<etymology>
-				<etymon type="xxx" source="psa">mōre̮</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">mōre̮</etymon>
+				<cognate xml:lang="sjd">мӯрр</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*180"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BOT">TREE</sem>
 				<sem class="HOUSE">DWELLING</sem>
@@ -6123,8 +6142,8 @@
 				<a dialect="muo" speaker="ZMN" href="xxx/mayayqnn_SKO111210_ZMN.wav"/>
 			</audio>
 			<etymology>
-				<etymon type="xxx" source="uralic">muna</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">muna</etymon>
+				<cognate xml:lang="sjd">маннҍ</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -6132,7 +6151,7 @@
 			<book name="200" BEDLAN_ID="*40"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ZOO">BIRD</sem>
 				<sem class="FOOD">GROCERY</sem>
@@ -6190,17 +6209,16 @@
 	<e meta="04">
 		<lg>
 			<l pos="n">mään</l>
-			<synonym>määnpââˊjj</synonym>
 			<etymology>
-				<etymon type="xxx" source="psa">mānɔ̄</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">mānɔ̄</etymon>
+				<cognate xml:lang="sjd">ма̄нн</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*102"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="TIME">CYCLE</sem>
 			</semantics>
@@ -6230,13 +6248,13 @@
 				<t pos="n">mànnoo</t>
 			</tg>
 		</mg>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="n">луна</t>
-				<t pos="n" style="arch">месяц</t>
+				<t pos="n" stat="dispref" style="arch">месяц</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="n">ма̄нн</t>
@@ -6254,28 +6272,45 @@
 				<t pos="n">måne</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">mánnu</t>
+				<t pos="n">mánnu</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">mànnoo</t>
+				<t pos="n">mànnoo</t>
 			</tg>
 		</mg>
 	</e>
-	<e meta="01">
+	<e meta="04">
 		<lg>
-			<l pos="n">määnpââˊjj</l>
-			<synonym>mään</synonym>
+			<l pos="n" stat="dispref">määnpââˊjj</l>
 		</lg>
-		<mg>
+		<mg oahpa="no">
+			<semantics>
+				<sem class="TIME">CYCLE</sem>
+			</semantics>
+			<tg xml:lang="rus">
+				<t pos="n">месяц</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="n">ма̄нн</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t>kuukausi</t>
+			</tg>
 			<tg xml:lang="eng">
 				<t pos="n">month</t>
 			</tg>
-			<tg xml:lang="fin">
-				<t pos="n">kuukausi</t>
+			<tg xml:lang="deu">
+				<t pos="n">Monat</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
+			<tg xml:lang="nob">
+				<t pos="n">månad</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="n">mánnu</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="n">mànnoo</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
@@ -6314,8 +6349,8 @@
 		<lg>
 			<l pos="pro">mäŋgg</l>
 			<etymology>
-				<etymon type="loan" source="scand?"/>
-				<cognate xml:lang="swe?">många</cognate>
+				<etymon type="loan" source="northgermanic"/>
+				<cognate xml:lang="swe">många</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -6323,16 +6358,13 @@
 			<book name="200" BEDLAN_ID="*100"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="pro" stat="pref">много</t>
 				<t pos="pro">многочисленный</t>
-			</tg>
-			<tg xml:lang="sjd">
-				<t pos="pro">е̄ннэ</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="pro">monta</t>
@@ -6347,6 +6379,12 @@
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="pro">mange</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="pro">е̄ннэ</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="pro">maŋga</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="pro">eatnat</t>
@@ -6642,8 +6680,8 @@
 				<form gloss="acc.sg">neezzan</form>
 			</infl>
 			<etymology>
-				<etymon type="xxx" source="psa">nisɔ̄n</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">nisɔ̄n</etymon>
+				<cognate xml:lang="sjd">нызан</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -6651,7 +6689,7 @@
 			<book name="200" BEDLAN_ID="*201"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
@@ -6665,10 +6703,10 @@
 				<t pos="n">kvinne</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="n">ныззан</t>
+				<t pos="n">нызан</t>
 			</tg>
 			<tg xml:lang="eng">
-				<t pos="n">woman</t>
+				<t pos="n" stat="pref">woman</t>
 				<t pos="n">female</t>
 			</tg>
 			<tg xml:lang="deu">
@@ -6878,29 +6916,41 @@
 	<e meta="05">
 		<lg>
 			<l pos="n">njiˊšǩǩmaadd</l>
+			<etymology>
+				<etymon type="inher" source="kolasaami"/>
+				<cognate xml:lang="sjd">нышшькмоант</cognate>
+			</etymology>
 		</lg>
-		<semantics>
-			<sem class="BODY">PART</sem>
-		</semantics>
 		<sources>
 			<book name="200" BEDLAN_ID="*109"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
+			<semantics>
+				<sem class="BODY">PART</sem>
+			</semantics>
 			<tg xml:lang="rus">
-				<t pos="n">шея</t>
+				<t pos="n">затылок</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="n">нышшьк</t>
+				<t pos="n">нышшькмоант</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">niska</t>
 			</tg>
 			<tg xml:lang="eng">
-				<t pos="n">neck</t>
+				<t pos="n">nape</t>
+				<te>of the neck</te>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="n" term="anat">neck</t>
 			</tg>
 			<tg xml:lang="deu">
-				<t pos="n">Nacken</t>
+				<t pos="n" stat="pref">Nacken</t>
+				<t pos="n">Genick</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="n" stat="dispref">Hinterkopf</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="n">nakke</t>
@@ -6950,8 +7000,8 @@
 		<lg>
 			<l pos="n">njuhččâm</l>
 			<etymology>
-				<etymon type="xxx" source="uralic">ńaŋkće</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">ńaŋkće</etymon>
+				<cognate xml:lang="sjd">нюхчем</cognate>
 				<note>derivation</note>
 			</etymology>
 		</lg>
@@ -6959,17 +7009,18 @@
 			<book name="200" BEDLAN_ID="*178"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
+				<sem class="SENCE">PERCEPTION</sem>
 				<sem class="BODY">PART</sem>
 				<sem class="FOOD">NATURE</sem>
-				<sem class="FOOD">GROCERY</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="n">язык</t>
+				<tr>орган</tr>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="n">нюххчем</t>
+				<t pos="n">нюхчем</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">kieli</t>
@@ -6984,10 +7035,11 @@
 				<t pos="n">tunge</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">njuovčča</t>
+				<t pos="n">njuovčča</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">njuaktjoo, njuaktjama</t>
+				<t pos="n">njuaktjoo</t>
+				<t pos="n">njuaktjama</t>
 			</tg>
 		</mg>
 	</e>
@@ -6995,15 +7047,15 @@
 		<lg>
 			<l pos="n">njuuˊnn</l>
 			<etymology>
-				<etymon type="xxx" source="FS">ńana</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnosaamic">ńana</etymon>
+				<cognate xml:lang="sjd">нюннҍ</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*112"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="SENSE">PERCEPTION</sem>
@@ -7027,10 +7079,10 @@
 				<t pos="n">nese</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">njunni</t>
+				<t pos="n">njunni</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">njüennee</t>
+				<t pos="n">njüennee</t>
 			</tg>
 		</mg>
 		<mg>
@@ -7068,15 +7120,15 @@
 		<lg>
 			<l pos="n">njäˊlmm</l>
 			<etymology>
-				<etymon type="xxx" source="finnougric">ńälmä</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">ńälmä</etymon>
+				<cognate xml:lang="sjd">нялльм</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*105"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="LANGUAGE">SPEECH</sem>
@@ -7180,8 +7232,8 @@
 				<form gloss="nom.pl">nõõm</form>
 			</infl>
 			<etymology>
-				<etymon type="xxx" source="uralic">nime</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">nime</etymon>
+				<cognate xml:lang="sjd">нэ̄мм</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -7189,7 +7241,7 @@
 			<book name="200" BEDLAN_ID="*106"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
@@ -7400,22 +7452,23 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a">oođâs</l>
+			<l pos="a:pred">oođâs</l>
+			<der gloss="attr">ođđ</der>
 			<etymology>
-				<etymon type="xxx" source="finnougric">wuδˊe</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">wuδˊe</etymon>
+				<cognate xml:lang="sjd">о̄дт</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*110"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="TIME">UNIT</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr">новый</t>
+				<t pos="a:attr" pred="нов">новый</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="a">о̄дт</t>
@@ -7430,7 +7483,7 @@
 				<t pos="a">neu</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a">ny</t>
+				<t pos="a:u" n="nytt" pl="nye">ny</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">ođas</t>
@@ -7648,8 +7701,8 @@
 		<lg>
 			<l pos="n">peiˊvv</l>
 			<etymology>
-				<etymon type="xxx" source="finnougric">päjwä</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">päjwä</etymon>
+				<cognate xml:lang="sjd">пе̄ййв</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -7657,7 +7710,7 @@
 			<book name="200" BEDLAN_ID="28"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="TIME">CYCLE</sem>
 			</semantics>
@@ -7686,7 +7739,7 @@
 				<t pos="xxx">bäìvee</t>
 			</tg>
 		</mg>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">ELEMENT</sem>
 			</semantics>
@@ -7713,7 +7766,7 @@
 				<t pos="n">Sonne</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">bäìvee</t>
+				<t pos="n">bäìvee</t>
 			</tg>
 		</mg>
 	</e>
@@ -7754,7 +7807,8 @@
 		<lg>
 			<l pos="n">peˊllj</l>
 			<etymology>
-				<etymon type="xxx" source="finnougric">peljä</etymon>
+				<etymon type="inher" source="finnougric">peljä</etymon>
+				<cognate xml:lang="sjd">пе̄лльй</cognate>
 				<cognate xml:lang="rus">пель(мени)</cognate>
 			</etymology>
 		</lg>
@@ -7762,7 +7816,7 @@
 			<book name="200" BEDLAN_ID="*37"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="SENSE">PERCEPTION</sem>
@@ -7886,18 +7940,23 @@
 	<e meta="04">
 		<lg>
 			<l pos="n">piânnai</l>
+			<der gloss="dim">piânˈnǥaž</der>
 			<etymology>
-				<etymon type="xxx" source="FP, FU?">pene</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric?">pene</etymon>
+				<etymon type="inher" source="FP">pene</etymon>
+				<cognate xml:lang="sjd">пе̄ннэ</cognate>
+				<note>derivation</note>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*32"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ZOO">DOMESTIC</sem>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="HUMAN">FAMILY</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="n">собака</t>
@@ -7918,11 +7977,11 @@
 				<t pos="n">hund</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">beana</t>
+				<t pos="n">beana</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">biegˈŋja</t>
-				<t pos="xxx">dä̀rra</t>
+				<t pos="n">biegˈŋja</t>
+				<t pos="n">dä̀rra</t>
 			</tg>
 		</mg>
 	</e>
@@ -8058,15 +8117,15 @@
 		<lg>
 			<l pos="v">poorrâd</l>
 			<etymology>
-				<etymon type="xxx" source="uralic">pure-</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">pure-</etymon>
+				<cognate xml:lang="sjd">по̄ррэ</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*39"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="FOOD">DISH</sem>
 				<sem class="BODY">HEALTH</sem>
@@ -8169,7 +8228,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="n" dial="P">tåˊlǧǧ</l>
+			<l pos="n" dial="P" stat="dispref">tåˊlǧǧ</l>
 			<etymology>
 				<etymon type="inher" source="uralic">tulka</etymon>
 				<cognate xml:lang="xxx"/>
@@ -8215,7 +8274,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="n" dial="N">tåˊlǧǧ</l>
+			<l pos="n" dial="N" stat="dispref">tåˊlǧǧ</l>
 			<etymology>
 				<etymon type="inher" source="uralic">tulka</etymon>
 				<cognate xml:lang="xxx"/>
@@ -8268,7 +8327,7 @@
 			<book name="200" BEDLAN_ID="*47"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ZOO">BIRD</sem>
 				<sem class="BODY">PART</sem>
@@ -8280,7 +8339,7 @@
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">sulka</t>
-				<t pos="n">höyhen</t>
+				<t pos="n" stat="pref">höyhen</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="n">fjær</t>
@@ -8323,21 +8382,21 @@
 		<lg>
 			<l pos="v">pueˊlled</l>
 			<etymology>
-				<etymon type="xxx" source="finnougric">palˊa</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">palˊa</etymon>
+				<cognate xml:lang="sjd">пӯлле</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*20"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="WORK">ECONOMY</sem>
 				<sem class="ENVIR">ELEMENT</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="v">жечь</t>
+				<t pos="v" imperf="сгореть">гореть</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="v">пӯлле</t>
@@ -8367,8 +8426,8 @@
 			<l pos="v">pueˊtted</l>
 			<lv variant="dial" source="1991">puẹˊtted</lv>
 			<etymology>
-				<etymon type="xxx" source="psa">pɔ̄tē-</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">pɔ̄tē-</etymon>
+				<cognate xml:lang="sjd">пуэдтӭ</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -8376,13 +8435,15 @@
 			<book name="200" BEDLAN_ID="*25"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="WORK">ECONOMY</sem>
 				<sem class="SPACE">MOTION</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="v">приходить</t>
+				<t pos="v" stat="pref">прийти</t>
+				<t pos="v">прибыть</t>
+				<t pos="v">приехать</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="v">пуэдтӭ</t>
@@ -8412,28 +8473,14 @@
 				<x pos="v">puäˊđ!</x>
 				<xtg xml:lang="rus">
 					<xt pos="v">приходи!</xt>
+					<xt pos="v">иди!</xt>
 				</xtg>
 				<xtg xml:lang="rus">
 					<xt pos="v">come!</xt>
-					<xt pos="xxx">come in!</xt>
+					<xt pos="mwe_v">come in!</xt>
 				</xtg>
 				<xtg xml:lang="fin">
 					<xt pos="v">tule!</xt>
-				</xtg>
-			</xg>
-		</mg>
-		<mg>
-			<semantics>
-				<sem class="WORK">ECONOMY</sem>
-				<sem class="SPACE">MOTION</sem>
-			</semantics>
-			<tg xml:lang="rus">
-				<t pos="v">идти</t>
-			</tg>
-			<xg oahpa="no" kurss="no">
-				<x pos="v">puäˊđ!</x>
-				<xtg xml:lang="rus">
-					<xt pos="v">иди!</xt>
 				</xtg>
 			</xg>
 		</mg>
@@ -8441,12 +8488,16 @@
 	<e meta="05">
 		<lg>
 			<l pos="pro">puk</l>
+			<etymology>
+				<etymon type="inher" source="kolasaamic"/>
+				<cognate xml:lang="sjd">пугк</cognate>
+			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*1"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
@@ -8524,7 +8575,7 @@
 				<form gloss="nom.pl">puõcˈcu</form>
 			</infl>
 			<etymology>
-				<etymon type="inhe" source="psa">xxx</etymon>
+				<etymon type="inhe" source="protosaamic">xxx</etymon>
 				<cognate lang="sme">boazu</cognate>
 			</etymology>
 		</lg>
@@ -8575,15 +8626,15 @@
 		<lg>
 			<l pos="n">puõlvv</l>
 			<etymology>
-				<etymon type="xxx" source="uralic">polwe</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">polwe</etymon>
+				<cognate xml:lang="sjd">пӯллв</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*87"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 			</semantics>
@@ -8615,13 +8666,18 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">paakkâs</l>
+			<l pos="a:pred">paakkâs</l>
+			<der gloss="attr">pakk</der>
+			<etymology>
+				<etymon type="inher" source="kolasaamic"/>
+				<cognate xml:lang="sjd">xxx</cognate>
+			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*185"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">PERCEPTION</sem>
 				<sem class="ENVIR">WEATHER</sem>
@@ -8631,16 +8687,16 @@
 				<t pos="a">warm</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr">тёплый</t>
+				<t pos="a:attr" pred="тёпел">тёплый</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a">varm</t>
+				<t pos="a:u" n="varmt" pl="varme">varm</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">lämmin</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a">поакас</t>
+				<t pos="a:attr" pred="поакас">поаһк</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">liekkas</t>
@@ -8653,19 +8709,24 @@
 	<e meta="05">
 		<lg>
 			<l pos="a">puõˊlˈli</l>
-			<lv>puiˊlˈli</lv>
+			<lv variant="dial" source="1988">puiˊlˈli</lv>
+			<etymology>
+				<etymon type="inher" source="finnougric">palˊa</etymon>
+				<cognate xml:lang="sjd" pos="v">пӯлле</cognate>
+			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*185"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">PERCEPTION</sem>
 				<sem class="ENVIR">WEATHER</sem>
 				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<tg xml:lang="rus">
+				<t pos="a:attr">горячий</t>
 				<t pos="a:attr">жаркий</t>
 			</tg>
 			<tg xml:lang="fin">
@@ -8680,6 +8741,9 @@
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">het</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="a">пӯлле</t>
 			</tg>
 		</mg>
 	</e>
@@ -8746,20 +8810,26 @@
 	<e meta="05">
 		<lg>
 			<l pos="n">pärkk</l>
+			<etymology>
+				<etymon type="loan" source="northgermanic"/>
+				<etymon type="inher" source="protosaamic"/>
+				<cognate xml:lang="swe">bark</cognate>
+				<cognate xml:lang="sjd">па̄ҏҏк</cognate>
+			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*8"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BOT">TREE</sem>
-				<sem class="ENVIR">ELEMENT</sem>
-				<sem class="FOOD">DISH</sem>
+				<sem class="FOOD">NATURE</sem>
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="n">кора</t>
+				<tr>деревьев</tr>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="n">па̄ҏҏк</t>
@@ -8768,14 +8838,16 @@
 				<t pos="n">kaarna</t>
 			</tg>
 			<tg xml:lang="eng">
-				<t pos="n">bark</t>
+				<t pos="n" stat="pref">bark</t>
 			</tg>
 			<tg xml:lang="deu">
-				<t pos="n">Borke</t>
+				<t pos="n" stat="pref">Borke</t>
+				<t pos="n">Rinde</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="n">bark</t>
 			</tg>
+			<lexicon xml:lang="eng">inner bark of a tree</lexicon>
 		</mg>
 	</e>
 	<e meta="03">
@@ -8910,12 +8982,16 @@
 	<e meta="05">
 		<lg>
 			<l pos="n">pääˊljes</l>
+			<etymology>
+				<etymon type="inher" source="kolasaamic"/>
+				<cognate xml:lang="sjd" stem="str">поалкас</cognate>
+			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*126"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
@@ -9050,12 +9126,12 @@
 			<book name="200" BEDLAN_ID="*23"/>
 			<book name="100"/>
 		</sources>
-		<semantics>
-			<sem class="ENVIR">WEATHER</sem>
-		</semantics>
-		<mg>
+		<mg oahpa="yes">
+			<semantics>
+				<sem class="ENVIR">WEATHER</sem>
+			</semantics>
 			<tg xml:lang="rus">
-				<t pos="n">туча</t>
+				<t pos="n">облако</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="n">пэ̄ввл</t>
@@ -9517,8 +9593,10 @@
 		<lg>
 			<l pos="a">ruânn</l>
 			<etymology>
-				<etymon type="xxx" source="scan"/>
-				<cognate xml:lang="swe">grön</cognate>
+				<etymon type="loan" source="northgermanic"/>
+				<etymon type="inher" source="kolasaamic"/>
+				<cognate xml:lang="sjd">grön</cognate>
+				<cognate xml:lang="swe">руэнн</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -9534,12 +9612,11 @@
 				<tr>anything but plants</tr>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a">зелёный</t>
-				<tr>xxx</tr>
+				<t pos="a:attr" pred="зелён">зелёный</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">grønn</t>
-				<tr>xxx</tr>
+				<tr>ikke av planter</tr>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">vihreä</t>
@@ -9551,15 +9628,12 @@
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="a">руэнн</t>
-				<tr>xxx</tr>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">ruoná</t>
-				<tr>xxx</tr>
+				<t pos="a">ruoná</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">kruadˈnaa</t>
-				<tr>xxx</tr>
+				<t pos="a">kruadˈnaa</t>
 			</tg>
 		</mg>
 	</e>
@@ -9571,17 +9645,16 @@
 			<book name="200" BEDLAN_ID="*66"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes" term="COLOR">
 			<semantics>
 				<sem class="FOOD">DISH</sem>
 				<sem class="BOT">GRASS</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="a">зелёный</t>
-				<tr>xxx</tr>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="a">vihanta</t>
+				<t pos="a" stat="pref">vihanta</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">vihreä</t>
@@ -9589,39 +9662,39 @@
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">grønn</t>
-				<tr>xxx</tr>
+				<tr>av planter</tr>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="a">руэнн</t>
-				<tr>xxx</tr>
 			</tg>
 			<tg xml:lang="eng">
-				<t pos="a">green</t>
+				<t pos="a" stat="pref">green</t>
+				<t pos="a">fresh</t>
 				<tr>of plants</tr>
 			</tg>
 			<tg xml:lang="deu">
-				<t pos="a">grün</t>
+				<t pos="a" stat="pref">grün</t>
+				<t pos="a">frisch</t>
 				<tr>von Pflanzen</tr>
 			</tg>
 			<tg xml:lang="deu">
 				<t pos="a">unreif</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">ruoná</t>
-				<tr>xxx</tr>
+				<t pos="a">ruoná</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">kruadˈnaa</t>
-				<tr>xxx</tr>
+				<t pos="a">kruadˈnaa</t>
 			</tg>
 		</mg>
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a">ruõpssâd</l>
+			<l pos="a:pred">ruõpssâd</l>
+			<der gloss="attr">ruõˊpsses</der>
 			<etymology>
-				<etymon type="xxx" source="psa">rōpse̮</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">rōpse̮</etymon>
+				<cognate xml:lang="sjd">рӯппсэ</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -9633,10 +9706,11 @@
 				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr">красный</t>
+				<t pos="a:attr" pred="красен">красный</t>
+				<t pos="a:attr" pred="ал">алый</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:pred">рӯппсэ</t>
+				<t pos="a:attr" pred="рӯппсэ">рӯппьсесь</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">punainen</t>
@@ -9648,7 +9722,7 @@
 				<t pos="a">rot</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a">rød</t>
+				<t pos="a:u" n="røtt" pl="røde">rød</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">ruoksat</t>
@@ -9739,15 +9813,15 @@
 		<lg>
 			<l pos="n">râˊdd</l>
 			<etymology>
-				<etymon type="xxx" source="FS">rinta</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnosaamic">rinta</etymon>
+				<cognate xml:lang="sjd">раннҍт</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*18"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="HUMAN">FAMILY</sem>
@@ -9907,14 +9981,14 @@
 			<l pos="n">seiˊbb</l>
 			<etymology>
 				<etymon type="inher" source="uralic">sejpä</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd">се̄ййп</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*167"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ZOO">MAMMAL</sem>
 				<sem class="BODY">PART</sem>
@@ -10297,19 +10371,19 @@
 			</infl>
 			<etymology>
 				<etymon type="loan" source="finnic?"/>
-				<etymon type="inher" source="S?"/>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic?"/>
+				<cognate xml:lang="sjd">сем</cognate>
 			</etymology>
 		</lg>
-		<mg>
+		<sources>
+			<book name="200" BEDLAN_ID="*138"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BOT">TREE</sem>
 				<sem class="FOOD">NATURE</sem>
 			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*138"/>
-				<book name="100"/>
-			</sources>
 			<tg xml:lang="rus">
 				<t pos="n">семя</t>
 			</tg>
@@ -10334,48 +10408,6 @@
 			<tg xml:lang="sju">
 				<t pos="n">sàjjoo</t>
 			</tg>
-		</mg>
-	</e>
-	<e meta="03">
-		<lg>
-			<l pos="a">siõmm</l>
-		</lg>
-		<mg>
-			<sources>
-				<book name="kurss" lesson="dict"/>
-			</sources>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="fin">
-				<t pos="a">pieni</t>
-				<t pos="a">pikkuinen</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="a">маленький</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="01">
-		<lg>
-			<l pos="n">siõmâž</l>
-		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="n">baby</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="n">vauva</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="n">njuoratmánná</t>
-			</tg>
-			<semantics>
-				<sem class="HUMAN">PEOPLE</sem>
-			</semantics>
 		</mg>
 	</e>
 	<e meta="04">
@@ -11115,18 +11147,20 @@
 		<lg>
 			<l pos="n">suõvv</l>
 			<etymology>
-				<etymon type="xxx" source="finnovolgaic">sawe</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnovolgaic">sawe</etymon>
+				<cognate xml:lang="sjd">сувв</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*149"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">ELEMENT</sem>
 				<sem class="FOOD">NATURE</sem>
+				<sem class="WORK">ECONOMY</sem>
+				<sem class="HOUSE">DWELLING</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="n">дым</t>
@@ -11744,7 +11778,7 @@
 			<l pos="n">teˊǩǩ</l>
 			<etymology>
 				<etymon type="inher" source="uralic"/>
-				<etymon type="inher" source="psa">tikkē</etymon>
+				<etymon type="inher" source="protosaamic">tikkē</etymon>
 				<cognate xml:lang="hung">tetű</cognate>
 				<cognate xml:lang="komi">toj</cognate>
 				<cognate xml:lang="fin">täi</cognate>
@@ -11756,7 +11790,7 @@
 			<book name="200" BEDLAN_ID="*98"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ZOO">INSECT</sem>
 				<sem class="BODY">HEALTH</sem>
@@ -11797,7 +11831,8 @@
 			</infl>
 			<etymology>
 				<etymon type="loan" source="finnic">*tētä-</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="kolasaamic"/>
+				<cognate xml:lang="sjd" pos="n">те̄дт</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -11805,7 +11840,7 @@
 			<book name="200" BEDLAN_ID="*88"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="WORK">SCHOOL</sem>
 				<sem class="SENSE">COGNITION</sem>
@@ -11839,22 +11874,32 @@
 	<e meta="05">
 		<lg>
 			<l pos="a">tiiudâs</l>
+			<der gloss="attr">tiudd</der>
+			<lv variant="dial" source="1991">tiuddâz</lv>
+			<etymology>
+				<etymon type="loan" source="finnic" variant="täyte-">täysi</etymon>
+				<etymon type="inher" source="protosaamic?"/>
+				<etymon type="inher" source="kolasaamic"/>
+				<cognate xml:lang="sjd">тӣвтас</cognate>
+			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*62"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a">полный</t>
+				<t pos="a:attr" stat="pref">полный</t>
+				<t pos="a:attr">наполненный</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a">тӣвтас</t>
+				<t pos="a:attr" pred="тӣвтас">тӣввт</t>
 			</tg>
 			<tg xml:lang="fin">
+				<t pos="a" stat="pref">täysi</t>
 				<t pos="a">täysinäinen</t>
 			</tg>
 			<tg xml:lang="eng">
@@ -11864,7 +11909,13 @@
 				<t pos="a">voll</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a">full</t>
+				<t pos="a:u" n="fult" pl="fulle">full</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="a">dievva</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="a">diävas</t>
 			</tg>
 		</mg>
 	</e>
@@ -12138,7 +12189,7 @@
 			<l pos="n">toll</l>
 			<etymology>
 				<etymon type="inher" source="uralic">tule</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd">то̄лл</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -12146,7 +12197,7 @@
 			<book name="200" BEDLAN_ID="*50"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">ELEMENT</sem>
 				<sem class="FOOD">DISH</sem>
@@ -12176,7 +12227,7 @@
 			<tg xml:lang="deu">
 				<t pos="n">Feuer</t>
 			</tg>
-			<xg oahpa="yes" kurss="yes">
+			<xg oahpa="no" kurss="yes">
 				<x type="deriv" pos="v">tollstõõllâd</x>
 				<xtg xml:lang="eng">
 					<xt pos="mwe_v">having a bonfire</xt>
@@ -12220,8 +12271,8 @@
 				<form gloss="gen.sg">tuu</form>
 			</infl>
 			<etymology>
-				<etymon type="xxx" source="uralic">tun ~ tə̑n</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic" variant="tə̑n">tun</etymon>
+				<cognate xml:lang="sjd">то̄нн</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -12229,7 +12280,7 @@
 			<book name="200" BEDLAN_ID="*207"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="HUMAN">PERSON</sem>
 			</semantics>
@@ -12566,21 +12617,21 @@
 		<lg>
 			<l pos="pro">tut</l>
 			<etymology>
-				<etymon type="xxx" source="uralic">to+tɜ</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">to+tɜ</etymon>
+				<cognate xml:lang="sjd">тудт</cognate>
 			</etymology>
 		</lg>
-		<mg>
+		<sources>
+			<book name="kurss" lesson="dict"/>
+			<book name="200" BEDLAN_ID="*168"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SPACE">POSITION</sem>
 			</semantics>
-			<sources>
-				<book name="kurss" lesson="dict"/>
-				<book name="200" BEDLAN_ID="*168"/>
-				<book name="100"/>
-			</sources>
 			<tg xml:lang="rus">
-				<t pos="pro">то</t>
+				<t pos="pro">тот</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="pro">тудт</t>
@@ -12595,27 +12646,23 @@
 				<t pos="pro">jenes</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="pro">det</t>
+				<t pos="pro" stat="pref">det</t>
+				<t pos="mwe_pro">det der</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">dot</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">duot</t>
+				<t pos="pro">dot</t>
+				<t pos="pro">duot</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">dühta</t>
+				<t pos="pro">dühta</t>
 			</tg>
-			<xg oahpa="yes" kurss="yes">
+			<xg oahpa="no" kurss="yes">
 				<x type="infl" pos="pro">tõõzz</x>
 				<xtg xml:lang="fin">
-					<xt pos="xxx">sille</xt>
+					<xt pos="adv">sille</xt>
 				</xtg>
 				<xtg xml:lang="rus">
 					<xt pos="adv">туда</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
 				</xtg>
 			</xg>
 		</mg>
@@ -12841,9 +12888,8 @@
 				<form gloss="loc.sg">täˊst</form>
 			</infl>
 			<etymology>
-				<etymon type="xxx" source="uralic">tä-</etymon>
-				<cognate xml:lang="xxx"/>
-				<note>derivation</note>
+				<etymon type="inher" source="uralic">tä+tɜ</etymon>
+				<cognate xml:lang="sjd">та̄дт</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -12851,21 +12897,19 @@
 			<book name="200" BEDLAN_ID="*174"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SPACE">POSITION</sem>
 				<sem class="SENSE">COGNITION</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="pro" stat="pref">это</t>
 				<t pos="pro">этот</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="pro">tämä</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="pro" stat="pref">denne</t>
-				<t pos="pro" stat="pref">dette</t>
+				<t pos="pro" n="dette">denne</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="pro">та̄дт</t>
@@ -12882,7 +12926,7 @@
 			<tg xml:lang="sju">
 				<t pos="pro">daahta</t>
 			</tg>
-			<xg oahpa="yes" kurss="yes">
+			<xg oahpa="no" kurss="yes">
 				<x type="infl" pos="pro">täˊst</x>
 				<xtg xml:lang="eng">
 					<xt pos="adv">here</xt>
@@ -13155,15 +13199,15 @@
 		<lg>
 			<l pos="n">täˊhtt</l>
 			<etymology>
-				<etymon type="xxx" source="FU?">täktä</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric?">täktä</etymon>
+				<cognate xml:lang="sjd">та̄ххьт</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*17"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="FOOD">NATURE</sem>
@@ -13216,7 +13260,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="n" dial="N">täˊstt</l>
+			<l pos="n" dial="N" stat="dispref">täˊstt</l>
 			<etymology>
 				<etymon type="inher" source="finnovolgaic?">täštä</etymon>
 				<cognate xml:lang="sjd">та̄ссьт</cognate>
@@ -13226,7 +13270,7 @@
 			<book name="200" BEDLAN_ID="*159"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="no">
 			<semantics>
 				<sem class="ENVIR">ELEMENT</sem>
 				<sem class="HUMAN">MYTHOLOGY</sem>
@@ -13262,14 +13306,14 @@
 			<l pos="n">täˊsnn</l>
 			<etymology>
 				<etymon type="inher" source="finnovolgaic?">täštä</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd?">та̄ссьт</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*159"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes" term="ASTROLOGY">
 			<semantics>
 				<sem class="ENVIR">ELEMENT</sem>
 				<sem class="HUMAN">MYTHOLOGY</sem>
@@ -13370,7 +13414,7 @@
 			<l pos="adv">tõˊnt</l>
 			<synonym>tõndiõtt</synonym>
 			<etymology>
-				<etymon type="inher" source="psa">te̮</etymon>
+				<etymon type="inher" source="protosaamic">te̮</etymon>
 				<cognate xml:lang="xxx"/>
 				<note>derivation</note>
 			</etymology>
@@ -13415,7 +13459,7 @@
 			<l pos="adv">tõndiõtt</l>
 			<synonym>tõˊnt</synonym>
 			<etymology>
-				<etymon type="inher" source="psa">te̮</etymon>
+				<etymon type="inher" source="protosaamic">te̮</etymon>
 				<cognate xml:lang="xxx"/>
 				<note>derivation</note>
 			</etymology>
@@ -13459,7 +13503,7 @@
 		<lg>
 			<l pos="con">tõˊnt</l>
 			<etymology>
-				<etymon type="inher" source="psa">te̮</etymon>
+				<etymon type="inher" source="protosaamic">te̮</etymon>
 				<cognate xml:lang="xxx"/>
 				<note>derivation</note>
 			</etymology>
@@ -13640,6 +13684,94 @@
 			</tg>
 		</mg>
 	</e>
+	<e meta="04">
+		<lg>
+			<l pos="n">siõmm</l>
+			<lv variant="orth" source="1991">siõm</lv>
+		</lg>
+		<sources>
+			<book name="kurss" lesson="dict"/>
+			<book name="200" BEDLAN_ID="*147"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes" kurss="yes">
+			<semantics>
+				<sem class="HUMAN">PEOPLE</sem>
+			</semantics>
+			<tg xml:lang="eng">
+				<t pos="a">small</t>
+				<t pos="mwe_n">small one</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="a">pieni</t>
+				<t pos="a" stat="pref">pikkuinen</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="a:attr">маленький</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="a:u" n="litet" pl="små">liten</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="a:attr" m="kleiner" pl="kleine">kleine</t>
+			</tg>
+			<xg oahpa="no">
+				<x type="deriv" pos="n">siõmâž</x>
+				<xtg xml:lang="eng">
+					<xt pos="n">baby</xt>
+				</xtg>
+				<xtg xml:lang="fin">
+					<xt pos="n">vauva</xt>
+				</xtg>
+				<xtg xml:lang="sme">
+					<xt pos="n">njuoratmánná</xt>
+				</xtg>
+			</xg>
+		</mg>
+	</e>
+	<e meta="04">
+		<lg>
+			<l pos="a:pred">smaavâs</l>
+			<der gloss="attr">smaavv</der>
+			<etymology>
+				<etymon type="loan" source="northgermanic?"/>
+				<etymon type="inher" source="protosaamic"/>
+				<cognate xml:lang="swe?">små</cognate>
+				<cognate xml:lang="sme">smávis</cognate>
+			</etymology>
+		</lg>
+		<sources>
+			<book name="kurss" lesson="dict"/>
+			<book name="200" BEDLAN_ID="*147"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes">
+			<semantics>
+				<sem class="SPACE">RELATION</sem>
+			</semantics>
+			<tg xml:lang="eng">
+				<t pos="a">small</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="a:attr">маленький</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="a:u" n="litet" pl="små">liten</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="a">pieni</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="a">smávis</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="a">smàiˈvee</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="a">klein</t>
+			</tg>
+		</mg>
+	</e>
 	<e meta="05">
 		<lg>
 			<l pos="a">uˊcc</l>
@@ -13647,55 +13779,47 @@
 				<form gloss="comp">uuˊccab</form>
 			</deriv>
 			<etymology>
-				<etymon type="xxx" source="psa">uccē</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">uccē</etymon>
+				<cognate xml:lang="sjd">удць</cognate>
 			</etymology>
 		</lg>
-		<mg>
+		<sources>
+			<book name="kurss" lesson="dict"/>
+			<book name="200" BEDLAN_ID="*147"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes">
+			<semantics>
+				<sem class="SPACE">RELATION</sem>
+			</semantics>
 			<tg xml:lang="eng">
-				<t pos="xxx">small</t>
+				<t pos="a">small</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a">маленький</t>
+				<t pos="a:attr">маленький</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a">liten</t>
+				<t pos="a:u" n="litet" pl="små">liten</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="a">удць</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">pieni</t>
+				<t pos="a">pieni</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">uhcci</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">unˈni</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">smávis</t>
+				<t pos="a">uhcci</t>
+				<t pos="a">unˈni</t>
+				<t pos="a">smávis</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">ühtjee</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">ünˈnee</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">smàiˈvee</t>
+				<t pos="a">ühtjee</t>
+				<t pos="a">ünˈnee</t>
+				<t pos="a">smàiˈvee</t>
 			</tg>
 			<tg xml:lang="deu">
 				<t pos="a">klein</t>
 			</tg>
-			<semantics>
-				<sem class="SPACE">RELATION</sem>
-			</semantics>
-			<sources>
-				<book name="kurss" lesson="dict"/>
-				<book name="200" BEDLAN_ID="*147"/>
-				<book name="100"/>
-			</sources>
 		</mg>
 	</e>
 	<e meta="01">
@@ -13758,7 +13882,7 @@
 				<form gloss="3sg.prs">oudd</form>
 			</infl>
 			<etymology>
-				<etymon type="xxx" source="finnougric">amta-</etymon>
+				<etymon type="inher" source="finnougric">amta-</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -13767,13 +13891,16 @@
 			<book name="200" BEDLAN_ID="*63"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="HUMAN">POSSESSION</sem>
 				<sem class="WORK">ECONOMY</sem>
+				<sem class="SENSE">EMOTION</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="v">давать</t>
+				<t pos="v" stat="pref">дать</t>
+				<t pos="v">отдать</t>
+				<t pos="v">раздать</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="v">аннҍтэ</t>
@@ -13785,7 +13912,8 @@
 				<t pos="v">give</t>
 			</tg>
 			<tg xml:lang="deu">
-				<t pos="v">geben</t>
+				<t pos="v" stat="pref">geben</t>
+				<t pos="v">schenken</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="v">gi</t>
@@ -14087,8 +14215,8 @@
 			<l pos="a:pred">viskkâd</l>
 			<der gloss="attr">viˊsǩǩes</der>
 			<etymology>
-				<etymon type="inher" source="psa">viske̮</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">viske̮</etymon>
+				<cognate xml:lang="sme">fiskat</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -14107,13 +14235,13 @@
 				<t pos="a">keltainen</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr">жёлтый</t>
+				<t pos="a:attr" pred="жёлт">жёлтый</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a">gul</t>
+				<t pos="a:u" n="gult" pl="gule">gul</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:pred">руччкэ</t>
+				<t pos="a:attr" pred="руччкэ">руччкесь</t>
 			</tg>
 			<tg xml:lang="deu">
 				<t pos="a">gelb</t>
@@ -14131,8 +14259,8 @@
 			<l pos="a:pred">viõlggâd</l>
 			<der gloss="attr">viõˊlǧǧes</der>
 			<etymology>
-				<etymon type="inher" source="psa?">välke+δä</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic?">välke+δä</etymon>
+				<cognate xml:lang="sjd">вӣллкэ</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -14154,13 +14282,13 @@
 				<t pos="a:attr">белый</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a">hvit</t>
+				<t pos="a:u" n="hvitt" pl="hvite">hvit</t>
 			</tg>
 			<tg xml:lang="deu">
 				<t pos="a">weiß</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:pred">вӣллкэ</t>
+				<t pos="a:attr" pred="вӣллкэ">вӣллькесь</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">vielgat</t>
@@ -14299,8 +14427,8 @@
 				<form gloss="conneg.prs">vuäinnam</form>
 			</infl>
 			<etymology>
-				<etymon type="inher" source="psa">ɔ̄jnē</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">ɔ̄jnē</etymon>
+				<cognate xml:lang="sjd">уййнэ</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -14308,15 +14436,16 @@
 			<book name="200" BEDLAN_ID="*137"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">COGNITION</sem>
 			</semantics>
 			<tg xml:lang="fin">
-				<t pos="xxx">nähdä</t>
+				<t pos="v">nähdä</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">видеть</t>
+				<t pos="v" stat="pref">видеть</t>
+				<t pos="v">замечать</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="v">se</t>
@@ -14345,8 +14474,8 @@
 				<form gloss="nom.sg">vueiˊv</form>
 			</infl>
 			<etymology>
-				<etymon type="xxx" source="uralic">ojwa</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">ojwa</etymon>
+				<cognate xml:lang="sjd">вуэййв</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -14354,7 +14483,7 @@
 			<book name="200" BEDLAN_ID="*71"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="SENSE">PERCEPTION</sem>
@@ -14376,7 +14505,7 @@
 				<t pos="n">hode</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="n">вуеййв</t>
+				<t pos="n">вуэййв</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="n">oaivi</t>
@@ -14545,25 +14674,25 @@
 			<l pos="n">vuäˊǯˈǯ</l>
 			<lv variant="dial" source="1991">vueˊǯˈǯ</lv>
 			<infl>
-				<form gloss="loc.sg">vueˊǯǯest</form>
+				<form gloss="loc.sg">vuäˊǯǯest</form>
 			</infl>
 			<etymology>
-				<etymon type="inher" source="FU?">oća ~ ońća</etymon>
-				<etymon type="inher" source="FV">oća ~ ońća</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric?" variant="ońća">oća</etymon>
+				<etymon type="inher" source="finnovolgaic"/>
+				<cognate xml:lang="sjd">вуэннч</cognate>
 			</etymology>
 		</lg>
-		<mg>
+		<sources>
+			<book name="kurss" lesson="dict"/>
+			<book name="200" BEDLAN_ID="*101"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="FOOD">NATURE</sem>
 				<sem class="FOOD">GROCERY</sem>
 				<sem class="BODY">PART</sem>
 			</semantics>
-			<sources>
-				<book name="kurss" lesson="dict"/>
-				<book name="200" BEDLAN_ID="*101"/>
-				<book name="100"/>
-			</sources>
 			<tg xml:lang="rus">
 				<t pos="n">мясо</t>
 			</tg>
@@ -14583,39 +14712,25 @@
 			<tg xml:lang="deu">
 				<t pos="n">Fleisch</t>
 			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">xxx</t>
-			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">beärˈgoo</t>
+				<t pos="n">beärˈgoo</t>
 			</tg>
-			<xg oahpa="yes" kurss="yes">
-				<note>or lv?</note>
+			<xg oahpa="no" kurss="yes">
 				<x type="infl" pos="n">vueˊǯǯest</x>
 				<xtg xml:lang="fin">
-					<xt pos="xxx">lihasta</xt>
+					<xt pos="n">lihasta</xt>
 				</xtg>
 				<xtg xml:lang="rus">
-					<xt pos="xxx">из мяса</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
+					<xt pos="mwe_n">из мяса</xt>
 				</xtg>
 			</xg>
-			<xg oahpa="yes" kurss="yes">
-				<note>or lv?</note>
-				<x type="compound" pos="n">vueˊǯǯveärr</x>
+			<xg oahpa="no" kurss="yes">
+				<x type="compound" pos="n">vuäˊǯˈǯveärr</x>
 				<xtg xml:lang="fin">
-					<xt pos="xxx">lihakeito</xt>
+					<xt pos="n">lihakeito</xt>
 				</xtg>
 				<xtg xml:lang="rus">
-					<xt pos="xxx">мясный суп</xt>
-				</xtg>
-				<xtg xml:lang="rus">
-					<xt pos="xxx">мясное блюдо</xt>
-				</xtg>
-				<xtg xml:lang="nob">
-					<xt pos="xxx">xxx</xt>
+					<xt pos="mwe_n">мясный суп</xt>
 				</xtg>
 			</xg>
 		</mg>
@@ -14650,25 +14765,25 @@
 			<lv variant="dial" source="1988">vuâˊddes</lv>
 			<etymology>
 				<etymon type="inher" source="finnovolgaic">ontɜ</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd">вуэнҍтэсь</cognate>
 				<note>derivation</note>
 			</etymology>
 		</lg>
-		<mg oahpa="xxx" term="DUODJI">
+		<sources>
+			<book name="200" BEDLAN_ID="*127"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes" term="DUODJI">
 			<semantics>
 				<sem class="BOT">TREE</sem>
 				<sem class="WORK">ECONOMY</sem>
 				<sem class="FOOD">NATURE</sem>
 			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*127"/>
-				<book name="100"/>
-			</sources>
 			<tg xml:lang="rus">
 				<t pos="n">корень</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="n">вуэннҍт</t>
+				<t pos="n">вуэнҍтэсь</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">juuri</t>
@@ -14785,19 +14900,19 @@
 		<lg>
 			<l pos="v">vuẹˊđđed</l>
 			<etymology>
-				<etymon type="xxx" source="finnougric">oδa-</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">oδa-</etymon>
+				<cognate xml:lang="sjd">вуэдтӭ</cognate>
 			</etymology>
 		</lg>
-		<mg>
+		<sources>
+			<book name="200" BEDLAN_ID="*146"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SPACE">POSITION</sem>
 				<sem class="BODY">HEALTH</sem>
 			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*146"/>
-				<book name="100"/>
-			</sources>
 			<tg xml:lang="rus">
 				<t pos="v">спать</t>
 			</tg>
@@ -14817,13 +14932,13 @@
 				<t pos="v">sove</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">oađđit</t>
+				<t pos="v">oađđit</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">nohkkat</t>
+				<t pos="v">nohkkat</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">å̀ddeet</t>
+				<t pos="v">å̀ddeet</t>
 			</tg>
 		</mg>
 	</e>
@@ -15026,12 +15141,16 @@
 	<e meta="04">
 		<lg>
 			<l pos="n">vuõddâs</l>
+			<etymology>
+				<etymon type="inher" source="kolasaamic"/>
+				<cognate xml:lang="sjd">вунтас</cognate>
+			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*133"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">ELEMENT</sem>
 			</semantics>
@@ -15064,17 +15183,21 @@
 	<e meta="05">
 		<lg>
 			<l pos="n">vuõivâs</l>
+			<etymology>
+				<etymon type="inher" source="kolasaamic"/>
+				<cognate xml:lang="sjd">вӯйвас</cognate>
+			</etymology>
 		</lg>
-		<mg>
+		<sources>
+			<book name="200" BEDLAN_ID="*96"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="FOOD">NATURE</sem>
 				<sem class="FOOD">GROCERY</sem>
 			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*96"/>
-				<book name="100"/>
-			</sources>
 			<tg xml:lang="rus">
 				<t pos="n">печень</t>
 			</tg>
@@ -15094,13 +15217,11 @@
 				<t pos="n">lever</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">vuoivvas</t>
+				<t pos="n">vuoivvas</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">ribˈree</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">müeksee</t>
+				<t pos="n">ribˈree</t>
+				<t pos="n">müeksee</t>
 			</tg>
 		</mg>
 	</e>
@@ -15111,8 +15232,8 @@
 				<form gloss="nom.pl">vuõj</form>
 			</infl>
 			<etymology>
-				<etymon type="xxx" source="finnougric">woje</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">woje</etymon>
+				<cognate xml:lang="sjd">вӯйй</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -15120,7 +15241,7 @@
 			<book name="200" BEDLAN_ID="*44"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="FOOD">GROCERY</sem>
 				<sem class="FOOD">NATURE</sem>
@@ -15151,7 +15272,7 @@
 				<t pos="n">büeidee</t>
 			</tg>
 		</mg>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="FOOD">GROCERY</sem>
 				<sem class="FOOD">NATURE</sem>
@@ -15187,15 +15308,45 @@
 		<lg>
 			<l pos="v">vuõjjâd</l>
 			<etymology>
-				<etymon type="xxx" source="uralic">uje-</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">uje-</etymon>
+				<cognate xml:lang="sjd">вӯйе</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*166"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
+			<semantics>
+				<sem class="ENVIR">ELEMENT</sem>
+				<sem class="SPACE">MOTION</sem>
+			</semantics>
+			<tg xml:lang="rus">
+				<t pos="v">плыть</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="v">вӯйе</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">uida</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="v">swim</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="v">schwimmen</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="v">svømme</t>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="v">vuodjat</t>
+			</tg>
+			<tg xml:lang="sju">
+				<t pos="v">vuajjat</t>
+			</tg>
+		</mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="WORK">SPORT</sem>
 				<sem class="SPACE">MOTION</sem>
@@ -15234,34 +15385,33 @@
 				<a dialect="muo" speaker="ZMN" href="xxx/vuoyptt_SKO111210_ZMN.wav"/>
 			</audio>
 			<etymology>
-				<etymon type="xxx" source="uralic">apte</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">apte</etymon>
+				<cognate xml:lang="sjd">вӯппт</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*68"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="n">волос</t>
-				<t pos="n" number="pl">волосы</t>
+				<t pos="n" pl="волосы">волос</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="n">вӯппт</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="n">tukka</t>
+				<t pos="n" stat="pref">tukka</t>
 				<t pos="n">karva</t>
 			</tg>
 			<tg xml:lang="eng">
 				<t pos="n">hair</t>
 			</tg>
 			<tg xml:lang="deu">
-				<t pos="n" stat="pref">Haar</t>
+				<t pos="n" pl="Haare">Haar</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="n">hår</t>
@@ -15492,15 +15642,15 @@
 		<lg>
 			<l pos="n">vääˊrr</l>
 			<etymology>
-				<etymon type="inher" source="psa">vārē</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">vārē</etymon>
+				<cognate xml:lang="sjd">ва̄ррь</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*104"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">TOPONOMY</sem>
 				<sem class="WORK">TRAVEL</sem>
@@ -15540,7 +15690,7 @@
 				<form gloss="imp.sg">vääˊld</form>
 			</infl>
 			<etymology>
-				<etymon type="xxx" source="psa">vāltē-</etymon>
+				<etymon type="xxx" source="protosaamic">vāltē-</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -15629,8 +15779,8 @@
 		<lg>
 			<l pos="v">väˊʒʒed</l>
 			<etymology>
-				<etymon type="xxx" source="finnougric">wanča-</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">wanča-</etymon>
+				<cognate xml:lang="sjd">ва̄ннҍцэ</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -15638,14 +15788,14 @@
 			<book name="200" BEDLAN_ID="*184"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="WORK">ECONOMY</sem>
 				<sem class="SPACE">MOTION</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="v">ходить</t>
 				<t pos="v">идти</t>
+				<tr>пешком</tr>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="v">kävellä</t>
@@ -15700,8 +15850,8 @@
 				<form gloss="loc.pl">võõrâst</form>
 			</infl>
 			<etymology>
-				<etymon type="xxx" source="finnougric">wire</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">wire</etymon>
+				<cognate xml:lang="sjd">вэ̄рр</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -15709,9 +15859,10 @@
 			<book name="200" BEDLAN_ID="*15"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
+				<sem class="BODY">HEALTH</sem>
 				<sem class="FOOD">NATURE</sem>
 			</semantics>
 			<tg xml:lang="fin">
@@ -16105,7 +16256,7 @@
 			<book name="200" BEDLAN_ID="*121"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">WEATHER</sem>
 				<sem class="WORK">TRAVEL</sem>
@@ -16750,7 +16901,7 @@
 			<l pos="n" root="åålm">åålmai</l>
 			<lv variant="dial">ååumai</lv>
 			<etymology>
-				<etymon type="inher" source="psa">e̮lmāj</etymon>
+				<etymon type="inher" source="protosaamic">e̮lmāj</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -16816,7 +16967,7 @@
 			<l pos="n">åål</l>
 			<lv variant="dial">ååum</lv>
 			<etymology>
-				<etymon type="inher" source="psa">olmɔ̄-</etymon>
+				<etymon type="inher" source="protosaamic">olmɔ̄-</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -17024,11 +17175,11 @@
 			<l pos="num">õhtt</l>
 			<audio>
 				<a dialect="muo" speaker="ZMN" href="xxx/yhtt_SKO111211_ZMN_5.wav"/>
-				<a dialect="xxx" speaker="EL" href="xxx/yhtt_SKO111220_EL.wav"/>
+				<a dialect="paa" speaker="EL" href="xxx/yhtt_SKO111220_EL.wav"/>
 			</audio>
 			<etymology>
 				<etymon type="inher" source="finnougric">üke</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd">э̄ххт</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -17036,7 +17187,7 @@
 			<book name="200" BEDLAN_ID="*115"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
@@ -17317,7 +17468,7 @@
 			<book name="200" BEDLAN_ID="*99"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
@@ -17452,9 +17603,10 @@
 	<e meta="04">
 		<lg>
 			<l pos="a">čappâd</l>
+			<der gloss="attr">čaˊppes</der>
 			<etymology>
-				<etymon type="xxx" source="psa">ćāppe̮</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">ćāppe̮</etymon>
+				<cognate xml:lang="sjd">чоаһпэ</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -17466,10 +17618,11 @@
 				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a">чёрный</t>
+				<t pos="a:attr" stat="pref" pred="чёрен">чёрный</t>
+				<t pos="a:attr" pred="тёмен">тёмный</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a">чоаһпэ</t>
+				<t pos="a:attr" pred="чоаһпэ">чоаһпесь</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">musta</t>
@@ -17662,19 +17815,19 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">čuẹǯʼǯad</l>
+			<l pos="v">čuẹǯʼǯad</l>
 			<lv variant="dial">čuâǯˈǯad</lv>
 			<lv variant="dial">čuäǯˈǯad</lv>
 			<etymology>
-				<etymon type="xxx" source="finnougric">saŋća-</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">saŋća-</etymon>
+				<cognate xml:lang="sjd">чуэннче</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*158"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="WORK">TRAVEL</sem>
 				<sem class="SPACE">POSITION</sem>
@@ -17733,15 +17886,15 @@
 		<lg>
 			<l pos="n">čuäˊrvv</l>
 			<etymology>
-				<etymon type="xxx" source="finnougric">śorwa</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">śorwa</etymon>
+				<cognate xml:lang="sjd">чуэррьв</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*78"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ZOO">MAMMAL</sem>
 				<sem class="BODY">PART</sem>
@@ -17878,7 +18031,7 @@
 		<lg>
 			<l pos="n">čââˊđ</l>
 			<etymology>
-				<etymon type="xxx" source="finnougric">śüδä+mɜ</etymon>
+				<etymon type="inher" source="finnougric">śüδä+mɜ</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -17887,11 +18040,11 @@
 			<book name="200" BEDLAN_ID="*73"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="FOOD">NATURE</sem>
-				<sem class="FOOD">GROCERY</sem>
+				<sem class="SENSE">EMOTION</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="n">сердце</t>
@@ -17927,8 +18080,8 @@
 				<a dialect="peä" speaker="KJ" href="xxx/tchayqlmm_SKO111219_KJ_1.wav"/>
 			</audio>
 			<etymology>
-				<etymon type="xxx" source="uralic">śilmä</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic">śilmä</etymon>
+				<cognate xml:lang="sjd">чалльм</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -17936,7 +18089,7 @@
 			<book name="200" BEDLAN_ID="*41"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="SENSE">PERCEPTION</sem>
@@ -17974,7 +18127,7 @@
 				<t pos="n">drop</t>
 			</tg>
 		</mg>
-		<mg>
+		<mg oahpa="no">
 			<tg xml:lang="eng">
 				<t pos="n">grain</t>
 			</tg>
@@ -18069,8 +18222,8 @@
 				<a dialect="peä" speaker="KJ" href="xxx/tchaeaeqcc_SKO111219_KJ_1.wav"/>
 			</audio>
 			<etymology>
-				<etymon type="inher" source="psa">ćācē</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">ćācē</etymon>
+				<cognate xml:lang="sjd">ча̄дць</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -18078,7 +18231,7 @@
 			<book name="200" BEDLAN_ID="*187"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">ELEMENT</sem>
 				<sem class="FOOD">NATURE</sem>
@@ -18115,17 +18268,18 @@
 		<lg>
 			<l pos="n">čåuˊjj</l>
 			<etymology>
-				<etymon type="xxx" source="uralic">ćowja ~ ćojwa</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="uralic" variant="ćojwa">ćowja</etymon>
+				<cognate xml:lang="sjd">чуэййв</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*10"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
+				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="n">живот</t>
@@ -18288,32 +18442,30 @@
 	<e meta="04">
 		<lg>
 			<l pos="a">šiõǥǥ</l>
+			<etymology>
+				<etymon type="inher" source="protosaamic?"/>
+				<cognate xml:lang="sme">šiega</cognate>
+			</etymology>
 		</lg>
-		<mg>
+		<sources>
+			<book name="kurss" lesson="phon"/>
+			<book name="200" BEDLAN_ID="*64"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">EMOTION</sem>
 				<sem class="HUMAN">PEOPLE</sem>
 				<sem class="FOOD">DISH</sem>
 			</semantics>
-			<sources>
-				<book name="kurss" lesson="phon"/>
-				<book name="200" BEDLAN_ID="*64"/>
-				<book name="100"/>
-			</sources>
 			<tg xml:lang="rus">
-				<t pos="attr">хороший</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="attr">отличный</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="attr">превосходный</t>
+				<t pos="a">хороший</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">hyvä</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a" gender="u">god</t>
+				<t pos="a">bra</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="a">шӣг</t>
@@ -18322,14 +18474,14 @@
 				<t pos="a">good</t>
 			</tg>
 			<tg xml:lang="deu">
-				<t pos="pred">gut</t>
+				<t pos="a">gut</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">buorre</t>
+				<t pos="a">buorre</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">büerree</t>
-				<t pos="xxx">buarahka</t>
+				<t pos="a">büerree</t>
+				<t pos="a">buarahka</t>
 			</tg>
 		</mg>
 	</e>
@@ -18477,19 +18629,26 @@
 			<book name="200" BEDLAN_ID="*11"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SPACE">RELATION</sem>
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr">большой</t>
+				<t pos="a" stat="pref">большой</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="a" stat="pref">крупный</t>
+				<t pos="a">огромный</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="a" stat="pref">громадный</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="a">шӯрр</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="a">suuri</t>
+				<t pos="a" stat="pref">suuri</t>
 				<t pos="a">iso</t>
 			</tg>
 			<tg xml:lang="eng">
@@ -18719,15 +18878,15 @@
 		<lg>
 			<l pos="n">ǩeäˊdǧǧ</l>
 			<etymology>
-				<etymon type="xxx" source="psa">kɛ̄δkē</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">kɛ̄δkē</etymon>
+				<cognate xml:lang="sjd">ке̄ддҍк</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*161"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">ELEMENT</sem>
 			</semantics>
@@ -18735,7 +18894,7 @@
 				<t pos="n">камень</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="n">кеддҍк</t>
+				<t pos="n">ке̄ддҍк</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">kivi</t>
@@ -18761,22 +18920,23 @@
 		<lg>
 			<l pos="v">ǩeˊrdded</l>
 			<etymology>
-				<etymon type="xxx" source="FS">kīri-</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnosaamic">kīri-</etymon>
+				<cognate xml:lang="sjd">кыррьтэ</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*56"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ZOO">BIRD</sem>
 				<sem class="SPACE">MOTION</sem>
 				<sem class="WORK">TRAVEL</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="v">летать</t>
+				<t pos="v" stat="pref">летать</t>
+				<t pos="v">лететь</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="v">кыррьтэ</t>
@@ -18914,7 +19074,7 @@
 			<etymology>
 				<etymon type="inher" source="U?">ke</etymon>
 				<etymon type="inher" source="FU">ke</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd">ке̄</cognate>
 			</etymology>
 		</lg>
 		<sources>
@@ -18922,7 +19082,7 @@
 			<book name="200" BEDLAN_ID="*194"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
@@ -19099,7 +19259,7 @@
 			<book name="200" BEDLAN_ID="*69"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 			</semantics>
@@ -19128,7 +19288,7 @@
 				<t pos="n">giahta</t>
 			</tg>
 		</mg>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="WORK">ECONOMY</sem>
@@ -19373,7 +19533,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="pred">ââˊzzteˊm</l>
+			<l pos="a:pred">ââˊzzteˊm</l>
 			<der gloss="attr">ââˊzzteˊmes</der>
 		</lg>
 		<mg>
@@ -19472,35 +19632,39 @@
 		<lg>
 			<l pos="xxx">čeäppat</l>
 			<etymology>
-				<etymon type="xxx" source="finnougric">śepä</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">śepä</etymon>
+				<cognate xml:lang="sjd">ча̄пэх</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*109"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
+				<sem class="BODY">HEALTH</sem>
 			</semantics>
 			<tg xml:lang="eng">
 				<t pos="n">neck</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
+				<t pos="n">шея</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="n">ча̄пэх</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="n">hals</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">kaula</t>
+				<t pos="n">kaula</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">čeabet</t>
+				<t pos="n">čeabet</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">tjiäbòhta</t>
+				<t pos="n">tjiäbòhta</t>
 			</tg>
 		</mg>
 	</e>
@@ -19575,7 +19739,7 @@
 		<lg>
 			<l pos="xxx">čiõkkâd</l>
 			<etymology>
-				<etymon type="xxx" source="FS">śäki-</etymon>
+				<etymon type="xxx" source="finnosaamic">śäki-</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -19645,7 +19809,7 @@
 		<lg>
 			<l pos="xxx">čõõnnâd</l>
 			<etymology>
-				<etymon type="xxx" source="psa">će̮ne̮-</etymon>
+				<etymon type="xxx" source="protosaamic">će̮ne̮-</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -19678,33 +19842,37 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">čuâǥǥas</l>
+			<l pos="n">čuâǥǥas</l>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*126"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">HUMAN</sem>
 			</semantics>
 			<tg xml:lang="eng">
-				<t pos="xxx">road</t>
+				<t pos="n">road</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="n">чуэкас</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
+				<t pos="n">дорога</t>
+				<t pos="n" stat="pref">путь</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="n">vej</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">tie</t>
+				<t pos="n">tie</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">geaidnu</t>
+				<t pos="n">geaidnu</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">viaga</t>
+				<t pos="n">viaga</t>
 			</tg>
 		</mg>
 	</e>
@@ -19740,37 +19908,45 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="attr">čuẹˊcǩes</l>
+			<l pos="a">čuẹˊcǩes</l>
 			<etymology>
-				<etymon type="xxx" source="psa">ćɔ̄ckē</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="protosaamic">ćɔ̄ckē</etymon>
+				<cognate xml:lang="sjd">чуэцькесь</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*24"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="ENVIR">WEATHER</sem>
+				<sem class="WORK">TRAVEL</sem>
 			</semantics>
 			<tg xml:lang="eng">
-				<t pos="xxx">cold</t>
+				<t pos="a">cold</t>
+				<tr>weather</tr>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="a">чуэцькесь</t>
+				<tr>weather</tr>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
+				<t pos="a" stat="pref">прохладный</t>
+				<t pos="a">свежий</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="a">kall</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">kylmä</t>
+				<t pos="a">kylmä</t>
+				<tr>säästä</tr>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">čoaskkis</t>
+				<t pos="a">čoaskkis</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">baaigòi</t>
+				<t pos="a">baaigòi</t>
 			</tg>
 		</mg>
 	</e>
@@ -19847,7 +20023,7 @@
 		<lg>
 			<l pos="xxx">čuõpˈpâd</l>
 			<etymology>
-				<etymon type="xxx" source="FU?">ćappɜ-</etymon>
+				<etymon type="xxx" source="finnougric?">ćappɜ-</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -19911,7 +20087,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="pred">hueˊnn</l>
+			<l pos="a:pred">hueˊnn</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -19923,7 +20099,7 @@
 				<t pos="a">bad</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="pred">плохо</t>
+				<t pos="a:pred">плохо</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
@@ -20192,7 +20368,7 @@
 		<lg>
 			<l pos="adv">jåhtta</l>
 			<etymology>
-				<etymon type="xxx" source="FS">ektɤ̈-</etymon>
+				<etymon type="xxx" source="finnosaamic">ektɤ̈-</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -20227,7 +20403,7 @@
 		<lg>
 			<l pos="xxx">jåårǥled</l>
 			<etymology>
-				<etymon type="xxx" source="psa">jorke̮-lē ~ jork-ēhtē-</etymon>
+				<etymon type="xxx" source="protosaamic">jorke̮-lē ~ jork-ēhtē-</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -20359,37 +20535,43 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">ǩeäinn</l>
+			<l pos="n">ǩeäinn</l>
 			<etymology>
 				<etymon type="loan" source="finnic"/>
+				<etymon type="inher" source="protosaamic"/>
 				<cognate xml:lang="fin">keino</cognate>
+				<cognate xml:lang="sjd">кя̄ййн</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*126"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="WORK">TRAVEL</sem>
+				<sem class="ENVIR">HUMAN</sem>
 			</semantics>
 			<tg xml:lang="eng">
-				<t pos="xxx">road</t>
+				<t pos="n">road</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
+				<t pos="n">дорога</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="n">vej</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">tie</t>
+				<t pos="n">tie</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="n">кя̄ййн</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">geaidnu</t>
+				<t pos="n">geaidnu</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">viaga</t>
+				<t pos="n">viaga</t>
 			</tg>
 		</mg>
 	</e>
@@ -20428,7 +20610,7 @@
 		<lg>
 			<l pos="xxx">ǩiẹˊssed</l>
 			<etymology>
-				<etymon type="xxx" source="psa">kɛ̄sē-</etymon>
+				<etymon type="xxx" source="protosaamic">kɛ̄sē-</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -20498,7 +20680,7 @@
 		<lg>
 			<l pos="xxx">kõččâd</l>
 			<etymology>
-				<etymon type="xxx" source="psa">ke̮ćće̮</etymon>
+				<etymon type="xxx" source="protosaamic">ke̮ćće̮</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -20631,14 +20813,14 @@
 			<l pos="n">kõrr</l>
 			<etymology>
 				<etymon type="inher" source="finnougric">kere</etymon>
-				<cognate xml:lang="xxx"/>
+				<cognate xml:lang="sjd">кэ̄рр</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*8"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BOT">TREE</sem>
 				<sem class="FOOD">NATURE</sem>
@@ -20646,14 +20828,36 @@
 			<tg xml:lang="eng">
 				<t pos="n">bark</t>
 			</tg>
+			<tg xml:lang="eng">
+				<t pos="n">skin</t>
+				<tr>fruit or vegetable</tr>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="n">кэ̄рр</t>
+			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
+				<t pos="n" stat="pref">кора</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="n" stat="dispref">корка</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="n" stat="dispref">скорлупа</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="n">bark</t>
+				<t pos="n" stat="pref">bark</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="n">skorpe</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="n">Rinde</t>
+				<t pos="n" stat="pref">Schale</t>
+				<t pos="n">Kruste</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="n">kaarna</t>
+				<t pos="n">kuori</t>
+				<t pos="n" stat="pref">kaarna</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="n">garra</t>
@@ -20815,7 +21019,7 @@
 		<lg>
 			<l pos="adv">kuˊǩǩen</l>
 			<etymology>
-				<etymon type="xxx" source="psa">kuhkē</etymon>
+				<etymon type="xxx" source="protosaamic">kuhkē</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -20988,7 +21192,7 @@
 		<lg>
 			<l pos="adv">kuäˊss</l>
 			<etymology>
-				<etymon type="xxx" source="FS">ko+nsa</etymon>
+				<etymon type="xxx" source="finnosaamic">ko+nsa</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -21238,64 +21442,80 @@
 	<e meta="05">
 		<lg>
 			<l pos="xxx">lieˊnˈnjsted</l>
+			<etymology>
+				<etymon type="inher" source="eastsaamic?"/>
+				<cognate xml:lang="smn">leännjuđ</cognate>
+				<cognate xml:lang="rus?">лениться</cognate>
+			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*94"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
-				<sem class="xxx"/>
+				<sem class="SPACE">POSITION</sem>
+				<sem class="BODY">HEALTH</sem>
 			</semantics>
 			<tg xml:lang="eng">
-				<t pos="xxx">lie down</t>
+				<t pos="v" stat="pref">lie</t>
+				<t pos="mwe_v">lie down</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
+				<t pos="v">лежать</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="v" stat="pref">ligge</t>
+				<t pos="mwe_v">ligge ner</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">maata</t>
+				<t pos="v">maata</t>
+			</tg>
+			<tg xml:lang="smn">
+				<t pos="v">leännjuđ</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">vealˈlát</t>
+				<t pos="v">vealˈlát</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">veälˈlàhit</t>
+				<t pos="v">veälˈlàhit</t>
 			</tg>
 		</mg>
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">liõggâs</l>
+			<l pos="a:pred">liõggâs</l>
+			<der gloss="attr">liōgˈg</der>
+			<etymology>
+				<etymon type="inher" source="protosaamic">lēŋke̮</etymon>
+				<cognate xml:lang="sjd" pos="v">лӣӈӈькье</cognate>
+			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*185"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
 			<tg xml:lang="eng">
-				<t pos="xxx">warm</t>
+				<t pos="a">warm</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
+				<t pos="a">тёплый</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="a">varm</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">lämmin</t>
+				<t pos="a">lämmin</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">liekkas</t>
+				<t pos="a">liekkas</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">bìvvala</t>
+				<t pos="a">bìvvala</t>
 			</tg>
 		</mg>
 	</e>
@@ -21303,7 +21523,7 @@
 		<lg>
 			<l pos="xxx">lossâd</l>
 			<etymology>
-				<etymon type="xxx" source="psa">losē</etymon>
+				<etymon type="xxx" source="protosaamic">losē</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -21373,7 +21593,7 @@
 		<lg>
 			<l pos="xxx">luõˊdˈdjed</l>
 			<etymology>
-				<etymon type="xxx" source="psa">lōntɔ̄-</etymon>
+				<etymon type="xxx" source="protosaamic">lōntɔ̄-</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -21475,7 +21695,7 @@
 		<lg>
 			<l pos="v">maaˊlˈjed</l>
 			<etymology>
-				<etymon type="loan" source="Scand?"/>
+				<etymon type="loan" source="northgermanic?"/>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -21657,7 +21877,7 @@
 		<lg>
 			<l pos="xxx">muõtt</l>
 			<etymology>
-				<etymon type="xxx" source="FS">matta-</etymon>
+				<etymon type="xxx" source="finnosaamic">matta-</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -21935,7 +22155,7 @@
 		<lg>
 			<l pos="xxx">nuˊbb</l>
 			<etymology>
-				<etymon type="xxx" source="psa">mu+mpē</etymon>
+				<etymon type="xxx" source="protosaamic">mu+mpē</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -21988,7 +22208,7 @@
 		<lg>
 			<l pos="xxx">nääˊpp</l>
 			<etymology>
-				<etymon type="xxx" source="psa">nāpē</etymon>
+				<etymon type="xxx" source="protosaamic">nāpē</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -22159,7 +22379,7 @@
 		<lg>
 			<l pos="xxx">piõgˈg</l>
 			<etymology>
-				<etymon type="xxx" source="psa">pēŋke̮</etymon>
+				<etymon type="xxx" source="protosaamic">pēŋke̮</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -22263,37 +22483,38 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">pueˊrr</l>
+			<l pos="a">pueˊrr</l>
 			<etymology>
-				<etymon type="xxx" source="finnopermic">para</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnopermic">para</etymon>
+				<cognate xml:lang="sjd" pos="adv">пуэраст</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*64"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="xxx"/>
 			</semantics>
 			<tg xml:lang="eng">
-				<t pos="xxx">good</t>
+				<t pos="a">good</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
+				<t pos="a">хороший</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="a">god</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">hyvä</t>
+				<t pos="a">hyvä</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="xxx">buorre</t>
+				<t pos="a">buorre</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="xxx">büerree, buarahka</t>
+				<t pos="a">büerree</t>
+				<t pos="a">buarahka</t>
 			</tg>
 		</mg>
 	</e>
@@ -22302,35 +22523,46 @@
 			<l pos="n">pueiˊdd</l>
 			<lv variant="dial" source="1991">puõiˊdd</lv>
 			<etymology>
-				<etymon type="inher" source="FS?">pajta</etymon>
-				<etymon type="inher" source="S">xxx</etymon>
+				<etymon type="inher" source="finnosaamic?">pajta</etymon>
+				<etymon type="inher" source="protosaamic"/>
 				<cognate xml:lang="sme">buoidi</cognate>
+				<cognate xml:lang="sjd">пӯййт</cognate>
 			</etymology>
 		</lg>
-		<mg>
+		<sources>
+			<book name="200" BEDLAN_ID="*44"/>
+			<book name="100"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="FOOD">DISH</sem>
 				<sem class="FOOD">NATURE</sem>
 			</semantics>
-			<sources>
-				<book name="200" BEDLAN_ID="*44"/>
-				<book name="100"/>
-			</sources>
 			<tg xml:lang="eng">
-				<t pos="n">fat</t>
+				<t pos="n" stat="pref">fat</t>
 				<t pos="n">grease</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
+				<t pos="n">жир</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="n" stat="pref">сало</t>
+				<t>копчёное</t>
+			</tg>
+			<tg xml:lang="deu">
+				<t pos="n">Fett</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="n" stat="pref">Speck</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n" stat="pref">rasva</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n" state="dispref">pinta</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="n">пӯййт</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="n">buoidi</t>
@@ -22339,20 +22571,14 @@
 				<t pos="n">vuajja</t>
 			</tg>
 		</mg>
-		<mg>
+		<mg oahpa="no">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="FOOD">NATURE</sem>
 				<sem class="ANIMAL">REINDEER</sem>
 			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
 			<tg xml:lang="eng">
 				<t pos="n">suet</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="n">ister</t>
@@ -22401,15 +22627,15 @@
 		<lg>
 			<l pos="n">pääˊnn</l>
 			<etymology>
-				<etymon type="xxx" source="finnougric">piŋe</etymon>
-				<cognate xml:lang="xxx"/>
+				<etymon type="inher" source="finnougric">piŋe</etymon>
+				<cognate xml:lang="sjd">па̄ннҍ</cognate>
 			</etymology>
 		</lg>
 		<sources>
 			<book name="200" BEDLAN_ID="*179"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="BODY">PART</sem>
 				<sem class="FOOD">DISH</sem>
@@ -22418,13 +22644,16 @@
 				<t pos="n">tooth</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
+				<t pos="n">зуб</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="n">tann</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">hammas</t>
+			</tg>
+			<tg xml:lang="sjd">
+				<t pos="n">па̄ннҍ</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="n">bátni</t>
@@ -22638,7 +22867,7 @@
 		<lg>
 			<l pos="xxx">ruˊvvjed</l>
 			<etymology>
-				<etymon type="xxx" source="psa">ruvije̮-</etymon>
+				<etymon type="xxx" source="protosaamic">ruvije̮-</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -22741,7 +22970,7 @@
 		<lg>
 			<l pos="xxx">rääˊss</l>
 			<etymology>
-				<etymon type="xxx" source="psa">rāsē</etymon>
+				<etymon type="xxx" source="protosaamic">rāsē</etymon>
 				<cognate xml:lang="xxx"/>
 				<note>Loan from Scand, cf. Sw "gräs"</note>
 			</etymology>
@@ -23130,7 +23359,7 @@
 			<l pos="n">sõõus</l>
 			<etymology>
 				<etymon type="inher" source="finnosaamic">ševšem</etymon>
-				<etymon type="inher" source="saamic">se̮vse̮m</etymon>
+				<etymon type="inher" source="protosaamic">se̮vse̮m</etymon>
 				<cognate xml:lang="fin">höyhen</cognate>
 			</etymology>
 		</lg>
@@ -23138,7 +23367,7 @@
 			<book name="200" BEDLAN_ID="*68"/>
 			<book name="100"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ZOO">MAMMAL</sem>
 				<sem class="WORK">ECONOMY</sem>
@@ -23266,7 +23495,7 @@
 		<lg>
 			<l pos="xxx">suäjj</l>
 			<etymology>
-				<etymon type="xxx" source="psa">sɔ̄jē</etymon>
+				<etymon type="xxx" source="protosaamic">sɔ̄jē</etymon>
 				<cognate xml:lang="xxx"/>
 			</etymology>
 		</lg>
@@ -23301,7 +23530,7 @@
 		<lg>
 			<l pos="xxx">säˊltt</l>
 			<etymology>
-				<etymon type="loan" source="scand"/>
+				<etymon type="loan" source="northgermanic"/>
 				<cognate xml:lang="swe">salt</cognate>
 			</etymology>
 		</lg>
@@ -23332,7 +23561,7 @@
 				<t pos="n">sàlltee</t>
 			</tg>
 			<xg>
-				<x type="der" pos="a">säˊlttai</x>
+				<x type="deriv" pos="a">säˊlttai</x>
 				<xtg xml:lang="eng">
 					<xt pos="a">salty</xt>
 				</xtg>
@@ -23414,43 +23643,6 @@
 			<sources>
 				<book name="200" BEDLAN_ID="206"/>
 			</sources>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
-			<l pos="xxx">tiudd</l>
-			<etymology>
-				<etymon type="xxx" source="xxx"/>
-				<cognate xml:lang="xxx"/>
-				<note>Possibly loan from BF *täysi, täyte- (cogn_id 73)</note>
-			</etymology>
-		</lg>
-		<sources>
-			<book name="200" BEDLAN_ID="*62"/>
-			<book name="100"/>
-		</sources>
-		<mg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
-			<tg xml:lang="eng">
-				<t pos="xxx">full</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">täysi</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="xxx">dievva</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="xxx">diävas</t>
-			</tg>
 		</mg>
 	</e>
 	<e meta="05">
@@ -23701,7 +23893,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="pred">vuõiggâd</l>
+			<l pos="a:pred">vuõiggâd</l>
 			<der gloss="attr">vuõiǥâs</der>
 			<etymology>
 				<etymon type="inher" source="finnovolgaic">wojke</etymon>
