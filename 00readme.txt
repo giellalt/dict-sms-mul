@@ -5,6 +5,25 @@ Documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
 Incoming raw files go into inc/
 
 =====
+TODO
+=====
+
+* <lg>
+** find a systematic and consistent way for handling variants (dial and orth) 
+** find a systematic and consistent way for handling audiofiles
+* <variants>
+** resolve the preliminary tagging of what was called "synonyms"
+* <mg>
+** for all entries from "term", "kurss", "200", "100" complete <semantics>, and <tg> in eng, rus, nob, fin
+* check consistency of adjective entries:
+** <l> with pred, attr under <der>?
+** pos-tagging: as "a", "a:attr", "a:pred"?
+* write better documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
+* fill in all xxx's
+* check <t> vs. <tg> vs. <mg>
+* check <tr> <te>
+
+=====
 Preliminary conventions: Skolt Sami apostrophes
 =====
 Conventions used preliminary for the present file by M.Rießler (like the xfst). Note that KOTUS standardized U+00B4 ACUTE ACCENT as the Skolt Saami Palatalization (http://scripta.kotus.fi/www/verkkojulkaisut/julk6/Omin_sanoin.pdf). However, Skolt Saami writers in Sevettijärvi seem not to follow this standard today, but use the modifier letter Prime.
@@ -80,39 +99,43 @@ on the e-element in the xml files:
 =====
 Oahpa!-nuõrti
 =====
-The next generation of smsoahpa will include all entries tagged with
-* book="kurss" - a textbook
-* book="term" - smaller terminological and other sets (placenames, personnames, months, weekdays, pronouns, etc.)
+The planned next version of smsoahpa will include all entries tagged with
 * book="200" - basic semantic meanings (~100 items)
 * book="100" - basic semantic meanings (~200 items)
+The planned overnext version of smsoahpa will include all entries tagged with
+* book="kurss" - a textbook in Finnish, currently being translated into Russian and Norwegian
 
-For later versions of smsoahpa we will work with other textbooks (which is the original idea of Oahpa!) and can remove the other word lists.
+Later we will of course work with more textbooks. We will then decide whether or not to remove the two basic word lists.
 
-=====
-TODO
-=====
+Here a few conventions for compiling the current database (sms_common.xml) into Oahpa!
 
-urgent TODO's in order to compile new smsoahpa/smsdict
-* clean <l>
-** expressions which are not lemmata
-** search for , ~ etc. in <l>
-** complete pos
-* <lg>
-** find a systematic and consistent way for handling variants (dial and orth) 
-** find a systematic and consistent way for handling audiofiles
-* <variants>
-** resolve the preliminary tagging of what was called "synonyms"
-* <mg>
-** for all entries from "term", "kurss", "200", "100" complete <semantics>, and <tg> in eng, rus, nob, fin
-* check consistency of adjective entries:
-** <l> with pred, attr under <der>?
-** pos-tagging: as "a", "a:attr", "a:pred"?
+Previous entries in Oahpa!-nuōrti should be overwritten by the current ones.
 
-Other TODO's 
-* write better documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
-* fill in all xxx's
-* check <t> vs. <tg> vs. <mg>
-* check <tr> <te> (what exactly does it mean?)
+Entries to convert for the new version:
+* LEKSA: <book name="100"> if <mg oahpa="yes">
+* Placenames (in LEKSA): <l pos="pn" class="place"> if <mg oahpa="yes">
+
+Semantic sets for the new version:
+* HUMAN "Menneske"
+* SPACE "Rom"
+* BODY "Kropp"
+* SENSE "Egenskap, mengd, sinne"
+* HOUSE "Hus"
+* WORK "Arbeid og fritid"
+* TIME "Tid"
+* ZOO "Djur"
+* BOT "Plant"
+* FOOD "Mat og drikk"
+* ENVIR "Verld"
+For now we use only semantic these supersets. Two sets (LANG "Språk" and CLOTH "Klær") are still excluded because we have not enough entries yet.
+
+A few more conventions:
+* Accepted but not recommended entries are
+** dialectal variants of sms lemmata (like <lv variant="dial" source="1991">kueˊhtt</lv>)
+** diminutive and attributive derivations of sms-lemmata (like _piânˈnǥaž_ tagged as <der gloss="dim">piânˈnǥaž</der> or _jorbb_ tagged as <der gloss="attr">jorbb</der>)
+** inflected forms of translations (like _длинен_ tagged as <t pos="a:attr" pred="длинен">длинный</t> or _tørt, tørre_ tagged as <t pos="a:utr" n="tørt" pl="tørre">tørr</t>)
+
+
 
 =====
 Pronouns
