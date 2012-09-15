@@ -98,275 +98,330 @@
 				<a dialect="peä" speaker="KJ" href="xxx/Aanar_SKO111219_KJ_2.wav"/>
 			</audio>
 		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="pn">Inari</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pn">Inari</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="pn">Инари</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="pn">Enare</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="pn">Anár</t>
-			</tg>
+		<sources>
+			<book name="kurss" lesson="phon"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
-			<sources>
-				<book name="kurss" lesson="phon"/>
-			</sources>
+			<tg xml:lang="eng">
+				<t pos="pn">Inari</t>
+				<te>village</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Inari</t>
+				<te>kylä</te>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Инари</t>
+				<te>посёлок</te>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Enare</t>
+				<te>landsby</te>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Anár</t>
+				<te>siida</te>
+			</tg>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
 			<l pos="pn" class="place">Njauddâm</l>
 		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="pn">Neiden</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pn">Näätämö</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="pn">Нейден</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="pn">Neiden</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="pn">Njávdán</t>
-			</tg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
+			<tg xml:lang="eng">
+				<t pos="pn">Neiden</t>
+				<te>village</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Näätämö</t>
+				<te>kylä</te>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Нейден</t>
+				<te>посёлок</te>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Neiden</t>
+				<te>landsby</te>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Njávdán</t>
+				<te>siida</te>
+			</tg>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
 			<l pos="pn" class="place">Paaččjokk</l>
 		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="pn">Paatsjoki</t>
-				<t pos="pn">Pasvik</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pn">Paatsjoki</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="pn">Пазрека</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="pn">Pasvik</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="pn">Báhcaveadji</t>
-			</tg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
-		</mg>
-		<mg>
 			<tg xml:lang="eng">
 				<t pos="pn">Paatsjoki</t>
-				<t pos="pn">Pasvikelva</t>
+				<t pos="pn" stat="pref">Pasvik</t>
+				<te>village</te>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="pn">Paatsjoki</t>
+				<te>kylä</te>
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="pn">Пазрека</t>
+				<te>посёлок</te>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="pn">Pasvikelva</t>
+				<t pos="pn">Pasvik</t>
+				<te>landsby</te>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="pn">xxx</t>
+				<t pos="pn">Báhcaveadji</t>
+				<te>siida</te>
 			</tg>
+		</mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
+			<tg xml:lang="eng">
+				<t pos="pn">Paatsjoki</t>
+				<t pos="pn" stat="pref">Pasvikelva</t>
+				<te>river</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Paatsjoki</t>
+				<te>joki</te>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Паз</t>
+				<te>река</te>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Pasvikelva</t>
+				<te>elv</te>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Báhčeveaijohka</t>
+				<te>johka</te>
+			</tg>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
 			<l pos="pn" class="place">Peäcˈcam</l>
 		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="pn">Petsamo</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pn">Petsamo</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="pn">Печенга</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="pn">Peisen</t>
-				<t pos="pn">Petsjenga</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="pn">Beahccam</t>
-			</tg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
+			<tg xml:lang="eng">
+				<t pos="pn">Petsamo</t>
+				<te>village</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Petsamo</t>
+				<te>kylä</te>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Печенга</t>
+				<te>посёлок</te>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Peisen</t>
+				<t pos="pn" stat="pref">Petsjenga</t>
+				<te>landsby</te>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Beahccam</t>
+				<te>siida</te>
+			</tg>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
 			<l pos="pn" class="place">Suõˊnnˈjel</l>
 		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="pn">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pn">Suonikylä</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="pn">Сонгельск</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="pn">Suenjel</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="pn">Suonjil</t>
-			</tg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
+			<tg xml:lang="eng">
+				<t pos="pn">Suonikylä</t>
+				<te>village</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Suonikylä</t>
+				<te>kylä</te>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Сонгельск</t>
+				<te>посёлок</te>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Suenjel</t>
+				<te>landsby</te>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Suonjil</t>
+				<te>siida</te>
+			</tg>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
 			<l pos="pn" class="place">Mueˊtǩǩ</l>
 		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="pn">Motka</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pn">Muotka</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="pn">Мотка</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="pn">Muotka</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="pn">Muotki</t>
-			</tg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
+			<tg xml:lang="eng">
+				<t pos="pn">Motka</t>
+				<te>village</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Muotka</t>
+				<te>kylä</te>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Мотка</t>
+				<te>посёлок</te>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Muotka</t>
+				<te>landsby</te>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Muotki</t>
+				<te>siida</te>
+			</tg>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
 			<l pos="pn" class="place">Nuõˊttjäuˊrr</l>
 		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="pn">Notozero</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pn">Nuortijärvi</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="pn">Нотозеро</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="pn">Nøttiager</t>
-				<t pos="pn">Notozero</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="pn">Nuohttejávri</t>
-			</tg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
-		</mg>
-		<mg>
 			<tg xml:lang="eng">
 				<t pos="pn">Notozero</t>
+				<te>village</te>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="pn">Nuortijärvi</t>
+				<te>kylä</te>
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="pn">Нотозеро</t>
+				<te>посёлок</te>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="pn">Nøttiager</t>
-				<t pos="pn">Notozero</t>
+				<t pos="pn" stat="pref">Notozero</t>
+				<te>landsby</te>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="pn">Nuohttejávri</t>
+				<te>siida</te>
 			</tg>
+		</mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
+			<tg xml:lang="eng">
+				<t pos="pn">Notozero</t>
+				<te>lake</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Nuortijärvi</t>
+				<te>järvi</te>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Нотозеро</t>
+				<te>озеро</te>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Nøttiager</t>
+				<t pos="pn" stat="pref">Notozero</t>
+				<te>sjø</te>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Nuohttejávri</t>
+				<te>jávri</te>
+			</tg>
 		</mg>
 	</e>
 	<e meta="04">
 		<lg>
 			<l pos="pn" class="place">Sââˊrvesjäuˊrr</l>
 		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="pn">Girvasozero</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pn">Hirvasjärvi</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="pn">Гирвасозеро</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="pn">Girvasozero</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="pn">Sárvesjávri</t>
-			</tg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
-		</mg>
-		<mg>
 			<tg xml:lang="eng">
 				<t pos="pn">Girvasozero</t>
+				<te>village</te>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="pn">Hirvasjärvi</t>
+				<te>kylä</te>
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="pn">Гирвасозеро</t>
+				<te>посёлок</te>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="pn">Girvasozero</t>
+				<te>landsby</te>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="pn">Sárvesjávri</t>
+				<te>siida</te>
 			</tg>
+		</mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
+			<tg xml:lang="eng">
+				<t pos="pn">Girvasozero</t>
+				<te>lake</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Hirvasjärvi</t>
+				<te>järvi</te>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Гирвасозеро</t>
+				<te>озеро</te>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Girvasozero</t>
+				<te>sjø</te>
+		</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Sárvesjávri</t>
+				<te>jávri</te>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
 		<lg>
 			<l pos="pn" class="oevre">Biblija</l>
 		</lg>
-		<mg>
+		<mg oahpa="no">
 			<tg xml:lang="eng">
 				<t pos="pn">Bible</t>
 				<te>the Holy Bible</te>
@@ -395,7 +450,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn" nameclass="person" gender="m">Evvan</l>
+			<l pos="pn" class="person" gender="m">Evvan</l>
 		</lg>
 		<mg>
 			<tg xml:lang="rus">
@@ -425,56 +480,60 @@
 		<lg>
 			<l pos="pn" class="place">Luujäuˊrr</l>
 		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="pn">Ловозеро</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="pn">Lovozero</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pn">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="pn">Lovozero</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="pn">xxx</t>
-			</tg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
-		</mg>
-		<mg>
 			<tg xml:lang="rus">
 				<t pos="pn">Ловозеро</t>
+				<te>посёлок</te>
 			</tg>
 			<tg xml:lang="eng">
 				<t pos="pn">Lovozero</t>
+				<te>village</te>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="pn">xxx</t>
+				<t pos="pn">Luujärvi</t>
+				<te>kylä</te>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="pn">Lovozero</t>
+				<te>landsby</te>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="pn">xxx</t>
+				<t pos="pn">Lujávri</t>
+				<te>siida</te>
 			</tg>
+		</mg>
+		<mg>
 			<semantics>
 				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
+			<tg xml:lang="rus">
+				<t pos="pn">Ловозеро</t>
+				<te>озеро</te>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="pn">Lovozero</t>
+				<te>lake</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Luujärvi</t>
+				<te>järvi</te>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Lovozero</t>
+				<te>sjõ</te>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Lujávri</t>
+				<te>jávri</te>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn" nameclass="person" gender="fem">Mäˊrjj</l>
+			<l pos="pn" class="person" gender="fem">Mäˊrjj</l>
 			<infl>
 				<form gloss="nom.pl">Määˊrj</form>
 			</infl>
@@ -504,31 +563,34 @@
 		<lg>
 			<l pos="pn" class="place">Njeˊǯǯjäuˊrr</l>
 		</lg>
-		<mg>
+		<sources>
+			<book name="kurss" lesson="phon"/>
+		</sources>
+		<mg oahpa="yes">
+			<semantics>
+				<sem class="ENVIR">TOPONOMY</sem>
+			</semantics>
 			<tg xml:lang="rus">
 				<t pos="pn">Нитсиярви</t>
 				<te>озеро</te>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="xxx">xxx</t>
+				<t pos="pn">Nitsijärvi</t>
+				<te>järvi</te>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="pn">Nitsijärvi</t>
+				<te>sjø</te>
 			</tg>
 			<tg xml:lang="eng">
-				<t pos="xxx">xxx</t>
+				<t pos="pn">Nitsijärvi</t>
+				<te>lake</te>
 			</tg>
-			<semantics>
-				<sem class="ENVIR">TOPONOMY</sem>
-			</semantics>
-			<sources>
-				<book name="kurss" lesson="phon"/>
-			</sources>
 		</mg>
 	</e>
 	<e meta="01">
 		<lg>
-			<l pos="pn" nameclass="person" gender="fem">Såff</l>
+			<l pos="pn" class="person" gender="fem">Såff</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -545,15 +607,15 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn" class="nation">Taarr</l>
+			<l pos="pn" class="place">Taarr</l>
 			<infl>
 				<form gloss="ill.sg">Taˊrre</form>
 			</infl>
 		</lg>
-		<mg>
-			<sources>
-				<book name="kurss" lesson="dict"/>
-			</sources>
+		<sources>
+			<book name="kurss" lesson="dict"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
@@ -575,44 +637,60 @@
 		<lg>
 			<l pos="pn" class="place">Uccjokk</l>
 		</lg>
-		<mg>
-			<tg xml:lang="eng">
-				<t pos="pn">Utsjoki</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pn">Utsjoki</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="pn">Utsjoki</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="pn">Ohcejohka</t>
-			</tg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
-		</mg>
-		<mg>
 			<tg xml:lang="eng">
 				<t pos="pn">Utsjoki</t>
+				<te>village</te>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Утсйоки</t>
+				<te>посёлок</te>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="pn">Utsjoki</t>
+				<te>kylä</te>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="pn">Utsjoki</t>
+				<te>landsby</te>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="pn">Ohcejohka</t>
+				<te>siida</te>
 			</tg>
+		</mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">TOPONOMY</sem>
 			</semantics>
+			<tg xml:lang="eng">
+				<t pos="pn">Utsjoki</t>
+				<te>river</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Utsjoki</t>
+				<te>joki</te>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Утсйоки</t>
+				<te>река</te>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Utsjoki</t>
+				<te>elv</te>
+			</tg>
+			<tg xml:lang="sme">
+				<t pos="pn">Ohcejohka</t>
+				<te>johka</te>
+			</tg>
 		</mg>
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn" nameclass="person" gender="m">Väˊsǩǩ</l>
+			<l pos="pn" class="person" gender="m">Väˊsǩǩ</l>
 		</lg>
 		<mg>
 			<sources>
@@ -2748,7 +2826,7 @@
 		</mg>
 		<mg oahpa="no" term="ASTROLOGY">
 			<semantics>
-				<sem class="xxx">xxx</sem>
+				<sem class="ENVIR">ELEMENTS</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="pn">Земля</t>
@@ -7525,30 +7603,33 @@
 		<lg>
 			<l pos="pn" class="place">Njeäˊlˈlem</l>
 		</lg>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
-			<sources>
-				<book name="xxx"/>
-			</sources>
 			<tg xml:lang="eng">
 				<t pos="pn">Nellim</t>
+				<te>village</te>
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="pn">Неллим</t>
+				<te>посёлок</te>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="pn">Nellim</t>
+				<te>kylä</te>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="pn">Nellim</t>
+				<te>landsby</te>
 			</tg>
 			<tg xml:lang="smn">
 				<t pos="pn">Njellim</t>
+				<te>siida</te>
 			</tg>
 			<tg xml:lang="smе">
 				<t pos="pn">Nellim</t>
+				<te>siida</te>
 			</tg>
 		</mg>
 	</e>
@@ -16004,33 +16085,38 @@
 		<lg>
 			<l pos="pn" class="place">Âˊvvel</l>
 		</lg>
-		<mg>
+		<sources>
+			<book name="kurss" lesson="phon"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
-			<sources>
-				<book name="kurss" lesson="phon"/>
-			</sources>
 			<tg xml:lang="rus">
 				<t pos="pn">Ивало</t>
+				<te>город</te>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="pn">Ivalo</t>
+				<te>kaupunki</te>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="pn">Ivalo</t>
+				<te>by</te>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="pn">Avvil</t>
+				<te>gávpot</te>
 			</tg>
 			<tg xml:lang="eng">
 				<t pos="pn">Ivalo</t>
+				<te>town</te>
 			</tg>
 		</mg>
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn" nameclass="person" gender="fem">Äännaž</l>
+			<l pos="pn" class="person" gender="fem">Äännaž</l>
 			<infl>
 				<form gloss="xxx">Äännže</form>
 			</infl>
@@ -16055,7 +16141,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="pn" nameclass="person" gender="fem">Äˊnn</l>
+			<l pos="pn" class="person" gender="fem">Äˊnn</l>
 		</lg>
 		<mg>
 			<sources>
@@ -17515,49 +17601,50 @@
 				<form gloss="gen.sg">Čeˊvetjääuˊr</form>
 			</infl>
 		</lg>
-		<mg>
-			<tg xml:lang="rus">
-				<t pos="pn">Севеттиярви</t>
-				<te>село</te>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pn">Sevettijärvi</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="pn">Sevettijärvi</t>
-			</tg>
-			<tg xml:lang="eng">
-				<t pos="pn">Sevettijärvi</t>
-				<te>lake</te>
-			</tg>
+		<sources>
+			<book name="kurss" lesson="1"/>
+		</sources>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
-			<sources>
-				<book name="kurss" lesson="1"/>
-			</sources>
+			<tg xml:lang="rus">
+				<t pos="pn">Севеттиярви</t>
+				<te>посёлок</te>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="pn">Sevettijärvi</t>
+				<te>kylä</te>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn">Sevettijärvi</t>
+				<te>landsby</te>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="pn">Sevettijärvi</t>
+				<te>village</te>
+			</tg>
 		</mg>
-		<mg>
+		<mg oahpa="yes">
+			<semantics>
+				<sem class="ENVIR">TOPONOMY</sem>
+			</semantics>
 			<tg xml:lang="rus">
 				<t pos="pn">Севеттиярви</t>
 				<te>озеро</te>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="pn">Sevettijärvi</t>
+				<te>järvi</te>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="pn">Sevettijärvi</t>
+				<te>sjø</te>
 			</tg>
 			<tg xml:lang="eng">
 				<t pos="pn">Sevettijärvi</t>
-				<te>village</te>
+				<te>lake</te>
 			</tg>
-			<semantics>
-				<sem class="ENVIR">TOPONOMY</sem>
-			</semantics>
-			<sources>
-				<book name="kurss" lesson="1"/>
-			</sources>
 		</mg>
 	</e>
 	<e meta="04">
@@ -19850,7 +19937,7 @@
 		</sources>
 		<mg oahpa="yes">
 			<semantics>
-				<sem class="ENVIR">HUMAN</sem>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 			<tg xml:lang="eng">
 				<t pos="n">road</t>
@@ -20550,7 +20637,7 @@
 		<mg oahpa="yes">
 			<semantics>
 				<sem class="WORK">TRAVEL</sem>
-				<sem class="ENVIR">HUMAN</sem>
+				<sem class="ENVIR">SETTLEMENT</sem>
 			</semantics>
 			<tg xml:lang="eng">
 				<t pos="n">road</t>
