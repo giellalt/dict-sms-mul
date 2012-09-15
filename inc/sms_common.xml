@@ -13452,7 +13452,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="xxx">tåˊben</l>
+			<l pos="adv">tåˊben</l>
 			<lv variant="dial" source="1991">toˊben</lv>
 			<etymology>
 				<etymon type="inher" source="uralic">to-</etymon>
@@ -19585,7 +19585,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">âˊpssed</l>
+			<l pos="v">âˊpssed</l>
 			<etymology>
 				<etymon type="xxx" source="uralic">ipɜ ~ ipɜ-sɜ (ipsɜ)</etymon>
 				<cognate xml:lang="xxx"/>
@@ -19655,7 +19655,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">čâˊcǩǩed</l>
+			<l pos="v">čâˊcǩǩed</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -19686,7 +19686,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">čeˊbb</l>
+			<l pos="a">čeˊbb</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -19717,7 +19717,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">čeäppat</l>
+			<l pos="n">čeäppat</l>
 			<etymology>
 				<etymon type="inher" source="finnougric">śepä</etymon>
 				<cognate xml:lang="sjd">ча̄пэх</cognate>
@@ -19789,7 +19789,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">čiõˊlj</l>
+			<l pos="n">čiõˊlj</l>
 			<etymology>
 				<etymon type="xxx" source="finnovolgaic">śelkä</etymon>
 				<cognate xml:lang="xxx"/>
@@ -19824,7 +19824,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">čiõkkâd</l>
+			<l pos="v">čiõkkâd</l>
 			<etymology>
 				<etymon type="xxx" source="finnosaamic">śäki-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -19859,7 +19859,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">čolggâd</l>
+			<l pos="v">čolggâd</l>
 			<etymology>
 				<etymon type="xxx" source="finnougric">śülˊke-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -19894,7 +19894,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">čõõnnâd</l>
+			<l pos="v">čõõnnâd</l>
 			<etymology>
 				<etymon type="xxx" source="protosaamic">će̮ne̮-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -20039,7 +20039,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">čuẹˊll</l>
+			<l pos="n">čuẹˊll</l>
 			<etymology>
 				<etymon type="xxx" source="finnougric">śola</etymon>
 				<cognate xml:lang="xxx"/>
@@ -20108,7 +20108,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">čuõpˈpâd</l>
+			<l pos="v">čuõpˈpâd</l>
 			<etymology>
 				<etymon type="xxx" source="finnougric?">ćappɜ-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -20143,7 +20143,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">čärvvad</l>
+			<l pos="v">čärvvad</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -20210,7 +20210,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">ja</l>
+			<l pos="con">ja</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -20280,7 +20280,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">jiẹˊlled</l>
+			<l pos="v">jiẹˊlled</l>
 			<etymology>
 				<etymon type="xxx" source="uralic">elä-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -20315,7 +20315,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">jieˊlli</l>
+			<l pos="n">jieˊlli</l>
 			<etymology>
 				<etymon type="xxx" source="finnic">elä+jä ~ elä+vä ?</etymon>
 				<cognate xml:lang="xxx"/>
@@ -20350,7 +20350,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">jiõŋŋâd</l>
+			<l pos="v">jiõŋŋâd</l>
 			<etymology>
 				<etymon type="xxx" source="finnougric">jäŋe</etymon>
 				<cognate xml:lang="xxx"/>
@@ -20422,7 +20422,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">juurdčed</l>
+			<l pos="v">juurdčed</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -20488,7 +20488,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">jåårǥled</l>
+			<l pos="v">jåårǥled</l>
 			<etymology>
 				<etymon type="xxx" source="protosaamic">jorke̮-lē ~ jork-ēhtē-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -20523,7 +20523,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">kâˊlmmed</l>
+			<l pos="v">kâˊlmmed</l>
 			<etymology>
 				<etymon type="xxx" source="finnopermic">külmä</etymon>
 				<cognate xml:lang="xxx"/>
@@ -20664,7 +20664,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">ǩeåulleed</l>
+			<l pos="v">ǩeåulleed</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -20695,7 +20695,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">ǩiẹˊssed</l>
+			<l pos="v">ǩiẹˊssed</l>
 			<etymology>
 				<etymon type="xxx" source="protosaamic">kɛ̄sē-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -20730,7 +20730,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">kobddi</l>
+			<l pos="a">kobddi</l>
 			<etymology>
 				<etymon type="xxx" source="finnougric">kumte</etymon>
 				<cognate xml:lang="xxx"/>
@@ -20765,7 +20765,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">kõččâd</l>
+			<l pos="v">kõččâd</l>
 			<etymology>
 				<etymon type="xxx" source="protosaamic">ke̮ćće̮</etymon>
 				<cognate xml:lang="xxx"/>
@@ -20800,7 +20800,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">kolggâd</l>
+			<l pos="v">kolggâd</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -20831,7 +20831,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">kõõrâs</l>
+			<l pos="a">kõõrâs</l>
 			<etymology>
 				<etymon type="xxx" source="finnovolgaic">kirɜ</etymon>
 				<cognate xml:lang="xxx"/>
@@ -20866,7 +20866,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">korččai</l>
+			<l pos="a">korččai</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -20995,7 +20995,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">kotkk</l>
+			<l pos="n">kotkk</l>
 			<etymology>
 				<etymon type="xxx" source="finnopermic">kutke</etymon>
 				<cognate xml:lang="xxx"/>
@@ -21069,7 +21069,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">ku</l>
+			<l pos="con">ku</l>
 			<etymology>
 				<etymon type="xxx" source="finnic">ku+jn ~ ku+δen?</etymon>
 				<cognate xml:lang="xxx"/>
@@ -21139,7 +21139,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">kuˊvdd</l>
+			<l pos="n">kuˊvdd</l>
 			<etymology>
 				<etymon type="xxx" source="uralic">küje</etymon>
 				<cognate xml:lang="xxx"/>
@@ -21174,7 +21174,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">kueˊdˈded</l>
+			<l pos="v">kueˊdˈded</l>
 			<etymology>
 				<etymon type="xxx" source="uralic">kanta</etymon>
 				<cognate xml:lang="xxx"/>
@@ -21209,7 +21209,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">kuõcc</l>
+			<l pos="a">kuõcc</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -21313,7 +21313,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">kuäivvad</l>
+			<l pos="v">kuäivvad</l>
 			<etymology>
 				<etymon type="xxx" source="FP, U?">kojwa-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -21348,7 +21348,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">kåbllad</l>
+			<l pos="v">kåbllad</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -21384,7 +21384,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="xxx">kååˊtt</l>
+			<l pos="pro">kååˊtt</l>
 			<etymology>
 				<etymon type="inher" source="uralic?">ku-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -21423,7 +21423,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">laˊǧǧsted</l>
+			<l pos="v">laˊǧǧsted</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -21454,7 +21454,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">laˊsǩǩeed</l>
+			<l pos="v">laˊsǩǩeed</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -21528,7 +21528,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">lieˊnˈnjsted</l>
+			<l pos="v">lieˊnˈnjsted</l>
 			<etymology>
 				<etymon type="inher" source="eastsaamic?"/>
 				<cognate xml:lang="smn">leännjuđ</cognate>
@@ -21608,7 +21608,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">lossâd</l>
+			<l pos="a">lossâd</l>
 			<etymology>
 				<etymon type="xxx" source="protosaamic">losē</etymon>
 				<cognate xml:lang="xxx"/>
@@ -21643,7 +21643,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">luˊnn</l>
+			<l pos="adv">luˊnn</l>
 			<etymology>
 				<etymon type="xxx" source="FS?">lō+na ?</etymon>
 				<cognate xml:lang="xxx"/>
@@ -21678,7 +21678,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">luõˊdˈdjed</l>
+			<l pos="v">luõˊdˈdjed</l>
 			<etymology>
 				<etymon type="xxx" source="protosaamic">lōntɔ̄-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -21713,7 +21713,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">lääˊttes</l>
+			<l pos="a">lääˊttes</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -21744,7 +21744,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">läähh</l>
+			<l pos="a">läähh</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -21816,7 +21816,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">meäˊcˈc</l>
+			<l pos="n">meäˊcˈc</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -21852,7 +21852,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">miârr</l>
+			<l pos="n">miârr</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -21888,7 +21888,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">miẹˊcsted</l>
+			<l pos="v">miẹˊcsted</l>
 			<lv variant="dial" source="1991">miẹˊccsted</lv>
 			<etymology>
 				<etymon type="loan" source="fin?">metsästää</etymon>
@@ -21926,7 +21926,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">mueˊrjj</l>
+			<l pos="n">mueˊrjj</l>
 			<etymology>
 				<etymon type="xxx" source="FV, FU?">marja</etymon>
 				<cognate xml:lang="xxx"/>
@@ -21962,7 +21962,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">muõtt</l>
+			<l pos="n">muõtt</l>
 			<etymology>
 				<etymon type="xxx" source="finnosaamic">matta-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -21997,7 +21997,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">määtt</l>
+			<l pos="n">määtt</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -22068,7 +22068,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">neuˊrr</l>
+			<l pos="a">neuˊrr</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -22104,7 +22104,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">njiimmâd</l>
+			<l pos="v">njiimmâd</l>
 			<etymology>
 				<etymon type="xxx" source="uralic">ńime-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -22139,7 +22139,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">njuˊnnʼjed</l>
+			<l pos="v">njuˊnnʼjed</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -22170,7 +22170,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">njuõckâs</l>
+			<l pos="a">njuõckâs</l>
 			<etymology>
 				<etymon type="xxx" source="finnougric">ńačkɜ</etymon>
 				<cognate xml:lang="xxx"/>
@@ -22205,7 +22205,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">njääˊljes</l>
+			<l pos="a">njääˊljes</l>
 			<etymology>
 				<etymon type="xxx" source="Sa, FS?">ńälkä</etymon>
 				<cognate xml:lang="xxx"/>
@@ -22240,7 +22240,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">nuˊbb</l>
+			<l pos="pro">nuˊbb</l>
 			<etymology>
 				<etymon type="xxx" source="protosaamic">mu+mpē</etymon>
 				<cognate xml:lang="xxx"/>
@@ -22293,7 +22293,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">nääˊpp</l>
+			<l pos="n">nääˊpp</l>
 			<etymology>
 				<etymon type="xxx" source="protosaamic">nāpē</etymon>
 				<cognate xml:lang="xxx"/>
@@ -22397,7 +22397,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">peˊčǩǩer</l>
+			<l pos="a">peˊčǩǩer</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -22428,7 +22428,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">peiˊtted</l>
+			<l pos="v">peiˊtted</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -22464,7 +22464,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">piõgˈg</l>
+			<l pos="n">piõgˈg</l>
 			<etymology>
 				<etymon type="xxx" source="protosaamic">pēŋke̮</etymon>
 				<cognate xml:lang="xxx"/>
@@ -22499,7 +22499,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">põõˊl</l>
+			<l pos="n">põõˊl</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -22535,7 +22535,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">põõllâd</l>
+			<l pos="v">põõllâd</l>
 			<etymology>
 				<etymon type="xxx" source="uralic">pele-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -22677,7 +22677,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">puäˊres</l>
+			<l pos="a">puäˊres</l>
 			<etymology>
 				<etymon type="xxx" source="finnopermic">porɜ</etymon>
 				<cognate xml:lang="xxx"/>
@@ -22786,7 +22786,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">pååssad</l>
+			<l pos="v">pååssad</l>
 			<etymology>
 				<etymon type="xxx" source="uralic">pušɜ-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -22847,7 +22847,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">raajjâd</l>
+			<l pos="v">raajjâd</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -22878,7 +22878,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">rekknâˊstted</l>
+			<l pos="v">rekknâˊstted</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -22952,7 +22952,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">ruˊvvjed</l>
+			<l pos="v">ruˊvvjed</l>
 			<etymology>
 				<etymon type="xxx" source="protosaamic">ruvije̮-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -22987,7 +22987,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">ruõidd</l>
+			<l pos="a">ruõidd</l>
 			<etymology>
 				<etymon type="xxx" source="BF, Sa?">reisi ~ raisi</etymon>
 				<cognate xml:lang="xxx"/>
@@ -23055,7 +23055,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">rääˊss</l>
+			<l pos="n">rääˊss</l>
 			<etymology>
 				<etymon type="xxx" source="protosaamic">rāsē</etymon>
 				<cognate xml:lang="xxx"/>
@@ -23091,7 +23091,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">rääppad</l>
+			<l pos="v">rääppad</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -23127,7 +23127,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">sââjjad</l>
+			<l pos="v">sââjjad</l>
 			<etymology>
 				<etymon type="xxx" source="finnovolgaic">šiŋa-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -23162,7 +23162,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">seˊst</l>
+			<l pos="adv">seˊst</l>
 			<etymology>
 				<etymon type="loan" source="finnic">*sisä</etymon>
 				<cognate xml:lang="xxx"/>
@@ -23216,7 +23216,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">sekkad</l>
+			<l pos="v">sekkad</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -23247,7 +23247,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">seäˊǧˈǧ</l>
+			<l pos="a">seäˊǧˈǧ</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -23278,7 +23278,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">seäˊlǧǧ</l>
+			<l pos="n">seäˊlǧǧ</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -23314,7 +23314,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="xxx">simmna</l>
+			<l pos="adv">simmna</l>
 			<lv variant="dial" source="1991">siõmˈmna</lv>
 		</lg>
 		<mg>
@@ -23407,7 +23407,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">šõllâd</l>
+			<l pos="v">šõllâd</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -23549,7 +23549,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">suäˊbˈb</l>
+			<l pos="n">suäˊbˈb</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -23580,7 +23580,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">suäjj</l>
+			<l pos="n">suäjj</l>
 			<etymology>
 				<etymon type="xxx" source="protosaamic">sɔ̄jē</etymon>
 				<cognate xml:lang="xxx"/>
@@ -23615,7 +23615,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">säˊltt</l>
+			<l pos="n">säˊltt</l>
 			<etymology>
 				<etymon type="loan" source="northgermanic"/>
 				<cognate xml:lang="swe">salt</cognate>
@@ -23699,7 +23699,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">tij</l>
+			<l pos="pro">tij</l>
 			<etymology>
 				<etymon type="xxx" source="uralic">tɤ̈</etymon>
 				<cognate xml:lang="xxx"/>
@@ -23734,7 +23734,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">trooss</l>
+			<l pos="n">trooss</l>
 			<etymology>
 				<etymon type="xxx" source="xxx"/>
 				<cognate xml:lang="xxx"/>
@@ -23770,7 +23770,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">tuärrad</l>
+			<l pos="v">tuärrad</l>
 			<etymology>
 				<etymon type="xxx" source="uralic">torɜ-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -23805,7 +23805,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">täävvad</l>
+			<l pos="v">täävvad</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -23914,7 +23914,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">vueˊhssed</l>
+			<l pos="v">vueˊhssed</l>
 			<etymology>
 				<etymon type="xxx" source="finnopermic">okse-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -23949,7 +23949,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">vueˊlǧǧeed</l>
+			<l pos="v">vueˊlǧǧeed</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -24052,7 +24052,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">vuõiŋŋâd</l>
+			<l pos="v">vuõiŋŋâd</l>
 			<etymology>
 				<etymon type="xxx" source="uralic">wajŋe</etymon>
 				<cognate xml:lang="xxx"/>
@@ -24087,7 +24087,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">vuäˊljes</l>
+			<l pos="a">vuäˊljes</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -24118,7 +24118,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">vuäˊniǩ</l>
+			<l pos="a">vuäˊniǩ</l>
 			<etymology>
 				<etymon type="xxx" source="finnougric">ona</etymon>
 				<cognate xml:lang="xxx"/>
@@ -24154,7 +24154,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="xxx">västtled</l>
+			<l pos="v">västtled</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
