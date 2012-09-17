@@ -1402,7 +1402,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="con" stat="pref">da</l>
+			<l pos="con">da</l>
 			<synonym>de</synonym>
 			<synonym>di</synonym>
 			<etymology>
@@ -3117,7 +3117,7 @@
 	</e>
 	<e meta="01">
 		<lg>
-			<l pos="a" stat="a">jääˊmteˊmes</l>
+			<l pos="a">jääˊmteˊmes</l>
 		</lg>
 		<mg>
 			<tg xml:lang="eng">
@@ -3493,7 +3493,7 @@
 				<sem class="SPACE">POSITION</sem>
 			</semantics>
 			<tg xml:lang="eng">
-				<t pos="adv" style="obs" stat="dispref">whence</t>
+				<t pos="adv" style="obs" stat="excl">whence</t>
 				<t pos="mwe_adv">from where</t>
 				<t pos="mwe_adv" stat="pref">wherefrom</t>
 			</tg>
@@ -3629,8 +3629,7 @@
 				<t pos="n">tuhka</t>
 			</tg>
 			<tg xml:lang="eng">
-				<t pos="n" stat="pref">ash</t>
-				<t pos="n" stat="dispref" number="pl">ashes</t>
+				<t pos="n" pl="ashes">ash</t>
 			</tg>
 			<tg xml:lang="deu">
 				<t pos="n">Asche</t>
@@ -5804,8 +5803,8 @@
 				<t pos="pro">что</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="pro">mikä</t>
-				<t pos="pro" stat="dispref">mitä</t>
+				<t pos="pro" stat="pref">mikä</t>
+				<t pos="pro">mitä</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="pro">hva</t>
@@ -6366,8 +6365,8 @@
 				<sem class="TIME">CYCLE</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="n">луна</t>
-				<t pos="n" stat="dispref" style="arch">месяц</t>
+				<t pos="n" stat="pref">луна</t>
+				<t pos="n" stat="excl" style="arch">месяц</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="n">ма̄нн</t>
@@ -7065,7 +7064,7 @@
 				<t pos="n">Genick</t>
 			</tg>
 			<tg xml:lang="deu">
-				<t pos="n" stat="dispref">Hinterkopf</t>
+				<t pos="n">Hinterkopf</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="n">nakke</t>
@@ -7416,7 +7415,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="adv" stat="pref">occanj</l>
+			<l pos="adv">occanj</l>
 			<lv variant="dial" source="1991">õccanj</lv>
 			<synonym>occnja</synonym>
 			<synonym>simmna</synonym>
@@ -7435,7 +7434,7 @@
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="adv" stat="pref">чуть-чуть</t>
-				<t pos="adv" stat="dispref">чуточку</t>
+				<t pos="adv" stat="excl">чуточку</t>
 				<t pos="adv">немного</t>
 			</tg>
 			<tg xml:lang="fin">
@@ -7476,7 +7475,7 @@
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="adv" stat="pref">чуть-чуть</t>
-				<t pos="adv" stat="dispref">чуточку</t>
+				<t pos="adv" stat="excl">чуточку</t>
 				<t pos="adv">немного</t>
 			</tg>
 			<tg xml:lang="fin">
@@ -13744,7 +13743,7 @@
 			</tg>
 			<tg xml:lang="rus">
 				<t pos="con" stat="pref">потомучто</t>
-				<t pos="mwe_con" stat="dispref">потому что</t>
+				<t pos="mwe_con">потому что</t>
 				<t pos="mwe_con">потому, что</t>
 			</tg>
 		</mg>
@@ -14951,7 +14950,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="n" stat="dispref">vuäˊdˈd-</l>
+			<l pos="n">vuäˊdˈd-</l>
 			<note>unclear if this root can occur unbound</note>
 		</lg>
 		<mg oahpa="xxx" term="DUODJI">
@@ -16332,7 +16331,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="adv" stat="dispref">âˊldd-</l>
+			<l pos="adv">âˊldd-</l>
 			<note>bound root of ââld(a)</note>
 		</lg>
 		<mg>
@@ -17676,8 +17675,8 @@
 	<e meta="04">
 		<lg>
 			<l pos="n">õummooumaž</l>
-			<lv variant="orth" stat="dispref">õumm-ooumaž</lv>
-			<lv variant="dial">õumååumaž</lv>
+			<lv variant="orth" source="xxx">õumm-ooumaž</lv>
+			<lv variant="dial" source="1991">õumååumaž</lv>
 		</lg>
 		<sources>
 			<book name="kurss" lesson="1"/>
@@ -17695,11 +17694,11 @@
 				<t pos="n">олма</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="n">ihminen</t>
-				<t pos="n" stat="dispref">ihmisolento</t>" </tg>
+				<t pos="n" stat="pref">ihminen</t>
+				<t pos="n">ihmisolento</t>" </tg>
 			<tg xml:lang="eng">
-				<t pos="n">human</t>
-				<t pos="mwe_n" stat="dispref">human being</t>
+				<t pos="n" stat="pref">human</t>
+				<t pos="mwe_n">human being</t>
 			</tg>
 			<tg xml:lang="deu">
 				<t pos="n">Mensch</t>
@@ -21099,10 +21098,10 @@
 				<t pos="n" stat="pref">кора</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="n" stat="dispref">корка</t>
+				<t pos="n" stat="excl">корка</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="n" stat="dispref">скорлупа</t>
+				<t pos="n" stat="excl">скорлупа</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="n" stat="pref">bark</t>
@@ -22819,7 +22818,7 @@
 				<t pos="n" stat="pref">rasva</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="n" stat="dispref">pinta</t>
+				<t pos="n" stat="excl">pinta</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="n">пӯййт</t>
@@ -23500,7 +23499,7 @@
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="adv">чуть-чуть</t>
-				<t pos="adv" stat="dispref">чуточку</t>
+				<t pos="adv" stat="excl">чуточку</t>
 				<t pos="adv" stat="pref">немного</t>
 			</tg>
 			<tg xml:lang="fin">
