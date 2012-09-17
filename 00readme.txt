@@ -129,6 +129,11 @@ Semantic sets for the new version:
 * ENVIR "Verld"
 For now we use only semantic these supersets. Two sets (LANG "Språk" and CLOTH "Klær") are still excluded because we have not enough entries yet.
 
+dis/preferred variants in <l> and <t>
+* in <l> I mark only dispreferred variants (stat="dispref"), i.e. a translation variant which is accepted as answer in the reversed x-sms LEKSA game without being shown as the right answer
+* in <t> I mark only the preferred variant (stat="pref"), i.e. a translation variant which is accepted as answer in the sms-x LEKSA game without being shown as the right answer
+* stat="excl" in <t> marks variants which are excluded from the LEKSA game
+
 A few more conventions:
 * Accepted but not recommended entries are
 ** dialectal variants of sms lemmata (like <lv variant="dial" source="1991">kueˊhtt</lv>)
