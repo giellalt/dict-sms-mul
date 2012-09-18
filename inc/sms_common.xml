@@ -22489,7 +22489,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="pro">nuˊbb</l>
+			<l pos="ord">nuˊbb</l>
 			<etymology>
 				<etymon type="xxx" source="protosaamic">mu+mpē</etymon>
 				<cognate xml:lang="xxx"/>
@@ -22504,30 +22504,13 @@
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="eng">
-				<t pos="a">other</t>
+				<t pos="ord">second</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a">другой</t>
+				<t pos="ord">другой</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="a">muu</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="ord">nubbi</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="ord">jietjaa</t>
-			</tg>
-		</mg>
-		<mg>
-			<semantics>
-				<sem class="SENSE">QUANTITY</sem>
-			</semantics>
-			<tg xml:lang="eng">
-				<t pos="ord">second</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="ord">toinen</t>
