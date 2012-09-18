@@ -47,7 +47,7 @@ spellrelax (with or without the letter)
 =====
 Preliminary conventions: other Skolt Sami orthography
 =====
-uẹ = is used like in the 1991 dictionary, but for looking up in the dictionary/Oahpa! we need spellrelax (uẹ ~ ue) 
+ẹ = (second, short segment of a diphthong) is used like in the 1991 dictionary, but for looking up in the dictionary/Oahpa! we need spellrelax (ẹ ~ e) 
 
 <l> = always the first variant used by the 1991 dictionary, i.e. the "main Suonikylä form"
 
