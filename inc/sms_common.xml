@@ -1101,7 +1101,7 @@
 		<lg>
 			<l pos="n">aˊmmrik</l>
 		</lg>
-		<mg oahpa="xxx" spec="NATION">
+		<mg oahpa="no" spec="NATION">
 			<tg xml:lang="eng">
 				<t pos="n">American</t>
 				<te>person</te>
@@ -1242,7 +1242,7 @@
 		<lg>
 			<l pos="n">biolog</l>
 		</lg>
-		<mg oahpa="xxx" spec="PROFESSION">
+		<mg oahpa="no" spec="PROFESSION">
 			<tg xml:lang="eng">
 				<t pos="n">biologist</t>
 			</tg>
@@ -1613,7 +1613,7 @@
 		<sources>
 			<book name="200" BEDLAN_ID="2"/>
 		</sources>
-		<mg>
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="SENSE">COGNITION</sem>
 			</semantics>
@@ -1999,7 +1999,7 @@
 		<lg>
 			<l pos="n">faaˊnal</l>
 		</lg>
-		<mg oahpa="xxx" term="DUODJI">
+		<mg oahpa="no" term="DUODJI">
 			<tg xml:lang="eng">
 				<t pos="n">flannel</t>
 			</tg>
@@ -2302,7 +2302,7 @@
 			<book name="200" BEDLAN_ID="*111"/>
 			<book name="100"/>
 		</sources>
-		<mg oahpa="no">
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="TIME">CYCLE</sem>
 				<sem class="WORK">ECONOMY</sem>
@@ -2529,7 +2529,7 @@
 				<form gloss="nom.pl">jieˊrj</form>
 			</infl>
 		</lg>
-		<mg oahpa="xxx" term="REINDEER">
+		<mg oahpa="no" term="REINDEER">
 			<tg xml:lang="rus">
 				<t pos="n">бык</t>
 				<tr>олений</tr>
@@ -2776,7 +2776,7 @@
 		<lg>
 			<l pos="n">joŋŋ</l>
 		</lg>
-		<mg oahpa="xxx" spec="BOT">
+		<mg oahpa="no" spec="BOT">
 			<tg xml:lang="rus">
 				<t pos="n">брусника</t>
 			</tg>
@@ -3056,7 +3056,7 @@
 		<lg>
 			<l pos="n">jättmöš</l>
 		</lg>
-		<mg oahpa="xxx" spec="BOT">
+		<mg oahpa="no" spec="BOT">
 			<tg xml:lang="eng">
 				<t pos="xxx">box whortleberry</t>
 				<t pos="xxx">bog blueberry</t>
@@ -3136,7 +3136,7 @@
 		<lg>
 			<l pos="n">jävvʼveˊll</l>
 		</lg>
-		<mg oahpa="xxx" term="COOKING">
+		<mg oahpa="no" term="COOKING">
 			<tg xml:lang="eng">
 				<t pos="n">gruel</t>
 			</tg>
@@ -4153,7 +4153,7 @@
 		<lg>
 			<l pos="n">kuärrammašina</l>
 		</lg>
-		<mg oahpa="xxx" term="DUODJI">
+		<mg oahpa="no" term="DUODJI">
 			<tg xml:lang="eng">
 				<t pos="xxx">sewing machine</t>
 			</tg>
@@ -4497,7 +4497,7 @@
 			<tg xml:lang="fin">
 				<t pos="a">tumma</t>
 			</tg>
-			<xg oahpa="xxx">
+			<xg oahpa="no">
 				<x type="compound" pos="a">kääˊmesruõpssâd</x>
 				<xtg xml:lang="eng">
 					<xt pos="mwe_a">dark red</xt>
@@ -4506,7 +4506,7 @@
 					<xt pos="a">tummanpunainen</xt>
 				</xtg>
 			</xg>
-			<xg oahpa="xxx">
+			<xg oahpa="no">
 				<x type="compound" pos="a">kääˊmesââˊleǩ</x>
 			</xg>
 			<xtg xml:lang="eng">
@@ -5427,7 +5427,7 @@
 		<lg>
 			<l pos="n">lueˊm</l>
 		</lg>
-		<mg oahpa="xxx" spec="BOT">
+		<mg oahpa="no" spec="BOT">
 			<tg xml:lang="eng">
 				<t pos="n">cloudberry</t>
 			</tg>
@@ -6505,7 +6505,7 @@
 		<lg>
 			<l pos="n" stat="dispref">määnpââˊjj</l>
 		</lg>
-		<mg oahpa="no">
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="TIME">CYCLE</sem>
 			</semantics>
@@ -7895,7 +7895,7 @@
 		<lg>
 			<l pos="n">papp</l>
 		</lg>
-		<mg oahpa="xxx" term="PROFESSION">
+		<mg oahpa="no" term="PROFESSION">
 			<tg xml:lang="eng">
 				<t pos="n">priest</t>
 			</tg>
@@ -8090,7 +8090,7 @@
 			<l pos="n">peˊssertuẹjj</l>
 			<lv variant="dial" source="1991">peˊssertuâjj</lv>
 		</lg>
-		<mg oahpa="xxx" term="DUODJI">
+		<mg oahpa="no" term="DUODJI">
 			<semantics>
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
@@ -8817,7 +8817,7 @@
 				<cognate lang="sme">boazu</cognate>
 			</etymology>
 		</lg>
-		<mg oahpa="xxx" term="REINDEER">
+		<mg oahpa="no" term="REINDEER">
 			<tg xml:lang="rus">
 				<t pos="n">олень</t>
 				<tr>северный</tr>
@@ -8841,7 +8841,7 @@
 		<lg>
 			<l pos="n">puäʒʒooumaž</l>
 		</lg>
-		<mg oahpa="xxx" term="REINDEER">
+		<mg oahpa="no" term="REINDEER">
 			<tg xml:lang="rus">
 				<t pos="n">оленевод</t>
 			</tg>
@@ -9098,7 +9098,7 @@
 				<form gloss="acc.sg">pävvar</form>
 			</infl>
 		</lg>
-		<mg oahpa="xxx" spec="PROFESSION">
+		<mg oahpa="no" spec="PROFESSION">
 			<tg xml:lang="rus">
 				<t pos="n">повар</t>
 			</tg>
@@ -9530,7 +9530,7 @@
 		<lg>
 			<l pos="n">reppjoŋŋ</l>
 		</lg>
-		<mg oahpa="xxx" spec="BOT">
+		<mg oahpa="no" spec="BOT">
 			<tg xml:lang="eng">
 				<t pos="n">cranberry</t>
 				<t pos="xxx">mountain cranberry</t>
@@ -9990,7 +9990,7 @@
 		<lg>
 			<l pos="n">ruõšˈšlaž</l>
 		</lg>
-		<mg oahpa="xxx" spec="NATION">
+		<mg oahpa="no" spec="NATION">
 			<tg xml:lang="rus">
 				<t pos="n">русский</t>
 				<tr>человек</tr>
@@ -10806,7 +10806,7 @@
 		<lg>
 			<l pos="n">sniimmi</l>
 		</lg>
-		<mg oahpa="xxx" term="PROFESSION">
+		<mg oahpa="no" term="PROFESSION">
 			<tg xml:lang="eng">
 				<t pos="n">photographer</t>
 			</tg>
@@ -11437,7 +11437,7 @@
 				<form gloss="nom.pl">sââˊr</form>
 			</infl>
 		</lg>
-		<mg oahpa="xxx" spec="BOT">
+		<mg oahpa="no" spec="BOT">
 			<sources>
 				<book name="kurss" lesson="dict"/>
 			</sources>
@@ -11560,7 +11560,7 @@
 		<lg>
 			<l pos="n">sääldat</l>
 		</lg>
-		<mg oahpa="xxx" term="PROFESSION">
+		<mg oahpa="no" term="PROFESSION">
 			<tg xml:lang="eng">
 				<t pos="n">soldier</t>
 			</tg>
@@ -12190,7 +12190,7 @@
 				<form gloss="3pl.prs">teäˊrre</form>
 			</infl>
 		</lg>
-		<mg oahpa="xxx" term="REINDEER">
+		<mg oahpa="no" term="REINDEER">
 			<sources>
 				<book name="kurss" lesson="dict"/>
 			</sources>
@@ -15062,7 +15062,7 @@
 			<l pos="n">vuäˊdˈd-</l>
 			<note>unclear if this root can occur unbound</note>
 		</lg>
-		<mg oahpa="xxx" term="DUODJI">
+		<mg oahpa="no" term="DUODJI">
 			<tg xml:lang="eng">
 				<t pos="mwe-a">of root</t>
 				<t pos="n">root-</t>
@@ -15073,7 +15073,7 @@
 		<lg>
 			<l pos="n">vuäˊdˈdkõrr</l>
 		</lg>
-		<mg oahpa="xxx" term="DUODJI">
+		<mg oahpa="no" term="DUODJI">
 			<tg xml:lang="fin">
 				<t pos="n">työkalupussi</t>
 				<te>miesten</te>
@@ -16994,7 +16994,7 @@
 		<lg>
 			<l pos="n">ääŋŋ</l>
 		</lg>
-		<mg oahpa="xxx" term="NAUTIC">
+		<mg oahpa="no" term="NAUTIC">
 			<tg xml:lang="rus">
 				<t pos="n">уключина</t>
 			</tg>
@@ -17453,7 +17453,7 @@
 		<lg>
 			<l pos="n">ååˊres</l>
 		</lg>
-		<mg oahpa="xxx" term="REINDEER">
+		<mg oahpa="no" term="REINDEER">
 			<tg xml:lang="rus">
 				<t pos="n">самец</t>
 			</tg>
@@ -18349,7 +18349,7 @@
 		<lg>
 			<l pos="n">čuõˊmmjõš</l>
 		</lg>
-		<mg oahpa="xxx" spec="BOT">
+		<mg oahpa="no" spec="BOT">
 			<tg xml:lang="eng">
 				<t pos="n">crowberry</t>
 			</tg>
@@ -19689,7 +19689,7 @@
 			<lv variant="orth" source="xxx">ǩiõtt-tuẹjj</lv>
 			<lv variant="orth" source="xxx">ǩiõtt-tuâjj</lv>
 		</lg>
-		<mg oahpa="xxx" term="DUODJI">
+		<mg oahpa="no" term="DUODJI">
 			<tg xml:lang="rus">
 				<t pos="n">рукоделие</t>
 			</tg>
@@ -21704,41 +21704,6 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="con">kuäˊss</l>
-			<etymology>
-				<etymon type="xxx" source="finnosaamic">ko+nsa</etymon>
-				<cognate xml:lang="xxx"/>
-			</etymology>
-		</lg>
-		<sources>
-			<book name="200" BEDLAN_ID="191"/>
-		</sources>
-		<mg oahpa="no">
-			<semantics>
-				<sem class="SENSE">COGNITION</sem>
-			</semantics>
-			<tg xml:lang="eng">
-				<t pos="con">when</t>
-			</tg>
-			<tg xml:lang="rus">
-				<t pos="con">когда</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="con">når</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="con">koska</t>
-			</tg>
-			<tg xml:lang="sme">
-				<t pos="con">goas</t>
-			</tg>
-			<tg xml:lang="sju">
-				<t pos="con">gåssee</t>
-			</tg>
-		</mg>
-	</e>
-	<e meta="05">
-		<lg>
 			<l pos="v">kuäivvad</l>
 			<etymology>
 				<etymon type="xxx" source="FP, U?">kojwa-</etymon>
@@ -21820,7 +21785,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="pro">kååˊtt</l>
+			<l pos="pro" stat="dispref">kååˊtt</l>
 			<etymology>
 				<etymon type="inher" source="uralic?">ku-</etymon>
 				<cognate xml:lang="xxx"/>
@@ -21830,7 +21795,7 @@
 		<sources>
 			<book name="200" BEDLAN_ID="153"/>
 		</sources>
-		<mg oahpa="no">
+		<mg oahpa="yes">
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
@@ -21853,7 +21818,6 @@
 				<t pos="pro">hvem</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="con">joka</t>
 				<t pos="pro">kuka</t>
 			</tg>
 			<xg oahpa="no" kurss="xxx">
