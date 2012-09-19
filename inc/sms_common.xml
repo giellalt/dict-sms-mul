@@ -928,7 +928,7 @@
 			</tg>
 			<semantics>
 				<sem class="HUMAN">RELIGION</sem>
-				<sem class="HUMAN">PERSON</sem>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 		</mg>
 	</e>
@@ -5984,7 +5984,7 @@
 		</sources>
 		<mg oahpa="yes">
 			<semantics>
-				<sem class="HUMAN">PERSON</sem>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="pro">мы</t>
@@ -6102,7 +6102,7 @@
 		</sources>
 		<mg oahpa="yes">
 			<semantics>
-				<sem class="HUMAN">PERSON</sem>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="pro">я</t>
@@ -10857,7 +10857,7 @@
 		</sources>
 		<mg oahpa="yes">
 			<semantics>
-				<sem class="HUMAN">PERSON</sem>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="pro" fem="она">он</t>
@@ -12449,7 +12449,7 @@
 		</sources>
 		<mg oahpa="yes">
 			<semantics>
-				<sem class="HUMAN">PERSON</sem>
+				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="pro">ты</t>
@@ -15850,7 +15850,7 @@
 				<t pos="xxx">xxx</t>
 			</tg>
 			<semantics>
-				<sem class="HUMAN">PERSON</sem>
+				<sem class="HUMAN">PEOPLE</sem>
 				<sem class="BODY">HEALTH</sem>
 			</semantics>
 		</mg>
