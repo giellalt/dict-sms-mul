@@ -99,48 +99,15 @@ on the e-element in the xml files:
 =====
 Oahpa!-nuõrti
 =====
-The planned next version of smsoahpa will include all entries tagged with
+The planned next version of smsoahpa should include all entries tagged with
 * book="200" - basic semantic meanings (~100 items)
 * book="100" - basic semantic meanings (~200 items)
+
 The planned overnext version of smsoahpa will include all entries tagged with
 * book="kurss" - a textbook in Finnish, currently being translated into Russian and Norwegian
+* book="termm" - different term(inological) lists, which are not completely included in the textbook or the basic vacobulary lists.
 
-Later we will of course work with more textbooks. We will then decide whether or not to remove the two basic word lists.
-
-Here a few conventions for compiling the current database (sms_common.xml) into Oahpa!
-
-Previous entries in Oahpa!-nuōrti should be overwritten by the current ones.
-
-Entries to convert for the new version:
-* LEKSA: <book name="100"> if <mg oahpa="yes">
-* Placenames (in LEKSA): <l pos="pn" class="place"> if <mg oahpa="yes">
-
-Semantic sets for the new version:
-* HUMAN "Menneske"
-* SPACE "Rom"
-* BODY "Kropp"
-* SENSE "Egenskap, mengd, sinne"
-* HOUSE "Hus"
-* WORK "Arbeid og fritid"
-* TIME "Tid"
-* ZOO "Djur"
-* BOT "Plant"
-* FOOD "Mat og drikk"
-* ENVIR "Verld"
-For now we use only semantic these supersets. Two sets (LANG "Språk" and CLOTH "Klær") are still excluded because we have not enough entries yet.
-
-dis/preferred variants in <l> and <t>
-* in <l> I mark only dispreferred variants (stat="dispref"), i.e. a translation variant which is accepted as answer in the reversed x-sms LEKSA game without being shown as the right answer
-* in <t> I mark only the preferred variant (stat="pref"), i.e. a translation variant which is always shown as the right answer in the sms-x LEKSA game
-* stat="excl" in <t> marks variants which are excluded from the LEKSA game
-
-A few more conventions:
-* Accepted but not recommended entries are
-** dialectal variants of sms lemmata (like <lv variant="dial" source="1991">kueˊhtt</lv>)
-** diminutive and attributive derivations of sms-lemmata (like _piânˈnǥaž_ tagged as <der gloss="dim">piânˈnǥaž</der> or _jorbb_ tagged as <der gloss="attr">jorbb</der>)
-** inflected forms of translations (like _длинен_ tagged as <t pos="a:attr" pred="длинен">длинный</t> or _tørt, tørre_ tagged as <t pos="a:utr" n="tørt" pl="tørre">tørr</t>)
-
-
+Perhaps we also need intermediate steps for compiling the overnext smsoahpas.
 
 =====
 Pronouns
