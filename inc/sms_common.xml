@@ -5157,20 +5157,27 @@
 			</semantics>
 		</mg>
 	</e>
-	<e meta="01">
+	<e meta="04">
 		<lg>
 			<l pos="n">leiˊbb</l>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="FOOD">GROCERY</sem>
+				<sem class="FOOD">NATURE</sem>
+			</semantics>
 			<tg xml:lang="eng">
 				<t pos="n">bread</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">leipä</t>
 			</tg>
-			<semantics>
-				<sem class="xxx"/>
-			</semantics>
+			<tg xml:lang="nob">
+				<t pos="n">brød</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="n">хлеб</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="01">
