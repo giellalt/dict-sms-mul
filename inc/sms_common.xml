@@ -2001,7 +2001,7 @@
 		</lg>
 		<mg oahpa="no" term="DUODJI">
 			<semantics>
-				<sem class="CLOTH">MATERIAL</sem>
+				<sem class="CLOTH">PART</sem>
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
 			<tg xml:lang="eng">
@@ -2958,7 +2958,7 @@
 		</mg>
 		<mg oahpa="no" term="ASTROLOGY">
 			<semantics>
-				<sem class="ENVIR">ELEMENTS</sem>
+				<sem class="ENVIR">ELEMENT</sem>
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="pn">Земля</t>
@@ -15590,7 +15590,7 @@
 		</mg>
 		<mg oahpa="yes">
 			<semantics>
-				<sem class="WORK">SPORT</sem>
+				<sem class="WORK">LAISURE</sem>
 				<sem class="SPACE">MOTION</sem>
 				<sem class="ZOO">FISH</sem>
 			</semantics>
@@ -17586,7 +17586,7 @@
 				<t pos="n">height</t>
 			</tg>
 			<semantics>
-				<sem class="CLOTH">PART</sem>
+				<sem class="CLOTH">PIECE</sem>
 			</semantics>
 		</mg>
 	</e>
