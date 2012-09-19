@@ -14,14 +14,14 @@ TODO
 * <variants>
 ** resolve the preliminary tagging of what was called "synonyms"
 * <mg>
-** for all entries from "term", "kurss", "200", "100" complete <semantics>, and <tg> in eng, rus, nob, fin
-* check consistency of adjective entries:
+** for all entries from "term" and "kurss" complete <semantics>, and <tg> in eng, rus, nob, fin
+* check consistency of adjective entries (in sms and rus):
 ** <l> with pred, attr under <der>?
 ** pos-tagging: as "a", "a:attr", "a:pred"?
 * write better documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
 * fill in all xxx's
 * check <t> vs. <tg> vs. <mg>
-* check <tr> <te>
+* check <tr> <te> and other such extensions
 
 =====
 Preliminary conventions: Skolt Sami apostrophes
