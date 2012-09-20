@@ -435,21 +435,28 @@
 			</semantics>
 		</mg>
 	</e>
-	<e meta="01">
+	<e meta="04">
 		<lg>
-			<l pos="pn" class="person">Bååˊres</l>
+			<l pos="pn" class="person" gender="m">Bååˊres</l>
 		</lg>
 		<mg>
-			<tg xml:lang="eng">
-				<t pos="pn">Boris</t>
-			</tg>
-			<lexicon xml:lang="eng">man's name</lexicon>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
+			<tg xml:lang="eng">
+				<t pos="pn">Boris</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="pn" oahpa="pref">Børre</t>
+				<t pos="pn">Boris</t>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="pn">Борис</t>
+			</tg>
+			<lexicon xml:lang="eng">man's name</lexicon>
 		</mg>
 	</e>
-	<e meta="03">
+	<e meta="04">
 		<lg>
 			<l pos="pn" class="person" gender="m">Evvan</l>
 		</lg>
@@ -465,9 +472,7 @@
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="pn">Juhani</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="pn">Jussi</t>
+				<t pos="pn" oahpa="pref">Jussi</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="pn">Ivan</t>
@@ -550,9 +555,7 @@
 				<t pos="pn">Мария</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="pn">Marja</t>
-			</tg>
-			<tg xml:lang="fin">
+				<t pos="pn" oahpa="pref">Marja</t>
 				<t pos="pn">Maria</t>
 			</tg>
 			<tg xml:lang="nob">
@@ -594,16 +597,19 @@
 			<l pos="pn" class="person" gender="fem">Såff</l>
 		</lg>
 		<mg>
+			<semantics>
+				<sem class="HUMAN">PEOPLE</sem>
+			</semantics>
 			<tg xml:lang="eng">
-				<t pos="pn">Sophia</t>
+				<t pos="pn" oahpa="pref">Sophia</t>
 				<t pos="pn">Sofia</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="pn">Sofia</t>
 			</tg>
-			<semantics>
-				<sem class="HUMAN">PEOPLE</sem>
-			</semantics>
+			<tg xml:lang="rus">
+				<t pos="pn">София</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="04">
@@ -826,10 +832,10 @@
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="fin">
-				<t pos="xxx">Vasko</t>
+				<t pos="pn">Vasko</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">Василий</t>
+				<t pos="pn">Василий</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
@@ -16338,10 +16344,10 @@
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="fin">
-				<t pos="xxx">Anni</t>
+				<t pos="pn">Anni</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">Анюшка</t>
+				<t pos="pn">Анюшка</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
@@ -16360,13 +16366,14 @@
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="fin">
-				<t pos="xxx">Anni</t>
+				<t pos="pn">Anni</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">Аня</t>
+				<t pos="pn" oahpa="pref">Анна</t>
+				<t pos="pn">Аня</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="pn">Anna</t>
 			</tg>
 		</mg>
 	</e>
@@ -20970,24 +20977,24 @@
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="eng">
-				<t pos="v" oahpa="pref">Christina</t>
-				<t pos="v">Christine</t>
+				<t pos="pn" oahpa="pref">Christina</t>
+				<t pos="pn">Christine</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="v" oahpa="pref">Кристина</t>
-				<t pos="v">Христина</t>
+				<t pos="pn" oahpa="pref">Кристина</t>
+				<t pos="pn">Христина</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="v">Kristina</t>
-				<t pos="v" oahpa="pref">Christina</t>
+				<t pos="pn">Kristina</t>
+				<t pos="pn" oahpa="pref">Christina</t>
 			</tg>
 			<tg xml:lang="fin">
-				<t pos="v">Kristiina</t>
+				<t pos="pn">Kristiina</t>
 			</tg>
 			<tg xml:lang="deu">
-				<t pos="v">Kristina</t>
-				<t pos="v" oahpa="pref">Christina</t>
-				<t pos="v">Christine</t>
+				<t pos="pn">Kristina</t>
+				<t pos="pn" oahpa="pref">Christina</t>
+				<t pos="pn">Christine</t>
 			</tg>
 		</mg>
 	</e>
