@@ -28,15 +28,15 @@ Preliminary conventions: Skolt Sami apostrophes
 =====
 Conventions used preliminary for the present file by M.Rießler (like the xfst). Note that KOTUS standardized U+00B4 ACUTE ACCENT as the Skolt Saami Palatalization (http://scripta.kotus.fi/www/verkkojulkaisut/julk6/Omin_sanoin.pdf). However, Skolt Saami writers in Sevettijärvi seem not to follow this standard today, but use the modifier letter Prime.
 
-ˊ = 02CA MODIFIER LETTER ACUTE ACCENT (suprasegmental palatalization affecting the whole "palatalization foot")
+ˊ = 02CA MODIFIER LETTER ACUTE ACCENT ("pehmennysmerkki", suprasegmental palatalization affecting the whole "palatalization foot")
 !! e.g. 'to eat' poorrâd+V+Ind+Prs+Pl3: påˊrre
 no spellrelax!
 
-ˈ = 02C8 MODIFIER LETTER VERTICAL LINE (extra long geminate, used by P.Sammallahti in dictionaries)
+ˈ = 02C8 MODIFIER LETTER VERTICAL LINE ("vahvanasteenmerkki", extra long geminate, used by P.Sammallahti in dictionaries)
 !! e.g. 'to trust' veârrad+V+Ind+Prs+Pl3: veârˈra
 spellrelax (with or without the letter)
 
-ʼ = 02BC MODIFIER LETTER APOSTROPHE (a syllable break, marking also a new "palatalization foot") 
+ʼ = 02BC MODIFIER LETTER APOSTROPHE ("erotusmerkki", a syllable break, marking also a new "palatalization foot") 
 !! e.g. 'to be heard' kollʼjed 
 spellrelax (with or without the letter)
 
