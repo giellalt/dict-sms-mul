@@ -17097,7 +17097,7 @@
 			</semantics>
 		</mg>
 	</e>
-	<e meta="03">
+	<e meta="04">
 		<lg>
 			<l pos="v">årsted</l>
 		</lg>
@@ -17105,22 +17105,25 @@
 			<book name="kurss" lesson="phon"/>
 		</sources>
 		<mg>
-			<tg xml:lang="rus">
-				<t pos="v">останавливаться</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
 			<semantics>
 				<sem class="HUMAN">PEOPLE</sem>
 				<sem class="SPACE">POSITION</sem>
 			</semantics>
+			<tg xml:lang="rus">
+				<t pos="v">останавливаться</t>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="v">pysähtyä</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="v">stoppe</t>
+			</tg>
+			<tg xml:lang="eng">
+				<t pos="v">stop</t>
+			</tg>
 		</mg>
 	</e>
-	<e meta="03">
+	<e meta="04">
 		<lg>
 			<l pos="n">åskk</l>
 		</lg>
@@ -17128,6 +17131,14 @@
 			<book name="kurss" lesson="phon"/>
 		</sources>
 		<mg>
+			<semantics>
+				<sem class="HUMAN">PEOPLE</sem>
+				<sem class="SENSE">EMOTION</sem>
+				<sem class="HUMAN">RELIGION</sem>
+			</semantics>
+			<tg xml:lang="eng">
+				<t pos="n">believe</t>
+			</tg>
 			<tg xml:lang="rus">
 				<t pos="n">вера</t>
 			</tg>
@@ -17137,11 +17148,6 @@
 			<tg xml:lang="nob">
 				<t pos="n">tro</t>
 			</tg>
-			<semantics>
-				<sem class="HUMAN">PEOPLE</sem>
-				<sem class="SENSE">EMOTION</sem>
-				<sem class="HUMAN">RELIGION</sem>
-			</semantics>
 		</mg>
 	</e>
 	<e meta="03">
@@ -17373,7 +17379,7 @@
 			</semantics>
 		</mg>
 	</e>
-	<e meta="03">
+	<e meta="04">
 		<lg>
 			<l pos="n">ååˊres</l>
 		</lg>
@@ -17381,19 +17387,24 @@
 			<book name="kurss" lesson="phon"/>
 		</sources>
 		<mg term="REINDEER">
-			<tg xml:lang="rus">
-				<t pos="n">самец</t>
-			</tg>
-			<tg xml:lang="fin">
-				<t pos="xxx">xxx</t>
-			</tg>
-			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
-			</tg>
 			<semantics>
 				<sem class="ZOO">MAMMAL</sem>
 				<sem class="WORK">ECONOMY</sem>
 			</semantics>
+			<tg xml:lang="deu">
+				<t pos="n" term="zool">Männchen</t>
+				<tr>Rentier</tr>
+			</tg>
+			<tg xml:lang="rus">
+				<t pos="n" term="zool">самец</t>
+				<tr>олень</tr>
+			</tg>
+			<tg xml:lang="fin">
+				<t pos="n">uros</t>
+			</tg>
+			<tg xml:lang="nob">
+				<t pos="n" term="zool">hann</t>
+			</tg>
 		</mg>
 	</e>
 	<e meta="04">
