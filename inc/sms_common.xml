@@ -14338,13 +14338,13 @@
 		<mg>
 			<tg xml:lang="rus">
 				<t pos="v">венчать</t>
-				<t pos="v">обвенчать</t>
+				<t pos="v" oahpa="pref">обвенчать</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="xxx">xxx</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="xxx">xxx</t>
+				<t pos="v">gifte</t>
 			</tg>
 			<tg xml:lang="eng">
 				<t pos="xxx">xxx</t>
