@@ -12385,13 +12385,16 @@
 				<sem class="HUMAN">SOCIAL</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="n">огонь</t>
+				<t pos="n" oahpa="pref">огонь</t>
+				<t pos="n">костёр</t>
+				<t pos="n">костер</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">tuli</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="n">ild</t>
+				<t pos="n" oahpa="pref">ild</t>
+				<t pos="n">bål</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="n">то̄лл</t>
@@ -12403,7 +12406,9 @@
 				<t pos="n">dålla</t>
 			</tg>
 			<tg xml:lang="eng">
-				<t pos="n">fire</t>
+				<t pos="n" oahpa="pref">fire</t>
+				<t pos="n">campfire</t>
+				<t pos="n">bonfire</t>
 			</tg>
 			<tg xml:lang="deu">
 				<t pos="n">Feuer</t>
