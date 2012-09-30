@@ -11174,7 +11174,8 @@
 				<t pos="xxx">koivu</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">берёза</t>
+				<t pos="n" oahpa="pref">берёза</t>
+				<t pos="n">береза</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
@@ -14931,7 +14932,8 @@
 				<t pos="xxx">vasa</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">телёнок</t>
+				<t pos="n" oahpa="pref">телёнок</t>
+				<t pos="n">теленок</t>
 				<tr>оленя</tr>
 			</tg>
 			<tg xml:lang="nob">
@@ -15105,6 +15107,7 @@
 				<x>vueˊlǧǧep!</x>
 				<xtg xml:lang="rus">
 					<xt pos="v">пойдём!</xt>
+					<xt pos="v">пойдем!</xt>
 				</xtg>
 			</xg>
 			<xg oahpa="excl" kurss="yes">
@@ -15114,6 +15117,7 @@
 				</xtg>
 				<xtg xml:lang="rus">
 					<xt pos="xxx">пойдём что ли</xt>
+					<xt pos="xxx">пойдем что ли</xt>
 				</xtg>
 				<xtg xml:lang="rus">
 					<xt pos="xxx">уходим что ли</xt>
@@ -16106,7 +16110,8 @@
 		</sources>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="adv">ещё</t>
+				<t pos="adv" oahpa="pref">ещё</t>
+				<t pos="adv">еще</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="adv">vielä</t>
@@ -19032,7 +19037,8 @@
 				<t pos="xxx">matto</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="xxx">ковёр</t>
+				<t pos="n" oahpa="pref">ковёр</t>
+				<t pos="n">ковер</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="xxx">xxx</t>
