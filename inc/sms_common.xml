@@ -2479,7 +2479,8 @@
 				<t pos="n">lentsikka</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="n">самолёт</t>
+				<t pos="n" oahpa="pref">самолёт</t>
+				<t pos="n">самолет</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="n">girdi</t>
@@ -2710,7 +2711,8 @@
 				<t pos="n">ice</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="n">лёд</t>
+				<t pos="n" oahpa="pref">лёд</t>
+				<t pos="n">лед</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">jää</t>
@@ -5573,7 +5575,8 @@
 		</sources>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="n">сёмга</t>
+				<t pos="n" oahpa="pref">сёмга</t>
+				<t pos="n">семга</t>
 				<t pos="n">лосос</t>
 			</tg>
 			<tg xml:lang="fin">
@@ -6222,7 +6225,8 @@
 		</sources>
 		<mg>
 			<tg xml:lang="rus">
-				<t pos="n">тётя</t>
+				<t pos="n" oahpa="pref">тётя</t>
+				<t pos="n">тетя</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">täti</t>
@@ -8430,6 +8434,7 @@
 			<tg xml:lang="rus">
 				<t pos="n" oahpa="pref">перо</t>
 				<t pos="n">пёрышко</t>
+				<t pos="n">перышко</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">sulka</t>
@@ -8476,6 +8481,7 @@
 			<tg xml:lang="rus">
 				<t pos="n" oahpa="pref">перо</t>
 				<t pos="n">пёрышко</t>
+				<t pos="n">перышко</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">sulka</t>
@@ -8519,6 +8525,7 @@
 			<tg xml:lang="rus">
 				<t pos="n" oahpa="pref">перо</t>
 				<t pos="n">пёрышко</t>
+				<t pos="n">перышко</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="n">sulka</t>
@@ -8682,7 +8689,8 @@
 				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="pro">всё</t>
+				<t pos="pro" oahpa="pref">всё</t>
+				<t pos="pro">все</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="pro">пугк</t>
@@ -8867,7 +8875,8 @@
 				<t pos="a">warm</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="тёпел">тёплый</t>
+				<t pos="a:attr" pred="тёпел" oahpa="pref">тёплый</t>
+				<t pos="a:attr" pred="тёпел">теплый</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a:u" n="varmt" pl="varme">varm</t>
@@ -9082,6 +9091,7 @@
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="n" oahpa="pref">ребёнок</t>
+				<t pos="n">ребенок</t>
 				<t pos="n">дитя</t>
 				<t pos="n">малыш</t>
 			</tg>
@@ -9786,7 +9796,8 @@
 				<tr>anything but plants</tr>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="зелён">зелёный</t>
+				<t pos="a:attr" pred="зелён" oahpa="pref">зелёный</t>
+				<t pos="a:attr" pred="зелён">зеленый</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">grønn</t>
@@ -9825,7 +9836,8 @@
 				<sem class="BOT">GRASS</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a">зелёный</t>
+				<t pos="a" oahpa="pref">зелёный</t>
+				<t pos="a">зеленый</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a" oahpa="pref">vihanta</t>
@@ -14495,7 +14507,8 @@
 				<t pos="a">keltainen</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="жёлт">жёлтый</t>
+				<t pos="a:attr" pred="жёлт" oahpa="pref">жёлтый</t>
+				<t pos="a:attr" pred="жёлт">желтый</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a:u" n="gult" pl="gule">gul</t>
@@ -17923,7 +17936,9 @@
 			</semantics>
 			<tg xml:lang="rus">
 				<t pos="a:attr" oahpa="pref" pred="чёрен">чёрный</t>
-				<t pos="a:attr" pred="тёмен">тёмный</t>
+				<t pos="a:attr" pred="чёрен">черный</t>
+				<t pos="a:attr" pred="тёмен">темный</t>
+				<t pos="a:attr" pred="тёмен">темный</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="a:attr" pred="чоаһпэ">чоаһпесь</t>
@@ -20648,7 +20663,8 @@
 				<t pos="v">freeze</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="v" imperf="замёрзнуть">мёрзнуть</t>
+				<t pos="v" imperf="замёрзнуть" oahpa="pref">мёрзнуть</t>
+				<t pos="v" imperf="замёрзнуть">мерзнуть</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="v">fryse</t>
@@ -20822,7 +20838,8 @@
 				<t pos="v">freeze</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="v" imperf="замёрзнуть">мёрзнуть</t>
+				<t pos="v" imperf="замёрзнуть" oahpa="pref">мёрзнуть</t>
+				<t pos="v" imperf="замёрзнуть">мерзнуть</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="v">fryse</t>
@@ -21163,7 +21180,8 @@
 				<t pos="a">hard</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a">твёрдый</t>
+				<t pos="a" oahpa="pref">твёрдый</t>
+				<t pos="a">твердый</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">hard</t>
@@ -22001,7 +22019,8 @@
 				<t pos="a">warm</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a">тёплый</t>
+				<t pos="a" oahpa="pref">тёплый</t>
+				<t pos="a">теплый</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">varm</t>
@@ -24281,7 +24300,8 @@
 				<t pos="n">rope</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="n">верёвка</t>
+				<t pos="n" oahpa="pref">верёвка</t>
+				<t pos="n">веревка</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="n">tau</t>
