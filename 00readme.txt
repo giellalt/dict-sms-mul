@@ -145,6 +145,15 @@ subtype!
 2. some "proprietary" labels for pos-values: I would stick to the common naming
    used in gt: 'pr' instead of 'pop'; what is the difference between 'adv' and 'adp'?
 
+3. semi-structured text fields in the translations are not allowed: when reverting
+   the dict these would become lemma forms in entries.
+
+         <tg xml:lang="rus">
+            <t pos="xxx">под (куда)</t>
+         </tg>
+
+
+
 However, I split the file into pos but it is better to correct the pos values and
 after that I can split it anew. As for refreshing the Oahpa-db, I would wait until you
 do these corrections: otherwise, I have to revert it again and again, and tou have not only
