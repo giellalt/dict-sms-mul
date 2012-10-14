@@ -109,6 +109,8 @@ The planned overnext version of smsoahpa will include all entries tagged with
 
 Perhaps we also need intermediate steps for compiling the overnext smsoahpas.
 
+ @cip: yes, indeed!
+
 =====
 Pronouns
 =====
@@ -129,5 +131,16 @@ Synonyms
 =====
 cf. variants such as occanj ≠ [derived] occnja and occanj ≠ [synonym] simmna; These variants are listed as own lemmata, but I have stopped tagging them as <synonyms>
 
+=======
+some cip-comments:
+
+a:pred_sms2X.xml	con_sms2X.xml		num_sms2X.xml		pro_sms2X.xml
+a_sms2X.xml		cs_sms2X.xml		ord_sms2X.xml		v_sms2X.xml
+abbr_sms2X.xml		interj_sms2X.xml	pcle_sms2X.xml
+adp_sms2X.xml		n:dim_sms2X.xml	
+
+1. complex attribute values such as a:pred and n:dim be better split into attribute and
+subtype!
+=======
 
 
