@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sms">
+   <e meta="03">
+      <lg>
+         <l pos="pcle">-a</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg kurss="yes">
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <xg oahpa="excl" kurss="yes">
+            <x type="xxx" pos="pcle">naa-a</x>
+            <xtg xml:lang="rus">
+               <xt pos="mwe">да есть</xt>
+            </xtg>
+            <xtg xml:lang="fin">
+               <xt pos="mwe">kylä on</xt>
+            </xtg>
+            <xtg xml:lang="nob">
+               <xt pos="xxx">xxx</xt>
+            </xtg>
+         </xg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="pcle">-i</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="pcle">ведь</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="pcle">же</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pcle">-pa</t>
+            <t pos="pcle">-pä</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pcle">-han</t>
+            <t pos="pcle">-hän</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="pcle">-tâma</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t labial="-pa">-pä</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t labial="-han">-hän</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">ведь</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="pcle">naa</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <xg oahpa="excl" kurss="no">
+            <x pos="pcle">naa-a</x>
+            <xtg xml:lang="rus">
+               <xt pos="xxx">да есть</xt>
+            </xtg>
+            <xtg xml:lang="fin">
+               <xt pos="sss">kylä on</xt>
+            </xtg>
+            <xtg xml:lang="nob">
+               <xt pos="xxx">xxx</xt>
+            </xtg>
+         </xg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="pcle">nuˊtt</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="pcle">так</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pcle">niin</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="pcle">så</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="pcle">teˊl</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">silloin, sitten</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">тогда</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="pcle">še</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="pcle">тоже</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="pcle">также</t>
+            <t pos="pcle">тоже</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pcle">mjös</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pcle">-kin</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="pcle">også</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+</r>

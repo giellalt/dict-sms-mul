@@ -1,0 +1,1718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sms">
+   <e meta="01">
+      <lg>
+         <l pos="adv">domoi</l>
+         <etymology>
+            <etymon type="loan" source="rus">домой</etymon>
+         </etymology>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="adv">homeward</t>
+            <te>towards home</te>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">kotiin</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">ruoktiin</t>
+            <t pos="adv">ruoktot</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">домой</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="adv">heim</t>
+            <t pos="xxx">nach Hause</t>
+         </tg>
+         <semantics>
+            <sem class="SPACE">MOTION</sem>
+            <sem class="HUMAN">FAMILY</sem>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">dååma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="xxx">at home</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">kotona</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">ruovttus</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">дома</t>
+         </tg>
+         <semantics>
+            <sem class="HUMAN">FAMILY</sem>
+            <sem class="SPACE">POSITION</sem>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="adv">eeˊđeld</l>
+         <lv variant="dial" source="1991">eeˊđääld</lv>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="TIME">CYCLE</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="mwe">in the morning</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">aamulla</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">iđđes</t>
+            <t pos="adv">iđđedis</t>
+            <t pos="adv">iđedis</t>
+         </tg>
+         <tg xml:lang="smn">
+            <t pos="adv">iiđeed</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">ekka</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="xxx">at night</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">hääˊrveld</l>
+         <synonym>häˊrvv</synonym>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="adv">rarely</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">harvoin</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">hárve</t>
+         </tg>
+         <tg xml:lang="smn">
+            <t pos="adv">härvi</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">jeäˊǩǩää</l>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="xxx">in the evening</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">illalla</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">jâđđa</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="TIME">POINT</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="adv">завтра</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">huomenna</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="mwe">i morgen</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">tomorrow</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">ihttin</t>
+         </tg>
+         <xg oahpa="excl" kurss="no">
+            <x pos="mwe">mâŋŋa jââđast</x>
+            <xtg xml:lang="eng">
+               <xt pos="mwe">the day after tomorrow</xt>
+            </xtg>
+            <xtg xml:lang="deu">
+               <xt pos="adv">übermorgen</xt>
+            </xtg>
+            <xtg xml:lang="rus">
+               <xt pos="adv">послезавтра</xt>
+            </xtg>
+         </xg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="adv">koˊst</l>
+         <etymology>
+            <etymon type="xxx" source="uralic">ku-</etymon>
+            <cognate xml:lang="xxx"/>
+            <note>derivation</note>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+         <book name="200" BEDLAN_ID="192"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SPACE">POSITION</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="mwe_adv">where at</t>
+            <t pos="adv" oahpa="pref">where</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">missä</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">где</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">gos</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">где</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">hvor</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">güssnè</t>
+         </tg>
+      </mg>
+      <mg>
+         <semantics>
+            <sem class="SPACE">POSITION</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adv" style="obs" oahpa="excl">whence</t>
+            <t pos="mwe_adv">from where</t>
+            <t pos="mwe_adv" oahpa="pref">wherefrom</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">mistä</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">откуда</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="mwe_adv">hvor fra</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">gos</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">kuus</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="xxx">to where</t>
+            <t pos="adv">whither</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">mihin</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">minne</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">kuärǥast</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="phon"/>
+      </sources>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="adv">весело</t>
+            <t pos="adv">радостно</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <semantics>
+            <sem class="SENSE">EMOTION</sem>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">miâlggâd</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="adv">довольно-таки</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">сравнительно</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">относительно</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">melko</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">snarere</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">määˊnn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="adv">why</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">miksi</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="adv">mäˊhtt</l>
+         <lv variant="dial" source="ksdp">mohtt</lv>
+         <etymology>
+            <etymon type="xxx" source="uralic">mɜ</etymon>
+            <cognate xml:lang="xxx"/>
+            <note>derivation</note>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+         <book name="200" BEDLAN_ID="79"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SENSE">COGNITION</sem>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="adv">kuinka</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">как</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">hvordan</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">how</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">govt</t>
+            <t pos="adv">mō</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">maktè</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">occanj</l>
+         <lv variant="dial" source="1991">õccanj</lv>
+         <synonym>occnja</synonym>
+         <synonym>simmna</synonym>
+         <audio>
+            <a dialect="muo" speaker="ZMN"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111211_ZMN_5.wav"/>
+            <a dialect="peä" speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111219_KJ_1.wav"/>
+         </audio>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="phon"/>
+         <book name="200" BEDLAN_ID="48"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="adv" oahpa="pref">чуть-чуть</t>
+            <t pos="adv" oahpa="excl">чуточку</t>
+            <t pos="adv">немного</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">vähän</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">litt</t>
+            <t pos="mwe_adv">en smule</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv" oahpa="pref">somewhat</t>
+            <t pos="mwe_adv">a little bit</t>
+         </tg>
+         <tg xml:lang="sjd">
+            <t pos="adv">ва̄нас</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">veahá</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">gille</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="adv" oahpa="dispref">occnja</l>
+         <lv variant="dial" source="1991">õccnja</lv>
+         <synonym>occanj</synonym>
+         <synonym>simmna</synonym>
+      </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="48"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="adv" oahpa="pref">чуть-чуть</t>
+            <t pos="adv" oahpa="excl">чуточку</t>
+            <t pos="adv">немного</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">vähän</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">litt</t>
+            <t pos="mwe_adv">en smule</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv" oahpa="pref">somewhat</t>
+            <t pos="mwe_adv">a little bit</t>
+         </tg>
+         <tg xml:lang="sjd">
+            <t pos="adv">ва̄нас</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">veahá</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">gille</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">sami</l>
+         <etymology>
+            <etymon type="loan" source="rus">самый</etymon>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="adv">очень</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">hyvin</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">oikein</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">mye</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">sõrgg</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">pian</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">скоро</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">taa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="adv">here</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">taˊnni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="xxx">this year</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">tänä vuonna</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="xxx">dán jagi</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">teimma</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="xxx">last year</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">viime vuonna</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">diibmá</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">tiiˊǩ</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">tänne</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">сюда</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">tiõrvân</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="adv">здорово</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">terveenä</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">sunt</t>
+         </tg>
+         <xg oahpa="excl" kurss="no">
+            <x pos="xxx">kuõđđu tiõrvân!</x>
+            <xtg xml:lang="rus">
+               <xt>до свидания!</xt>
+               <xtr>тому, кто будь здоров!</xtr>
+            </xtg>
+            <xtg xml:lang="rus">
+               <xt>näkemiin!</xt>
+               <xtr>jäävälle = jää terveenä!</xtr>
+            </xtg>
+         </xg>
+         <xg oahpa="excl" kurss="no">
+            <x pos="xxx">mõõn tiõrvân!</x>
+            <xtg xml:lang="rus">
+               <xt>до свидания!</xt>
+               <xtr>уходящему, t.e. счастливо добраться!</xtr>
+            </xtg>
+            <xtg xml:lang="rus">
+               <xt>Näkemiin!</xt>
+               <xtr>lähtijälle = Mene terveenä!</xtr>
+            </xtg>
+         </xg>
+         <semantics>
+            <sem class="BODY">HEALTH</sem>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">tiõttlõs</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">tietenkin</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">известно</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">tok</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">sinne</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">туда</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">tuõđi</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">todella, tosiaan</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">на самом деле, вправду</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">tälvva</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="xxx">in the winter</t>
+            <t pos="xxx">in winter</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">talvella</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">täujja</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">usein</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">часто</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="adv" oahpa="pref">tääiˊben</l>
+         <synonym>tääiˊb</synonym>
+         <etymology>
+            <etymon type="inher" source="uralic">tä-</etymon>
+            <cognate xml:lang="xxx"/>
+            <note>derivation</note>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="75"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SPACE">POSITION</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="adv">здесь</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">her</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">here</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">täällä</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">dáppe</t>
+            <t pos="adv">dá</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">dàdnee</t>
+         </tg>
+      </mg>
+      <mg>
+         <semantics>
+            <sem class="SPACE">MOTION</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="adv">отсюда</t>
+         </tg>
+         <tg xml:lang="ноб">
+            <t pos="adv">herfra</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="mwe_adv">from here</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">täältä</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">dáppe</t>
+            <t pos="adv">dá</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">dàdnee</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="adv">tääiˊb</l>
+         <synonym>tääiˊben</synonym>
+         <etymology>
+            <etymon type="inher" source="uralic">tä-</etymon>
+            <cognate xml:lang="xxx"/>
+            <note>derivation</note>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="75"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SPACE">POSITION</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="adv">здесь</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">her</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">here</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">täällä</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">dáppe</t>
+            <t pos="adv">dá</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">dàdnee</t>
+         </tg>
+      </mg>
+      <mg>
+         <semantics>
+            <sem class="SPACE">MOTION</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="adv">отсюда</t>
+         </tg>
+         <tg xml:lang="ноб">
+            <t pos="adv">herfra</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="mwe_adv">from here</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">täältä</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">dáppe</t>
+            <t pos="adv">dá</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">dàdnee</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">tääˊl</l>
+         <synonym>ååˊn</synonym>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="adv">now</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">täˊbbe</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="adv">сегодня</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">tänään</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">i dag</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">odne</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">today</t>
+         </tg>
+         <semantics>
+            <sem class="TIME">CYCLE</sem>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">täˊst</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="adv">здесь</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">tässä</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">her</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">here</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="adv">tåˊben</l>
+         <lv variant="dial" source="1991">toˊben</lv>
+         <etymology>
+            <etymon type="inher" source="uralic">to-</etymon>
+            <cognate xml:lang="xxx"/>
+            <note>derivation</note>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+         <book name="200" BEDLAN_ID="169"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SPACE">POSITION</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adv">there</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">там</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">der</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv" oahpa="pref">siellä</t>
+            <t pos="adv">tuolla</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">dos</t>
+            <t pos="adv">duos</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">duggù</t>
+         </tg>
+      </mg>
+      <mg>
+         <semantics>
+            <sem class="SPACE">MOTION</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="mwe_adv">from there</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv" oahpa="pref">оттуда</t>
+            <t pos="mwe_adv">от там</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">derfra</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv" oahpa="pref">sieltä</t>
+            <t pos="adv">tuolta</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">dos</t>
+            <t pos="adv">duos</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">duggù</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="adv">tõˊnt</l>
+         <synonym>tõndiõtt</synonym>
+         <etymology>
+            <etymon type="inher" source="saamic">te̮</etymon>
+            <cognate xml:lang="xxx"/>
+            <note>derivation</note>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+         <book name="200" BEDLAN_ID="9"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SENSE">COGNITION</sem>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="adv">siksi</t>
+            <te>sen takia</te>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv" oahpa="pref">therefore</t>
+            <te>for that reason</te>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="mwe_adv">that's why</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">поэтому</t>
+            <te>по этой причине</te>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">derfor</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">danne</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">diaht</t>
+            <t pos="adv">diahta</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="adv">tõndiõtt</l>
+         <synonym>tõˊnt</synonym>
+         <etymology>
+            <etymon type="inher" source="saamic">te̮</etymon>
+            <cognate xml:lang="xxx"/>
+            <note>derivation</note>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+         <book name="200" BEDLAN_ID="9"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SENSE">COGNITION</sem>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="mwe_adv" oahpa="pref">sen takia</t>
+            <t pos="adv">siksi</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="mwe_adv" oahpa="pref">for that reason</t>
+            <t pos="adv">therefore</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="mwe_adv">that's why</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="mwe_adv" oahpa="pref">по этой причине</t>
+            <t pos="adv">поэтому</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">derfor</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">danne</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">diaht</t>
+            <t pos="adv">diahta</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">uˊccbõššán</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="adv">less</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">vähemmän</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">viiššlânji</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">ahkerastit</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">усердно</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">vuâsti</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">varmaan, varmasti</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">наверно</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">vuõššân</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">ensin, ensiksi</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">во-первых, сначала</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">võl</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="adv" oahpa="pref">ещё</t>
+            <t pos="adv">еще</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">vielä</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">mer</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="adv">âˊldd-</l>
+         <note>bound root of ââld(a)</note>
+      </lg>
+      <mg>
+         <xg oahpa="excl" kurss="no">
+            <x pos="n">âˊlddpuäʒʒ</x>
+            <xtg xml:lang="fin">
+               <xt>käsiporo</xt>
+               <te>joka on aina käsillä</te>
+            </xtg>
+         </xg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="adv">ââlda</l>
+         <lv variant="dial" source="1991">ââld</lv>
+         <etymology>
+            <etymon type="inher" source="U?">wülä</etymon>
+            <etymon type="inher" source="FU">wülä</etymon>
+            <cognate xml:lang="xxx"/>
+            <note>derivation</note>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="108"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SPACE">POSITION</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="adv" oahpa="pref">близко</t>
+            <t pos="adv">недалеко</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv" oahpa="pref">near</t>
+            <t pos="adv">nearby</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv" oahpa="pref">lähellä</t>
+            <t pos="adv">lähelle</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">lahka</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">lahka</t>
+         </tg>
+      </mg>
+      <mg oahpa="excl">
+         <tg xml:lang="fin">
+            <t pos="adv">läheltä</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">ååˊn</l>
+         <lv variant="dial" source="1991">ââˊn</lv>
+         <synonym>tääˊl</synonym>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="TIME">POINT</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="adv">теперь</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">nyt</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">nå</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">dal</t>
+            <t pos="adv">dál</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">now</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">ålggan</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="adv">outside</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">ulkona</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">åuggan</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="adv">ulkona</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="mwe">на улица</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">ute</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">åålǥas</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="xxx">to outside</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">ulos</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">õhttu</l>
+         <audio>
+            <a dialect="muo" speaker="ZMN"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111211_ZMN_5.wav"/>
+            <a dialect="xxx" speaker="EL"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav"/>
+         </audio>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="phon"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="HUMAN">PEOPLE</sem>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="adv">один</t>
+            <te>только</te>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">yksin</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">alone</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">õiˊdde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="xxx">a short while ago</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">čuõˊttešt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="xxx">one hundred times</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">čâhčča</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="xxx">in the fall</t>
+            <t pos="xxx">in fall</t>
+            <t pos="xxx">in the autumn</t>
+            <t pos="xxx">in autumn</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">čõõuči</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="xxx">every fall</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="xxx">every autumn</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="adv">šiõǥǥ</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="HUMAN">PEOPLE</sem>
+            <sem class="SENSE">EMOTION</sem>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">hyvä</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">хорошо</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">ǩeâđˈđa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="xxx">in the spring</t>
+            <t pos="xxx">in spring</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">keväällä</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="adv">ǩeässa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="xxx">in the summer</t>
+            <t pos="xxx">in summer</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">kesällä</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">suvella</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="05">
+      <lg>
+         <l pos="adv">jåhtta</l>
+         <etymology>
+            <etymon type="xxx" source="finnosaamic">ektɤ̈-</etymon>
+            <cognate xml:lang="xxx"/>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="213"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="TIME">POINT</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adv">yesterday</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">вчера</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">igår</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">eilen</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">ikte</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">jukˈta</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="05">
+      <lg>
+         <l pos="adv">kuˊǩǩen</l>
+         <etymology>
+            <etymon type="xxx" source="saamic">kuhkē</etymon>
+            <cognate xml:lang="xxx"/>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="43"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SPACE">RELATION</sem>
+            <sem class="WORK">TRAVEL</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adv">far</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">далеко</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">langt</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">kaukana</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">guhkkin</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">meälˈgada</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="05">
+      <lg>
+         <l pos="adv">kuäˊss</l>
+         <etymology>
+            <etymon type="xxx" source="finnosaamic">ko+nsa</etymon>
+            <cognate xml:lang="xxx"/>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="191"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="TIME">POINT</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adv">when</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">когда</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">når</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv" oahpa="pref">milloin</t>
+            <t pos="adv">koska</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">goas</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">gåssee</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="05">
+      <lg>
+         <l pos="adv">luˊnn</l>
+         <etymology>
+            <etymon type="inher" source="finnosaamic?">lō+na</etymon>
+            <cognate xml:lang="xxx"/>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="108"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SPACE">RELATION</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adv">near</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">окола</t>
+            <t pos="adv" oahpa="pref">рядом</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">nær</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">lähellä</t>
+         </tg>
+         <tg xml:lang="sjd">
+            <t pos="adv">луннь</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">lahka</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">lahka</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="05">
+      <lg>
+         <l pos="adv">seˊst</l>
+         <etymology>
+            <etymon type="loan" source="finnic">*sisä</etymon>
+            <cognate xml:lang="xxx"/>
+         </etymology>
+      </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="85"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SPACE">POSITION</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adv" oahpa="pref">in</t>
+            <t pos="adv">inside</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">внутри</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">inne</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">sisällä</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">siste</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">sissnee</t>
+         </tg>
+      </mg>
+      <mg>
+         <semantics>
+            <sem class="SPACE">MOTION</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adv">out</t>
+            <t pos="mwe_adv">from inside</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">ut</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">изнутри</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">sisältä</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">siste</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">sissnee</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="adv" oahpa="dispref">simmna</l>
+         <lv variant="dial" source="1991">siõmˈmna</lv>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+         <book name="200" BEDLAN_ID="48"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="adv">чуть-чуть</t>
+            <t pos="adv" oahpa="excl">чуточку</t>
+            <t pos="adv" oahpa="pref">немного</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">vähän</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">litt</t>
+            <t pos="mwe_adv">en smule</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv" oahpa="pref">somewhat</t>
+            <t pos="mwe_adv">a little bit</t>
+         </tg>
+         <tg xml:lang="sjd">
+            <t pos="adv">ва̄нас</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="adv">hárvvis</t>
+            <t pos="adv">uhccán</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="adv">gille</t>
+         </tg>
+      </mg>
+   </e>
+</r>

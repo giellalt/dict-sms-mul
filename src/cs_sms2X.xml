@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sms">
+   <e meta="03">
+      <lg>
+         <l pos="cs">ko</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="cs">поскольку</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="cs">потому что</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="cs">kun</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="cs">koska</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="cs">fordi</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="adv">когда</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+</r>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sms">
+   <e meta="03">
+      <lg>
+         <l pos="interj">späˊsseb</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="HUMAN">PEOPLE</sem>
+            <sem class="SENSE">EMOTION</sem>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">kiitos</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">спасибо</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">takk</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="interj">tiõrv</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="HUMAN">PEOPLE</sem>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="interj">terve</t>
+            <t pos="interj">päivää</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="interj">привет</t>
+            <t pos="mwe">добрый день</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="interj">hei</t>
+            <t pos="mwe">god dag</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="interj">tiõrvvsa</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="HUMAN">SOCIAL</sem>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">ole hyvä (vastauksena kiitokseen)</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">пожалуйста; не стоит благодарности (в ответ на изъявление
+					благодарности)</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+</r>

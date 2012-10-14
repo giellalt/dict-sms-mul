@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sms">
+   <e meta="04">
+      <lg>
+         <l pos="abbr">mn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="abbr">ov</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">opintoviikko</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="abbr">mâ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="abbr">ti</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">tiistai</t>
+         </tg>
+         <xg oahpa="excl" kurss="no">
+            <x pos="xxx">älgg mâ 15.11.11 č 17.00</x>
+            <xtg xml:lang="fin">
+               <xt pos="ххх">alkaen ti 15.11.11 klo 17.00</xt>
+            </xtg>
+         </xg>
+         <semantics>
+            <sem class="TIME">CYCLE</sem>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="abbr">č</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="abbr">h</t>
+         </tg>
+         <xg oahpa="excl" kurss="no">
+            <x pos="xxx">40 č</x>
+            <xtg xml:lang="fin">
+               <xt pos="ххх">40 h</xt>
+               <xt pos="ххх">40 tuntia</xt>
+            </xtg>
+         </xg>
+         <semantics>
+            <sem class="TIME">UNIT</sem>
+         </semantics>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="abbr">klo</t>
+         </tg>
+         <xg oahpa="excl" kurss="no">
+            <x pos="xxx">č 17.00</x>
+            <xtg xml:lang="fin">
+               <xt pos="ххх">klo 17.00</xt>
+            </xtg>
+         </xg>
+         <semantics>
+            <sem class="TIME">UNIT</sem>
+         </semantics>
+      </mg>
+   </e>
+</r>
