@@ -2730,7 +2730,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a:pred">joorbâs</l>
+			<l pos="a" type="pred">joorbâs</l>
 			<der gloss="attr">jorbb</der>
 			<etymology>
 				<etymon type="inher" source="saamic">jorpe̮</etymon>
@@ -2746,10 +2746,10 @@
 				<sem class="SPACE">RELATION</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="кругл">круглый</t>
+				<t pos="a" type="attr" pred="кругл">круглый</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:аttr" pred="ёррпэ">ёррп</t>
+				<t pos="a" type="attr" pred="ёррпэ">ёррп</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">pyöreä</t>
@@ -2764,12 +2764,12 @@
 				<t pos="a">rund</t>
 			</tg>
 			<tg xml:lang="sme">
-				<t pos="a:att">jorbbas</t>
-				<t pos="a:pred">jorbat</t>
+				<t pos="a" type="attr">jorbbas</t>
+				<t pos="a" type="pred">jorbat</t>
 			</tg>
 			<tg xml:lang="sju">
-				<t pos="a:attr">jårbs</t>
-				<t pos="a:pred">jårˈbada</t>
+				<t pos="a" type="attr">jårbs</t>
+				<t pos="a" type="pred">jårˈbada</t>
 				<t pos="a">mulˈlòda</t>
 			</tg>
 		</mg>
@@ -4309,7 +4309,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a:pred">kuˊǩǩ</l>
+			<l pos="a" type="pred">kuˊǩǩ</l>
 			<der gloss="attr">kuˊǩes</der>
 			<etymology>
 				<etymon type="inher" source="saamic">kukkē</etymon>
@@ -4327,10 +4327,10 @@
 				<sem class="HUMAN">PEOPLE</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="длинен">длинный</t>
+				<t pos="a" type="attr" pred="длинен">длинный</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:attr" pred="куһкь">кугкесь</t>
+				<t pos="a" type="attr" pred="куһкь">кугкесь</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">pitkä</t>
@@ -4752,7 +4752,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a:pred">kååˊšǩes</l>
+			<l pos="a" type="pred">kååˊšǩes</l>
 			<der gloss="attr">kåˊšǩǩ-</der>
 			<etymology>
 				<etymon type="inher" source="uralic">kuśka</etymon>
@@ -4770,7 +4770,7 @@
 				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="сух">сухой</t>
+				<t pos="a" type="attr" pred="сух">сухой</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="a">коашшьк</t>
@@ -4785,7 +4785,7 @@
 				<t pos="a">trocken</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a:utr" n="tørt" pl="tørre">tørr</t>
+				<t pos="a" n="tørt" pl="tørre">tørr</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">goikkis</t>
@@ -4941,7 +4941,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a:pred">kõõumâs</l>
+			<l pos="a" type="pred">kõõumâs</l>
 			<der gloss="attr">kõumm</der>
 			<lv variant="dial" source="1991">kõõlmâs</lv>
 			<etymology>
@@ -4960,10 +4960,10 @@
 				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr">холодный</t>
+				<t pos="a" type="attr">холодный</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:attr" pred="кэлмас">кэ̄ллм</t>
+				<t pos="a" type="attr" pred="кэлмас">кэ̄ллм</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">kylmä</t>
@@ -7666,7 +7666,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a:pred">oođâs</l>
+			<l pos="a" type="pred">oođâs</l>
 			<der gloss="attr">ođđ</der>
 			<etymology>
 				<etymon type="inher" source="finnougric">wuδˊe</etymon>
@@ -7683,7 +7683,7 @@
 				<sem class="TIME">UNIT</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="нов">новый</t>
+				<t pos="a" type="attr" pred="нов">новый</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="a">о̄дт</t>
@@ -7698,7 +7698,7 @@
 				<t pos="a">neu</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a:u" n="nytt" pl="nye">ny</t>
+				<t pos="a" n="nytt" pl="nye">ny</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">ođas</t>
@@ -8854,7 +8854,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">paakkâs</l>
+			<l pos="a" type="pred">paakkâs</l>
 			<der gloss="attr">pakk</der>
 			<etymology>
 				<etymon type="inher" source="kolasaamic"/>
@@ -8875,17 +8875,17 @@
 				<t pos="a">warm</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="тёпел" oahpa="pref">тёплый</t>
-				<t pos="a:attr" pred="тёпел">теплый</t>
+				<t pos="a" type="attr" pred="тёпел" oahpa="pref">тёплый</t>
+				<t pos="a" type="attr" pred="тёпел">теплый</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a:u" n="varmt" pl="varme">varm</t>
+				<t pos="a" n="varmt" pl="varme">varm</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">lämmin</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:attr" pred="поакас">поаһк</t>
+				<t pos="a" type="attr" pred="поакас">поаһк</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">liekkas</t>
@@ -8915,8 +8915,8 @@
 				<sem class="FOOD">DISH</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr">горячий</t>
-				<t pos="a:attr">жаркий</t>
+				<t pos="a" type="attr">горячий</t>
+				<t pos="a" type="attr">жаркий</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">kuuma</t>
@@ -9796,8 +9796,8 @@
 				<tr>anything but plants</tr>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="зелён" oahpa="pref">зелёный</t>
-				<t pos="a:attr" pred="зелён">зеленый</t>
+				<t pos="a" type="attr" pred="зелён" oahpa="pref">зелёный</t>
+				<t pos="a" type="attr" pred="зелён">зеленый</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">grønn</t>
@@ -9876,7 +9876,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">ruõpssâd</l>
+			<l pos="a" type="pred">ruõpssâd</l>
 			<der gloss="attr">ruõˊpsses</der>
 			<etymology>
 				<etymon type="inher" source="saamic">rōpse̮</etymon>
@@ -9892,11 +9892,11 @@
 				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="красен">красный</t>
-				<t pos="a:attr" pred="ал">алый</t>
+				<t pos="a" type="attr" pred="красен">красный</t>
+				<t pos="a" type="attr" pred="ал">алый</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:attr" pred="рӯппсэ">рӯппьсесь</t>
+				<t pos="a" type="attr" pred="рӯппсэ">рӯппьсесь</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">punainen</t>
@@ -9908,7 +9908,7 @@
 				<t pos="a">rot</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a:u" n="røtt" pl="røde">rød</t>
+				<t pos="a" n="røtt" pl="røde">rød</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">ruoksat</t>
@@ -12067,7 +12067,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">tiiudâs</l>
+			<l pos="a" type="pred">tiiudâs</l>
 			<der gloss="attr">tiudd</der>
 			<lv variant="dial" source="1991">tiuddâz</lv>
 			<etymology>
@@ -12086,11 +12086,11 @@
 				<sem class="SENSE">QUANTITY</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr" oahpa="pref">полный</t>
-				<t pos="a:attr">наполненный</t>
+				<t pos="a" type="attr" oahpa="pref">полный</t>
+				<t pos="a" type="attr">наполненный</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:attr" pred="тӣвтас">тӣввт</t>
+				<t pos="a" type="attr" pred="тӣвтас">тӣввт</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a" oahpa="pref">täysi</t>
@@ -12103,7 +12103,7 @@
 				<t pos="a">voll</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a:u" n="fult" pl="fulle">full</t>
+				<t pos="a" n="fult" pl="fulle">full</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">dievva</t>
@@ -13980,13 +13980,13 @@
 				<t pos="a" oahpa="pref">pikkuinen</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr">маленький</t>
+				<t pos="a" type="attr">маленький</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a:u" n="litet" pl="små">liten</t>
+				<t pos="a" n="litet" pl="små">liten</t>
 			</tg>
 			<tg xml:lang="deu">
-				<t pos="a:attr" m="kleiner" pl="kleine">kleine</t>
+				<t pos="a" type="attr" m="kleiner" pl="kleine">kleine</t>
 			</tg>
 			<xg oahpa="excl">
 				<x type="deriv" pos="n">siõmâž</x>
@@ -14004,7 +14004,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a:pred">smaavâs</l>
+			<l pos="a" type="pred">smaavâs</l>
 			<der gloss="attr">smaavv</der>
 			<etymology>
 				<etymon type="loan" source="northgermanic?"/>
@@ -14026,10 +14026,10 @@
 				<t pos="a">small</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr">маленький</t>
+				<t pos="a" type="attr">маленький</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a:u" n="litet" pl="små">liten</t>
+				<t pos="a" n="litet" pl="små">liten</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">pieni</t>
@@ -14069,10 +14069,10 @@
 				<t pos="a">small</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr">маленький</t>
+				<t pos="a" type="attr">маленький</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a:u" n="litet" pl="små">liten</t>
+				<t pos="a" n="litet" pl="små">liten</t>
 			</tg>
 			<tg xml:lang="sjd">
 				<t pos="a">удць</t>
@@ -14485,7 +14485,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a:pred">viskkâd</l>
+			<l pos="a" type="pred">viskkâd</l>
 			<der gloss="attr">viˊsǩǩes</der>
 			<etymology>
 				<etymon type="inher" source="saamic">viske̮</etymon>
@@ -14508,14 +14508,14 @@
 				<t pos="a">keltainen</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="жёлт" oahpa="pref">жёлтый</t>
-				<t pos="a:attr" pred="жёлт">желтый</t>
+				<t pos="a" type="attr" pred="жёлт" oahpa="pref">жёлтый</t>
+				<t pos="a" type="attr" pred="жёлт">желтый</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a:u" n="gult" pl="gule">gul</t>
+				<t pos="a" n="gult" pl="gule">gul</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:attr" pred="руччкэ">руччкесь</t>
+				<t pos="a" type="attr" pred="руччкэ">руччкесь</t>
 			</tg>
 			<tg xml:lang="deu">
 				<t pos="a">gelb</t>
@@ -14530,7 +14530,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a:pred">viõlggâd</l>
+			<l pos="a" type="pred">viõlggâd</l>
 			<der gloss="attr">viõˊlǧǧes</der>
 			<etymology>
 				<etymon type="inher" source="saamic?">välke+δä</etymon>
@@ -14553,16 +14553,16 @@
 				<t pos="a">valkoinen</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr">белый</t>
+				<t pos="a" type="attr">белый</t>
 			</tg>
 			<tg xml:lang="nob">
-				<t pos="a:u" n="hvitt" pl="hvite">hvit</t>
+				<t pos="a" n="hvitt" pl="hvite">hvit</t>
 			</tg>
 			<tg xml:lang="deu">
 				<t pos="a">weiß</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:attr" pred="вӣллкэ">вӣллькесь</t>
+				<t pos="a" type="attr" pred="вӣллкэ">вӣллькесь</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">vielgat</t>
@@ -15353,7 +15353,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a:pred">vuäˊmes</l>
+			<l pos="a" type="pred">vuäˊmes</l>
 			<der gloss="attr">vuäˊmm</der>
 			<etymology>
 				<etymon type="xxx" source="uralic">oma</etymon>
@@ -15373,7 +15373,7 @@
 				<t pos="a">vanha</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="стар">старый</t>
+				<t pos="a" type="attr" pred="стар">старый</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">gammel</t>
@@ -17718,7 +17718,7 @@
 	</e>
 	<e meta="03">
 		<lg>
-			<l pos="n:dim" root="åålm">ooumaž</l>
+			<l pos="n" type="dim" root="åålm">ooumaž</l>
 			<lv variant="dial" source="1991">ååumaž</lv>
 			<audio>
 				<a dialect="muo" speaker="ZMN" href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ooumazh_SKO111210_ZMN.wav"/>
@@ -17924,7 +17924,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a:pred">čappâd</l>
+			<l pos="a" type="pred">čappâd</l>
 			<der gloss="attr">čaˊppes</der>
 			<etymology>
 				<etymon type="inher" source="saamic">ćāppe̮</etymon>
@@ -17940,13 +17940,13 @@
 				<sem class="SENSE">PERCEPTION</sem>
 			</semantics>
 			<tg xml:lang="rus">
-				<t pos="a:attr" oahpa="pref" pred="чёрен">чёрный</t>
-				<t pos="a:attr" pred="чёрен">черный</t>
-				<t pos="a:attr" pred="тёмен">темный</t>
-				<t pos="a:attr" pred="тёмен">темный</t>
+				<t pos="a" type="attr" oahpa="pref" pred="чёрен">чёрный</t>
+				<t pos="a" type="attr" pred="чёрен">черный</t>
+				<t pos="a" type="attr" pred="тёмен">темный</t>
+				<t pos="a" type="attr" pred="тёмен">темный</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:attr" pred="чоаһпэ">чоаһпесь</t>
+				<t pos="a" type="attr" pred="чоаһпэ">чоаһпесь</t>
 			</tg>
 			<tg xml:lang="fin">
 				<t pos="a">musta</t>
@@ -19878,7 +19878,7 @@
 	</e>
 	<e meta="04">
 		<lg>
-			<l pos="a:pred">ââˊzzteˊm</l>
+			<l pos="a" type="pred">ââˊzzteˊm</l>
 			<der gloss="attr">ââˊzzteˊmes</der>
 		</lg>
 		<sources>
@@ -20475,7 +20475,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">hueˊnn</l>
+			<l pos="a" type="pred">hueˊnn</l>
 			<der gloss="attr">hueˊnes</der>
 			<etymology>
 				<etymon type="loan" source="fin">huono</etymon>
@@ -20493,7 +20493,7 @@
 				<t pos="a">bad</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="плохо">плохой</t>
+				<t pos="a" type="attr" pred="плохо">плохой</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a" oahpa="pref">dårlig</t>
@@ -21065,7 +21065,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">kobddi</l>
+			<l pos="a" type="pred">kobddi</l>
 			<der gloss="attr">kobdd</der>
 			<etymology>
 				<etymon type="xxx" source="finnougric">kumte</etymon>
@@ -21083,7 +21083,7 @@
 				<t pos="a">wide</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="широк">широкый</t>
+				<t pos="a" type="attr" pred="широк">широкый</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">bred</t>
@@ -21168,7 +21168,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">kõõrâs</l>
+			<l pos="a" type="pred">kõõrâs</l>
 			<der gloss="attr">kõrr</der>
 			<etymology>
 				<etymon type="xxx" source="finnovolgaic">kirɜ</etymon>
@@ -21205,7 +21205,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">korččai</l>
+			<l pos="a" type="pred">korččai</l>
 			<der gloss="attr">kuˊrčč-</der>
 		</lg>
 		<sources>
@@ -21297,7 +21297,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">kõssâd</l>
+			<l pos="a" type="pred">kõssâd</l>
 			<der gloss="attr">kõss</der>
 			<etymology>
 				<etymon type="xxx" source="finnougric">küse</etymon>
@@ -22006,7 +22006,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">liõggâs</l>
+			<l pos="a" type="pred">liõggâs</l>
 			<der gloss="attr">liōgˈg</der>
 			<etymology>
 				<etymon type="inher" source="saamic">lēŋke̮</etymon>
@@ -22044,7 +22044,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">lossâd</l>
+			<l pos="a" type="pred">lossâd</l>
 			<der gloss="attr">loˊsses</der>
 			<etymology>
 				<etymon type="xxx" source="saamic">losē</etymon>
@@ -22063,7 +22063,7 @@
 				<t pos="a">heavy</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="тяжел">тяжелый</t>
+				<t pos="a" type="attr" pred="тяжел">тяжелый</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">tung</t>
@@ -22072,7 +22072,7 @@
 				<t pos="a">painava</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:attr" pred="ло̄ссэ">ло̄ссесь</t>
+				<t pos="a" type="attr" pred="ло̄ссэ">ло̄ссесь</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">lossat</t>
@@ -22639,7 +22639,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">njuõckâs</l>
+			<l pos="a" type="pred">njuõckâs</l>
 			<der gloss="attr">njuõckk</der>
 			<etymology>
 				<etymon type="xxx" source="finnougric">ńačkɜ</etymon>
@@ -22870,7 +22870,7 @@
 				<t pos="a">bitter</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="горек">горький</t>
+				<t pos="a" type="attr" pred="горек">горький</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">bitter</t>
@@ -22880,7 +22880,7 @@
 				<t pos="a">karvas</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:attr" pred="пыччкар">пыччкрэсь</t>
+				<t pos="a" type="attr" pred="пыччкар">пыччкрэсь</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">rihča</t>
@@ -23749,7 +23749,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">seäˊǧˈǧ</l>
+			<l pos="a" type="pred">seäˊǧˈǧ</l>
 			<der gloss="attr">siẹˊǧǧes</der>
 		</lg>
 		<sources>
@@ -23763,7 +23763,7 @@
 				<t pos="a">narrow</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="тонок">тонкий</t>
+				<t pos="a" type="attr" pred="тонок">тонкий</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">trang</t>
@@ -23773,7 +23773,7 @@
 				<t pos="a">kapea</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:attr" pred="се̄ӈӈьк">се̄ӈькесь</t>
+				<t pos="a" type="attr" pred="се̄ӈӈьк">се̄ӈькесь</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">seaggi</t>
@@ -24052,7 +24052,7 @@
 				<t pos="a">bitter</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="горек">горький</t>
+				<t pos="a" type="attr" pred="горек">горький</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">bitter</t>
@@ -24210,7 +24210,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">sähssai</l>
+			<l pos="a" type="pred">sähssai</l>
 			<der gloss="attr">sähssas</der>
 			<etymology>
 				<etymon type="inher" source="finnopermic">säksä</etymon>
@@ -24240,7 +24240,7 @@
 				<t pos="a">likainen</t>
 			</tg>
 			<tg xml:lang="sjd">
-				<t pos="a:attr">са̄кксай</t>
+				<t pos="a" type="attr">са̄кксай</t>
 			</tg>
 			<tg xml:lang="sme">
 				<t pos="a">nuoski</t>
@@ -24394,7 +24394,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">tåˊlcc</l>
+			<l pos="a" type="pred">tåˊlcc</l>
 			<der gloss="attr">tååˊlces</der>
 			<etymology>
 				<etymon type="loan" source="finnic?"/>
@@ -24413,7 +24413,7 @@
 				<t pos="a">dull</t>
 			</tg>
 			<tg xml:lang="rus">
-				<t pos="a:attr" pred="туп">тупой</t>
+				<t pos="a" type="attr" pred="туп">тупой</t>
 			</tg>
 			<tg xml:lang="nob">
 				<t pos="a">sløv</t>
@@ -24553,7 +24553,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">vuõiggâd</l>
+			<l pos="a" type="pred">vuõiggâd</l>
 			<der gloss="attr">vuõiǥâs</der>
 			<etymology>
 				<etymon type="inher" source="finnovolgaic">wojke</etymon>
@@ -24690,7 +24690,7 @@
 	</e>
 	<e meta="05">
 		<lg>
-			<l pos="a:pred">vuäˊniǩ</l>
+			<l pos="a" type="pred">vuäˊniǩ</l>
 			<der gloss="attr">vuäˊnǩõs</der>
 			<etymology>
 				<etymon type="inher" source="finnougric">ona</etymon>
