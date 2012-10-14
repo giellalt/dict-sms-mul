@@ -141,6 +141,15 @@ adp_sms2X.xml		n:dim_sms2X.xml
 
 1. complex attribute values such as a:pred and n:dim be better split into attribute and
 subtype!
+
+2. some "proprietary" labels for pos-values: I would stick to the common naming
+   used in gt: 'pr' instead of 'pop'; what is the difference between 'adv' and 'adp'?
+
+However, I split the file into pos but it is better to correct the pos values and
+after that I can split it anew. As for refreshing the Oahpa-db, I would wait until you
+do these corrections: otherwise, I have to revert it again and again, and tou have not only
+one language to revert into, but several.
+
 =======
 
 
