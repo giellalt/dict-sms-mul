@@ -152,6 +152,24 @@ subtype!
             <t pos="xxx">под (куда)</t>
          </tg>
 
+ ... more such stuff:
+
+inc>grep '<t ' sms_common.xml | grep '('
+				<t pos="v">(по)здороваться</t>
+				<t pos="xxx">ole hyvä (vastauksena kiitokseen)</t>
+				<t pos="xxx">пожалуйста; не стоит благодарности (в ответ на изъявление
+				<t pos="xxx">амбулатория (в деревне)</t>
+				<t pos="xxx">правда, правду (по правде)</t>
+				<t pos="xxx">сразу (же)</t>
+				<t pos="xxx">под (куда)</t>
+				<t pos="xxx">печь (хлеб, булку)</t>
+				<t pos="xxx">tulla (jksn)</t>
+				<t pos="xxx">становиться (кем-, чем-либо)</t>
+				<t pos="xxx">появляться (на свет)</t>
+
+to be corrected, also as for commata, semicolon, and the like!
+
+
 
 
 However, I split the file into pos but it is better to correct the pos values and
