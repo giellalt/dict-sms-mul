@@ -47,7 +47,7 @@
 
   <xsl:param name="inFile" select="'_x_'"/>
   <xsl:param name="inDir" select="'_xxx_'"/>
-  <xsl:param name="outDir" select="'_spittOutCorpus'"/>
+  <xsl:param name="outDir" select="'_200-book_entry'"/>
 
   <xsl:variable name="debug" select="true()"/>
   <xsl:variable name="of" select="'xml'"/>
