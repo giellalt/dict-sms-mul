@@ -177,6 +177,10 @@ after that I can split it anew. As for refreshing the Oahpa-db, I would wait unt
 do these corrections: otherwise, I have to revert it again and again, and tou have not only
 one language to revert into, but several.
 
+For Opahpa-update, only entries with book=200 be use:
+src>grep '<book' *.xml | grep '200' | wc -l
+     275
+
 =======
 
 
