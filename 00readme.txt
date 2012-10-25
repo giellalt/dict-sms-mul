@@ -178,8 +178,19 @@ do these corrections: otherwise, I have to revert it again and again, and tou ha
 one language to revert into, but several.
 
 For Opahpa-update, only entries with book=200 be use:
-src>grep '<book' *.xml | grep '200' | wc -l
-     275
+sms2X>grep '<e ' _spittOutCorpus/*.xml | wc -l
+     269
+
+_spittOutCorpus>grep '<e ' *.xml | cut -d ':' -f1 | sort | uniq -c | sort -nr
+ 102 n_sms2X.xml
+  76 v_sms2X.xml
+  48 a_sms2X.xml
+  16 adv_sms2X.xml
+  13 pro_sms2X.xml
+   7 con_sms2X.xml
+   5 num_sms2X.xml
+   1 ord_sms2X.xml
+   1 adp_sms2X.xml
 
 =======
 
