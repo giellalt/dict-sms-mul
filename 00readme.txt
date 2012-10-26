@@ -192,6 +192,16 @@ _spittOutCorpus>grep '<e ' *.xml | cut -d ':' -f1 | sort | uniq -c | sort -nr
    1 ord_sms2X.xml
    1 adp_sms2X.xml
 
+A further point to take into accout:
+
+_200-book_entry>grep '<e ' *.xml | wc -l
+     269
+_200-book_entry>grep '<mg' *.xml | wc -l
+     306
+
+ ==> tansform mg-dict-format into mg-oahpa-format:
+     i.e., one entry per mg!
+
 =======
 
 
