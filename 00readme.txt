@@ -145,6 +145,9 @@ subtype!
 2. some "proprietary" labels for pos-values: I would stick to the common naming
    used in gt: 'pr' instead of 'pop'; what is the difference between 'adv' and 'adp'?
 
+-->answer MR: 
+* adpositions are now tagged as "adp" (which I find more convenient than tagging both post- and prepositions as "pr"); distinguishing "pr" from "po" is perhaps not necessary 
+
 3. semi-structured text fields in the translations are not allowed: when reverting
    the dict these would become lemma forms in entries.
 
