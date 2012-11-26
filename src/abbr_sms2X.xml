@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="03">
+      <lg>
+         <l pos="abbr">dno</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="abbr">jne</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">ja niin edelleen</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="abbr">и т.д.</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">и так далее</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="abbr">etc.</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="xxx">et cetera</t>
+            <t pos="xxx">and so on</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="abbr">osv</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="abbr">usw.</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
          <l pos="abbr">mn</l>
