@@ -743,35 +743,6 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="pcle">tåˊlǩ</l>
-         <lv variant="dial" speaker="ZMN">tåuka</lv>
-      </lg>
-      <mg>
-         <tg xml:lang="rus">
-            <t pos="pcle">только</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="pcle">only</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="pcle">vain</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="pcle">berre</t>
-         </tg>
-         <tg xml:lang="sjd">
-            <t pos="pcle">толькэ</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="pcle">nur</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pcle">kun</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
          <l pos="pro" oahpa="dispref">kååˊtt</l>
          <etymology>
             <etymon type="inher" source="uralic?">ku-</etymon>
