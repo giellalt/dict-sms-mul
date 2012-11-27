@@ -2,6 +2,32 @@
 <r xml:lang="sms">
    <e meta="03">
       <lg>
+         <l pos="adp">årra</l>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="prp">к</t>
+            <tr>кому</tr>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pop">luo</t>
+            <t pos="pop">luokse</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="prp">til</t>
+            <tr>noen</tr>
+         </tg>
+         <semantics>
+            <sem class="HUMAN">PEOPLE</sem>
+            <sem class="SPACE">MOTION</sem>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
          <l pos="adp">kuâŋˈŋad</l>
       </lg>
       <sources>
