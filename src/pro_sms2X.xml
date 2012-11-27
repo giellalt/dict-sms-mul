@@ -29,10 +29,10 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">how many</t>
+            <t pos="mwe">how many</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">kuinka paljon</t>
+            <t pos="mwe">kuinka paljon</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="pro">galle</t>
@@ -302,7 +302,7 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">what kind of</t>
+            <t pos="mwe">what kind of</t>
          </tg>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
@@ -672,10 +672,10 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">se</t>
+            <t pos="pro">se</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">этот</t>
+            <t pos="pro">этот</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
@@ -686,10 +686,10 @@
                <xt pos="xxx">siinä</xt>
             </xtg>
             <xtg xml:lang="rus">
-               <xt pos="xxx">оттуда</xt>
+               <xt pos="adv">оттуда</xt>
             </xtg>
             <xtg xml:lang="rus">
-               <xt pos="xxx">там</xt>
+               <xt pos="adv">там</xt>
             </xtg>
             <xtg xml:lang="nob">
                <xt pos="xxx">xxx</xt>
@@ -741,59 +741,32 @@
          </tg>
       </mg>
    </e>
-   <e meta="03">
-      <lg>
-         <l pos="pro">tåˊlǩ</l>
-      </lg>
-      <mg>
-         <tg xml:lang="rus">
-            <t pos="pro">только</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="pro">only</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="pro">vain</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="pro">berre</t>
-         </tg>
-         <tg xml:lang="sjd">
-            <t pos="pro">xxx</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="pro">nur</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pro">kun</t>
-         </tg>
-      </mg>
-   </e>
    <e meta="04">
       <lg>
-         <l pos="pro" dial="M" speaker="ZMN">tåuka</l>
+         <l pos="pcle">tåˊlǩ</l>
+         <lv variant="dial" speaker="ZMN">tåuka</lv>
       </lg>
       <mg>
          <tg xml:lang="rus">
-            <t pos="pro">только</t>
+            <t pos="pcle">только</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="pro">only</t>
+            <t pos="pcle">only</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pro">vain</t>
+            <t pos="pcle">vain</t>
          </tg>
          <tg xml:lang="sme">
-            <t pos="pro">berre</t>
+            <t pos="pcle">berre</t>
          </tg>
          <tg xml:lang="sjd">
-            <t pos="pro">xxx</t>
+            <t pos="pcle">толькэ</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pro">nur</t>
+            <t pos="pcle">nur</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pro">kun</t>
+            <t pos="pcle">kun</t>
          </tg>
       </mg>
    </e>
