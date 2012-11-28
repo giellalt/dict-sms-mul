@@ -1,5 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="04">
+      <lg>
+         <l pos="cc">seâša</l>
+      </lg>
+      <sources>
+         <book name="xxx"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="cc">vaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="cc">peˊce</l>
+      </lg>
+      <sources>
+         <book name="xxx"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="cc">vaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="cc">nâǥa</l>
+      </lg>
+      <sources>
+         <book name="xxx"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="cc">vaan</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="cc">avi</l>
+      </lg>
+      <sources>
+         <book name="xxx"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="cc">tai</t>
+            <t pos="cc">vai</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="03">
       <lg>
          <l pos="cc">a</l>
@@ -24,8 +89,8 @@
             <t pos="cc">однако</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="cc">mutta</t>
             <t pos="cc">vaan</t>
+            <t pos="cc">mutta</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="cc">entä</t>
@@ -45,8 +110,6 @@
    <e meta="03">
       <lg>
          <l pos="cc">da</l>
-         <synonym>de</synonym>
-         <synonym>di</synonym>
          <etymology>
             <etymon type="loan" source="rus">да</etymon>
          </etymology>
@@ -86,8 +149,6 @@
    <e meta="04">
       <lg>
          <l pos="cc" oahpa="dispref">de</l>
-         <synonym>da</synonym>
-         <synonym>di</synonym>
       </lg>
       <sources>
          <book name="200" BEDLAN_ID="2"/>
@@ -96,35 +157,16 @@
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
-         <tg xml:lang="rus">
-            <t pos="cc">и</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="cc">og</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="cc">ja</t>
-            <t pos="cc">jah</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="cc">and</t>
-         </tg>
          <tg xml:lang="fin">
-            <t pos="cc">ja</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="cc">ja</t>
-         </tg>
-         <tg xml:lang="smn">
-            <t pos="cc">já</t>
+            <t pos="xxx">niin</t>
+            <t pos="xxx">ja niin</t>
+            <t pos="xxx">sitten</t>
          </tg>
       </mg>
    </e>
    <e meta="04">
       <lg>
          <l pos="cc" oahpa="dispref">di</l>
-         <synonym>de</synonym>
-         <synonym>di</synonym>
       </lg>
       <sources>
          <book name="200" BEDLAN_ID="2"/>
@@ -133,27 +175,8 @@
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
-         <tg xml:lang="nob">
-            <t pos="cc">og</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="cc">ja</t>
-            <t pos="cc">jah</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="cc">and</t>
-         </tg>
          <tg xml:lang="fin">
-            <t pos="cc">ja</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="cc">ja</t>
-         </tg>
-         <tg xml:lang="smn">
-            <t pos="cc">já</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="cc">и</t>
+            <t pos="cc">sekä</t>
          </tg>
       </mg>
    </e>
@@ -178,6 +201,7 @@
          </tg>
          <tg xml:lang="fin">
             <t pos="cc">mutta</t>
+            <t pos="cc">vaan</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="cc">kunhan</t>
@@ -208,6 +232,7 @@
             <t pos="cc">or</t>
          </tg>
          <tg xml:lang="fin">
+            <t pos="cc">eli</t>
             <t pos="cc">tai</t>
          </tg>
          <tg xml:lang="fin">
