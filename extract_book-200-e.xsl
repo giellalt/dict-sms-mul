@@ -47,7 +47,7 @@
 
   <xsl:param name="inFile" select="'_x_'"/>
   <xsl:param name="inDir" select="'_xxx_'"/>
-  <xsl:param name="outDir" select="'_200-book_entry'"/>
+  <xsl:param name="outDir" select="'my_200-book_entry'"/>
 
   <xsl:variable name="debug" select="true()"/>
   <xsl:variable name="of" select="'xml'"/>
@@ -67,7 +67,7 @@
       
       <xsl:result-document href="{$outDir}/{$current_file}.{$e}" format="{$of}">
 	<r xml:lang="sms">
-	  <xsl:copy-of copy-namespaces="no" select="./r/e[./sources/book/@name='200']"/>
+	  <xsl:copy-of copy-namespaces="no" select="./r/e[not(./lg/l/@oahpa='dispref')][./sources/book/@name='200']"/>
 	</r>
       </xsl:result-document>
     </xsl:for-each>
