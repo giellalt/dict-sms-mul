@@ -97,21 +97,6 @@ on the e-element in the xml files:
 05 - a 226-word list with Sami cognates, etymologies and English/Finnish translations imported from the BEDLAN project (http://kielievoluutio.uta.fi) with which Michael Rießler collaborates. The list was originally created by Jyri Lehtinen. It includes the 207 meanings from the different Swadesh lists along with further 19 meanings from the so-called Leipzig-Jakarta list (see http://wold.livingsources.org/). Obs! Note that the sme/sju equivalents are often inprecise and have to be checked carefully because the original wordlist is about etymological relations rather than translations.
 
 =====
-Oahpa!-nuõrti
-=====
-The planned next version of smsoahpa should include all entries tagged with
-* book="200" - basic semantic meanings (~100 items)
-* book="100" - basic semantic meanings (~200 items)
-
-The planned overnext version of smsoahpa will include all entries tagged with
-* book="kurss" - a textbook in Finnish, currently being translated into Russian and Norwegian
-* book="termm" - different term(inological) lists, which are not completely included in the textbook or the basic vacobulary lists.
-
-Perhaps we also need intermediate steps for compiling the overnext smsoahpas.
-
- @cip: yes, indeed!
-
-=====
 Pronouns
 =====
 * check inflected personal pronouns (e.g. <l pos="PRO" person="2" number="sg">tun</l>) (how should they be listed?)
@@ -172,39 +157,7 @@ inc>grep '<t ' sms_common.xml | grep '('
 
 to be corrected, also as for commata, semicolon, and the like!
 
-
-
-
 However, I split the file into pos but it is better to correct the pos values and
 after that I can split it anew. As for refreshing the Oahpa-db, I would wait until you
 do these corrections: otherwise, I have to revert it again and again, and tou have not only
 one language to revert into, but several.
-
-For Opahpa-update, only entries with book=200 be use:
-sms2X>grep '<e ' _spittOutCorpus/*.xml | wc -l
-     269
-
-_spittOutCorpus>grep '<e ' *.xml | cut -d ':' -f1 | sort | uniq -c | sort -nr
- 102 n_sms2X.xml
-  76 v_sms2X.xml
-  48 a_sms2X.xml
-  16 adv_sms2X.xml
-  13 pro_sms2X.xml
-   7 con_sms2X.xml
-   5 num_sms2X.xml
-   1 ord_sms2X.xml
-   1 adp_sms2X.xml
-
-A further point to take into accout:
-
-_200-book_entry>grep '<e ' *.xml | wc -l
-     269
-_200-book_entry>grep '<mg' *.xml | wc -l
-     306
-
- ==> tansform mg-dict-format into mg-oahpa-format:
-     i.e., one entry per mg!
-
-=======
-
-
