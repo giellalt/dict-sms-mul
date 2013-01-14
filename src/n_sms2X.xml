@@ -1,5 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="04">
+      <lg>
+         <l pos="n">xxx</l>
+      </lg>
+      <sources>
+         <book name="xxx"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="CLOTH">WHOLE</sem>
+            <sem class="SPACE">MOTION</sem>
+         </semantics>
+         <tg xml:lang="deu">
+            <t pos="n">Schuh</t>
+         </tg>
+         <xg oahpa="excl" kurss="no">
+            <x pos="n">Jäuvss kämmääd!</x>
+            <xtg xml:lang="deu">
+               <xt pos="n">Bitte Schuhe ausziehen!</xt>
+            </xtg>
+         </xg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n">kâˊlmmʼmâdd</l>
+      </lg>
+      <sources>
+         <book name="xxx"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="HUMAN">RELIGION</sem>
+            <sem class="HOUSE">DWELLING</sem>
+            <sem class="BODY">HEALTH</sem>
+         </semantics>
+         <tg xml:lang="deu">
+            <t pos="n">Friedhof</t>
+            <t pos="n">Kirchhof</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="n">kyrkogård</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n" dial="P" source="1958">čâˊđmm</l>
+      </lg>
+      <sources>
+         <book name="xxx"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="BODY">PART</sem>
+            <sem class="HUMAN">PEOPLE</sem>
+         </semantics>
+         <tg xml:lang="deu">
+            <t pos="n">Sommersprosse</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="n">fräken</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n" dial="N" source="1958">kuäˊppelǩeˊrjj</l>
+      </lg>
+      <sources>
+         <book name="xxx"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="BODY">PART</sem>
+            <sem class="HUMAN">PEOPLE</sem>
+         </semantics>
+         <tg xml:lang="deu">
+            <t pos="n">Sommersprosse</t>
+         </tg>
+         <tg xml:lang="swe">
+            <t pos="n">fräken</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="01">
       <lg>
          <l pos="n">aacaǩ</l>
