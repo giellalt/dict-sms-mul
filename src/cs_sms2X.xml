@@ -208,7 +208,9 @@
             <t pos="cs">поскольку</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="cs">потому что</t>
+            <t pos="cs" oahpa="pref">потомучто</t>
+            <t pos="mwe_cs">потому что</t>
+            <t pos="mwe_cs">потому, что</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="cs">kun</t>
