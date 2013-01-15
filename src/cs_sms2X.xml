@@ -96,7 +96,7 @@
          </tg>
          <tg xml:lang="deu">
             <t pos="adv">während</t>
-            <t pos="mwe">so lange</t>
+            <t pos="mwe_cs">so lange</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="adv">bis</t>
@@ -137,8 +137,8 @@
          </tg>
          <tg xml:lang="rus">
             <t pos="cs" oahpa="pref">потомучто</t>
-            <t pos="mwe_con">потому что</t>
-            <t pos="mwe_con">потому, что</t>
+            <t pos="mwe_cs">потому что</t>
+            <t pos="mwe_cs">потому, что</t>
          </tg>
       </mg>
    </e>
@@ -179,7 +179,7 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="mwe">even though</t>
+            <t pos="mwe_cs">even though</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="cs">vaikka</t>
