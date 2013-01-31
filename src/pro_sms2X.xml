@@ -135,9 +135,9 @@
             <xtg xml:lang="rus">
                <xt pos="pro">что-нибудь</xt>
             </xtg>
-            <tg xml:lang="fin">
-               <t pos="pro">jotain</t>
-            </tg>
+         <tg xml:lang="fin">
+            <t pos="pro">jotain</t>
+         </tg>
             <xtg xml:lang="nob">
                <xt pos="pro">noe</xt>
             </xtg>
