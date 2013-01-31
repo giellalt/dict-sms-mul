@@ -24,7 +24,7 @@
          </tg>
          <tg xml:lang="deu">
             <t pos="adv">heim</t>
-            <t pos="xxx">nach Hause</t>
+            <t pos="mwe_adv">nach Hause</t>
          </tg>
          <semantics>
             <sem class="SPACE">MOTION</sem>
@@ -38,7 +38,7 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">at home</t>
+            <t pos="mwe_adv">at home</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">kotona</t>
@@ -65,7 +65,7 @@
             <sem class="TIME">CYCLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe">in the morning</t>
+            <t pos="mwe_adv">in the morning</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">aamulla</t>
@@ -86,7 +86,7 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">at night</t>
+            <t pos="mwe_adv">at night</t>
          </tg>
          <semantics>
             <sem class="xxx"/>
@@ -125,7 +125,7 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">in the evening</t>
+            <t pos="mwe_adv">in the evening</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">illalla</t>
@@ -150,7 +150,7 @@
             <t pos="adv">huomenna</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe">i morgen</t>
+            <t pos="mwe_adv">i morgen</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">tomorrow</t>
@@ -159,9 +159,9 @@
             <t pos="adv">ihttin</t>
          </tg>
          <xg oahpa="excl" kurss="no">
-            <x pos="mwe">mâŋŋa jââđast</x>
+            <x pos="mwe_adv">mâŋŋa jââđast</x>
             <xtg xml:lang="eng">
-               <xt pos="mwe">the day after tomorrow</xt>
+               <xt pos="mwe_adv">the day after tomorrow</xt>
             </xtg>
             <xtg xml:lang="deu">
                <xt pos="adv">übermorgen</xt>
@@ -219,7 +219,7 @@
          <tg xml:lang="eng">
             <t pos="adv" style="obs" oahpa="excl">whence</t>
             <t pos="mwe_adv">from where</t>
-            <t pos="mwe_adv" oahpa="pref">wherefrom</t>
+            <t pos="adv" oahpa="pref">wherefrom</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">mistä</t>
@@ -241,8 +241,8 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">to where</t>
-            <t pos="adv">whither</t>
+            <t pos="mwe_adv">to where</t>
+            <t pos="adv" style="obs" oahpa="excl">whither</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">mihin</t>
@@ -490,10 +490,10 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">pian</t>
+            <t pos="adv">pian</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">скоро</t>
+            <t pos="adv">скоро</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
@@ -519,13 +519,13 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">this year</t>
+            <t pos="mwe_adv">this year</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">tänä vuonna</t>
+            <t pos="mwe_adv">tänä vuonna</t>
          </tg>
          <tg xml:lang="sme">
-            <t pos="xxx">dán jagi</t>
+            <t pos="mwe_adv">dán jagi</t>
          </tg>
          <semantics>
             <sem class="xxx"/>
@@ -629,10 +629,10 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">tietenkin</t>
+            <t pos="adv">tietenkin</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">известно</t>
+            <t pos="adv">известно</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
@@ -651,10 +651,10 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">sinne</t>
+            <t pos="adv">sinne</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">туда</t>
+            <t pos="adv">туда</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
@@ -689,8 +689,8 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">in the winter</t>
-            <t pos="xxx">in winter</t>
+            <t pos="mwe_adv">in the winter</t>
+            <t pos="mwe_adv">in winter</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">talvella</t>
