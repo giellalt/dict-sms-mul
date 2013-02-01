@@ -332,7 +332,7 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="pn" class="oevre">Biblija</l>
+         <l pos="pn" class="oevre" oahpa="excl">Biblija</l>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -356,6 +356,9 @@
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
+            <t pos="pn">Boris</t>
+         </tg>
+         <tg xml:lang="fin">
             <t pos="pn">Boris</t>
          </tg>
          <tg xml:lang="nob">
@@ -473,6 +476,11 @@
          <tg xml:lang="nob">
             <t pos="pn">Maria</t>
          </tg>
+         <tg xml:lang="eng">
+            <t pos="pn" oahpa="pref">Maria</t>
+            <t pos="pn">Mary</t>
+            <t pos="pn">Miriam</t>
+         </tg>
       </mg>
    </e>
    <e meta="03">
@@ -515,6 +523,10 @@
          <tg xml:lang="eng">
             <t pos="pn" oahpa="pref">Sophia</t>
             <t pos="pn">Sofia</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="pn" oahpa="pref">Sofie</t>
+            <t pos="pn">Sophia</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="pn">Sofia</t>
@@ -744,13 +756,17 @@
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="pn">Vasko</t>
+            <t pos="pn" oahpa="pref">Vasko</t>
+            <t pos="pn">Pasi</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Василий</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="pn">Basil</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="pn">Basil</t>
          </tg>
       </mg>
    </e>
@@ -874,12 +890,19 @@
          </semantics>
          <tg xml:lang="fin">
             <t pos="pn">Anni</t>
+            <t pos="pn">Annika</t>
+            <t pos="pn" oahpa="pref">Annikki</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Анюшка</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="pn" oahpa="pref">Anna</t>
+            <t pos="pn">Ann</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="pn" oahpa="pref">Anna</t>
+            <t pos="pn">Ann</t>
          </tg>
       </mg>
    </e>
@@ -903,6 +926,10 @@
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">Anna</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="pn" oahpa="pref">Anna</t>
+            <t pos="pn">Ann</t>
          </tg>
       </mg>
    </e>
