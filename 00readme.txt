@@ -212,6 +212,11 @@ sma_oahpa
 Let alone, that the Django scripts have also to be debugged if using the sms-meta-info for proper nouns,
 which diverges from the rest.
 
+3. ...and this only for 30 proper nouns!
+
+sms2X>grep '<e' src/pn_sms2X.xml | wc -l 
+      30
+
 ==> TODO later.
 I will just comment out the link to the proper_noun play.
 
