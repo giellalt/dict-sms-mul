@@ -161,3 +161,38 @@ However, I split the file into pos but it is better to correct the pos values an
 after that I can split it anew. As for refreshing the Oahpa-db, I would wait until you
 do these corrections: otherwise, I have to revert it again and again, and tou have not only
 one language to revert into, but several.
+
+===================================================
+Proper nouns in sms_oahpa
+
+The downside of using elements with fuzzy meaning, hence usage:
+ what does mean <te> here (compared with Trond&Co's intended usage)
+@michael: If I can update the proper nouns in the current sms_oahpa I will ignore the te-elements.
+
+================
+         <tg xml:lang="eng">
+            <t pos="pn">Inari</t>
+            <te>village</te>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Inari</t>
+            <te>kylä</te>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="pn">Инари</t>
+            <te>посёлок</te>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="pn">Enare</t>
+            <te>landsby</te>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="pn">Anár</t>
+            <te>siida</te>
+         </tg>
+================
+
+
+
+
+
