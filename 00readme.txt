@@ -165,6 +165,7 @@ one language to revert into, but several.
 ===================================================
 Proper nouns in sms_oahpa
 
+1. observation
 The downside of using elements with fuzzy meaning, hence usage:
  what does mean <te> here (compared with Trond&Co's intended usage)
 @michael: If I can update the proper nouns in the current sms_oahpa I will ignore the te-elements.
@@ -192,7 +193,25 @@ The downside of using elements with fuzzy meaning, hence usage:
          </tg>
 ================
 
+2. observation
+In sme- and sma-oahpa, the source-elements is overloaded in the proper_noun-file
+(overloaded = different meaning as in other files).
 
+sme_oahpa
+      <sources>
+         <frequency class="common"/>
+         <geography class="sapmi"/>
+      </sources>
 
+sma_oahpa
+      <sources>
+         <frequency class="common" />
+         <geography class="mid" />
+      </sources>
 
+Let alone, that the Django scripts have also to be debugged if using the sms-meta-info for proper nouns,
+which diverges from the rest.
+
+==> TODO later.
+I will just comment out the link to the proper_noun play.
 
