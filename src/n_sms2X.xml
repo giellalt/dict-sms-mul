@@ -2,6 +2,25 @@
 <r xml:lang="sms">
    <e meta="04">
       <lg>
+         <l pos="n">šurr</l>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="HUMAN">PEOPLE</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">начальник</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">руководитель</t>
+         </tg>
+         <tg xml:lang="sjd">
+            <t pos="n">шӯрр</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
          <l pos="n">xxx</l>
       </lg>
       <sources>
