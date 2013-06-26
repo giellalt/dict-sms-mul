@@ -1,5 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="03">
+      <lg>
+         <l pos="adv">jiânnai</l>
+         <deriv>
+            <form gloss="comp">jäänab</form>
+         </deriv>
+      </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">paljon</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">много</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="a">many</t>
+         </tg>
+         <xg oahpa="excl" kurss="yes">
+            <x type="deriv" pos="adv">jäänab</x>
+            <xtg xml:lang="fin">
+               <xt pos="adv">enemmän</xt>
+            </xtg>
+            <xtg xml:lang="rus">
+               <xt pos="adv">больше</xt>
+            </xtg>
+            <xtg xml:lang="nob">
+               <xt pos="xxx">xxx</xt>
+            </xtg>
+         </xg>
+      </mg>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">очень</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">much</t>
+         </tg>
+         <xg oahpa="excl" kurss="yes">
+            <x type="deriv" pos="adv">teänab</x>
+            <xtg xml:lang="fin">
+               <xt pos="xxx">enää</xt>
+            </xtg>
+            <xtg xml:lang="rus">
+               <xt pos="xxx">(не) больше</xt>
+            </xtg>
+            <xtg xml:lang="nob">
+               <xt pos="xxx">xxx</xt>
+            </xtg>
+         </xg>
+      </mg>
+   </e>
    <e meta="01">
       <lg>
          <l pos="adv">domoi</l>
