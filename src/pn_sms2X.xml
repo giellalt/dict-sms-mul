@@ -7,13 +7,14 @@
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111210_ZMN.wav"/>
             <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111219_KJ_2.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111219_KJ_2.wav"
+            />
          </audio>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+         </sources>
          <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -375,10 +376,10 @@
       <lg>
          <l pos="pn" class="person" gender="m">Evvan</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -459,10 +460,10 @@
             <form gloss="nom.pl">Määˊrj</form>
          </infl>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -487,10 +488,10 @@
       <lg>
          <l pos="pn" class="place">Njeˊǯǯjäuˊrr</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+         </sources>
          <semantics>
             <sem class="ENVIR">TOPONOMY</sem>
          </semantics>
@@ -543,10 +544,10 @@
             <form gloss="ill.sg">Taˊrre</form>
          </infl>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -568,10 +569,10 @@
       <lg>
          <l pos="pn" class="place">Ruõššjânnam</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -593,10 +594,10 @@
       <lg>
          <l pos="pn" class="place">Lääˊddjânnam</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -618,10 +619,10 @@
       <lg>
          <l pos="pn" class="place">Sakssajânnam</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -643,10 +644,10 @@
       <lg>
          <l pos="pn" class="place">Ruõcˈc</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -668,10 +669,10 @@
       <lg>
          <l pos="pn" class="place">Eŋgglõs</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -748,10 +749,10 @@
       <lg>
          <l pos="pn" class="person" gender="m">Väˊsǩǩ</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -808,10 +809,10 @@
       <lg>
          <l pos="pn" class="place">Âˊvvel</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+         </sources>
          <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -841,10 +842,10 @@
       <lg>
          <l pos="pn" class="place">Ruäˊvnjargg</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -881,10 +882,10 @@
             <form gloss="xxx">Äännže</form>
          </infl>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -910,10 +911,10 @@
       <lg>
          <l pos="pn" class="person" gender="fem">Äˊnn</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -940,10 +941,10 @@
             <form gloss="gen.sg">Čeˊvetjääuˊr</form>
          </infl>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>

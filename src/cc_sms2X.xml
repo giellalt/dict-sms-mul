@@ -4,9 +4,6 @@
       <lg>
          <l pos="cc">seâša</l>
       </lg>
-      <sources>
-         <book name="xxx"/>
-      </sources>
       <mg>
          <semantics>
             <sem class="xxx"/>
@@ -20,9 +17,6 @@
       <lg>
          <l pos="cc">peˊce</l>
       </lg>
-      <sources>
-         <book name="xxx"/>
-      </sources>
       <mg>
          <semantics>
             <sem class="xxx"/>
@@ -36,9 +30,6 @@
       <lg>
          <l pos="cc">nâǥa</l>
       </lg>
-      <sources>
-         <book name="xxx"/>
-      </sources>
       <mg>
          <semantics>
             <sem class="xxx"/>
@@ -52,9 +43,6 @@
       <lg>
          <l pos="cc">avi</l>
       </lg>
-      <sources>
-         <book name="xxx"/>
-      </sources>
       <mg>
          <semantics>
             <sem class="xxx"/>
@@ -72,10 +60,10 @@
             <etymon type="loan" source="rus">а</etymon>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -114,11 +102,11 @@
             <etymon type="loan" source="rus">да</etymon>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-         <book name="200" BEDLAN_ID="2"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+            <book name="200" BEDLAN_ID="2"/>
+         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -150,10 +138,10 @@
       <lg>
          <l pos="cc" oahpa="dispref">de</l>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="2"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="2"/>
+         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -168,10 +156,10 @@
       <lg>
          <l pos="cc" oahpa="dispref">di</l>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="2"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="2"/>
+         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -186,10 +174,10 @@
          <lv variant="dial" source="1991">leša</lv>
          <lv variant="obsc" source="meta01">leâža</lv>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -248,10 +236,10 @@
          <l pos="cc" oahpa="dispref">ja</l>
          <lv variant="dial" source="1991">jä</lv>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="2"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="2"/>
+         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>

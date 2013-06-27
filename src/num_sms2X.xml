@@ -33,10 +33,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="175"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="175"/>
+         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -72,11 +72,11 @@
             <cognate xml:lang="sjd">кӯххт</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*182"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*182"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -205,10 +205,10 @@
       <lg>
          <l pos="num">kuâhttlonellj</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="num">двадцать четыре</t>
          </tg>
@@ -275,10 +275,10 @@
       <lg>
          <l pos="num">kääuˊc</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="num">восемь</t>
          </tg>
@@ -550,19 +550,20 @@
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111211_ZMN_5.wav"/>
             <a dialect="paa" speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav"
+            />
          </audio>
          <etymology>
             <etymon type="inher" source="finnougric">üke</etymon>
             <cognate xml:lang="sjd">э̄ххт</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-         <book name="200" BEDLAN_ID="*115"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+            <book name="200" BEDLAN_ID="*115"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -704,10 +705,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="59"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="59"/>
+         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -740,10 +741,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="52"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="52"/>
+         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>

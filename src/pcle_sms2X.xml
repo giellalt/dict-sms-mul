@@ -33,10 +33,10 @@
       <lg>
          <l pos="pcle">-a</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg kurss="yes">
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -68,10 +68,10 @@
       <lg>
          <l pos="pcle">-i</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -98,10 +98,10 @@
       <lg>
          <l pos="pcle">-tâma</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -123,10 +123,10 @@
       <lg>
          <l pos="pcle">naa</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="xxx">xxx</t>
          </tg>
@@ -157,10 +157,10 @@
       <lg>
          <l pos="pcle">nuˊtt</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="pcle">так</t>
          </tg>
@@ -179,10 +179,10 @@
       <lg>
          <l pos="pcle">teˊl</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -202,10 +202,10 @@
       <lg>
          <l pos="pcle">še</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="pcle">тоже</t>
          </tg>

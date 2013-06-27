@@ -93,11 +93,11 @@
             <cognate xml:lang="sjd">ёрпас</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*130"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*130"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -165,10 +165,10 @@
             />
          </audio>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="a" der="attr">большой</t>
          </tg>
@@ -201,11 +201,11 @@
             <cognate xml:lang="sjd">куһкь</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*97"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*97"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
             <sem class="CLOTH">PART</sem>
@@ -287,11 +287,11 @@
             <cognate xml:lang="sjd">коашшьк</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*34"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*34"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
             <sem class="ENVIR">WEATHER</sem>
@@ -338,11 +338,11 @@
             <cognate xml:lang="sjd">кэлмас</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*24"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*24"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
             <sem class="ENVIR">WEATHER</sem>
@@ -379,10 +379,10 @@
       <lg>
          <l pos="a" a_class="xxx">mooččâs</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="a" der="attr">красивый</t>
          </tg>
@@ -444,12 +444,12 @@
             <cognate xml:lang="sjd">о̄дт</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-         <book name="200" BEDLAN_ID="*110"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+            <book name="200" BEDLAN_ID="*110"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="TIME">UNIT</sem>
          </semantics>
@@ -489,10 +489,10 @@
             <form gloss="nom.pl">occka</form>
          </infl>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="a" der="attr">маленький</t>
          </tg>
@@ -543,11 +543,11 @@
             <cognate xml:lang="sjd">xxx</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*185"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*185"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
             <sem class="ENVIR">WEATHER</sem>
@@ -591,11 +591,11 @@
             <cognate xml:lang="sjd" pos="v">пӯлле</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*185"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*185"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
             <sem class="ENVIR">WEATHER</sem>
@@ -633,11 +633,11 @@
             <cognate xml:lang="swe">руэнн</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*66"/>
-         <book name="100"/>
-      </sources>
       <mg term="COLOR">
+         <sources>
+            <book name="200" BEDLAN_ID="*66"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -677,12 +677,13 @@
    <e meta="05">
       <lg>
          <l pos="a" a_class="xxx">ruõnâs</l>
+         <etymology> </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*66"/>
-         <book name="100"/>
-      </sources>
       <mg term="COLOR">
+         <sources>
+            <book name="200" BEDLAN_ID="*66"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="FOOD">DISH</sem>
             <sem class="BOT">GRASS</sem>
@@ -737,11 +738,11 @@
             <cognate xml:lang="sjd">рӯппсэ</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*122"/>
-         <book name="100"/>
-      </sources>
       <mg term="COLOR">
+         <sources>
+            <book name="200" BEDLAN_ID="*122"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -837,10 +838,10 @@
       <lg>
          <l pos="a" a_class="xxx">seämma</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">COGNITION</sem>
@@ -860,10 +861,10 @@
       <lg>
          <l pos="a" a_class="=">seämmanalla</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">COGNITION</sem>
@@ -893,11 +894,11 @@
             <cognate xml:lang="sjd">тӣвтас</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*62"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*62"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -945,12 +946,12 @@
             <cognate xml:lang="sme">smávis</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-         <book name="200" BEDLAN_ID="*147"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="200" BEDLAN_ID="*147"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -990,12 +991,12 @@
             <cognate xml:lang="sjd">удць</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-         <book name="200" BEDLAN_ID="*147"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="200" BEDLAN_ID="*147"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -1035,10 +1036,10 @@
       <lg>
          <l pos="a" a_class="xxx">vaalmâš</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -1064,12 +1065,12 @@
             <cognate xml:lang="sme">fiskat</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-         <book name="200" BEDLAN_ID="*205"/>
-         <book name="100"/>
-      </sources>
       <mg term="COLOR">
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="200" BEDLAN_ID="*205"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1116,12 +1117,12 @@
             <cognate xml:lang="sjd">вӣллкэ</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-         <book name="200" BEDLAN_ID="*193"/>
-         <book name="100"/>
-      </sources>
       <mg term="COLOR">
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="200" BEDLAN_ID="*193"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1161,10 +1162,10 @@
             <der gloss="attr">viõǥǥteˊm</der>
          </deriv>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="BODY">HEALTH</sem>
@@ -1191,11 +1192,11 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-         <book name="200" BEDLAN_ID="114"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="200" BEDLAN_ID="114"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="TIME">UNIT</sem>
@@ -1229,10 +1230,10 @@
       <lg>
          <l pos="a" a_class="=">vâjjeei</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -1276,11 +1277,11 @@
             <cognate xml:lang="sjd">чоаһпэ</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*14"/>
-         <book name="100"/>
-      </sources>
       <mg term="COLOR">
+         <sources>
+            <book name="200" BEDLAN_ID="*14"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1343,12 +1344,12 @@
             <cognate xml:lang="sme">šiega</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-         <book name="200" BEDLAN_ID="*64"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+            <book name="200" BEDLAN_ID="*64"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
             <sem class="HUMAN">PEOPLE</sem>
@@ -1390,11 +1391,11 @@
             <cognate xml:lang="sjd">шӯрр</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*11"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*11"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
             <sem class="HUMAN">PEOPLE</sem>
@@ -1440,11 +1441,12 @@
          <deriv>
             <form gloss="attr">ââˊzzteˊmes</form>
          </deriv>
+         <etymology> </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="172"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="172"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -1474,10 +1476,10 @@
          <l pos="a" a_class="attr">čiˊǯǯ-</l>
          <lv variant="dial" source="1991">čiˊǯs-</lv>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="92"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="92"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -1512,11 +1514,11 @@
             <cognate xml:lang="sjd">чуэцькесь</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*24"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*24"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="ENVIR">WEATHER</sem>
             <sem class="WORK">TRAVEL</sem>
@@ -1559,10 +1561,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="7"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="7"/>
+         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -1592,10 +1594,10 @@
       <lg>
          <l pos="a" a_class="xxx">jeeˊres</l>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="116"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="116"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">COGNITION</sem>
@@ -1633,10 +1635,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="195"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="195"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -1672,10 +1674,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="225"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="225"/>
+         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1707,10 +1709,10 @@
             <form gloss="attr">kuˊrčč-</form>
          </deriv>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="107"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="107"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -1745,10 +1747,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="171"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="171"/>
+         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1778,10 +1780,10 @@
       <lg>
          <l pos="a" a_class="xxx">kuõcc</l>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="129"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="129"/>
+         </sources>
          <semantics>
             <sem class="FOOD">DISH</sem>
             <sem class="BODY">HEALTH</sem>
@@ -1817,11 +1819,11 @@
             <cognate xml:lang="sjd" pos="v">лӣӈӈькье</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*185"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*185"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -1857,10 +1859,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="74"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="74"/>
+         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
             <sem class="WORK">ECONOMY</sem>
@@ -1896,10 +1898,10 @@
       <lg>
          <l pos="a" a_class="xxx">lääˊttes</l>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="150"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="150"/>
+         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1932,10 +1934,10 @@
             <cognate xml:lang="fin">laho</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="129"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="129"/>
+         </sources>
          <semantics>
             <sem class="BOT">TREE</sem>
             <sem class="HOUSE">DWELLING</sem>
@@ -1975,10 +1977,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="7"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="7"/>
+         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -2013,10 +2015,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="189"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="189"/>
+         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
             <sem class="ENVIR">ELEMENT</sem>
@@ -2049,10 +2051,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="223"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="223"/>
+         </sources>
          <semantics>
             <sem class="FOOD">DISH</sem>
             <sem class="SENSE">EMOTION</sem>
@@ -2089,10 +2091,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="140"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="140"/>
+         </sources>
          <semantics>
             <sem class="WORK">TOOL</sem>
             <sem class="SENSE">PERCEPTION</sem>
@@ -2126,10 +2128,10 @@
             <form gloss="attr">peˊčǩǩrõs</form>
          </deriv>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="212"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="212"/>
+         </sources>
          <semantics>
             <sem class="FOOD">DISH</sem>
             <sem class="SENSE">PERCEPTION</sem>
@@ -2168,11 +2170,11 @@
             <cognate xml:lang="sjd" pos="adv">пуэраст</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*64"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*64"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">EMOTION</sem>
@@ -2207,12 +2209,11 @@
          <etymology>
             <etymon type="xxx" source="finnopermic">porɜ</etymon>
             <cognate xml:lang="xxx"/>
-            <bedlan>114</bedlan>
          </etymology>
       </lg>
       <mg>
          <sources>
-            <book name="200"/>
+            <book name="200" BEDLAN_ID="114"/>
          </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
@@ -2245,10 +2246,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="220"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="220"/>
+         </sources>
          <semantics>
             <sem class="BODY">PART</sem>
          </semantics>
@@ -2283,11 +2284,12 @@
          <deriv>
             <form gloss="attr">siẹˊǧǧes</form>
          </deriv>
+         <etymology> </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="107"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="107"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -2322,10 +2324,10 @@
          <l pos="a" a_class="attr" oahpa="dispref">šuõrš-</l>
          <lv variant="dial" source="1988">šuårš-</lv>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="212"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="212"/>
+         </sources>
          <semantics>
             <sem class="FOOD">DISH</sem>
             <sem class="SENSE">PERCEPTION</sem>
@@ -2364,10 +2366,10 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="31"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="31"/>
+         </sources>
          <semantics>
             <sem class="BODY">HEALTH</sem>
             <sem class="FOOD">DISH</sem>
@@ -2408,10 +2410,10 @@
             <cognate xml:lang="fin">tylsä</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="35"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="35"/>
+         </sources>
          <semantics>
             <sem class="WORK">TOOL</sem>
             <sem class="SENSE">PERCEPTION</sem>
@@ -2461,11 +2463,10 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="162"/>
-         <book name="200" BEDLAN_ID="124"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="162"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -2492,6 +2493,9 @@
          </tg>
       </mg>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="162"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">EMOTION</sem>
@@ -2526,10 +2530,10 @@
          <l pos="a" a_class="attr">vuäˊljs-</l>
          <lv variant="dial" source="1988">vuäˊls-</lv>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="123"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="123"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -2565,10 +2569,10 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="141"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="141"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>

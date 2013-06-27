@@ -59,10 +59,10 @@
             <form gloss="comp">jäänab</form>
          </deriv>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -257,10 +257,10 @@
       <lg>
          <l pos="adv">jâđđa</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -302,11 +302,11 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-         <book name="200" BEDLAN_ID="192"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+            <book name="200" BEDLAN_ID="192"/>
+         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -334,6 +334,10 @@
          </tg>
       </mg>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+            <book name="200" BEDLAN_ID="192"/>
+         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -380,10 +384,10 @@
       <lg>
          <l pos="adv">kuärǥast</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="adv">весело</t>
             <t pos="adv">радостно</t>
@@ -403,10 +407,10 @@
       <lg>
          <l pos="adv">miâlggâd</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="adv">довольно-таки</t>
          </tg>
@@ -453,11 +457,11 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-         <book name="200" BEDLAN_ID="79"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="200" BEDLAN_ID="79"/>
+         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -496,11 +500,11 @@
             />
          </audio>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-         <book name="200" BEDLAN_ID="48"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+            <book name="200" BEDLAN_ID="48"/>
+         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -538,10 +542,10 @@
          <synonym>occanj</synonym>
          <synonym>simmna</synonym>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="48"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="48"/>
+         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -579,10 +583,10 @@
             <etymon type="loan" source="rus">самый</etymon>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="adv">очень</t>
          </tg>
@@ -604,10 +608,10 @@
       <lg>
          <l pos="adv">sõrgg</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -677,10 +681,10 @@
       <lg>
          <l pos="adv">tiiˊǩ</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -699,10 +703,10 @@
       <lg>
          <l pos="adv">tiõrvân</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="adv">здорово</t>
          </tg>
@@ -743,10 +747,10 @@
       <lg>
          <l pos="adv">tiõttlõs</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -765,10 +769,10 @@
       <lg>
          <l pos="adv">tok</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -787,10 +791,10 @@
       <lg>
          <l pos="adv">tuõđi</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -826,10 +830,10 @@
       <lg>
          <l pos="adv">täujja</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -854,10 +858,10 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="75"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="75"/>
+         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -916,10 +920,10 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="75"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="75"/>
+         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -986,10 +990,10 @@
       <lg>
          <l pos="adv">täˊbbe</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="adv">сегодня</t>
          </tg>
@@ -1014,10 +1018,10 @@
       <lg>
          <l pos="adv">täˊst</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="adv">здесь</t>
          </tg>
@@ -1045,11 +1049,11 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-         <book name="200" BEDLAN_ID="169"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="200" BEDLAN_ID="169"/>
+         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -1111,11 +1115,11 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-         <book name="200" BEDLAN_ID="9"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="200" BEDLAN_ID="9"/>
+         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -1156,11 +1160,11 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-         <book name="200" BEDLAN_ID="9"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="200" BEDLAN_ID="9"/>
+         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -1211,10 +1215,10 @@
       <lg>
          <l pos="adv">viiššlânji</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -1233,10 +1237,10 @@
       <lg>
          <l pos="adv">vuâsti</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -1255,10 +1259,10 @@
       <lg>
          <l pos="adv">vuõššân</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -1277,10 +1281,10 @@
       <lg>
          <l pos="adv">võl</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="adv" oahpa="pref">ещё</t>
             <t pos="adv">еще</t>
@@ -1322,10 +1326,10 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="108"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="108"/>
+         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -1360,10 +1364,10 @@
          <lv variant="dial" source="1991">ââˊn</lv>
          <synonym>tääˊl</synonym>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -1405,10 +1409,10 @@
       <lg>
          <l pos="adv">åuggan</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -1450,10 +1454,10 @@
             />
          </audio>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">QUANTITY</sem>
@@ -1535,10 +1539,10 @@
       <lg>
          <l pos="adv">šiõǥǥ</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">EMOTION</sem>
@@ -1599,10 +1603,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="213"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="213"/>
+         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -1634,10 +1638,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="43"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="43"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
             <sem class="WORK">TRAVEL</sem>
@@ -1670,10 +1674,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="191"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="191"/>
+         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -1706,10 +1710,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="108"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="108"/>
+         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -1745,10 +1749,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="85"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="85"/>
+         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -1802,11 +1806,11 @@
          <l pos="adv" oahpa="dispref">simmna</l>
          <lv variant="dial" source="1991">siõmˈmna</lv>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-         <book name="200" BEDLAN_ID="48"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="200" BEDLAN_ID="48"/>
+         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>

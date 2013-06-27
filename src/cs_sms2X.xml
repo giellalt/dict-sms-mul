@@ -10,10 +10,10 @@
             <cognate xml:lang="fin">jos</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="84"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="84"/>
+         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -47,10 +47,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="84"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="84"/>
+         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -115,11 +115,11 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-         <book name="200" BEDLAN_ID="9"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="200" BEDLAN_ID="9"/>
+         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -149,10 +149,10 @@
             <etymon type="loan" source="rus">что</etymon>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -200,10 +200,10 @@
       <lg>
          <l pos="cs">ko</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="cs">поскольку</t>
          </tg>

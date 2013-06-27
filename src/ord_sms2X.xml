@@ -28,10 +28,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="116"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="116"/>
+         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>

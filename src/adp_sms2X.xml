@@ -4,10 +4,10 @@
       <lg>
          <l pos="adp">årra</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="prp">к</t>
             <tr>кому</tr>
@@ -30,10 +30,10 @@
       <lg>
          <l pos="adp">kuâŋˈŋad</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="adv">мимо</t>
          </tg>
@@ -53,10 +53,10 @@
       <lg>
          <l pos="adp">luzz</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+         </sources>
          <tg xml:lang="rus">
             <t pos="prp">к</t>
             <tr>кому-чему</tr>
@@ -76,10 +76,10 @@
       <lg>
          <l pos="adp">ouddâl</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <tg xml:lang="eng">
             <t pos="prp">before</t>
          </tg>
@@ -117,10 +117,10 @@
       <lg>
          <l pos="adp">sizz</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -153,10 +153,10 @@
       <lg>
          <l pos="adp">tueˊǩǩen</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -175,10 +175,10 @@
       <lg>
          <l pos="adp">vuâlla</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -199,11 +199,11 @@
          <lv variant="dial" source="1991">åˊrren</lv>
          <lv variant="dial" source="1991">vueˊrrn</lv>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-         <book name="200" BEDLAN_ID="5"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="200" BEDLAN_ID="5"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SPACE">MOTION</sem>

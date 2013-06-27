@@ -18,10 +18,10 @@
          <l pos="pro">jiõčč</l>
          <lv variant="dial" source="1991">jiičč</lv>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -68,13 +68,13 @@
             <cognate xml:lang="sjd">мӣ</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-         <book name="200" BEDLAN_ID="*190"/>
-         <book name="200" BEDLAN_ID="153"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+            <book name="200" BEDLAN_ID="*190"/>
+            <book name="200" BEDLAN_ID="153"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -165,11 +165,11 @@
             <cognate xml:lang="sjd">мыйй</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*188"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*188"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -211,12 +211,12 @@
             <cognate xml:lang="sjd">мунн</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-         <book name="200" BEDLAN_ID="*82"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+            <book name="200" BEDLAN_ID="*82"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -268,12 +268,12 @@
             <cognate xml:lang="swe">många</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-         <book name="200" BEDLAN_ID="*100"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+            <book name="200" BEDLAN_ID="*100"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -331,11 +331,11 @@
             <cognate xml:lang="sjd">пугк</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="*1"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="*1"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -377,10 +377,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="170"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="170"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -432,11 +432,11 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-         <book name="200" BEDLAN_ID="70"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+            <book name="200" BEDLAN_ID="70"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -488,12 +488,12 @@
             <cognate xml:lang="sjd">то̄нн</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-         <book name="200" BEDLAN_ID="*207"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+            <book name="200" BEDLAN_ID="*207"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -547,12 +547,12 @@
             <cognate xml:lang="sjd">тудт</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-         <book name="200" BEDLAN_ID="*168"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="200" BEDLAN_ID="*168"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -605,12 +605,12 @@
             <cognate xml:lang="sjd">та̄дт</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-         <book name="200" BEDLAN_ID="*174"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+            <book name="200" BEDLAN_ID="*174"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
             <sem class="SENSE">COGNITION</sem>
@@ -677,10 +677,10 @@
             <form gloss="ill.sg">tõˊst</form>
          </infl>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -719,12 +719,12 @@
             <cognate xml:lang="sjd">ке̄</cognate>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-         <book name="200" BEDLAN_ID="*194"/>
-         <book name="100"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+            <book name="200" BEDLAN_ID="*194"/>
+            <book name="100"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -763,10 +763,10 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="153"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="153"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -818,10 +818,10 @@
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="206"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="206"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>

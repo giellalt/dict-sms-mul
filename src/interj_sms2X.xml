@@ -4,10 +4,10 @@
       <lg>
          <l pos="interj">späˊsseb</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">EMOTION</sem>
@@ -27,10 +27,10 @@
       <lg>
          <l pos="interj">tiõrv</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -52,10 +52,10 @@
       <lg>
          <l pos="interj">tiõrvvsa</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">SOCIAL</sem>
          </semantics>
@@ -64,7 +64,7 @@
          </tg>
          <tg xml:lang="rus">
             <t pos="xxx">пожалуйста; не стоит благодарности (в ответ на изъявление
-					благодарности)</t>
+               благодарности)</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
