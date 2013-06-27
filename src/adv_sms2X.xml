@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="06">
+      <lg>
+         <l pos="adv">ouˊddlest</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="adv">ennen</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="adv">vuõˊste</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="adv">ensin</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="adv">vääˊʒʒeeˊl</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="adv">kävellen</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="adv">âlddsin</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="adv">lähes</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="03">
       <lg>
          <l pos="adv">jiânnai</l>
@@ -440,7 +492,8 @@
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111211_ZMN_5.wav"/>
             <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111219_KJ_1.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111219_KJ_1.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -1393,7 +1446,8 @@
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111211_ZMN_5.wav"/>
             <a dialect="xxx" speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav"
+            />
          </audio>
       </lg>
       <sources>

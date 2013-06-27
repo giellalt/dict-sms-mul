@@ -1,5 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="06">
+      <lg>
+         <l pos="n">toobdâs</l>
+         <infl>
+            <form gloss="nom.pl">tobddâz</form>
+         </infl>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="n">tuttu</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="n" gender="f">Bekannte</t>
+            <t pos="n" gender="m">Bekannter</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="n" gloss="dim">päärnaž</l>
+         <infl>
+            <form gloss="com.pl">pääˊrneezvuiˊm</form>
+         </infl>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="n">lapsi</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="n">kuuˊrniǩ</l>
+         <infl>
+            <form gloss="acc.pl">kuuˊrnǩid</form>
+         </infl>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="n">kalakukko</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="n">paaštkueˊll</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="n">loistekala</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n">jeäˊves</l>
+         <infl>
+            <form gloss="acc.pl">jeäˊvvsid</form>
+         </infl>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">eväs</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="n">mäˊtǩǩjeäˊves</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="n">matkaeväs</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="n">kuärgg</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="n">ilo</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="n">täˊlvvsijdd</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="n">talvikylä</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="n">pâˊjjpäiˊǩǩ</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="n">kesäpaikka</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
          <l pos="n">šurr</l>
@@ -621,7 +751,8 @@
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ceerkav_SKO111211_ZMN_5.wav"/>
             <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ceerkav_SKO111219_KJ_1.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ceerkav_SKO111219_KJ_1.wav"
+            />
          </audio>
          <etymology>
             <etymon type="loan" source="rus">церковь</etymon>
@@ -714,7 +845,7 @@
       </lg>
       <mg>
          <lexicon xml:lang="eng">little houselike object on top of graves in the orthodox
-				religion</lexicon>
+            religion</lexicon>
          <semantics>
             <sem class="HUMAN">RELIGION</sem>
             <sem class="HOUSE">DWELLING</sem>
@@ -2009,7 +2140,8 @@
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kuaeqllec_SKO111211_ZMN_5.wav"/>
             <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kuaeqllec_SKO111219_KJ_1.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kuaeqllec_SKO111219_KJ_1.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -2351,7 +2483,8 @@
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kyyskays_SKO111211_ZMN_5.wav"/>
             <a dialect="xxx" speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kyyskays_SKO111220_EL.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kyyskays_SKO111220_EL.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -3097,7 +3230,8 @@
          <l pos="n">mââˊnn</l>
          <audio>
             <a dialect="muo" speaker="ZMN"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/mayayqnn_SKO111210_ZMN.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/mayayqnn_SKO111210_ZMN.wav"
+            />
          </audio>
          <etymology>
             <etymon type="inher" source="uralic">muna</etymon>
@@ -4827,7 +4961,6 @@
    <e meta="04">
       <lg>
          <l pos="n">päˊrnn</l>
-         <der gloss="dim">päärnaž</der>
          <etymology>
             <etymon type="loan" source="northgermanic"/>
             <etymon type="inher" source="saamic"/>
@@ -5015,10 +5148,13 @@
          </semantics>
       </mg>
    </e>
-   <e meta="01">
+   <e meta="06">
       <lg>
          <l pos="n">påˊrǧǧmään</l>
       </lg>
+      <sources>
+         <book name="lookkamkerjj" lesson="1"/>
+      </sources>
       <mg>
          <tg xml:lang="eng">
             <t pos="n">August</t>
@@ -7073,21 +7209,25 @@
             <form gloss="xxx">tueˊlää</form>
          </infl>
       </lg>
-      <sources>
-         <book name="kurss" lesson="dict"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
+         <tg xml:lang="eng">
+            <t pos="n">morning</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">aamu</t>
+            <t pos="n">aamu</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">утро</t>
+            <t pos="n">утро</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="n">morgon</t>
          </tg>
          <xg oahpa="excl" kurss="yes">
             <x type="infl" pos="n">tueˊlää</x>
@@ -7596,7 +7736,8 @@
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vacc_SKO111211_ZMN_5.wav"/>
             <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vacc_SKO111219_KJ_1.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vacc_SKO111219_KJ_1.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -8220,7 +8361,8 @@
          <l pos="n">vuõptt</l>
          <audio>
             <a dialect="muo" speaker="ZMN"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vuoyptt_SKO111210_ZMN.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vuoyptt_SKO111210_ZMN.wav"
+            />
          </audio>
          <etymology>
             <etymon type="inher" source="uralic">apte</etymon>
@@ -8490,8 +8632,7 @@
          <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
          </tg>
-         <lexicon xml:lang="rus">рыболовная застава, плетень поперёк реки для ловли
-				лосося</lexicon>
+         <lexicon xml:lang="rus">рыболовная застава, плетень поперёк реки для ловли лосося</lexicon>
          <semantics>
             <sem class="ZOO">FISH</sem>
             <sem class="FOOD">NATURE</sem>
@@ -8563,7 +8704,8 @@
          <l pos="n">âˊbrr</l>
          <audio>
             <a dialect="muo" speaker="ZMN"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ayqlmm_SKO111211_ZMN_5.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ayqlmm_SKO111211_ZMN_5.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -9177,7 +9319,8 @@
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ypss_SKO111211_ZMN_5.wav"/>
             <a dialect="xxx" speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ypss_SKO111220_EL.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ypss_SKO111220_EL.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -9209,7 +9352,8 @@
          <lv variant="dial" source="1991">ååumaž</lv>
          <audio>
             <a dialect="muo" speaker="ZMN"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ooumazh_SKO111210_ZMN.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ooumazh_SKO111210_ZMN.wav"
+            />
          </audio>
          <infl>
             <form gloss="nom.pl">oummu</form>
@@ -9565,7 +9709,8 @@
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchayqlmm_SKO111211_ZMN_5.wav"/>
             <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchayqlmm_SKO111219_KJ_1.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchayqlmm_SKO111219_KJ_1.wav"
+            />
          </audio>
          <etymology>
             <etymon type="inher" source="uralic">śilmä</etymon>
@@ -9709,7 +9854,8 @@
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchaeaeqcc_SKO111211_ZMN_5.wav"/>
             <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchaeaeqcc_SKO111219_KJ_1.wav"/>
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchaeaeqcc_SKO111219_KJ_1.wav"
+            />
          </audio>
          <etymology>
             <etymon type="inher" source="saamic">ćācē</etymon>

@@ -9,6 +9,79 @@
 
 
 <r xml:lang="sms">
+   <e meta="06">
+      <lg>
+         <l pos="a" gloss="nom.pl">puärraz</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="n" number="pl">vanhemmat</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="n" number="pl">Eltern</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="a" a_class="xxx">âˊǩǩed</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="a">ikävä</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="a">traurig</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="a" a_class="attr">vuõsˈs</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="a">ensi</t>
+            <t pos="a">ensimmäinnen</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="a" a_class="xxx">jeärraz</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="a">muut</t>
+            <t pos="a">muita</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="a" a_class="dim">kuuđekksaž</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="lookkamkerjj" lesson="1"/>
+         </sources>
+         <tg xml:lang="fin">
+            <t pos="a">kuusivuotias</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
          <l pos="a" a_class="xxx">joorbâs</l>
@@ -2128,15 +2201,19 @@
    <e meta="05">
       <lg>
          <l pos="a" a_class="xxx">puäˊres</l>
+         <infl>
+            <form gloss="nom.pl">puärˈraz</form>
+         </infl>
          <etymology>
             <etymon type="xxx" source="finnopermic">porɜ</etymon>
             <cognate xml:lang="xxx"/>
+            <bedlan>114</bedlan>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="114"/>
-      </sources>
       <mg>
+         <sources>
+            <book name="200"/>
+         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
