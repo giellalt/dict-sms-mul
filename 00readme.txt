@@ -8,7 +8,7 @@ Incoming raw files go into inc/
 TODO
 =====
 
-*<source> needs to be moved into <mg> (it does not tell about the lemma but the meaning of the lemma)
+*@Ciprian: I'm afraid the existing scripts have to be changes after <source> was moved into <mg>
 * <lg>
 ** find a systematic and consistent way for handling variants (dial and orth) 
 ** find a systematic and consistent way for handling audiofiles
