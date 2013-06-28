@@ -546,7 +546,7 @@
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>

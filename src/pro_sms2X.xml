@@ -622,7 +622,8 @@
             <t pos="pro">tämä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pro" n="dette">denne</t>
+            <t pos="pro" gender="u">denne</t>
+            <t pos="pro" gender="n">dette</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="pro">та̄дт</t>
