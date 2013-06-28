@@ -11,6 +11,185 @@
 <r xml:lang="sms">
    <e meta="06">
       <lg>
+         <l pos="a" a_class="xxx">jeeˊres</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="2"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="xxx"> </t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">muu, eri, toinen</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">annen, annerledes</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="a" a_class="xxx">jeeˊresnallšem</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="2"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="xxx"> разный, различный</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">erilainen</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">annerledes</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="a" a_class="xxx">jiânnai</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="2"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="xxx"> много</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">paljon</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">mange, mye</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="a" a_class="xxx">mäŋgg</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="2"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="xxx"> несколько (много)</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">moni, monta</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">mange</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="a" a_class="xxx">siõm</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="2"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="xxx"> маленький</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">pieni</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">liten/litet</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="a" a_class="xxx">vaalmâš</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="2"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="xxx"> </t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">valmis</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">(er) dekket</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="a" a_class="xxx">viõlggâd</l>
+         <deriv>
+            <form gloss="attr">(\#viõˊlǧǧes)</form>
+         </deriv>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="2"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="xxx">белый</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">valkoinen</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">hvit</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
+         <l pos="a" a_class="xxx">šiõǥǥ</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="2"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="xxx"> хороший, хорошо</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">hyvä</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">bra</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="06">
+      <lg>
          <l pos="a" gloss="nom.pl">puärraz</l>
       </lg>
       <mg>
