@@ -5,7 +5,7 @@
 <!-- der="attr/pred" in translations (rus, sjd, etc.)-->
 <!-- l pos="a" a_class="attr" needs to be checked, if they do not have a predicative counterpart, we must treat them differently-->
 <!-- rus е/ё needs spellrelex instead of dis/pref-->
-<r>
+<r xml:lang="sms">
    <e meta="05">
       <lg>
          <l pos="a" a_class="xxx">hueˊnn</l>
