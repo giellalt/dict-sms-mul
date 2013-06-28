@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="03">
+      <lg>
+         <l pos="pcle">ni</l>
+      </lg>
+      <mg kurss="yes">
+         <sources>
+            <book name="kurss" lesson="2  "/>
+         </sources>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="pcle">ни</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pcle">-kaan</t>
+            <t pos="pcle">-kään</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pcle">eikä</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="pcle">ikke</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="pcle">not</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
          <l pos="pcle">tåˊlǩ</l>
@@ -173,29 +202,6 @@
          <semantics>
             <sem class="xxx"/>
          </semantics>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="pcle">teˊl</l>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-         </sources>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-         <tg xml:lang="fin">
-            <t pos="xxx">silloin</t>
-            <t pos="xxx">sitten</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="xxx">тогда</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
-         </tg>
       </mg>
    </e>
    <e meta="03">
