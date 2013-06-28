@@ -1,5 +1,1030 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+    <e meta="03">
+        <lg>
+            <l pos="n">vueˊđđemkäämmar</l>
+            <infl>
+                <form>(\#-kämmar)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">спальня </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">makuuhuone</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">soverom</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">kueˊss</l>
+            <infl>
+                <form>(\#=,kuâssa)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">гость </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">vieras, vieraat, -n</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">gjest (også gjester, gjestens)</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">stuuˊl</l>
+            <infl>
+                <form>(\#=)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">стул </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">tuoli, -t, -n</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">stol (også stoler/stolens)</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">sueˊvet</l>
+            <infl>
+                <form>(\#=)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">суббота, в субботу</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">lauantai, lauantaina</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">lørdag (også på lørdagen)</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">jeäˊǩǩääž</l>
+            <infl>
+                <form>(\#jeäˊǩǩää)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">вечер, вечером</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">ilta</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">kveld</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">ǩeˊrjj</l>
+            <infl>
+                <form>(\#ǩeeˊrj)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">книга </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">kirja, kirjat, -n</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">bok</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">kopp </l>
+            <infl>
+                <form>(\#koopp)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"/>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx"/>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">kopp </t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">käämmar</l>
+            <infl>
+                <form>(\#kämmar)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"/>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">makuuhuoneet, -n</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">soverom</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">käˊrdd</l>
+            <infl>
+                <form>(\#kääˊrd)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">передняя, прихожая </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">eteinen, eteiset, -n</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">gang (lobby)</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">kaaˊff</l>
+            <infl>
+                <form>(\#kaaˊf)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"/>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx"/>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">kaffe</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">kaav</l>
+            <infl>
+                <form>(\#kaappi)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">жена </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">vaimo, vaimot, -n</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">kone</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">lõnnj</l>
+            <infl>
+                <form>(\#lõõnj,lõˊnnje)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">комната, в комнату </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">huone, huoneet, -n</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">rom</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">meäˊcc</l>
+            <infl>
+                <form>(\#mieˊcc,mieˊccest)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">лес, в лесу</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">metsä, metsässä</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">skog</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">mieˊlǩǩ</l>
+            <infl>
+                <form>(\#mieˊlǩ)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">молоко </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">maito, maitoa</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">melk</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">põrtt</l>
+            <infl>
+                <form>(\#põõrt,põrttâd)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">дом; комната</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">talot, talon</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">hus (flertall), husets</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">ǩeˊttempõrtt</l>
+            <infl>
+                <form>(\#põõrt)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">кухня</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">keittiö</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">kjøkken</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">påˊrdd</l>
+            <infl>
+                <form>(\#pååˊrd)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">стол </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">pöytä, pöydät, -n</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">bord</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">siâŋgg</l>
+            <infl>
+                <form>(\#siâŋg)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">кровать </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">sänky, sängyt, -n</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">seng</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">stuälaž</l>
+            <infl>
+                <form>(\#stuäla)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">столик </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">pöytänen, (pikkupöytä), pöytäset, -n</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">taburett</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">säuˊnn</l>
+            <infl>
+                <form>(\#sääuˊn)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">баня </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">sauna, saunat, -n</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">sauna, sauna (flertall)/saunaens</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">tuõddâr</l>
+            <infl>
+                <form>(\#tuõddra)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">сопка; тундра, в тундру</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">tunturi, tunturiin</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">fjell</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">uhss</l>
+            <infl>
+                <form>(\#uus,uusâst,uˊhsse)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">дверь</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">ovi, ovelta</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">dør</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">veärr</l>
+            <infl>
+                <form>(\#veär)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">суп, еда </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">keitto (ruoka), keitot, -n (ruuat, -n)</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">suppe</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">vueˊǯǯ</l>
+            <infl>
+                <form>(\#vueˊǯǯest)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">мясо, из мяса</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">liha, lihasta</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">kjøtt</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">äiˊǧǧ</l>
+            <infl>
+                <form>(\#ääiˊj)</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx">время </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">aika, ajat, -n</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">tid</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">heäˊrvvkäuˊnn</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"> украшение</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">koriste-esine</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">dekorasjon</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">jeäˊvvsid</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"> </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">eväitä</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">snacks (akkusativ flertall)</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">jälstemlõnnj</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"> гостиная</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">olohuone</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">stue</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">ǩeˊrjjiˊlddi</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"> книжная полка</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">kirjahylly</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">bokhylle</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">kuälktem</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"> стук</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">kolkutus</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">banking</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">kaaˊffpåˊrdd</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"> кофейный cтол накрыт</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">kahvipöytä</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">kaffebord</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">leiˊbbtiskk</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"> хлебница</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">leipävati, pullavati</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">brødtallerken</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">nuuˊžniǩ</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"> туалет, нужник</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">vessa</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">toalett</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">pirrõs</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"> окрестность</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">ympäristö</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">omgivelse</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">škaapp</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"> шкаф</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">kaappi</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">skap</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">säähhar</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"> сахар</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">sokeria</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">sokker</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">teˊlvisia</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"> телевизор</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">televisio</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">tv</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n">vueˊǯǯveärr</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="xxx"> </t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">lihakeitto</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">kjøttsuppe</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+        </mg>
+    </e>
    <e meta="06">
       <lg>
          <l pos="n">toobdâs</l>
