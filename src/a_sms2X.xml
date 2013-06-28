@@ -115,32 +115,6 @@
          </tg>
       </mg>
    </e>
-   <e meta="03">
-      <lg>
-         <l pos="a" a_class="xxx">jiânnai</l>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="a">много</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="a">paljon</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="a" oahpa="pref">mange</t>
-            <t pos="a">mye</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="a">many</t>
-         </tg>
-      </mg>
-   </e>
    <e meta="04">
       <lg>
          <l pos="a" a_class="xxx">joorbâs</l>
