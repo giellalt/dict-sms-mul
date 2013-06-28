@@ -2,6 +2,53 @@
 <r xml:lang="sms">
    <e meta="03">
       <lg>
+         <l pos="adp">âˊlnn</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="2"/>
+         </sources>
+         <semantics>
+            <sem class="SPACE">POSITION</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="adp">на</t>
+            <te>где</te>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">päällä</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adp">på</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adp">on</t>
+         </tg>
+      </mg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="2"/>
+         </sources>
+         <semantics>
+            <sem class="SPACE">MOTION</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="adp">с</t>
+            <e>откуда</e>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">päällä</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adp">from</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
          <l pos="adp">årra</l>
       </lg>
       <mg>
@@ -115,14 +162,40 @@
    </e>
    <e meta="03">
       <lg>
+         <l pos="adp">pirr</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="2"/>
+         </sources>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="SPACE">POSITION</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">ympäri</t>
+            <t pos="xxx">ympärillä</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="mwe_adp">rundt omkring</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adp">around</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
          <l pos="adp">sizz</l>
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SPACE">MOTION</sem>
          </semantics>
          <tg xml:lang="fin">
             <t pos="pop">sisään</t>
@@ -135,6 +208,9 @@
          <tg xml:lang="rus">
             <t pos="adv">внутрь</t>
             <t pos="adv">вовнутрь</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="mwe_adv">в дом</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">inn</t>
@@ -155,7 +231,7 @@
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
             <sem class="xxx"/>
@@ -164,9 +240,13 @@
             <t pos="xxx">takana</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">за, из-за</t>
+            <t pos="adp">за</t>
+            <t pos="adp">из-за</t>
          </tg>
          <tg xml:lang="nob">
+            <t pos="adp">tilbake</t>
+         </tg>
+         <tg xml:lang="eng">
             <t pos="xxx">xxx</t>
          </tg>
       </mg>
