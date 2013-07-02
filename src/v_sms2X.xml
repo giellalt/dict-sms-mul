@@ -4566,34 +4566,6 @@
          </tg>
       </mg>
    </e>
-   <e meta="03">
-      <lg>
-         <l pos="v">väˊldded</l>
-         <infl>
-            <form>(\#vääldam,väldd)</form>
-         </infl>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="xxx"/>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx">ottaa, otan</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">å ta</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
-         </tg>
-      </mg>
-   </e>
    <e meta="04">
       <lg>
          <l pos="v">väˊldded</l>
@@ -4838,7 +4810,8 @@
       <lg>
          <l pos="v">ääˊveed</l>
          <infl>
-            <form>(\#ääˊva,ääˊvad)</form>
+            <form gloss="3sg.prs">ääˊvad</form>
+            <form gloss="xxx">ääˊva</form>
          </infl>
       </lg>
       <mg>
@@ -4846,44 +4819,19 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="xxx"/>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx">avata, (hän) avaa</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">å åpne</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="v">ääˊveed</l>
-         <infl>
-            <form gloss="3sg.prs">äävad</form>
-         </infl>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-         </sources>
-         <semantics>
             <sem class="HUMAN">SOCIAL</sem>
             <sem class="WORK">ECONOMY</sem>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">avata</t>
+            <t pos="v">avata</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">открывать</t>
+            <t pos="v">открывать</t>
          </tg>
          <tg xml:lang="nob">
+            <t pos="v">åpne</t>
+         </tg>
+         <tg xml:lang="eng">
             <t pos="xxx">xxx</t>
          </tg>
       </mg>
@@ -5355,41 +5303,13 @@
       <lg>
          <l pos="v">šõddâd</l>
          <infl>
-            <form>(\#šâdd)</form>
-         </infl>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="xxx">становться кем-, чем-либо, (он) становится </t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx">syntyä, tulla jksn, (hän) syntyy, tulee jksn</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">å bli til/fødes</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="v">šõddâd</l>
-         <infl>
             <form gloss="3sg.prs">šâdd</form>
             <form gloss="3sg.pst">šõõddi</form>
          </infl>
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="2"/>
             <book name="lookkamkerjj" lesson="1"/>
          </sources>
          <semantics>
@@ -5402,11 +5322,12 @@
             <t pos="xxx">родиться</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="xxx">fødes</t>
          </tg>
       </mg>
       <mg>
          <sources>
+            <book name="kurss" lesson="2"/>
             <book name="lookkamkerjj" lesson="1"/>
          </sources>
          <semantics>
@@ -5417,11 +5338,14 @@
             <te>(jksn)</te>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v">становиться (кем-, чем-либо)</t>
+            <t pos="xxx">становиться</t>
+            <te>(кем-, чем-либо)</te>
+         </tg>
+         <tg xml:lang="rus">
             <t pos="v">появляться (на свет)</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="xxx">å bli til</t>
          </tg>
       </mg>
    </e>
