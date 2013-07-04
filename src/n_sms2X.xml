@@ -2,22 +2,60 @@
 <r xml:lang="sms">
    <e meta="04">
       <lg>
-         <l source="ZMN" pos="mwe_np">suõskkâm tääbbaǩ</l>
+         <l pos="n">tääbbaǩ</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="FOOD">DISH</sem>
+         </semantics>
          <tg xml:lang="deu">
-            <t pos="n">Priem</t>
-            <t pos="n">Kautabak</t>
+            <t pos="n">Tabak</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="n">chew</t>
-            <t pos="mwe_np">chewing tobacco</t>
+            <t pos="n">tobacco</t>
          </tg>
-         <tg xml:lang="nob">
-            <t pos="n">snus</t>
+         <tg xml:lang="rus">
+            <t pos="n">табак</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="n">nuuska</t>
+            <t pos="n">tupakka</t>
+            <tr>aine</tr>
+         </tg>
+         <dg>
+            <d source="ZMN" pos="mwe_np" oahpa="incl">suõskkâm tääbbaǩ</d>
+            <dtg xml:lang="deu">
+               <t pos="n">Priem</t>
+               <t pos="n">Kautabak</t>
+            </dtg>
+            <dtg xml:lang="eng">
+               <t pos="n">chew</t>
+               <t pos="mwe_np">chewing tobacco</t>
+            </dtg>
+            <dtg xml:lang="nob">
+               <t pos="n">snus</t>
+            </dtg>
+            <dtg xml:lang="fin">
+               <t pos="n">nuuska</t>
+            </dtg>
+         </dg>
+      </mg>
+      <mg spec="BOT">
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="deu">
+            <t pos="n">Tabak</t>
+            <tr>Pflanze</tr>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">tobacco</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">табак</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">tupakka</t>
+            <tr>kasvi</tr>
          </tg>
       </mg>
    </e>
