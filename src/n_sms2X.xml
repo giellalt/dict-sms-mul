@@ -2,6 +2,29 @@
 <r xml:lang="sms">
    <e meta="04">
       <lg>
+         <l pos="n">jälstempõrtt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="deu">Wohnhaus</tg>
+         <dg oahpa="excl" kurss="no">
+            <d pos="mwe_np">päärnai jälstempõrtt</d>
+            <dtg xml:lang="eng">
+               <dt pos="mwe_np">boarding house</dt>
+            </dtg>
+            <dtg xml:lang="eng">
+               <dt pos="n">dormitory</dt>
+               <dt pos="n">dorm</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="n">asuntola</dt>
+               <dt pos="n">opiskelija-asuntola</dt>
+               <dt pos="n">oppilasasuntola</dt>
+            </dtg>
+         </dg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
          <l pos="n">tääbbaǩ</l>
       </lg>
       <mg>
@@ -810,12 +833,12 @@
             <t pos="n">jàhpee</t>
          </tg>
          <xg oahpa="excl" kurss="no">
-            <x pos="n">eeˊǩǩed</x>
+            <x pos="mwe_np">lååi eeˊǩǩed</x>
             <xtg xml:lang="rus">
-               <xt pos="n">лет</xt>
+               <xt pos="mwe_np">десять лет</xt>
             </xtg>
             <xtg xml:lang="fin">
-               <xt pos="n">vuotta</xt>
+               <xt pos="mwe_np">kymmenen vuotta</xt>
             </xtg>
          </xg>
       </mg>
@@ -2321,9 +2344,9 @@
             <t pos="n">course</t>
          </tg>
          <xg oahpa="excl" kurss="yes">
-            <x type="np" pos="n-n">nuõrttsääˊmǩiõl kurss</x>
+            <x pos="mwe_np">nuõrttsääˊmǩiõl kurss</x>
             <xtg xml:lang="fin">
-               <xt pos="xxx">koltansaamen kielen kurssi</xt>
+               <xt pos="mwe_np">koltansaamen kielen kurssi</xt>
             </xtg>
          </xg>
          <semantics>
@@ -3889,9 +3912,9 @@
             <t pos="n">музей</t>
          </tg>
          <xg oahpa="excl" kurss="no">
-            <x type="np" pos="mwe">nuõrttsaaˊmi muˊzei</x>
+            <x pos="mwe_np">nuõrttsaaˊmi muˊzei</x>
             <xtg xml:lang="rus">
-               <xt pos="xxx">колттасаамский музей</xt>
+               <xt pos="mwe_np">колттасаамский музей</xt>
             </xtg>
          </xg>
          <semantics>
@@ -3974,12 +3997,12 @@
          <tg xml:lang="fin">
             <t pos="n">opetusjärjestelmä</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="n">Learnlinc-ougglestmättʼtempirrõõzzâst</x>
-            <xtg xml:lang="fin">
-               <xt pos="n">Learnlinc-etäopetusjärjestelmässä</xt>
-            </xtg>
-         </xg>
+         <dg oahpa="excl" kurss="no">
+            <d pos="n">Learnlinc-ougglestmättʼtempirrõõzzâst</d>
+            <dtg xml:lang="fin">
+               <dt pos="n">Learnlinc-etäopetusjärjestelmässä</dt>
+            </dtg>
+         </dg>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -4954,18 +4977,12 @@
          <l pos="n">ougglestmättʼtõssân</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
-            <t pos="n">etäopetus</t>
-         </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="xxx"/>
-            <xtg xml:lang="xxx">
-               <xt pos="ххх">xxx</xt>
-            </xtg>
-         </xg>
          <semantics>
             <sem class="xxx"/>
          </semantics>
+         <tg xml:lang="fin">
+            <t pos="n">etäopetus</t>
+         </tg>
       </mg>
    </e>
    <e meta="01">
@@ -6042,21 +6059,6 @@
             <t pos="n">mànnaa</t>
             <t pos="n">jugˈloo</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="mwe_a">päärnai jälstempõrtt</x>
-            <xtg xml:lang="eng">
-               <xt pos="mwe_n">boarding house</xt>
-            </xtg>
-            <xtg xml:lang="eng">
-               <xt pos="n">dormitory</xt>
-               <xt pos="n">dorm</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="n">asuntola</xt>
-               <xt pos="mwe_n">opiskelija-asuntola</xt>
-               <xt pos="n">oppilasasuntola</xt>
-            </xtg>
-         </xg>
       </mg>
       <mg term="KINSHIP">
          <sources>
@@ -6089,16 +6091,6 @@
             <t pos="n">mànnaa</t>
             <t pos="n">jugˈloo</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x pos="mwe_a">päärnai vuâstta</x>
-            <xtg xml:lang="eng">
-               <xt pos="a">pregnant</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="a" oahpa="pref">raskaana</xt>
-               <xt pos="mwe_a">olla paksuna</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="01">
@@ -6261,27 +6253,27 @@
          <tg xml:lang="sju">
             <t pos="n">gååhtee</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="n">põõrtâst</x>
-            <xtg xml:lang="rus">
-               <xt pos="adv">дома</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="mwe_adv">в доме</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="adv">kotona</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="n">talossa</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="n">hjemme</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="mwe_adv">i huset</xt>
-            </xtg>
-         </xg>
+         <dg oahpa="excl" kurss="no">
+            <d pos="n" gloss="loc.sg">põõrtâst</d>
+            <dtg xml:lang="rus">
+               <dt pos="adv">дома</dt>
+            </dtg>
+            <dtg xml:lang="rus">
+               <dt pos="mwe_adp">в доме</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="adv">kotona</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="n">talossa</dt>
+            </dtg>
+            <dtg xml:lang="nob">
+               <dt pos="adv">hjemme</dt>
+            </dtg>
+            <dtg xml:lang="nob">
+               <dt pos="mwe_adp">i huset</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="05">
@@ -6366,18 +6358,18 @@
             <t pos="n">arbeid</t>
             <t pos="n">jobb</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="n">reâuǥast</x>
-            <xtg xml:lang="rus">
-               <xt>на работе</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="n">työssä</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">på jobben</xt>
-            </xtg>
-         </xg>
+         <dg oahpa="excl" kurss="no">
+            <d pos="n" gloss="loc.sg">reâuǥast</d>
+            <dtg xml:lang="rus">
+               <dt pos="mwe_adp">на работе</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="n" gloss="xxx">työssä</dt>
+            </dtg>
+            <dtg xml:lang="nob">
+               <dt pos="mwe_adp">på jobben</dt>
+            </dtg>
+         </dg>
          <semantics>
             <sem class="WORK">ECONOMY</sem>
          </semantics>
@@ -7130,18 +7122,18 @@
          <tg xml:lang="deu">
             <t pos="a" type="attr" m="kleiner" pl="kleine">kleine</t>
          </tg>
-         <xg oahpa="excl">
-            <x type="deriv" pos="n">siõmâž</x>
-            <xtg xml:lang="eng">
-               <xt pos="n">baby</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="n">vauva</xt>
-            </xtg>
-            <xtg xml:lang="sme">
-               <xt pos="n">njuoratmánná</xt>
-            </xtg>
-         </xg>
+         <dg oahpa="incl">
+            <d pos="n">siõmâž</d>
+            <dtg xml:lang="eng">
+               <dt pos="n">baby</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="n">vauva</dt>
+            </dtg>
+            <dtg xml:lang="sme">
+               <dt pos="n">njuoratmánná</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -7579,21 +7571,21 @@
          <tg xml:lang="eng">
             <t pos="n">Saturday</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="infl" pos="n">sueˊvet</x>
-            <xtg xml:lang="fin">
-               <xt pos="n">lauantaina</xt>
-            </xtg>
-            <xtg xml:lang="rus">
+         <dg oahpa="incl" kurss="yes">
+            <d pos="n" gloss="gen.sg">sueˊvet</d>
+            <dtg xml:lang="fin">
+               <dt pos="n">lauantaina</dt>
+            </dtg>
+            <dtg xml:lang="rus">
                <xt pos="mwe_adp">в субботу</xt>
-            </xtg>
-            <xtg xml:lang="nob">
+            </dtg>
+            <dtg xml:lang="nob">
                <xt pos="mwe_adp">på lørdag</xt>
-            </xtg>
-            <xtg xml:lang="eng">
+            </dtg>
+            <dtg xml:lang="eng">
                <xt pos="mwe_adp">on Saturday</xt>
-            </xtg>
-         </xg>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -8094,15 +8086,15 @@
          <tg xml:lang="sju">
             <t pos="n">sàlltee</t>
          </tg>
-         <xg oahpa="excl">
-            <x type="deriv" pos="a">säˊlttai</x>
-            <xtg xml:lang="eng">
-               <xt pos="a">salty</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="a">suolainen</xt>
-            </xtg>
-         </xg>
+         <dg oahpa="incl">
+            <d pos="a">säˊlttai</d>
+            <dtg xml:lang="eng">
+               <dt pos="a">salty</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="a">suolainen</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -8530,21 +8522,21 @@
          <tg xml:lang="deu">
             <t pos="n">Feuer</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="deriv" pos="v">tollstõõllâd</x>
-            <xtg xml:lang="eng">
-               <xt pos="mwe_v">having a bonfire</xt>
-            </xtg>
-            <xtg xml:lang="fin">
+         <dg oahpa="incl" kurss="yes">
+            <d pos="v">tollstõõllâd</d>
+            <dtg xml:lang="eng">
+               <dt pos="mwe_vp">having a bonfire</dt>
+            </dtg>
+            <dtg xml:lang="fin">
                <xt pos="v">tulistella</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="mwe_v">сидеть у костра</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="mwe_v">sitte ved ild</xt>
-            </xtg>
-         </xg>
+            </dtg>
+            <dtg xml:lang="rus">
+               <dt pos="mwe_vp">сидеть у костра</dt>
+            </dtg>
+            <dtg xml:lang="nob">
+               <dt pos="mwe_vp">sitte ved ild</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -8758,18 +8750,18 @@
          <tg xml:lang="nob">
             <t pos="n">morgon</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="infl" pos="n">tueˊlää</x>
-            <xtg xml:lang="fin">
-               <xt pos="xxx">aamulla</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="xxx">утром</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">xxx</xt>
-            </xtg>
-         </xg>
+         <dg oahpa="incl" kurss="yes">
+            <x pos="n" gloss="xxx">tueˊlää</x>
+            <dtg xml:lang="fin">
+               <dt pos="xxx">aamulla</dt>
+            </dtg>
+            <dtg xml:lang="rus">
+               <dt pos="xxx">утром</dt>
+            </dtg>
+            <dtg xml:lang="nob">
+               <dt pos="xxx">xxx</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="03">
@@ -8919,18 +8911,18 @@
             <t pos="n">arbeid</t>
             <t pos="n">jobb</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="n">tuẹjast</x>
-            <xtg xml:lang="rus">
-               <xt pos="xxx">на работе</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="n">työssä</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">på jobben</xt>
-            </xtg>
-         </xg>
+         <dg oahpa="incl" kurss="no">
+            <d pos="n" gloss="loc.sg">tuẹjast</d>
+            <dtg xml:lang="rus">
+               <dt pos="mwe_adp">на работе</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="n" gloss="xxx">työssä</dt>
+            </dtg>
+            <dtg xml:lang="nob">
+               <dt pos="mwe_adp">på jobben</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="03">
@@ -9026,18 +9018,18 @@
          <tg xml:lang="eng">
             <t pos="n">winter</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="infl" pos="n">tälvva</x>
-            <xtg xml:lang="fin">
-               <xt pos="n">talvella</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="n">зимой</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">xxx</xt>
-            </xtg>
-         </xg>
+         <dg oahpa="incl" kurss="yes">
+            <d pos="n" gloss="ill.sg">tälvva</d>
+            <dtg xml:lang="fin">
+               <dt pos="n" gloss="xxx">talvella</dt>
+            </dtg>
+            <dtg xml:lang="rus">
+               <dt pos="n" gloss="xxx">зимой</dt>
+            </dtg>
+            <dtg xml:lang="nob">
+               <dt pos="xxx">xxx</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -9709,20 +9701,11 @@
             <tr>родная</tr>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="n">søster</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="infl" pos="n">vueˊbbines</x>
-            <xtg xml:lang="fin">
-               <xt pos="mwe">sisarensa kanssa</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="mwe">с сестрой</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">xxx</xt>
-            </xtg>
-         </xg>
+         <tg xml:lang="eng">
+            <t pos="n">sister</t>
+         </tg>
       </mg>
    </e>
    <e meta="04">
@@ -9795,24 +9778,24 @@
          <tg xml:lang="sju">
             <t pos="n">beärˈgoo</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="infl" pos="n">vueˊǯǯest</x>
+         <xg>
+            <x pos="xxx">veärr lij vueˊǯǯest</x>
             <xtg xml:lang="fin">
-               <xt pos="n">lihasta</xt>
+               <xt pos="xxx">keito on lihasta</xt>
             </xtg>
             <xtg xml:lang="rus">
-               <xt pos="mwe_n">из мяса</xt>
+               <xt pos="mwe_xxx">суп из мяса</xt>
             </xtg>
          </xg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="compound" pos="n">vuäˊǯˈǯveärr</x>
-            <xtg xml:lang="fin">
+         <dg oahpa="incl" kurss="yes">
+            <d pos="n">vuäˊǯˈǯveärr</d>
+            <dtg xml:lang="fin">
                <xt pos="n">lihakeito</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="mwe_n">мясный суп</xt>
-            </xtg>
-         </xg>
+            </dtg>
+            <dtg xml:lang="rus">
+               <dt pos="mwe_np">мясный суп</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="04">
@@ -10046,29 +10029,29 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">maanantai</t>
+            <t pos="n">maanantai</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">понедельник</t>
+            <t pos="n">понедельник</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="n">mandag</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="n">Monday</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="infl" pos="n">vuõsˈsaarǥ</x>
-            <xtg xml:lang="fin">
-               <xt pos="xxx">maanantaina</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="xxx">в понедельник</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">xxx</xt>
-            </xtg>
-         </xg>
+         <dg oahpa="incl" kurss="yes">
+            <d pos="n" gloss="gen.sg">vuõsˈsaarǥ</d>
+            <dtg xml:lang="fin">
+               <dt pos="xxx">maanantaina</dt>
+            </dtg>
+            <dtg xml:lang="rus">
+               <dt pos="mwe_adp">в понедельник</dt>
+            </dtg>
+            <dtg xml:lang="nob">
+               <dt pos="mwe_adp">på mandag</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="04">
@@ -10274,7 +10257,7 @@
          <tg xml:lang="deu">
             <t pos="n">Schuh</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
+         <xg kurss="no">
             <x pos="n">Jäuvss kämmääd!</x>
             <xtg xml:lang="deu">
                <xt pos="n">Bitte Schuhe ausziehen!</xt>
@@ -10369,18 +10352,18 @@
          <tg xml:lang="eng">
             <t pos="n">age</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="a">âkksaž</x>
-            <xtg xml:lang="rus">
-               <xt pos="xxx">в возрасте</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="a">ikäinen</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">på alder</xt>
-            </xtg>
-         </xg>
+         <dg oahpa="excl" kurss="no">
+            <d pos="a">âkksaž</d>
+            <dtg xml:lang="rus">
+               <dt pos="mwe_adp">в возрасте</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="a">ikäinen</dt>
+            </dtg>
+            <dtg xml:lang="nob">
+               <dt pos="mwe_adp">på alder</dt>
+            </dtg>
+         </dg>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="TIME">UNIT</sem>
@@ -11378,12 +11361,12 @@
          <tg xml:lang="fin">
             <t pos="n">näyttely</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="n">ǩiõttʼtuẹjjčuäjtõs</x>
-            <xtg xml:lang="deu">
-               <xt pos="n">Handwerksausstellung</xt>
-            </xtg>
-         </xg>
+         <dg oahpa="incl" kurss="no">
+            <d pos="n">ǩiõttʼtuẹjjčuäjtõs</d>
+            <dtg xml:lang="deu">
+               <dt pos="n">Handwerksausstellung</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="04">
@@ -11951,18 +11934,18 @@
          <tg xml:lang="eng">
             <t pos="n">school</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="n">škooulâst</x>
-            <xtg xml:lang="rus">
-               <xt>в школе</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="n">koulussa</xt>
-            </xtg>
-            <xtg xml:lang="no">
-               <xt pos="xxx">på skolen</xt>
-            </xtg>
-         </xg>
+         <dg oahpa="incl" kurss="no">
+            <d pos="n" gloss="loc.sg">škooulâst</d>
+            <dtg xml:lang="rus">
+               <dt pos="mwe_adp">в школе</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="n" gloss="xxx">koulussa</dt>
+            </dtg>
+            <dtg xml:lang="no">
+               <dt pos="mwe_adp">på skolen</dt>
+            </dtg>
+         </dg>
          <semantics>
             <sem class="HOUSE">DWELLING</sem>
          </semantics>
@@ -12605,9 +12588,9 @@
             <t pos="n">duodji</t>
          </tg>
          <xg oahpa="excl" kurss="no">
-            <x type="np" pos="mwe">nuõrttsaaˊmi ǩiõttʼtuẹjj</x>
+            <x pos="mwe_np">nuõrttsaaˊmi ǩiõttʼtuẹjj</x>
             <xtg xml:lang="rus">
-               <xt pos="xxx">колттасаамское рукоделие</xt>
+               <xt pos="mwe_np">колттасаамское рукоделие</xt>
             </xtg>
          </xg>
          <semantics>
