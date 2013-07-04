@@ -6,6 +6,21 @@
 <!-- l pos="a" a_class="attr" needs to be checked, if they do not have a predicative counterpart, we must treat them differently-->
 <!-- rus е/ё needs spellrelex instead of dis/pref-->
 <r xml:lang="sms">
+   <e meta="04">
+      <lg>
+         <l pos="a">âˊldd-</l>
+         <note>bound root of ââld(a)</note>
+      </lg>
+      <mg>
+         <dg>
+            <d pos="n">âˊlddpuäʒʒ</d>
+            <dtg xml:lang="fin">
+               <dt>käsiporo</dt>
+               <te>joka on aina käsillä</te>
+            </dtg>
+         </dg>
+      </mg>
+   </e>
    <e meta="05">
       <lg>
          <l pos="a" a_class="xxx">hueˊnn</l>

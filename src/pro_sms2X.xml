@@ -103,25 +103,7 @@
          <tg xml:lang="sju">
             <t pos="pro">mii</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x pos="pro">mõõn</x>
-            <xtg xml:lang="rus">
-               <xt pos="mwe_pro">что за</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="pro">minkä</xt>
-            </xtg>
-         </xg>
-         <xg oahpa="excl" kurss="yes">
-            <x pos="pro">mâiˊd</x>
-            <xtg xml:lang="rus">
-               <xt pos="pro">чего</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="pro">mitä</xt>
-            </xtg>
-         </xg>
-         <xg oahpa="excl" kurss="no">
+         <xg>
             <x pos="mwe_pro">mii-ne</x>
             <xtg xml:lang="eng">
                <xt pos="pro">some</xt>
@@ -247,17 +229,17 @@
          <tg xml:lang="sju">
             <t pos="pro">månna</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="pro">muu</x>
-            <xtg xml:lang="rus" pos="pro">мой</xtg>
-            <xtg xml:lang="rus" pos="pro">моя</xtg>
-            <xtg xml:lang="rus" pos="pro">мое</xtg>
-            <xtg xml:lang="rus" pos="pro">мои</xtg>
-            <xtg xml:lang="eng" pos="pro">mine</xtg>
-            <xtg xml:lang="eng" pos="pro">my</xtg>
-            <xtg xml:lang="fin" pos="pro">minun</xtg>
-            <xtg xml:lang="sme" pos="pro">mu</xtg>
-         </xg>
+         <dg>
+            <d pos="pro" gloss="gen.sg">muu</d>
+            <dtg xml:lang="rus" pos="pro">мой</dtg>
+            <dtg xml:lang="rus" pos="pro">моя</dtg>
+            <dtg xml:lang="rus" pos="pro">мое</dtg>
+            <dtg xml:lang="rus" pos="pro">мои</dtg>
+            <dtg xml:lang="eng" pos="pro">mine</dtg>
+            <dtg xml:lang="eng" pos="pro">my</dtg>
+            <dtg xml:lang="fin" pos="pro">minun</dtg>
+            <dtg xml:lang="sme" pos="pro">mu</dtg>
+         </dg>
       </mg>
    </e>
    <e meta="04">
@@ -405,20 +387,20 @@
          <tg xml:lang="sju">
             <t pos="pro">sijja</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x type="infl" pos="pro">suäna</x>
-            <xtg xml:lang="eng">
-               <xt pos="pro">they</xt>
-               <xtr>two</xtr>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="pro">he</xt>
-               <xtr>kaksi</xtr>
-            </xtg>
-            <xtg xml:lang="sme">
-               <xt pos="pro">soai</xt>
-            </xtg>
-         </xg>
+         <dg>
+            <d type="infl" pos="pro">suäna</d>
+            <dtg xml:lang="eng">
+               <dt pos="pro">they</dt>
+               <dtr>two</dtr>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="pro">he</dt>
+               <dtr>kaksi</dtr>
+            </dtg>
+            <dtg xml:lang="sme">
+               <dt pos="pro">soai</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="04">

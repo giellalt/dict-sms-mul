@@ -183,18 +183,18 @@
          <tg xml:lang="eng">
             <t pos="adv">much</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="deriv" pos="adv">jäänab</x>
-            <xtg xml:lang="fin">
-               <xt pos="adv">enemmän</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="adv">больше</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">xxx</xt>
-            </xtg>
-         </xg>
+         <dg kurss="yes">
+            <d pos="adv">jäänab</d>
+            <dtg xml:lang="fin">
+               <dt pos="adv">enemmän</dt>
+            </dtg>
+            <dtg xml:lang="rus">
+               <dt pos="adv">больше</dt>
+            </dtg>
+            <dtg xml:lang="nob">
+               <dt pos="adv">mer</dt>
+            </dtg>
+         </dg>
       </mg>
       <mg>
          <semantics>
@@ -215,13 +215,13 @@
          <xg oahpa="excl" kurss="yes">
             <x type="deriv" pos="adv">teänab</x>
             <xtg xml:lang="fin">
-               <xt pos="xxx">enää</xt>
+               <xt pos="adv">enää</xt>
             </xtg>
             <xtg xml:lang="rus">
                <xt pos="xxx">(не) больше</xt>
             </xtg>
             <xtg xml:lang="nob">
-               <xt pos="xxx">xxx</xt>
+               <xt pos="xxx">(ikke) mer</xt>
             </xtg>
          </xg>
       </mg>
@@ -278,18 +278,18 @@
          <tg xml:lang="sme">
             <t pos="adv">ihttin</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="mwe_adv">mâŋŋa jââđast</x>
-            <xtg xml:lang="eng">
-               <xt pos="mwe_adv">the day after tomorrow</xt>
-            </xtg>
-            <xtg xml:lang="deu">
-               <xt pos="adv">übermorgen</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="adv">послезавтра</xt>
-            </xtg>
-         </xg>
+         <dg kurss="no">
+            <d pos="mwe_adv">mâŋŋa jââđast</d>
+            <dtg xml:lang="eng">
+               <dt pos="mwe_adv">the day after tomorrow</dt>
+            </dtg>
+            <dtg xml:lang="deu">
+               <dt pos="adv">übermorgen</dt>
+            </dtg>
+            <dtg xml:lang="rus">
+               <dt pos="adv">послезавтра</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="05">
@@ -1805,21 +1805,6 @@
          <tg xml:lang="fin">
             <t pos="adv">läheltä</t>
          </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="adv">âˊldd-</l>
-         <note>bound root of ââld(a)</note>
-      </lg>
-      <mg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="n">âˊlddpuäʒʒ</x>
-            <xtg xml:lang="fin">
-               <xt>käsiporo</xt>
-               <te>joka on aina käsillä</te>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="03">

@@ -79,18 +79,6 @@
          <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="xxx" pos="pcle">naa-a</x>
-            <xtg xml:lang="rus">
-               <xt pos="mwe">да есть</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="mwe">kylä on</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">xxx</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="03">
@@ -165,18 +153,18 @@
          <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="pcle">naa-a</x>
-            <xtg xml:lang="rus">
-               <xt pos="xxx">да есть</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="sss">kylä on</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">xxx</xt>
-            </xtg>
-         </xg>
+         <dg>
+            <d pos="pcle">naa-a</d>
+            <dtg xml:lang="rus">
+               <dt pos="xxx">да есть</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="xxx">kylä on</dt>
+            </dtg>
+            <dtg xml:lang="nob">
+               <dt pos="xxx">sånn er det</dt>
+            </dtg>
+         </dg>
          <semantics>
             <sem class="xxx"/>
          </semantics>

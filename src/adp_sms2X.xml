@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <r xml:lang="sms">
-  <e meta="03">
+   <e meta="04">
+      <lg>
+         <l pos="adp">vuâstta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="adv">vastaan</t>
+         </tg>
+         <dg oahpa="excl" kurss="yes">
+            <d pos="mwe_adp">päärnai vuâstta</d>
+            <dtg xml:lang="eng">
+               <dt pos="a">pregnant</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="a" oahpa="pref">raskaana</dt>
+               <dt pos="mwe_vp">olla paksuna</dt>
+            </dtg>
+         </dg>
+      </mg>
+   </e>
+   <e meta="03">
       <lg>
          <l pos="adp">kuâŋˈŋad</l>
       </lg>
@@ -24,7 +43,7 @@
          </semantics>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
          <l pos="adp">luzz</l>
       </lg>
@@ -47,7 +66,7 @@
          </semantics>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
          <l pos="adp">ouddâl</l>
       </lg>
@@ -88,7 +107,7 @@
          </semantics>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
          <l pos="adp">pirr</l>
       </lg>
@@ -114,7 +133,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
          <l pos="adp">sizz</l>
       </lg>
@@ -153,7 +172,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
          <l pos="adp">tueˊǩǩen</l>
       </lg>
@@ -179,7 +198,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
          <l pos="adp">vuâlla</l>
       </lg>
@@ -201,7 +220,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
          <l pos="adp">âˊlnn</l>
       </lg>
@@ -248,7 +267,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
          <l pos="adp">årra</l>
       </lg>
@@ -274,7 +293,7 @@
          </semantics>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="adp">åˊrnn</l>
          <lv variant="dial" source="1991">åˊrren</lv>
