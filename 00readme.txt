@@ -5,6 +5,16 @@ Documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
 Incoming raw files go into inc/
 
 =====
+LEXICOGRAPHY
+=====
+…to be completed…
+<e>
+-><lg>
+--><mg>
+---><dg> = "derivation group" = derived forms or expressions, to be listed under a lemma; try not to have similar <dg> under different <lg>!; some forms might be relevant for Oahpa! or (reversed) dictionary
+---><eg> = "example group" = example forms, phrases or sentences; never relevant for Oahpa! or (reversed) dictionary
+
+=====
 TODO
 =====
 
