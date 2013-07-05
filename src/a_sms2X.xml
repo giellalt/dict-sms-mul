@@ -6,6 +6,53 @@
 <!-- l pos="a" a_class="attr" needs to be checked, if they do not have a predicative counterpart, we must treat them differently-->
 <!-- rus е/ё needs spellrelex instead of dis/pref-->
 <r xml:lang="sms">
+   <e meta="05">
+      <lg>
+         <l pos="a">šõllâd</l>
+         <deriv>
+            <form gloss="attr">šõˊlles</form>
+         </deriv>
+         <etymology>
+            <etymon type="loan" source="finnic"/>
+            <etymon type="inher" source="saamic">še̮le̮</etymon>
+            <cognate xml:lang="fin">sileä</cognate>
+         </etymology>
+      </lg>
+      <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="150"/>
+         </sources>
+         <semantics>
+            <sem class="SENSE">PERCEPTION</sem>
+         </semantics>
+         <tg xml:lang="deu">
+            <t pos="a">eben</t>
+            <t pos="a">glatt</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="a">smooth</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">гладкий</t>
+            <t pos="a" der="pred" oahpa="pref">xxx</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="a">glatt</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="a">sileä</t>
+         </tg>
+         <tg xml:lang="smn">
+            <t pos="a">šoollad</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="a">livttis</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="a">jalˈga</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
          <l pos="a">âˊldd-</l>
@@ -184,7 +231,7 @@
       <lg>
          <l pos="a" a_class="xxx">jääˊmteˊmes</l>
          <deriv>
-            <der gloss="attr">jääˊmteˊm</der>
+            <form gloss="attr">jääˊmteˊm</form>
          </deriv>
       </lg>
       <mg>
@@ -427,7 +474,7 @@
       <lg>
          <l pos="a" a_class="xxx">kääˊmes</l>
          <deriv>
-            <der gloss="attr">kääˊmm</der>
+            <form gloss="attr">kääˊmm</form>
          </deriv>
       </lg>
       <semantics>
@@ -1677,7 +1724,6 @@
          <deriv>
             <form gloss="attr">siẹˊǧǧes</form>
          </deriv>
-         <etymology> </etymology>
       </lg>
       <mg>
          <sources>
@@ -2113,7 +2159,7 @@
       <lg>
          <l pos="a" a_class="xxx">viõǥǥteˊmes</l>
          <deriv>
-            <der gloss="attr">viõǥǥteˊm</der>
+            <form gloss="attr">viõǥǥteˊm</form>
          </deriv>
       </lg>
       <mg>

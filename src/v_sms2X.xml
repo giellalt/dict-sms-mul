@@ -1269,15 +1269,6 @@
          <tg xml:lang="eng">
             <t pos="v">be</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="xxx">lij</x>
-            <xtg xml:lang="rus">
-               <xt>есть</xt>
-            </xtg>
-            <xtg xml:lang="deu">
-               <xt>es gibt</xt>
-            </xtg>
-         </xg>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -3045,26 +3036,14 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">saattaa</t>
+            <t pos="v">saattaa</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="xxx">может быть</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="adv">kanskje</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="infl" pos="v">sätt</x>
-            <xtg xml:lang="fin">
-               <xt pos="xxx">(se) saattaa</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="xxx">(это) может быть</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">kanskje</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="03">
@@ -3514,7 +3493,8 @@
                <xt pos="xxx">ottaa kiinni</xt>
             </xtg>
             <xtg xml:lang="rus">
-               <xt pos="xxx">брать (кого-что), схватить (кого-что)</xt>
+               <xt pos="xxx">брать (кого-что)</xt>
+               <xt pos="xxx">схватить (кого-что)</xt>
             </xtg>
             <xtg xml:lang="nob">
                <xt pos="xxx">xxx</xt>
@@ -3659,21 +3639,6 @@
          <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="vp" pos="v-pro">vaarââtt tõˊst</x>
-            <xtg xml:lang="fin">
-               <xt pos="xxx">(hän) varoo sitä</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="xxx">(он) остерегается</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="xxx">(он) опасается этого</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">xxx</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="04">
@@ -3910,15 +3875,6 @@
          <tg xml:lang="nob">
             <t pos="v">kunne</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="question" pos="mwe">vuäitam-a</x>
-            <xtg xml:lang="rus">
-               <xt pos="mwe">могу ли?</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="mwe">voinko?</xt>
-            </xtg>
-         </xg>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -3992,27 +3948,11 @@
          <tg xml:lang="nob">
             <t pos="v">dra</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x>vueˊlǧǧep!</x>
+         <xg>
+            <x pos="v" gloss="1pl.prs">vueˊlǧǧep!</x>
             <xtg xml:lang="rus">
-               <xt pos="v">пойдём!</xt>
+               <xt pos="v" oahpa="pref">пойдём!</xt>
                <xt pos="v">пойдем!</xt>
-            </xtg>
-         </xg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="question" pos="v-ptcl">vueˊlǧǧep-a</x>
-            <xtg xml:lang="fin">
-               <xt pos="xxx">lähdemmekö</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="xxx">пойдём что ли</xt>
-               <xt pos="xxx">пойдем что ли</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="xxx">уходим что ли</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">xxx</xt>
             </xtg>
          </xg>
          <semantics>
@@ -4496,15 +4436,15 @@
                <xt pos="v">поймаю</xt>
             </xtg>
          </xg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="imp" pos="mwe_v">täˊst, vääˊld!</x>
+         <xg>
+            <x pos="mwe_s">täˊst, vääˊld!</x>
             <xtg xml:lang="fin">
-               <xt pos="mwe_v">tässä, ota!</xt>
-               <xt pos="mwe_v" oahpa="pref">ole hyvä!</xt>
+               <xt pos="mwe_s">tässä, ota!</xt>
+               <xt pos="mwe_s" oahpa="pref">ole hyvä!</xt>
             </xtg>
             <xtg xml:lang="rus">
-               <xt pos="v">возьми!</xt>
-               <xt pos="mwe_v" oahpa="pref">пожалуйста, будь добр!</xt>
+               <xt pos="s">возьми!</xt>
+               <xt pos="mwe_s" oahpa="pref">пожалуйста, будь добр!</xt>
             </xtg>
          </xg>
       </mg>
@@ -5225,50 +5165,6 @@
          </tg>
          <tg xml:lang="nob">
             <t pos="xxx">å bli til</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="05">
-      <lg>
-         <l pos="v">šõllâd</l>
-         <der gloss="attr">šõˊlles</der>
-         <etymology>
-            <etymon type="loan" source="finnic"/>
-            <etymon type="inher" source="saamic">še̮le̮</etymon>
-            <cognate xml:lang="fin">sileä</cognate>
-         </etymology>
-      </lg>
-      <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="150"/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">PERCEPTION</sem>
-         </semantics>
-         <tg xml:lang="deu">
-            <t pos="a">eben</t>
-            <t pos="a">glatt</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="a">smooth</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="a">гладкий</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="a">glatt</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="a">sileä</t>
-         </tg>
-         <tg xml:lang="smn">
-            <t pos="a">šoollad</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="a">livttis</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="a">jalˈga</t>
          </tg>
       </mg>
    </e>

@@ -5302,7 +5302,6 @@
    <e meta="04">
       <lg>
          <l pos="n">piânnai</l>
-         <der gloss="dim">piânˈnǥaž</der>
          <etymology>
             <etymon type="inher" source="finnougric?">pene</etymon>
             <etymon type="inher" source="FP">pene</etymon>
@@ -5345,6 +5344,12 @@
             <t pos="n">biegˈŋja</t>
             <t pos="n">dä̀rra</t>
          </tg>
+         <dg>
+            <d pos="n" gloss="dim">piânˈnǥaž</d>
+            <dtg xml:lang="deu">
+               <dt pos="n" gloss="dim">Hündchen</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -7445,7 +7450,7 @@
             <t pos="n">столик </t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="n">pöytänen</t>
+            <t pos="n" oahpa="pref">pöytänen</t>
             <t pos="n">pikkupöytä</t>
          </tg>
          <tg xml:lang="nob">

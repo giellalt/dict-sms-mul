@@ -79,7 +79,35 @@
          <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
          </tg>
-      </mg>
+        <xg>
+            <x type="question" pos="mwe">vuäitam-a</x>
+            <xtg xml:lang="rus">
+               <xt pos="mwe_s">могу ли?</xt>
+            </xtg>
+            <xtg xml:lang="fin">
+               <xt pos="mwe_s">voinko?</xt>
+            </xtg>
+            <xtg xml:lang="nob">
+               <xt pos="mwe_s">kan jeg?</xt>
+            </xtg>
+         </xg>
+       <xg>
+            <x pos="mwe_s">vueˊlǧǧep-a?</x>
+            <xtg xml:lang="fin">
+               <xt pos="mwe_s">lähdemmekö?</xt>
+            </xtg>
+            <xtg xml:lang="rus">
+               <xt pos="mwe_s">пойдём что ли?</xt>
+               <xt pos="mwe_s">пойдем что ли?</xt>
+            </xtg>
+            <xtg xml:lang="rus">
+               <xt pos="mwe_s">уходим что ли?</xt>
+            </xtg>
+            <xtg xml:lang="nob">
+               <xt pos="mwe_s">skal vi gå?</xt>
+            </xtg>
+         </xg>
+         </mg>
    </e>
    <e meta="03">
       <lg>
