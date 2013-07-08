@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sms">
+    <e meta="01">
+        <lg>
+            <l pos="det">måkam</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t>какой</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t>which</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t>hvilken</t>
+            </tg>
+        </mg>
+    </e>
+</r>
