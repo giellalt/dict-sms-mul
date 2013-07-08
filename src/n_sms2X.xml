@@ -6950,42 +6950,6 @@
          </semantics>
       </mg>
    </e>
-   <e meta="04">
-      <lg>
-         <l pos="n">rosttov</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="n">Christmas</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="n">joulu</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="n">juovllat</t>
-         </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="idiom">Šiõǥǥ Rosttov da leklvaž Ođđ Eeˊjj!</x>
-            <xtg xml:lang="nob">
-               <xt pos="idiom">God jul og godt nytt år!</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="idiom">Hyvää joulua ja onnellista uutta vuotta!</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="idiom">Счастливого Роҗдества! С Новым годом!</xt>
-            </xtg>
-            <xtg xml:lang="eng">
-               <xt pos="idiom">Merry Christmas and a Happy New Year!</xt>
-            </xtg>
-         </xg>
-         <semantics>
-            <sem class="HUMAN">RELIGION</sem>
-            <sem class="HUMAN">FAMILY</sem>
-            <sem class="HUMAN">SOCIAL</sem>
-         </semantics>
-      </mg>
-   </e>
    <e meta="01">
       <lg>
          <l pos="n">rosttovkäänan</l>
@@ -7007,14 +6971,20 @@
          </semantics>
       </mg>
    </e>
-   <e meta="01">
+   <e meta="04">
       <lg>
          <l pos="n">rosttovkääˊlles</l>
       </lg>
       <mg>
+         <tg xml:lang="deu">
+            <t pos="pn">Weihnachtsmann</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="pn">Дед Мороз</t>
+         </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">Santa Claus</t>
-            <t pos="xxx">Father Christmas</t>
+            <t pos="pn">Santa Claus</t>
+            <t pos="pn">Father Christmas</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">joulupukki</t>
@@ -7335,6 +7305,9 @@
          <l pos="n">rääˊǩǩesvuõtt</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="v">любовь</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="n">love</t>
          </tg>

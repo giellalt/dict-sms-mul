@@ -6,6 +6,52 @@
 <!-- l pos="a" a_class="attr" needs to be checked, if they do not have a predicative counterpart, we must treat them differently-->
 <!-- rus е/ё needs spellrelex instead of dis/pref-->
 <r xml:lang="sms">
+   <e meta="01">
+      <lg>
+         <l pos="a" a_class="xxx">strääšnai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">страшный</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="a" a_class="xxx">sä´lttai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">соленый</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="a" a_class="xxx">jååutjõž</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="a">xxxвчера (что)xxx</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="a">gestrig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a" a_class="xxx">jååđjaž</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="a">xxxзавтра (что)xxx</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="a">morgig</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="05">
       <lg>
          <l pos="a" a_class="xxx">hueˊnn</l>

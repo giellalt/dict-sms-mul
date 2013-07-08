@@ -1626,6 +1626,9 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
+            <t pos="adv">меньше</t>
+         </tg>
+         <tg xml:lang="eng">
             <t pos="adv">less</t>
          </tg>
          <tg xml:lang="fin">
@@ -1838,8 +1841,11 @@
          <l pos="adv">åålǥas</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="adp">наружу</t>
+         </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">to outside</t>
+            <t pos="mwe_apd">to outside</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">ulos</t>
