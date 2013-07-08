@@ -109,6 +109,8 @@ on the e-element in the xml files:
 
 06 - word list from teaching materials by Satu Moshnikoff et al. 1998: "Pââibužškooul sääˊmǩiõll: lookkâmǩeˊrjj"
 
+07 - list of plants with Russian, Finnish, Latin translation, provided by Natalia Vaskova (SAKK course 2012/13)
+
 =====
 Pronouns
 =====
