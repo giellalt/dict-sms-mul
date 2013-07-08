@@ -12,6 +12,10 @@
          <tg xml:lang="fin">
             <t pos="v">asua</t>
          </tg>
+         <tg xml:lang="rus">
+            <t pos="v">жить</t>
+            <tr>в каком-либо месте</tr>
+         </tg>
          <semantics>
             <sem class="HOUSE">DWELLING</sem>
             <sem class="HUMAN">FAMILY</sem>
@@ -33,7 +37,7 @@
             <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref" imperf="высказать">сказать</t>
+            <t pos="v" oahpa="pref" impf="высказать">сказать</t>
             <t pos="v">говорить</t>
          </tg>
          <tg xml:lang="sjd">
@@ -62,6 +66,17 @@
          <tg xml:lang="sju">
             <t pos="v">jahteet</t>
             <t pos="v">sàrdnoot</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="v" subjectrectio="loc">feʹrttjed</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="v" gloss="xxx">надо</t>
+            <t pos="v" gloss="xxx">нужно</t>
          </tg>
       </mg>
    </e>
@@ -122,7 +137,7 @@
             <sem class="WORK">SCHOOL</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="v">сесть</t>
+            <t pos="v" impf="сесть">сидеть</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="v">ышштэ</t>
@@ -159,6 +174,17 @@
          </xg>
       </mg>
    </e>
+   <e meta="01">
+      <lg>
+         <l pos="v">jeällõõččâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="v">сходить</t>
+            <t pos="v">съездить</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="05">
       <lg>
          <l pos="v" oahpa="dispref">jiõŋŋâd</l>
@@ -179,8 +205,8 @@
             <t pos="v">freeze</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="замёрзнуть" oahpa="pref">мёрзнуть</t>
-            <t pos="v" imperf="замёрзнуть">мерзнуть</t>
+            <t pos="v" impf="замёрзнуть" oahpa="pref">мёрзнуть</t>
+            <t pos="v" impf="замёрзнуть">мерзнуть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">fryse</t>
@@ -290,7 +316,7 @@
             <t pos="v">think</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="подумать">думать</t>
+            <t pos="v" impf="подумать">думать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">tenke</t>
@@ -310,51 +336,29 @@
       <lg>
          <l pos="v">jälsted</l>
          <infl>
-            <form>(\#jälstam,jäälast)</form>
-         </infl>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="xxx">жить, находиться, (он) живёт, находится </t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx">asua, (hän) asuu</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">å bo, (han/hun/det) bor</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="v">jälsted</l>
-         <infl>
-            <stem>=</stem>
             <form gloss="1sg.prs">jälstam</form>
             <form gloss="2sg.prs">jälstak</form>
+            <form gloss="3sg.prs">jäälast</form>
          </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
-         <tg xml:lang="rus">
+         <tg xml:lang="rus" oahpa="pref">
             <t pos="v">жить</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="v">live</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">asua</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="v">lever</t>
+            <t pos="v">leve</t>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="v">bo</t>
          </tg>
          <semantics>
             <sem class="HUMAN">FAMILY</sem>
@@ -391,7 +395,7 @@
             <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="v">умирать</t>
+            <t pos="v" impf="умереть">умирать</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="v">я̄мме</t>
@@ -452,45 +456,29 @@
          </tg>
       </mg>
    </e>
-   <e meta="03">
-      <lg>
-         <l pos="v">jååˊtted</l>
-         <infl>
-            <form>(\#jåått)</form>
-         </infl>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="xxx">ехать, идти, двигаться, (он) ходит, двигается</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx">kulkea, (hän) kulkee</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">å dra</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
-         </tg>
-      </mg>
-   </e>
    <e meta="06">
       <lg>
          <l pos="v">jååˊtted</l>
          <infl>
+            <form gloss="3sg.prs">jåått</form>
             <form gloss="1pl.pst">jooˊđim</form>
          </infl>
       </lg>
       <mg>
          <sources>
+            <book name="kurss" lesson="2"/>
             <book name="lookkamkerjj" lesson="1"/>
          </sources>
+         <tg xml:lang="rus">
+            <t pos="v">ехать</t>
+            <t pos="v">двигаться</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="v">dra</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="xxx">xxx</t>
+         </tg>
          <tg xml:lang="fin">
             <t pos="v">kulkea</t>
          </tg>
@@ -563,7 +551,7 @@
             <t pos="v">flow</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="потечь">течь</t>
+            <t pos="v" impf="потечь">течь</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">strømme</t>
@@ -583,7 +571,7 @@
       <lg>
          <l pos="v">kollˊjed</l>
          <infl>
-            <form>(\#kollai)</form>
+            <form gloss="xxx">kollai</form>
          </infl>
       </lg>
       <mg>
@@ -594,13 +582,13 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">слышаться</t>
+            <t pos="v">слышаться</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">kuulua, kuuluu</t>
+            <t pos="v">kuulua</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">å høre</t>
+            <t pos="v">høre</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="xxx">xxx</t>
@@ -627,7 +615,7 @@
             <t pos="v">carry</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="понести">нести</t>
+            <t pos="v" impf="понести">нести</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">bære</t>
@@ -693,11 +681,14 @@
          <l pos="v">kuâlddad</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="mwe_vp">снег идёт</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="v">snow</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">sataa lunta</t>
+            <t pos="mwe_vp">sataa lunta</t>
          </tg>
          <semantics>
             <sem class="xxx"/>
@@ -739,8 +730,8 @@
             <t pos="v">dig</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref" imperf="выкопать">копать</t>
-            <t pos="v" imperf="вырыть">рыть</t>
+            <t pos="v" oahpa="pref" impf="выкопать">копать</t>
+            <t pos="v" impf="вырыть">рыть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">grave</t>
@@ -756,31 +747,6 @@
          </tg>
          <tg xml:lang="sju">
             <t pos="v">gåỳvoot</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="v">kuärrad</l>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="xxx"> шить</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx">ommella</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">å sy</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
          </tg>
       </mg>
    </e>
@@ -809,7 +775,7 @@
             <t pos="v">коадтӭ</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="связать">вязать</t>
+            <t pos="v" impf="связать">вязать</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="v">knit</t>
@@ -837,7 +803,7 @@
             <t pos="v">куаррэ</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="сшить">шить</t>
+            <t pos="v" impf="сшить">шить</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="v">sew</t>
@@ -920,8 +886,8 @@
             <t pos="v">freeze</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="замёрзнуть" oahpa="pref">мёрзнуть</t>
-            <t pos="v" imperf="замёрзнуть">мерзнуть</t>
+            <t pos="v" impf="замёрзнуть" oahpa="pref">мёрзнуть</t>
+            <t pos="v" impf="замёрзнуть">мерзнуть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">fryse</t>
@@ -942,6 +908,9 @@
          <l pos="v">kälkked</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="v">красить</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="v">paint</t>
          </tg>
@@ -969,10 +938,10 @@
             <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="v" imperf="укусить">кусать</t>
+            <t pos="v" impf="укусить">кусать</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="разгрызть">грызть</t>
+            <t pos="v" impf="разгрызть">грызть</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="v">ка̄ццькэ</t>
@@ -1056,6 +1025,16 @@
          </tg>
       </mg>
    </e>
+   <e meta="01">
+      <lg>
+         <l pos="v">kåččad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="v">приглашать</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
          <l pos="v">kåˊdded</l>
@@ -1101,6 +1080,16 @@
          </tg>
       </mg>
    </e>
+   <e meta="01">
+      <lg>
+         <l pos="v">kõõččâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="v">спрашивать</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="05">
       <lg>
          <l pos="v">kõččâd</l>
@@ -1120,7 +1109,7 @@
             <t pos="v">fall</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="упасть">падать</t>
+            <t pos="v" impf="упасть">падать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">falle</t>
@@ -1158,7 +1147,7 @@
             <t pos="v">sing</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="спеть">петь</t>
+            <t pos="v" impf="спеть">петь</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">synge</t>
@@ -1194,7 +1183,7 @@
             <t pos="v">count</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="сосчитать">считать</t>
+            <t pos="v" impf="сосчитать">считать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">telle</t>
@@ -1225,7 +1214,7 @@
             <t pos="v">throw</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="бросить">бросать</t>
+            <t pos="v" impf="бросить">бросать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">kaste</t>
@@ -1256,6 +1245,9 @@
          </sources>
          <tg xml:lang="rus">
             <t pos="v">быть</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="v">являться</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">olla</t>
@@ -1390,7 +1382,7 @@
             <t pos="v">count</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="сосчитать">считать</t>
+            <t pos="v" impf="сосчитать">считать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">telle</t>
@@ -1415,7 +1407,7 @@
             <t pos="v">read</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="прочитать">читать</t>
+            <t pos="v" impf="прочитать">читать</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">lukea</t>
@@ -1458,31 +1450,53 @@
          <l pos="v">luuhâd</l>
       </lg>
       <mg>
-         <tg xml:lang="eng">
-            <t pos="v">read</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="v">lukea</t>
-         </tg>
          <semantics>
-            <sem class="LANG">TEXT</sem>
-            <sem class="SENSE">COGNITION</sem>
+            <sem class="SENSE">QUANTITY</sem>
+            <sem class="WORK">SCHOOL</sem>
          </semantics>
-      </mg>
-      <mg>
          <tg xml:lang="eng">
             <t pos="v">count</t>
          </tg>
-         <tg xml:lang="fin">
-            <t pos="v">lukea</t>
+         <tg xml:lang="rus">
+            <t pos="v" impf="сосчитать">считать</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="v">telle</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">laskea</t>
          </tg>
+         <tg xml:lang="sjd">
+            <t pos="v">ло̄гкэ</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="v">lohkat</t>
+         </tg>
+      </mg>
+      <mg>
          <semantics>
-            <sem class="WORK">ECONOMY</sem>
-            <sem class="SENSE">QUANTITY</sem>
+            <sem class="LANG">TEXT</sem>
+            <sem class="SENSE">COGNITION</sem>
+            <sem class="WORK">SCHOOL</sem>
          </semantics>
+         <tg xml:lang="eng">
+            <t pos="v">read</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="v" impf="прочитать">читать</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="v">lukea</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="v">lese</t>
+         </tg>
+         <tg xml:lang="sjd">
+            <t pos="v">ло̄гкэ</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="v">lohkat</t>
+         </tg>
       </mg>
    </e>
    <e meta="05">
@@ -1505,7 +1519,7 @@
             <t pos="v">split</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="разколоть">разкалывать</t>
+            <t pos="v" impf="разколоть">разкалывать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">kløyve</t>
@@ -1525,7 +1539,7 @@
       <lg>
          <l pos="v">maaššâd</l>
          <infl>
-            <form>(\#mäˊšše)</form>
+            <form gloss="3pl.prs">mäˊšše</form>
          </infl>
       </lg>
       <mg>
@@ -1536,13 +1550,13 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">чувствовать себя по-домашнему уютно, чувствуют </t>
+            <t pos="xxx">чувствовать себя по-домашнему уютно</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">viihtyä, viihtyvät</t>
+            <t pos="v">viihtyä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">å trives bra</t>
+            <t pos="xxx">trives bra</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="xxx">xxx</t>
@@ -1570,7 +1584,7 @@
             <t pos="v" oahpa="pref">grind</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="смолоть">молть</t>
+            <t pos="v" impf="смолоть">молть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">male</t>
@@ -1599,7 +1613,7 @@
       <lg>
          <l pos="v">mainsted</l>
          <infl>
-            <form>(\#mainste)</form>
+            <form gloss="3pl.prs">mainste</form>
          </infl>
       </lg>
       <mg>
@@ -1607,33 +1621,23 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="LANG">SPEECH</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">говорить, разговаривать, говорят, разговаривают</t>
+            <t pos="v" impf="разговаривать">говорить</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">jutella, puhua, juttelevat, puhuvat</t>
+            <t pos="v">jutella</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="v">puhua</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">å snakke</t>
+            <t pos="v">snakke</t>
          </tg>
-         <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="v">mainsted</l>
-      </lg>
-      <mg>
          <tg xml:lang="eng">
             <t pos="v">tell</t>
          </tg>
-         <semantics>
-            <sem class="LANG">SPEECH</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="01">
@@ -1641,6 +1645,9 @@
          <l pos="v">mieˊrreed</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="v">мерить</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="v">measure</t>
          </tg>
@@ -1692,9 +1699,22 @@
    </e>
    <e meta="01">
       <lg>
+         <l pos="v">muʹštted</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="v">помнить</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
          <l pos="v">môônnâd</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="v">идти</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="v">go</t>
          </tg>
@@ -1771,7 +1791,7 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx"> голодаешь</t>
+            <t pos="xxx">голодаешь</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx">nälkiintyä, nälkiintyy (passiivi)</t>
@@ -1828,7 +1848,7 @@
             <t pos="v">suck</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="пососать">сосать</t>
+            <t pos="v" impf="пососать">сосать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">suge</t>
@@ -1860,7 +1880,7 @@
             <t pos="v">scent</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="почуять">чуять</t>
+            <t pos="v" impf="почуять">чуять</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">spore</t>
@@ -1927,7 +1947,7 @@
             <t pos="v">hide</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="спрятать">прятать</t>
+            <t pos="v" impf="спрятать">прятать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">skjule</t>
@@ -1967,6 +1987,9 @@
          <lv variant="dial" source="1991">piirsted</lv>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="v">рисовать</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="v">draw</t>
          </tg>
@@ -2020,7 +2043,7 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx"> танцевать</t>
+            <t pos="xxx">танцевать</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx">tanssia</t>
@@ -2053,6 +2076,9 @@
          <tg xml:lang="rus">
             <t pos="v">есть</t>
          </tg>
+         <tg xml:lang="rus">
+            <t pos="v">кушать</t>
+         </tg>
          <tg xml:lang="sjd">
             <t pos="v">по̄ррэ</t>
          </tg>
@@ -2081,6 +2107,9 @@
          <l pos="v">porgâđ</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="v">работать</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="v">work</t>
          </tg>
@@ -2093,6 +2122,29 @@
          <semantics>
             <sem class="xxx"/>
          </semantics>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="v">porstõõttâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="v">чувстовать голод</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="v">porstõõvvâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="v">быть голодным</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="v">начинать хотеть есть</t>
+         </tg>
       </mg>
    </e>
    <e meta="04">
@@ -2113,7 +2165,7 @@
             <sem class="ENVIR">ELEMENT</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="v" imperf="сгореть">гореть</t>
+            <t pos="v" impf="сгореть">гореть</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="v">пӯлле</t>
@@ -2162,10 +2214,14 @@
             <sem class="WORK">ECONOMY</sem>
             <sem class="SPACE">MOTION</sem>
          </semantics>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v" impf="прийти">приходить</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref">прийти</t>
-            <t pos="v">прибыть</t>
             <t pos="v">приехать</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="v">прибыть</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="v">пуэдтӭ</t>
@@ -2181,9 +2237,6 @@
          </tg>
          <tg xml:lang="nob">
             <t pos="v">komme</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="v">boahtit</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="v">boahtit</t>
@@ -2313,7 +2366,7 @@
             <t pos="v">laugh</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="посмеяться">смеяться</t>
+            <t pos="v" impf="посмеяться">смеяться</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v" oahpa="pref">le</t>
@@ -2350,7 +2403,7 @@
             <t pos="v">fear</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="побояться">бояться</t>
+            <t pos="v" impf="побояться">бояться</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">frykte</t>
@@ -2434,41 +2487,17 @@
          </tg>
       </mg>
    </e>
-   <e meta="03">
+   <e meta="05">
       <lg>
          <l pos="v">raajjâd</l>
          <infl>
-            <form>(\#raajam)</form>
+            <form gloss="1sg.prs">raajam</form>
          </infl>
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="xxx">(с)делать, (с)делаю</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx">tehdä, teen</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">å gjøre</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="05">
-      <lg>
-         <l pos="v">raajjâd</l>
-      </lg>
-      <mg>
-         <sources>
             <book name="200" BEDLAN_ID="210"/>
+            <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
             <sem class="WORK">ECONOMY</sem>
@@ -2476,14 +2505,22 @@
          <tg xml:lang="eng">
             <t pos="v">produce</t>
          </tg>
-         <tg xml:lang="rus">
+         <tg xml:lang="rus" oahpa="pref">
             <t pos="v">производить</t>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="rus">
+            <t pos="v" impf="сделать">делать</t>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
             <t pos="v">lagre</t>
          </tg>
+         <tg xml:lang="nob">
+            <t pos="v">gjøre</t>
+         </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="v">tuottaa</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="v" oahpa="pref">tuottaa</t>
             <t pos="v">tehdä</t>
          </tg>
          <tg xml:lang="sme">
@@ -2515,7 +2552,7 @@
             <t pos="v">count</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="посчитать">считать</t>
+            <t pos="v" impf="посчитать">считать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">regne</t>
@@ -2614,7 +2651,7 @@
             <t pos="v">scratch</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="поцарапать">царапать</t>
+            <t pos="v" impf="поцарапать">царапать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">rive</t>
@@ -2650,7 +2687,7 @@
             <t pos="v">rub</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="потереть">тереть</t>
+            <t pos="v" impf="потереть">тереть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">gni</t>
@@ -2684,8 +2721,8 @@
             <t pos="v">dig</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref" imperf="выкопать">копать</t>
-            <t pos="v" imperf="вырыть">рыть</t>
+            <t pos="v" oahpa="pref" impf="выкопать">копать</t>
+            <t pos="v" impf="вырыть">рыть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">grave</t>
@@ -2709,6 +2746,9 @@
          <l pos="v">räˊǩsted</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="v">любить</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="v">love</t>
          </tg>
@@ -2736,8 +2776,8 @@
             <t pos="v">wipe</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref" imperf="протереть">протирать</t>
-            <t pos="v" imperf="стереть">стирать</t>
+            <t pos="v" oahpa="pref" impf="протереть">протирать</t>
+            <t pos="v" impf="стереть">стирать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">viske</t>
@@ -2754,7 +2794,7 @@
       <lg>
          <l pos="v">siltteed</l>
          <infl>
-            <form>(\#jiõm silttâd)</form>
+            <form gloss="conneg.prs">silttâd</form>
          </infl>
       </lg>
       <mg>
@@ -2764,42 +2804,14 @@
          <semantics>
             <sem class="xxx"/>
          </semantics>
-         <tg xml:lang="rus">
-            <t pos="xxx">уметь, не умею</t>
-         </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">osata, en osaa</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">å kunne</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="v">siltteed</l>
-         <infl>
-            <form gloss="conneg.prs">silttâd</form>
-         </infl>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-         </sources>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-         <tg xml:lang="fin">
-            <t pos="xxx">osata</t>
+            <t pos="v">osata</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">уметь</t>
+            <t pos="v">уметь</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="v">kunne</t>
          </tg>
       </mg>
    </e>
@@ -2858,6 +2870,10 @@
          <l pos="v">sniimmâd</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="v">снимать</t>
+            <t pos="v">фотографировать</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="xxx">take a photograph</t>
             <t pos="xxx">snap a photo</t>
@@ -2883,13 +2899,13 @@
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">soittaa</t>
+            <t pos="v">soittaa</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">звонить</t>
+            <t pos="v">звонить</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="v">ringe</t>
          </tg>
       </mg>
    </e>
@@ -2990,7 +3006,7 @@
             <t pos="v">grind</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="наточить">точить</t>
+            <t pos="v" impf="наточить">точить</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">slipe</t>
@@ -3008,11 +3024,17 @@
          <l pos="v">särnnad</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="v" impf="сказать">говорить</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="v">speak</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="v">talk</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="v">telle</t>
          </tg>
          <semantics>
             <sem class="LANG">SPEECH</sem>
@@ -3079,6 +3101,16 @@
          </tg>
          <tg xml:lang="eng">
             <t pos="v">need</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="v">teevvad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="v">чинить</t>
          </tg>
       </mg>
    </e>
@@ -3226,7 +3258,7 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx"> сидеть у костра</t>
+            <t pos="xxx">сидеть у костра</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx">tulistella</t>
@@ -3384,7 +3416,7 @@
             <te>produce</te>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="сделать">делать</t>
+            <t pos="v" impf="сделать">делать</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">tehdä</t>
@@ -3419,13 +3451,16 @@
             <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">tahtoa</t>
+            <t pos="v">tahtoa</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">хотеть</t>
+            <t pos="v">хотеть</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="v">желать</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="v">ønske</t>
          </tg>
       </mg>
    </e>
@@ -3445,7 +3480,7 @@
             <t pos="v">squeeze</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="втиснуть">втискивать</t>
+            <t pos="v" impf="втиснуть">втискивать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v" oahpa="pref">kveste</t>
@@ -3671,6 +3706,19 @@
          </tg>
          <tg xml:lang="fin">
             <t pos="v">vastata</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="v">ve'rrddeed</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="v">сравнивать</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="v">compare</t>
          </tg>
       </mg>
    </e>
@@ -3901,8 +3949,8 @@
             <t pos="v">vomit</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="стошнить">тошнить</t>
-            <t pos="v" oahpa="pref" imperf="вырвать">рвать</t>
+            <t pos="v" impf="стошнить">тошнить</t>
+            <t pos="v" oahpa="pref" impf="вырвать">рвать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="mwe_v">kaste opp</t>
@@ -3975,7 +4023,7 @@
             <t pos="v">throw</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="бросить">бросать</t>
+            <t pos="v" impf="бросить">бросать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">kaste</t>
@@ -4036,7 +4084,7 @@
             <book name="lookkamkerjj" lesson="1"/>
          </sources>
          <tg xml:lang="rus">
-            <t pos="v">получать</t>
+            <t pos="v" impf="получить">получать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">мочь</t>
@@ -4346,7 +4394,7 @@
             <t pos="v">kaataa</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="налить">лить</t>
+            <t pos="v" impf="налить">лить</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">helle</t>
@@ -4528,6 +4576,9 @@
          <l pos="v">âˊbrred</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="v">идет дождь</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="v">rain</t>
          </tg>
@@ -4584,7 +4635,7 @@
             <t pos="v">smell</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="понюхать">нюхать</t>
+            <t pos="v" impf="понюхать">нюхать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">lukte</t>
@@ -4750,7 +4801,8 @@
             <book name="lookkamkerjj" lesson="1"/>
          </sources>
          <tg xml:lang="rus">
-            <t pos="xxx">xxx</t>
+            <t pos="v">нуждаться</t>
+            <t pos="mwe_vp">быть нужным</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">pitää</t>
@@ -4759,7 +4811,7 @@
             <t pos="v">täytyä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="v">trenge</t>
          </tg>
          <xg oahpa="excl" kurss="no">
             <x pos="xxx">mon õõlǥam</x>
@@ -4808,6 +4860,16 @@
          <semantics>
             <sem class="xxx"/>
          </semantics>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="v">čeärggad</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="v">болеть</t>
+         </tg>
       </mg>
    </e>
    <e meta="05">
@@ -4870,7 +4932,7 @@
             <t pos="v">spit</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="наплевать">плевать</t>
+            <t pos="v" impf="наплевать">плевать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">spytte</t>
@@ -4933,6 +4995,10 @@
       <mg>
          <tg xml:lang="eng">
             <t pos="v">hail</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="v">приветствовать</t>
+            <t pos="v">окликать</t>
          </tg>
          <semantics>
             <sem class="xxx"/>
@@ -5070,7 +5136,7 @@
             <t pos="v">presse</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="выжать">выжимать</t>
+            <t pos="v" impf="выжать">выжимать</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">puristaa</t>
@@ -5102,7 +5168,7 @@
             <t pos="v">tie</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="завязать">завязывать</t>
+            <t pos="v" impf="завязать">завязывать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">binde</t>
@@ -5135,13 +5201,13 @@
             <sem class="HUMAN">FAMILY</sem>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">syntyä</t>
+            <t pos="v">syntyä</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">родиться</t>
+            <t pos="v" impf="рождаться">родиться</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">fødes</t>
+            <t pos="v">fødes</t>
          </tg>
       </mg>
       <mg>
@@ -5164,7 +5230,7 @@
             <t pos="v">появляться (на свет)</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">å bli til</t>
+            <t pos="xxx">bli til</t>
          </tg>
       </mg>
    </e>
@@ -5246,7 +5312,7 @@
       <lg>
          <l pos="v">ǩeˊtted</l>
          <infl>
-            <form>(\#keâttam)</form>
+            <form gloss="1sg.prs">keâttam</form>
          </infl>
       </lg>
       <mg>
@@ -5254,19 +5320,19 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="FOOD">DISH</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">варить, варю; кипятить, кипячу; готовить, готовлю </t>
+            <t pos="v">варить; кипятить; готовить</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">keittää, keitän</t>
+            <t pos="v">keittää</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">å koke</t>
+            <t pos="v">koke</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">cook</t>
          </tg>
       </mg>
    </e>
@@ -5275,6 +5341,9 @@
          <l pos="v">ǩiirjted</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="v">писать</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="v">write</t>
          </tg>
@@ -5291,7 +5360,7 @@
       <lg>
          <l pos="v">ǩiõččâd</l>
          <infl>
-            <form>(\#ǩeäˊčče)</form>
+            <form gloss="xxx">ǩeäˊčče</form>
          </infl>
       </lg>
       <mg>
@@ -5302,16 +5371,42 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">смотреть, разглядывать</t>
+            <t pos="xxx">смотреть</t>
+            <t pos="xxx">разглядывать</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="xxx">katsoa</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">å se, å betrakte</t>
+            <t pos="xxx">se</t>
+            <t pos="xxx">betrakte</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="xxx">see</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="v">ǩiččlõddâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="v">пробовать</t>
+            <t pos="v">экспериментировать</t>
+            <t pos="v">испытывать</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="v">ǩiččlõõttâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="v">стремиться</t>
+            <t pos="v">пытаться</t>
+            <t pos="v">добиваться</t>
          </tg>
       </mg>
    </e>
@@ -5335,7 +5430,7 @@
             <t pos="v">pull</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" imperf="потянуть">тянуть</t>
+            <t pos="v" impf="потянуть">тянуть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">trekke</t>
