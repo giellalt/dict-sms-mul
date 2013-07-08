@@ -2,6 +2,116 @@
 <r xml:lang="sms">
    <e meta="04">
       <lg>
+         <l pos="n">hâ ́dd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">hinta</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">цена</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="n">Preis</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n">koontâr</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">toimisto</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">кантора</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">office</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">kontor</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">toimisto</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">агенция</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">agency</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">kontor</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n" gloss="xxx">raajji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">tekijä</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">автор</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">author</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n" gloss="xxx">joorǥlõ ́tti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">kääntäjä</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="n">Übersetzer</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">translator</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n">mätt ́tõsmateriaal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">oppimateriaali</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="mwe_np">teaching material</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n">materiaal</l>
+         <infl>
+            <form gloss="nom.pl">materiaal</form>
+         </infl>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">materiaali</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">material</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
          <l pos="n">jälstempõrtt</l>
       </lg>
       <mg>
@@ -143,11 +253,15 @@
          </semantics>
       </mg>
    </e>
-   <e meta="01">
+   <e meta="04">
       <lg>
          <l pos="n">addrõs</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="SPACE">MOTION</sem>
+            <sem class="HOUSE">DWELLING</sem>
+         </semantics>
          <tg xml:lang="eng">
             <t pos="n">address</t>
          </tg>
@@ -157,10 +271,9 @@
          <tg xml:lang="rus">
             <t pos="n">адрес</t>
          </tg>
-         <semantics>
-            <sem class="SPACE">MOTION</sem>
-            <sem class="HOUSE">DWELLING</sem>
-         </semantics>
+         <tg xml:lang="nob">
+            <t pos="n">adresse</t>
+         </tg>
       </mg>
    </e>
    <e meta="01">
@@ -4735,17 +4848,23 @@
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e meta="04">
       <lg>
          <l pos="n">nââmar</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="eng">
             <t pos="n">number</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <tg xml:lang="fin">
+            <t pos="n">numero</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="n">Nummer</t>
+         </tg>
       </mg>
    </e>
    <e meta="05">
