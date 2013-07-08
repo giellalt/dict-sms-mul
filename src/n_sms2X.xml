@@ -1,197 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
-   <e meta="04">
-      <lg>
-         <l pos="n">hâˊdd</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="n">hinta</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="n">цена</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="n">Preis</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="n">koontâr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="n">toimisto</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="n">кантора</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="n">office</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="n">kontor</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="n">toimisto</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="n">агенция</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="n">agency</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="n">kontor</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="n" gloss="xxx">raajji</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="n">tekijä</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="n">автор</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="n">author</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="n" gloss="xxx">joorǥlõˊtti</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="n">kääntäjä</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="n">Übersetzer</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="n">translator</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="n">mättˊtõsmateriaal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="n">oppimateriaali</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="mwe_np">teaching material</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="n">materiaal</l>
-         <infl>
-            <form gloss="nom.pl">materiaal</form>
-         </infl>
-      </lg>
-      <mg>
-         <tg xml:lang="fin">
-            <t pos="n">materiaali</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="n">material</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="n">jälstempõrtt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="deu">Wohnhaus</tg>
-         <dg oahpa="excl" kurss="no">
-            <d pos="mwe_np">päärnai jälstempõrtt</d>
-            <dtg xml:lang="eng">
-               <dt pos="mwe_np">boarding house</dt>
-            </dtg>
-            <dtg xml:lang="eng">
-               <dt pos="n">dormitory</dt>
-               <dt pos="n">dorm</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="n">asuntola</dt>
-               <dt pos="n">opiskelija-asuntola</dt>
-               <dt pos="n">oppilasasuntola</dt>
-            </dtg>
-         </dg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="n">tääbbaǩ</l>
-      </lg>
-      <mg>
-         <semantics>
-            <sem class="FOOD">DISH</sem>
-         </semantics>
-         <tg xml:lang="deu">
-            <t pos="n">Tabak</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="n">tobacco</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="n">табак</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="n">tupakka</t>
-            <tr>aine</tr>
-         </tg>
-         <dg>
-            <d source="ZMN" pos="mwe_np" oahpa="incl">suõskkâm tääbbaǩ</d>
-            <dtg xml:lang="deu">
-               <t pos="n">Priem</t>
-               <t pos="n">Kautabak</t>
-            </dtg>
-            <dtg xml:lang="eng">
-               <t pos="n">chew</t>
-               <t pos="mwe_np">chewing tobacco</t>
-            </dtg>
-            <dtg xml:lang="nob">
-               <t pos="n">snus</t>
-            </dtg>
-            <dtg xml:lang="fin">
-               <t pos="n">nuuska</t>
-            </dtg>
-         </dg>
-      </mg>
-      <mg spec="BOT">
-         <semantics>
-            <sem class="BOT">GRASS</sem>
-         </semantics>
-         <tg xml:lang="deu">
-            <t pos="n">Tabak</t>
-            <tr>Pflanze</tr>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="n">tobacco</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="n">табак</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="n">tupakka</t>
-            <tr>kasvi</tr>
-         </tg>
-      </mg>
-   </e>
    <e meta="01">
       <lg>
          <l pos="n">aacaǩ</l>
@@ -783,7 +591,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="n" dial="P" source="1958">čâˊđmm</l>
+         <l pos="n" dial="P" source="1958">čâˊđmm</l>
       </lg>
       <mg>
          <semantics>
@@ -1021,7 +829,7 @@
             <t pos="n">áhčči</t>
          </tg>
          <tg xml:lang="smn">
-            <t pos="n">eeči</t>
+            <t pos="n">eeči</t>
          </tg>
          <tg xml:lang="sju">
             <t pos="n">àhtjee</t>
@@ -1287,6 +1095,43 @@
    </e>
    <e meta="04">
       <lg>
+         <l pos="n">hâˊdd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">hinta</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">цена</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="n">Preis</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">häˊrččkuõbbâr</l>
+         <infl>
+            <form gloss="gen.sg">-kuõbˈbâr</form>
+            <form gloss="ill.sg">-kuõbˈbra</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">boletus edulis</lexicon>
+         <semantics>
+            <sem class="BOT">FUNGUS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">белый гриб</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">herkkutatti</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
          <l pos="n" dial="???" oahpa="dispref">ijj</l>
          <synonym>inn</synonym>
          <etymology>
@@ -1425,6 +1270,85 @@
          </tg>
          <tg xml:lang="sme">
             <t pos="n">girdi</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">jeeʼel</l>
+         <infl>
+            <form gloss="gen.sg">jeäkkal</form>
+            <form gloss="ill.sg">jeäkkla</form>
+         </infl>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">лишайник</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">jäkälä</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n" gloss="nom.pl">jeäkkal</l>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">лишайники</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">jäkälät</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">jeäkkalceäˊrǩǩ</l>
+         <infl>
+            <form gloss="gen.sg">-cieˊrǩ</form>
+            <form gloss="ill.sg">-ceärkka</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">cladonia pyxidata</lexicon>
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">крыночковидная кладония</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">ruskotorvijäkälä</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">jeättmõš</l>
+         <lv variant="dial" source="xxx">jättmõš</lv>
+         <infl>
+            <form gloss="gen.sg">-mõõžž</form>
+            <form gloss="ill.sg">-mõˊšše</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">vaccinium uliginosum</lexicon>
+         <semantics>
+            <sem class="BOT">BERRY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">голубика</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">juolukka</t>
          </tg>
       </mg>
    </e>
@@ -1571,6 +1495,27 @@
          </tg>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">jieˊrjkuõbbâr</l>
+         <infl>
+            <form gloss="gen.sg">-kuõbˈbâr</form>
+            <form gloss="ill.sg">-kuõbˈbra</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">leccinum scabrum</lexicon>
+         <semantics>
+            <sem class="BOT">FUNGUS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">подберезовик</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">lehmäntatti</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
          <l pos="n">jiõŋŋ</l>
@@ -1646,19 +1591,44 @@
          </tg>
       </mg>
    </e>
+   <e meta="04">
+      <lg>
+         <l pos="n" gloss="xxx">joorǥlõˊtti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">kääntäjä</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="n">Übersetzer</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">translator</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="03">
       <lg>
          <l pos="n">joŋŋ</l>
+         <infl>
+            <form gloss="gen.sg">jooŋ</form>
+            <form gloss="ill.sg">joŋŋu</form>
+         </infl>
       </lg>
       <mg spec="BOT">
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
+         <lexicon xml:lang="lat">vaccinium vitis-idaea</lexicon>
+         <semantics>
+            <sem class="FOOD">NATURE</sem>
+            <sem class="BOT">BERRY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="n">брусника</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="n">xxx</t>
+            <t pos="n">puolukka</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">xxx</t>
@@ -1670,11 +1640,6 @@
             <t pos="n">lingonberry</t>
             <t pos="n">cowberry</t>
          </tg>
-         <lexicon xml:lang="lat">vaccinium vitis-idaea</lexicon>
-         <semantics>
-            <sem class="BOT">BERRY</sem>
-            <sem class="FOOD">NATURE</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="03">
@@ -1831,6 +1796,29 @@
          </tg>
       </mg>
    </e>
+   <e meta="04">
+      <lg>
+         <l pos="n">jälstempõrtt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="deu">Wohnhaus</tg>
+         <dg oahpa="excl" kurss="no">
+            <d pos="mwe_np">päärnai jälstempõrtt</d>
+            <dtg xml:lang="eng">
+               <dt pos="mwe_np">boarding house</dt>
+            </dtg>
+            <dtg xml:lang="eng">
+               <dt pos="n">dormitory</dt>
+               <dt pos="n">dorm</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="n">asuntola</dt>
+               <dt pos="n">opiskelija-asuntola</dt>
+               <dt pos="n">oppilasasuntola</dt>
+            </dtg>
+         </dg>
+      </mg>
+   </e>
    <e meta="01">
       <lg>
          <l pos="n">jättmöš</l>
@@ -1847,7 +1835,7 @@
          <tg xml:lang="sme">
             <t pos="n">juogot</t>
          </tg>
-         <lexicon xml:lang="lat">Vaccinium uliginosum</lexicon>
+         <lexicon xml:lang="lat">vaccinium uliginosum</lexicon>
          <semantics>
             <sem class="BOT">BERRY</sem>
          </semantics>
@@ -2072,6 +2060,27 @@
          </tg>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">kaazzrääˊss</l>
+         <infl>
+            <form gloss="gen.sg">-rääˊzz</form>
+            <form gloss="ill.sg">-rässa</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">lycopodium clavatum</lexicon>
+         <semantics>
+            <sem class="BOT">BERRY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">булавовидный плаун</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">katinlieko</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
          <l pos="n">kaaˊff</l>
@@ -2131,6 +2140,27 @@
          </tg>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">karvejeeʼel</l>
+         <infl>
+            <form gloss="gen.sg">-jeäkkal</form>
+            <form gloss="ill.sg">-jeäkkla</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">parmelia sp.</lexicon>
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">пармелия</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">karvejäkälä</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="03">
       <lg>
          <l pos="n">kaupp</l>
@@ -2161,7 +2191,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="n">kâˊlmmʼmâdd</l>
+         <l pos="n">kâˊlmmʼmâdd</l>
       </lg>
       <mg>
          <semantics>
@@ -2202,6 +2232,39 @@
          <semantics>
             <sem class="CLOTH">WHOLE</sem>
          </semantics>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n">koontâr</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">toimisto</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">кантора</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">office</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">kontor</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">toimisto</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">агенция</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">agency</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">kontor</t>
+         </tg>
       </mg>
    </e>
    <e meta="01">
@@ -2310,7 +2373,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="n" dial="N" source="1958">kuäˊppelǩeˊrjj</l>
+         <l pos="n" dial="N" source="1958">kuäˊppelǩeˊrjj</l>
       </lg>
       <mg>
          <semantics>
@@ -2607,6 +2670,35 @@
          </semantics>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">kuõbˈbâr</l>
+         <infl>
+            <form gloss="gen.sg">kuõbˈbâr</form>
+            <form gloss="ill.sg">kuõbˈbra</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <semantics>
+            <sem class="BOT">FUNGUS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">гриб</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">sieni</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">sopp</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">mushrom</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="n">Pilz</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="05">
       <lg>
          <l pos="n">kuõjj</l>
@@ -2645,6 +2737,27 @@
          </tg>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">kuõlbbmieˊlǩǩkuõbbâr</l>
+         <infl>
+            <form gloss="gen.sg">-kuõbˈbâr</form>
+            <form gloss="ill.sg">-kuõbˈbra</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">lactarius rufus</lexicon>
+         <semantics>
+            <sem class="BOT">FUNGUS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">горькушка</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">kangasrousku</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="01">
       <lg>
          <l pos="n">kuõpp</l>
@@ -2664,6 +2777,27 @@
             <sem class="FOOD">DISH</sem>
             <sem class="BOT">GRASS</sem>
          </semantics>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">kuõss</l>
+         <infl>
+            <form gloss="gen.sg">kuõzz</form>
+            <form gloss="ill.sg">kuõˊsse</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">picea abies</lexicon>
+         <semantics>
+            <sem class="BOT">TREE</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">ель</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">kuusi</t>
+         </tg>
       </mg>
    </e>
    <e meta="05">
@@ -3091,6 +3225,10 @@
    <e meta="03">
       <lg>
          <l pos="n">kõõskâs</l>
+         <infl>
+            <form gloss="gen.sg">kõskkâz</form>
+            <form gloss="ill.sg">kõskksa</form>
+         </infl>
          <audio>
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kyyskays_SKO111211_ZMN_5.wav"/>
@@ -3100,6 +3238,7 @@
          </audio>
       </lg>
       <mg spec="BOT">
+         <lexicon xml:lang="lat">juniperus communis</lexicon>
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
@@ -3365,6 +3504,27 @@
          </tg>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">liuˊnnj</l>
+         <infl>
+            <form gloss="gen.sg">liuˊnj</form>
+            <form gloss="ill.sg">liuˊnnje</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">calluna vulgaris</lexicon>
+         <semantics>
+            <sem class="BOT">BERRY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">вереск</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">kanerva</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="01">
       <lg>
          <l pos="n">liõmm</l>
@@ -3423,7 +3583,7 @@
          <tg xml:lang="sme">
             <t pos="n">luomi</t>
          </tg>
-         <lexicon xml:lang="lat">Rubus chamaemorus</lexicon>
+         <lexicon xml:lang="lat">rubus chamaemorus</lexicon>
          <semantics>
             <sem class="BOT">BERRY</sem>
             <sem class="FOOD">NATURE</sem>
@@ -3496,12 +3656,33 @@
          <tg xml:lang="eng">
             <t pos="n">salmon</t>
          </tg>
-         <lexicon xml:lang="lat">Salmo salar</lexicon>
+         <lexicon xml:lang="lat">salmo salar</lexicon>
          <lexicon xml:lang="rus">вид лососёвых рыб из рода лососей</lexicon>
          <semantics>
             <sem class="ZOO">FISH</sem>
             <sem class="FOOD">NATURE</sem>
          </semantics>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">lâpp</l>
+         <infl>
+            <form gloss="gen.sg">lââpp</form>
+            <form gloss="ill.sg">lõppu</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">bryoria fuscescens</lexicon>
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">бриория</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">tummaluppo</t>
+         </tg>
       </mg>
    </e>
    <e meta="03">
@@ -3701,6 +3882,22 @@
             <sem class="HOUSE">DWELLING</sem>
             <sem class="HUMAN">RELIGION</sem>
          </semantics>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n">materiaal</l>
+         <infl>
+            <form gloss="nom.pl">materiaal</form>
+         </infl>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">materiaali</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">material</t>
+         </tg>
       </mg>
    </e>
    <e meta="01">
@@ -4119,6 +4316,19 @@
          <semantics>
             <sem class="xxx"/>
          </semantics>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n">mättˊtõsmateriaal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">oppimateriaali</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="mwe_np">teaching material</t>
+         </tg>
       </mg>
    </e>
    <e meta="04">
@@ -5006,6 +5216,27 @@
          </semantics>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">olžvueiˊvv</l>
+         <infl>
+            <form gloss="gen.sg">-vueiˊv</form>
+            <form gloss="ill.sg">-vuäivva</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">rhododendron tomentosum</lexicon>
+         <semantics>
+            <sem class="BOT">BERRY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">багульник</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">suopursu</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="03">
       <lg>
          <l pos="n" type="dim" root="åålm">ooumaž</l>
@@ -5258,7 +5489,7 @@
          <tg xml:lang="eng">
             <t pos="xxx">water smartweed</t>
          </tg>
-         <lexicon xml:lang="lat">Polygonum amphibium</lexicon>
+         <lexicon xml:lang="lat">polygonum amphibium</lexicon>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -5347,6 +5578,27 @@
          </tg>
          <tg xml:lang="rus">
             <t pos="xxx">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">pieˊcc</l>
+         <infl>
+            <form gloss="gen.sg">pieˊʒʒ</form>
+            <form gloss="ill.sg">peäcca</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">pinus sylvestris</lexicon>
+         <semantics>
+            <sem class="BOT">TREE</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">сосна</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">mänty</t>
          </tg>
       </mg>
    </e>
@@ -5576,6 +5828,27 @@
          </semantics>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">poorrâmkuõbbâr</l>
+         <infl>
+            <form gloss="gen.sg">-kuõbˈbâr</form>
+            <form gloss="ill.sg">-kuõbˈbra</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">boletus edulis</lexicon>
+         <semantics>
+            <sem class="BOT">FUNGUS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">белый гриб</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">herkkutatti</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="03">
       <lg>
          <l pos="n">porrmõš</l>
@@ -5774,6 +6047,27 @@
          </semantics>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">puäi</l>
+         <infl>
+            <form gloss="gen.sg">puåjju</form>
+            <form gloss="ill.sg">puäjjǥa</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">salix</lexicon>
+         <semantics>
+            <sem class="BOT">TREE</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">ива</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">paju</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="03">
       <lg>
          <l pos="n">puäǥǥanj</l>
@@ -5848,6 +6142,63 @@
             <sem class="WORK">ECONOMY</sem>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">puõccujeeʼel</l>
+         <infl>
+            <form gloss="gen.sg">-jeäkkal</form>
+            <form gloss="ill.sg">-jeäkkla</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">syn. cladina rangiferina</lexicon>
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">ягель</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">harmaaporonjäkälä</t>
+         </tg>
+      </mg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">cladonia rangiferina</lexicon>
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">ягель</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">poronjäkälä</t>
+         </tg>
+      </mg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">cladonia stellaris</lexicon>
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">приальпийская кладония</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">palleroporonjäkälä</t>
+         </tg>
+      </mg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">syn. cladonia alpestris</lexicon>
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">приальпийская кладония</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">palleroporonjäkälä</t>
+         </tg>
       </mg>
    </e>
    <e meta="04">
@@ -6434,6 +6785,22 @@
          </tg>
       </mg>
    </e>
+   <e meta="04">
+      <lg>
+         <l pos="n" gloss="xxx">raajji</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">tekijä</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">автор</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">author</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="01">
       <lg>
          <l pos="n">reppjoŋŋ</l>
@@ -6454,11 +6821,35 @@
          <tg xml:lang="sme">
             <t pos="n">báddemuorji</t>
          </tg>
-         <lexicon xml:lang="lat">Vaccinium oxycoccos</lexicon>
+         <lexicon xml:lang="lat">vaccinium oxycoccos</lexicon>
          <semantics>
             <sem class="FOOD">NATURE</sem>
             <sem class="BOT">BERRY</sem>
          </semantics>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">reppmueˊrjj</l>
+         <infl>
+            <form gloss="gen.sg">-mueˊrj</form>
+            <form gloss="ill.sg">-muerjja</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">arcostaphylos alpina</lexicon>
+         <semantics>
+            <sem class="BOT">BERRY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">толокнянка</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">riekonmarja</t>
+         </tg>
+         <tg>
+            <t pos="n">tunturi-sianmarja</t>
+         </tg>
       </mg>
    </e>
    <e meta="03">
@@ -6726,6 +7117,48 @@
          </semantics>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">ruõˊpssesliõppceäˊrǩǩjeeʼel</l>
+         <infl>
+            <form gloss="gen.sg">-jeäkkal</form>
+            <form gloss="ill.sg">-jeäkkla</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">cladonia coccifera</lexicon>
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">красноплодная кладония</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">punareunatorvijäkälä</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">ruõˊpssesčuõrrukuõbbâr</l>
+         <infl>
+            <form gloss="gen.sg">-kuõbˈbâr</form>
+            <form gloss="ill.sg">-kuõbˈbra</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">aminata muscaria</lexicon>
+         <semantics>
+            <sem class="BOT">FUNGUS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">красный мухомор</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">punakärpässieni</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="01">
       <lg>
          <l pos="n">ruˊvdd</l>
@@ -6812,7 +7245,7 @@
          <tg xml:lang="fin">
             <t pos="n">nieriä</t>
          </tg>
-         <lexicon xml:lang="lat">Salvelinus alpinus</lexicon>
+         <lexicon xml:lang="lat">salvelinus alpinus</lexicon>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -6821,6 +7254,10 @@
    <e meta="05">
       <lg>
          <l pos="n">rääˊss</l>
+         <infl>
+            <form gloss="gen.sg">rääˊzz</form>
+            <form gloss="ill.sg">rässa</form>
+         </infl>
          <etymology>
             <etymon type="inher" source="saamic">rāsē</etymon>
             <cognate xml:lang="swe">gräs</cognate>
@@ -6875,6 +7312,23 @@
             <t pos="n">kràssee</t>
          </tg>
       </mg>
+      <mg>
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">цветок</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">kukka</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="n">Blume</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">flower</t>
+         </tg>
+      </mg>
    </e>
    <e meta="01">
       <lg>
@@ -6891,6 +7345,27 @@
             <sem class="HUMAN">FAMILY</sem>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">råˊšnn</l>
+         <infl>
+            <form gloss="gen.sg">rååˊšn</form>
+            <form gloss="ill.sg">råšnna</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">sorbus aucuparia</lexicon>
+         <semantics>
+            <sem class="BOT">TREE</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">рябина</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">pihlaja</t>
+         </tg>
       </mg>
    </e>
    <e meta="03">
@@ -6916,6 +7391,32 @@
          <semantics>
             <sem class="ZOO">DOMESTIC</sem>
          </semantics>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">seeuˊter</l>
+         <infl>
+            <form gloss="gen.sg">seähttar</form>
+            <form gloss="ill.sg">seähttra</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">мох</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">сфагнум</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">sammal</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">rahkasammal</t>
+         </tg>
       </mg>
    </e>
    <e meta="04">
@@ -6987,6 +7488,22 @@
          <semantics>
             <sem class="xxx"/>
          </semantics>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n" gloss="nom.pl">seähttar</l>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="BOT">xxx</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">мхи</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">sammaleet</t>
+         </tg>
       </mg>
    </e>
    <e meta="01">
@@ -7712,6 +8229,48 @@
          </dg>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">sueˊǩǩ</l>
+         <infl>
+            <form gloss="gen.sg">sueˊjj</form>
+            <form gloss="ill.sg">suäkka</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">betula</lexicon>
+         <semantics>
+            <sem class="BOT">TREE</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">береза</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">koivu</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">sueˊǩǩruˊčǩǩeskuõbbâr</l>
+         <infl>
+            <form gloss="gen.sg">-kuõbˈbâr</form>
+            <form gloss="ill.sg">-kuõbˈbra</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">leccinum testaceoscabrum</lexicon>
+         <semantics>
+            <sem class="BOT">FUNGUS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">подосиновик</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">koivunpunikkitatti</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="01">
       <lg>
          <l pos="n">sukkâr</l>
@@ -7754,6 +8313,27 @@
          <semantics>
             <sem class="xxx"/>
          </semantics>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">suuˊpp</l>
+         <infl>
+            <form gloss="gen.sg">suuˊv</form>
+            <form gloss="ill.sg">soppa</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">populus tremula</lexicon>
+         <semantics>
+            <sem class="BOT">TREE</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">осина</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">haapa</t>
+         </tg>
       </mg>
    </e>
    <e meta="01">
@@ -8025,10 +8605,33 @@
          <lexicon xml:lang="fin">vaimon sisaren mies</lexicon>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">sââuˊŋel</l>
+         <infl>
+            <form gloss="gen.sg">sâuŋŋal</form>
+            <form gloss="ill.sg">sâuŋŋla</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">polytrichum sp.</lexicon>
+         <semantics>
+            <sem class="BOT">xxx</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">кукушкин лён</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">karhunsammal</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="03">
       <lg>
          <l pos="n">sââˊrr</l>
          <infl>
+            <form gloss="gen.sg">sââˊr</form>
+            <form gloss="ill.sg">sârra</form>
             <form gloss="nom.pl">sââˊr</form>
          </infl>
       </lg>
@@ -8036,6 +8639,11 @@
          <sources>
             <book name="kurss" lesson="dict"/>
          </sources>
+         <lexicon xml:lang="lat">vaccinium myrtillus</lexicon>
+         <semantics>
+            <sem class="FOOD">NATURE</sem>
+            <sem class="BOT">BERRY</sem>
+         </semantics>
          <tg xml:lang="fin">
             <t pos="n">mustikka</t>
          </tg>
@@ -8052,11 +8660,6 @@
          <tg xml:lang="sme">
             <t pos="n">sarrit</t>
          </tg>
-         <lexicon xml:lang="lat">Vaccinium myrtillus</lexicon>
-         <semantics>
-            <sem class="FOOD">NATURE</sem>
-            <sem class="BOT">BERRY</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="01">
@@ -8221,6 +8824,27 @@
          </dg>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">säˊppleekuõbbâr</l>
+         <infl>
+            <form gloss="gen.sg">-kuõbˈbâr</form>
+            <form gloss="ill.sg">-kuõbˈbra</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">amanita</lexicon>
+         <semantics>
+            <sem class="BOT">FUNGUS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">мухомор</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">kärpässieni</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="01">
       <lg>
          <l pos="n">säˊppli</l>
@@ -8309,6 +8933,33 @@
          </semantics>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">sõõrvjeeʼel</l>
+         <infl>
+            <form gloss="gen.sg">-jeäkkal</form>
+            <form gloss="ill.sg">-jeäkkla</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">cetraria islandica</lexicon>
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">исландская цетрария</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">лопостянка</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">isohirvenjäkälä</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">islanninjäkälä</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="05">
       <lg>
          <l pos="n">sõõus</l>
@@ -8348,6 +8999,48 @@
          </tg>
          <tg xml:lang="sju">
             <t pos="n">gualˈga</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">sõõusmieˊlǩǩ-kuõbbâr</l>
+         <infl>
+            <form gloss="gen.sg">-kuõbˈbâr</form>
+            <form gloss="ill.sg">-kuõbˈbra</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">lactarius torminosus</lexicon>
+         <semantics>
+            <sem class="BOT">FUNGUS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">розовая волнушка</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">karvarousku</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">sǩieˊrrsueˊǩǩ</l>
+         <infl>
+            <form gloss="gen.sg">-sueˊjj</form>
+            <form gloss="ill.sg">-suäkka</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">betula nana</lexicon>
+         <semantics>
+            <sem class="BOT">TREE</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">карликовая берёза</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">vaivaiskoivu</t>
          </tg>
       </mg>
    </e>
@@ -9073,6 +9766,65 @@
    </e>
    <e meta="04">
       <lg>
+         <l pos="n">tääbbaǩ</l>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="FOOD">DISH</sem>
+         </semantics>
+         <tg xml:lang="deu">
+            <t pos="n">Tabak</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">tobacco</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">табак</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">tupakka</t>
+            <tr>aine</tr>
+         </tg>
+         <dg>
+            <d source="ZMN" pos="mwe_np" oahpa="incl">suõskkâm tääbbaǩ</d>
+            <dtg xml:lang="deu">
+               <t pos="n">Priem</t>
+               <t pos="n">Kautabak</t>
+            </dtg>
+            <dtg xml:lang="eng">
+               <t pos="n">chew</t>
+               <t pos="mwe_np">chewing tobacco</t>
+            </dtg>
+            <dtg xml:lang="nob">
+               <t pos="n">snus</t>
+            </dtg>
+            <dtg xml:lang="fin">
+               <t pos="n">nuuska</t>
+            </dtg>
+         </dg>
+      </mg>
+      <mg spec="BOT">
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="deu">
+            <t pos="n">Tabak</t>
+            <tr>Pflanze</tr>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">tobacco</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">табак</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">tupakka</t>
+            <tr>kasvi</tr>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
          <l pos="n">täˊhtt</l>
          <etymology>
             <etymon type="inher" source="finnougric?">täktä</etymon>
@@ -9325,6 +10077,8 @@
       <lg>
          <l pos="n">tõõŋâs</l>
          <infl>
+            <form gloss="gen.sg">tõŋŋâz</form>
+            <form gloss="ill.sg">tõŋŋsa</form>
             <form gloss="nom.pl">tõŋŋâz</form>
          </infl>
       </lg>
@@ -9333,13 +10087,16 @@
             <book name="kurss" lesson="dict"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="BOT">TREE</sem>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">varpu</t>
+            <t pos="n">varpu</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">веточка</t>
+            <t pos="n">веточка</t>
+            <tg xml:lang="rus">
+               <t pos="n">кустарник</t>
+            </tg>
          </tg>
          <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
@@ -9524,6 +10281,27 @@
          </tg>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">vijnnšmiõrkõskuõbbâr</l>
+         <infl>
+            <form gloss="gen.sg">-kuõbˈbâr</form>
+            <form gloss="ill.sg">-kuõbˈbra</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">russula vinosa</lexicon>
+         <semantics>
+            <sem class="BOT">FUNGUS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">красная сыроежка</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">viinihapero</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="03">
       <lg>
          <l pos="n">viõˊlǧǧesleiˊbb</l>
@@ -9578,6 +10356,27 @@
          </tg>
          <tg xml:lang="eng">
             <t pos="n">brother</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">viˊsǩǩesšmiõrkõskuõbbâr</l>
+         <infl>
+            <form gloss="gen.sg">-kuõbˈbâr</form>
+            <form gloss="ill.sg">-kuõbˈbra</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">russula flava</lexicon>
+         <semantics>
+            <sem class="BOT">FUNGUS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">желтая сыроежка</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">keltahapero</t>
          </tg>
       </mg>
    </e>
@@ -10317,6 +11116,27 @@
          </tg>
          <tg xml:lang="sju">
             <t pos="n">vàrree</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">vääˊrrpaain</l>
+         <infl>
+            <form gloss="gen.sg">-painni</form>
+            <form gloss="ill.sg">-painnʼja</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">diphasiastrum complanatum</lexicon>
+         <semantics>
+            <sem class="BOT">BERRY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_np">сплюснутый дифазиаструм</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">keltalieko</t>
          </tg>
       </mg>
    </e>
@@ -11212,6 +12032,30 @@
          </semantics>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">čaˊppesmueˊrjj</l>
+         <infl>
+            <form gloss="gen.sg">-mueˊrj</form>
+            <form gloss="ill.sg">-muerjja</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">empetrum nigrum</lexicon>
+         <semantics>
+            <sem class="BOT">BERRY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">вороника</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">variksenmarja</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">kaarnikka</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
          <l pos="n">čee</l>
@@ -11567,19 +12411,32 @@
          </semantics>
       </mg>
    </e>
-   <e meta="01">
+   <e meta="07">
       <lg>
          <l pos="n">čuõˊmmjõš</l>
+         <infl>
+            <form gloss="gen.sg">-jõõžž</form>
+            <form gloss="ill.sg">-jõˊšše</form>
+         </infl>
       </lg>
       <mg spec="BOT">
-         <tg xml:lang="eng">
-            <t pos="n">crowberry</t>
-         </tg>
-         <lexicon xml:lang="lat">Empetrum nigrum</lexicon>
+         <lexicon xml:lang="lat">empetrum nigrum</lexicon>
          <semantics>
             <sem class="FOOD">NATURE</sem>
             <sem class="BOT">BERRY</sem>
          </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">вороника</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">variksenmarja</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">kaarnikka</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">crowberry</t>
+         </tg>
       </mg>
    </e>
    <e meta="05">
@@ -12094,6 +12951,32 @@
          </tg>
       </mg>
    </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">šâdd</l>
+         <infl>
+            <form gloss="gen.sg">šââdd</form>
+            <form gloss="ill.sg">šõddu</form>
+         </infl>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="BOT">xxx</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">растение</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">kasvi</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">plant</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="n">Pflanze</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="03">
       <lg>
          <l pos="n">šâˊldd</l>
@@ -12336,6 +13219,27 @@
          </tg>
          <tg xml:lang="sju">
             <t pos="n">geädˈgee</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="07">
+      <lg>
+         <l pos="n">ǩeäˊdǧǧkõnn</l>
+         <infl>
+            <form gloss="gen.sg">-kõõn</form>
+            <form gloss="ill.sg">-kõˊnne</form>
+         </infl>
+      </lg>
+      <mg spec="BOT">
+         <lexicon xml:lang="lat">xxx</lexicon>
+         <semantics>
+            <sem class="BOT">GRASS</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="n">xxx</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">kivijäkälä</t>
          </tg>
       </mg>
    </e>
@@ -12733,7 +13637,7 @@
          <tg xml:lang="fin">
             <t pos="n">maitohorsma</t>
          </tg>
-         <lexicon xml:lang="lat">Epilobium angustifolium</lexicon>
+         <lexicon xml:lang="lat">epilobium angustifolium</lexicon>
          <semantics>
             <sem class="xxx"/>
          </semantics>
