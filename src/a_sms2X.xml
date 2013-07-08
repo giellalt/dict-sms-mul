@@ -8,68 +8,6 @@
 <r xml:lang="sms">
    <e meta="05">
       <lg>
-         <l pos="a">šõllâd</l>
-         <deriv>
-            <form gloss="attr">šõˊlles</form>
-         </deriv>
-         <etymology>
-            <etymon type="loan" source="finnic"/>
-            <etymon type="inher" source="saamic">še̮le̮</etymon>
-            <cognate xml:lang="fin">sileä</cognate>
-         </etymology>
-      </lg>
-      <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="150"/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">PERCEPTION</sem>
-         </semantics>
-         <tg xml:lang="deu">
-            <t pos="a">eben</t>
-            <t pos="a">glatt</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="a">smooth</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="a" der="attr">гладкий</t>
-            <t pos="a" der="pred" oahpa="pref">xxx</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="a">glatt</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="a">sileä</t>
-         </tg>
-         <tg xml:lang="smn">
-            <t pos="a">šoollad</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="a">livttis</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="a">jalˈga</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="a">âˊldd-</l>
-         <note>bound root of ââld(a)</note>
-      </lg>
-      <mg>
-         <dg>
-            <d pos="n">âˊlddpuäʒʒ</d>
-            <dtg xml:lang="fin">
-               <dt>käsiporo</dt>
-               <te>joka on aina käsillä</te>
-            </dtg>
-         </dg>
-      </mg>
-   </e>
-   <e meta="05">
-      <lg>
          <l pos="a" a_class="xxx">hueˊnn</l>
          <deriv>
             <form gloss="attr">hueˊnes</form>
@@ -227,7 +165,7 @@
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e meta="04">
       <lg>
          <l pos="a" a_class="xxx">jääˊmteˊmes</l>
          <deriv>
@@ -235,6 +173,9 @@
          </deriv>
       </lg>
       <mg>
+         <semantics>
+            <sem class="HUMAN">MYTHOLOGY</sem>
+         </semantics>
          <tg xml:lang="eng">
             <t pos="a">immortal</t>
          </tg>
@@ -244,9 +185,9 @@
          <tg xml:lang="sme">
             <t pos="a">jápmemeahttun</t>
          </tg>
-         <semantics>
-            <sem class="HUMAN">MYTHOLOGY</sem>
-         </semantics>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">бессмертный</t>
+         </tg>
       </mg>
    </e>
    <e meta="03">
@@ -481,6 +422,10 @@
          <sem class="SENSE">PERCEPTION</sem>
       </semantics>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">темный</t>
+            <tr>цвет кожи</tr>
+         </tg>
          <tg xml:lang="eng">
             <t pos="a">dark</t>
          </tg>
@@ -489,6 +434,9 @@
          </tg>
          <xg oahpa="excl">
             <x type="compound" pos="a">kääˊmesruõpssâd</x>
+            <xtg xml:lang="rus">
+               <xt pos="a" der="attr">темно-красный</xt>
+            </xtg>
             <xtg xml:lang="eng">
                <xt pos="mwe_ap">dark red</xt>
             </xtg>
@@ -498,13 +446,16 @@
          </xg>
          <xg oahpa="excl">
             <x type="compound" pos="a">kääˊmesââˊleǩ</x>
+            <xtg xml:lang="rus">
+               <xt pos="a" der="attr">темно-синий</xt>
+            </xtg>
+            <xtg xml:lang="eng">
+               <xt pos="mwe_ap">dark blue</xt>
+            </xtg>
+            <xtg xml:lang="fin">
+               <xt pos="a">tummansininen</xt>
+            </xtg>
          </xg>
-         <xtg xml:lang="eng">
-            <xt pos="mwe_ap">dark blue</xt>
-         </xtg>
-         <xtg xml:lang="fin">
-            <xt pos="a">tummansininen</xt>
-         </xtg>
       </mg>
    </e>
    <e meta="04">
@@ -1448,6 +1399,7 @@
             <t pos="a" der="attr">зеленый</t>
             <t pos="a" der="pred" oahpa="pref">зелён</t>
             <t pos="a" der="pred">зелен</t>
+            <tr>кроме растений</tr>
          </tg>
          <tg xml:lang="nob">
             <t pos="a">grønn</t>
@@ -1529,6 +1481,7 @@
          <tg xml:lang="rus">
             <t pos="a" der="attr" oahpa="pref">зелёный</t>
             <t pos="a" der="attr">зеленый</t>
+            <tr>о растениях</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="a" oahpa="pref">vihanta</t>
@@ -1642,6 +1595,12 @@
          <l pos="a" a_class="xxx">rääˊǩǩes</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">любимый</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">дорогой</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="n" oahpa="dispref">love</t>
             <t pos="a">beloved</t>
@@ -1663,6 +1622,10 @@
          <l pos="a" a_class="xxx">seuˊŋŋed</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t>темный</t>
+            <tr>небо</tr>
+         </tg>
          <tg xml:lang="eng">
             <t pos="a">dark</t>
             <tr>of the sky</tr>
@@ -2415,6 +2378,9 @@
          <l pos="a" a_class="xxx">ââˊliǩ</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">голубой</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="a">blue</t>
          </tg>
@@ -2460,6 +2426,21 @@
             <t pos="a">jisèhtadtja</t>
             <t pos="a">njuaras</t>
          </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="a">âˊldd-</l>
+         <note>bound root of ââld(a)</note>
+      </lg>
+      <mg>
+         <dg>
+            <d pos="n">âˊlddpuäʒʒ</d>
+            <dtg xml:lang="fin">
+               <dt>käsiporo</dt>
+               <te>joka on aina käsillä</te>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="06">
@@ -2574,6 +2555,10 @@
          <l pos="a" a_class="xxx">čuåkˈkâd</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t>темный</t>
+            <tr>цвет</tr>
+         </tg>
          <tg xml:lang="eng">
             <t pos="a">dark</t>
             <tr>color</tr>
@@ -2761,6 +2746,53 @@
          </tg>
          <tg xml:lang="sju">
             <t pos="a">prihtjas</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="05">
+      <lg>
+         <l pos="a">šõllâd</l>
+         <deriv>
+            <form gloss="attr">šõˊlles</form>
+         </deriv>
+         <etymology>
+            <etymon type="loan" source="finnic"/>
+            <etymon type="inher" source="saamic">še̮le̮</etymon>
+            <cognate xml:lang="fin">sileä</cognate>
+         </etymology>
+      </lg>
+      <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="150"/>
+         </sources>
+         <semantics>
+            <sem class="SENSE">PERCEPTION</sem>
+         </semantics>
+         <tg xml:lang="deu">
+            <t pos="a">eben</t>
+            <t pos="a">glatt</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="a">smooth</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">гладкий</t>
+            <t pos="a" der="pred" oahpa="pref">xxx</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="a">glatt</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="a">sileä</t>
+         </tg>
+         <tg xml:lang="smn">
+            <t pos="a">šoollad</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="a">livttis</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="a">jalˈga</t>
          </tg>
       </mg>
    </e>
