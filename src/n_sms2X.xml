@@ -1434,9 +1434,6 @@
    <e meta="03">
       <lg>
          <l pos="n">jeäˊǩǩääž</l>
-         <infl>
-            <form>(\#jeäˊǩǩää)</form>
-         </infl>
       </lg>
       <mg>
          <sources>
@@ -1446,7 +1443,7 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="n">вечер, вечером</t>
+            <t pos="n">вечер</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">ilta</t>
@@ -1457,6 +1454,12 @@
          <tg xml:lang="eng">
             <t pos="n">evening</t>
          </tg>
+         <dg der="adverbial">
+            <d gloss="gen.sg">jeäˊǩǩää</d>
+            <dtg xml:lang="rus">
+               <dt pos="adv">вечером</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="05">
@@ -10472,9 +10475,6 @@
    <e meta="03">
       <lg>
          <l pos="n">vueˊđđemkäämmar</l>
-         <infl>
-            <form>(\#-kämmar)</form>
-         </infl>
       </lg>
       <mg>
          <sources>
@@ -10484,16 +10484,16 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">спальня </t>
+            <t pos="n">спальня </t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">makuuhuone</t>
+            <t pos="n">makuuhuone</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">soverom</t>
+            <t pos="n">soverom</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_np">sleeping room</t>
          </tg>
       </mg>
    </e>
@@ -10501,7 +10501,7 @@
       <lg>
          <l pos="n">vueˊǯǯ</l>
          <infl>
-            <form>(\#vueˊǯǯest)</form>
+            <form gloss="loc.sg">vueˊǯǯest</form>
          </infl>
       </lg>
       <mg>
@@ -10512,17 +10512,26 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">мясо, из мяса</t>
+            <t pos="n">мясо</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">liha, lihasta</t>
+            <t pos="n">liha</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">kjøtt</t>
+            <t pos="n">kjøtt</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">meat</t>
          </tg>
+         <xg>
+            <x type="s">veärr lij vueˊǯǯest</x>
+            <xtg xml:lang="rus">
+               <xt pos="mwe_s">суп из мяса</xt>
+            </xtg>
+            <xtg xml:lang="fin">
+               <xt pos="mwe_s">keitto on lihasta</xt>
+            </xtg>
+         </xg>
       </mg>
    </e>
    <e meta="03">
@@ -13320,9 +13329,6 @@
    <e meta="03">
       <lg>
          <l pos="n">ǩeˊttempõrtt</l>
-         <infl>
-            <form>(\#põõrt)</form>
-         </infl>
       </lg>
       <mg>
          <sources>
