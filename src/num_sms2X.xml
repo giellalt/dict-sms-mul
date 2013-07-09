@@ -9,9 +9,11 @@
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
+         <tg xml:lang="rus">
+            <t pos="num">тысяча</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="num">thousand</t>
-            <t pos="mwe">one thousand</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="num">tuhat</t>
@@ -58,6 +60,181 @@
          <tg xml:lang="sju">
             <t pos="num">gulˈbma</t>
          </tg>
+         <dg der="fraction">
+            <d pos="n">kuälmõs</d>
+            <dtg xml:lang="eng">
+               <dt pos="n">one-third</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="mwe_np">kolmas osa</dt>
+            </dtg>
+         </dg>
+         <dg der="ordinal">
+            <d pos="ord">kuälmad</d>
+            <dtg xml:lang="rus">
+               <dt pos="ord">третий</dt>
+            </dtg>
+            <dtg xml:lang="eng">
+               <dt pos="ord">third</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="ord">kolmas</dt>
+            </dtg>
+         </dg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="num">kutmlo</l>
+         <lv variant="dial" source="1991">kuttmlo</lv>
+         <lv variant="dial" source="1991">kutumblo</lv>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="num">sixteen</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="num">kuusitoista</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="num">guhttanuppelohkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="num">kutt</l>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="num">шесть</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="num">six</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="num">kuusi</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="num">guhtta</t>
+         </tg>
+         <dg der="fraction">
+            <d pos="n">kuuđõs</d>
+            <dtg xml:lang="eng">
+               <dt pos="mwe_np">one-sixth</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="mwe_np">kuudes osa</dt>
+            </dtg>
+            <dtg xml:lang="sme">
+               <dt pos="n">guđadas</dt>
+            </dtg>
+         </dg>
+         <dg der="ordinal">
+            <d pos="ord">kuuđad</d>
+            <dtg xml:lang="rus">
+               <dt pos="ord">шестой</dt>
+            </dtg>
+            <dtg xml:lang="eng">
+               <dt pos="ord">sixth</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="ord">kuudes</dt>
+            </dtg>
+            <dtg xml:lang="sme">
+               <dt pos="ord">guđát</dt>
+            </dtg>
+         </dg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="num">kuttlo</l>
+         <lv variant="dial" source="1991">kuttlå-</lv>
+         <lv variant="dial" source="1991">kuttlåk-</lv>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="num">sixty</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="num">kuusikymmentä</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="num">guhttalogi</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="num">kuâhttlo</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="num">двадцать</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="num">twenty</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="num">kaksikymmentä</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="num">guoktelogi</t>
+         </tg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="num">kuâhttlokutt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="num">двадцать шесть</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="num">kaksikymmentäkuusi</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="num">xxx</t>
+         </tg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="num">kuâhttlonellj</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
+         <tg xml:lang="rus">
+            <t pos="num">двадцать четыре</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="num">kaksikymmentäneljä</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="num">xxx</t>
+         </tg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
       </mg>
    </e>
    <e meta="04">
@@ -104,171 +281,34 @@
          <tg xml:lang="nob">
             <t pos="num">to</t>
          </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">kutt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="num">six</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="num">kuusi</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="num">guhtta</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">kuuđad</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="num">sixth</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="num">kuudes</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="num">guđát</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">kuuđõs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="xxx">one-sixth</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx">kuudes osa</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="num">guđadas</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">kuâhttlo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="num">twenty</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="num">kaksikymmentä</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="num">guoktelogi</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="num">kuâhttlokutt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="rus">
-            <t pos="num">двадцать шесть</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="num">kaksikymmentäkuusi</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="num">xxx</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="num">kuâhttlonellj</l>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
-         <tg xml:lang="rus">
-            <t pos="num">двадцать четыре</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="num">kaksikymmentäneljä</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="num">xxx</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">kuälmad</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="num">third</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="num">kolmas</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">kuälmõs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="xxx">one-third</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx">kolmas osa</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">kääucad</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="num">eighth</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="num">kahdeksas</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <dg der="ordinal">
+            <d pos="ord">nuˊbb</d>
+            <etymology>
+               <etymon type="xxx" source="saamic">mu+mpē</etymon>
+               <cognate xml:lang="xxx"/>
+            </etymology>
+            <sources>
+               <book name="200" BEDLAN_ID="116"/>
+            </sources>
+            <dtg xml:lang="eng">
+               <dt pos="ord">second</dt>
+            </dtg>
+            <dtg xml:lang="rus">
+               <dt pos="ord">второй</dt>
+            </dtg>
+            <dtg xml:lang="nob">
+               <dt pos="ord">annen</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="ord">toinen</dt>
+            </dtg>
+            <dtg xml:lang="sme">
+               <dt pos="ord">nubbi</dt>
+            </dtg>
+            <dtg xml:lang="sju">
+               <dt pos="ord">jietjaa</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -279,6 +319,9 @@
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="num">восемь</t>
          </tg>
@@ -288,9 +331,18 @@
          <tg xml:lang="eng">
             <t pos="num">eight</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <dg der="ordinal">
+            <d pos="ord">kääucad</d>
+            <dtg xml:lang="rus">
+               <dt pos="ord">восьмой</dt>
+            </dtg>
+            <dtg xml:lang="eng">
+               <dt pos="ord">eighth</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="ord">kahdeksas</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -298,6 +350,9 @@
          <l pos="num">käˊhcclo</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="num">восемьдесят</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="num">eighty</t>
          </tg>
@@ -305,7 +360,7 @@
             <t pos="num">kahdeksankymmentä</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">QUANTITY</sem>
          </semantics>
       </mg>
    </e>
@@ -314,6 +369,9 @@
          <l pos="num">käˊhccmlo</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="num">восемнадцать</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="num">eighteen</t>
          </tg>
@@ -321,7 +379,7 @@
             <t pos="num">kahdeksantoista</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">QUANTITY</sem>
          </semantics>
       </mg>
    </e>
@@ -330,6 +388,9 @@
          <l pos="num">lååi</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="num">десять</t>
          </tg>
@@ -342,25 +403,18 @@
          <tg xml:lang="eng">
             <t pos="num">ten</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">lååǥǥad</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="num">tenth</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="num">kymmenes</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <dg der="ordinal">
+            <d pos="ord">lååǥǥad</d>
+            <dtg xml:lang="rus">
+               <dt pos="ord">десятый</dt>
+            </dtg>
+            <dtg xml:lang="eng">
+               <dt pos="ord">tenth</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="ord">kymmenes</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -368,12 +422,14 @@
          <l pos="num">miljard</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="num">миллиард</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="num">billion</t>
-            <t pos="xxx">one billion</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">QUANTITY</sem>
          </semantics>
       </mg>
    </e>
@@ -382,41 +438,70 @@
          <l pos="num">miljon</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="num">миллион</t>
+         </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">one million</t>
+            <t pos="num">million</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">QUANTITY</sem>
          </semantics>
       </mg>
    </e>
-   <e meta="01">
+   <e meta="05">
       <lg>
-         <l pos="num">neelljad</l>
+         <l pos="num">nellj</l>
+         <etymology>
+            <etymon type="inher" source="finnougric">ńeljä</etymon>
+            <cognate xml:lang="xxx"/>
+         </etymology>
       </lg>
       <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="59"/>
+         </sources>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="eng">
-            <t pos="num">fourth</t>
+            <t pos="num">four</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="num">четыре</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="num">fire</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="num">neljäs</t>
+            <t pos="num">neljä</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">neelljõs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="xxx">one-fourth</t>
+         <tg xml:lang="sme">
+            <t pos="num">njeallje</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <tg xml:lang="sju">
+            <t pos="num">nèlˈja</t>
+         </tg>
+         <lg>
+            <l pos="num">neelljõs</l>
+         </lg>
+         <dg der="fraction">
+            <dtg xml:lang="eng">
+               <dt pos="mwe_np">one-fourth</dt>
+            </dtg>
+         </dg>
+         <dg der="ordinal">
+            <d pos="ord">neelljad</d>
+            <dtg xml:lang="rus">
+               <dt pos="ord">четвертый</dt>
+            </dtg>
+            <dtg xml:lang="eng">
+               <dt pos="ord">fourth</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="ord">neljäs</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -424,6 +509,9 @@
          <l pos="num">nelljlo</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="num">сорок</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="num">forty</t>
          </tg>
@@ -431,7 +519,7 @@
             <t pos="num">neljäkymmentä</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">QUANTITY</sem>
          </semantics>
       </mg>
    </e>
@@ -445,6 +533,9 @@
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
+         <tg xml:lang="rus">
+            <t pos="num">четырнадцать</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="num">fourteen</t>
          </tg>
@@ -453,78 +544,52 @@
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e meta="05">
       <lg>
-         <l pos="num">viiđad</l>
+         <l pos="num">vitt</l>
+         <etymology>
+            <etymon type="inher" source="uralic?"/>
+            <etymon type="inher" source="FU">witte</etymon>
+            <cognate xml:lang="xxx"/>
+         </etymology>
       </lg>
       <mg>
-         <tg xml:lang="eng">
-            <t pos="num">fifth</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="num">viides</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">kuttlo</l>
-         <lv variant="dial" source="1991">kuttlå-</lv>
-         <lv variant="dial" source="1991">kuttlåk-</lv>
-      </lg>
-      <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="52"/>
+         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="num">sixty</t>
+            <t pos="num">five</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="num">пять</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="num">fem</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="num">kuusikymmentä</t>
+            <t pos="num">viisi</t>
          </tg>
          <tg xml:lang="sme">
-            <t pos="num">guhttalogi</t>
+            <t pos="num">vihtta</t>
          </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">kutmlo</l>
-         <lv variant="dial" source="1991">kuttmlo</lv>
-         <lv variant="dial" source="1991">kutumblo</lv>
-      </lg>
-      <mg>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="num">sixteen</t>
+         <tg xml:lang="sju">
+            <t pos="num">viihta</t>
          </tg>
-         <tg xml:lang="fin">
-            <t pos="num">kuusitoista</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="num">guhttanuppelohkái</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">ååucad</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="num">ninth</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="num">yhdeksäs</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <dg der="ordinal">
+            <d pos="ord">viiđad</d>
+            <dtg xml:lang="rus">
+               <dt pos="ord">пятый</dt>
+            </dtg>
+            <dtg xml:lang="eng">
+               <dt pos="ord">fifth</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="ord">viides</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -532,15 +597,30 @@
          <l pos="num">ååuˊc</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="num">девять</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="num">nine</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="num">yhdeksän</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <dg der="ordinal">
+            <d pos="ord">ååucad</d>
+            <dtg xml:lang="rus">
+               <dt pos="ord">девятый</dt>
+            </dtg>
+            <dtg xml:lang="eng">
+               <dt pos="ord">ninth</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="ord">yhdeksäs</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="04">
@@ -591,6 +671,23 @@
          <tg xml:lang="deu">
             <t pos="num">eins</t>
          </tg>
+         <dg der="ordinal">
+            <d pos="ord">vuõssmõs</d>
+            <lv>vuõssâmõs</lv>
+            <dtg xml:lang="rus">
+               <dt pos="ord">первый</dt>
+            </dtg>
+            <dtg xml:lang="eng">
+               <dt pos="ord">first</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="ord">ensimmäinen</dt>
+            </dtg>
+            <dtg xml:lang="sme">
+               <dt pos="ord">vuosttas</dt>
+               <dt pos="ord">vuosttaš</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -598,6 +695,9 @@
          <l pos="num">õtmlo</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="num">одиннадцать</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="num">eleven</t>
          </tg>
@@ -605,20 +705,7 @@
             <t pos="num">yksitoista</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">čiiččad</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="num">seventh</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">QUANTITY</sem>
          </semantics>
       </mg>
    </e>
@@ -627,24 +714,13 @@
          <l pos="num">čičmlo</l>
       </lg>
       <mg>
+         <tg xml:lang="rus">
+            <t pos="num">семьдесят</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="num">seventy</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">čiččmõs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="mwe">seven people</t>
-         </tg>
-         <semantics>
-            <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
       </mg>
@@ -654,12 +730,30 @@
          <l pos="num">čiččâm</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="num">семь</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="num">seven</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <dg der="collective">
+            <d pos="n">čiččmõs</d>
+            <dtg xml:lang="eng">
+               <d pos="mwe_np">seven people</d>
+            </dtg>
+         </dg>
+         <dg der="ordinal">
+            <d pos="ord">čiiččad</d>
+            <dtg xml:lang="rus">
+               <dt pos="ord">седьмой</dt>
+            </dtg>
+            <dtg xml:lang="eng">
+               <dt pos="ord">seventh</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="04">
@@ -668,8 +762,10 @@
          <lv variant="dial" source="1991">čueˊđ</lv>
       </lg>
       <mg>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe">one hundred</t>
             <t pos="num">hundred</t>
          </tg>
          <tg xml:lang="fin">
@@ -678,94 +774,12 @@
          <tg xml:lang="rus">
             <t pos="num">сто</t>
          </tg>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="num">čueˊđes</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="mwe">one hundred people</t>
-         </tg>
-         <semantics>
-            <sem class="HUMAN">PEOPLE</sem>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="05">
-      <lg>
-         <l pos="num">nellj</l>
-         <etymology>
-            <etymon type="inher" source="finnougric">ńeljä</etymon>
-            <cognate xml:lang="xxx"/>
-         </etymology>
-      </lg>
-      <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="59"/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="num">four</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="num">четыре</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="num">fire</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="num">neljä</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="num">njeallje</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="num">nèlˈja</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="05">
-      <lg>
-         <l pos="num">vitt</l>
-         <etymology>
-            <etymon type="inher" source="uralic?"/>
-            <etymon type="inher" source="FU">witte</etymon>
-            <cognate xml:lang="xxx"/>
-         </etymology>
-      </lg>
-      <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="52"/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="num">five</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="num">пять</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="num">fem</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="num">viisi</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="num">vihtta</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="num">viihta</t>
-         </tg>
+         <dg der="collective">
+            <d pos="n">čueˊđes</d>
+            <dtg xml:lang="eng">
+               <dt pos="mwe_np">one hundred people</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
 </r>
