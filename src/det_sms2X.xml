@@ -16,4 +16,17 @@
             </tg>
         </mg>
     </e>
+    <e meta="01">
+        <lg>
+            <l pos="xxx">kâˊll</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="xxx">сколько</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="mwe_xxx">how many</t>
+            </tg>
+        </mg>
+    </e>
 </r>
