@@ -1,46 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
-  <e meta="08_369">
+   <e meta="08_369">
       <lg>
-         <l pos="pn" class="place" gender="xxx">Aanar</l>
+         <l pos="pn" class="place">Aanar</l>
          <translit_cyr>Аaнaр</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="1" href="languagememory369"/>
-         </audio>
-      </lg>
-      <mg>
-         <sources>
-            <book name="xxx" lesson="xxx"/>
-         </sources>
-         <semantics>
-            <sem class="xxx">xxx</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="pn">Inari</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="pn">Inari</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="pn">Инари</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pn">Enare</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="pn">Inari</t>
-         </tg>
-      </mg>
-   </e>
-  <e meta="03">
-      <lg>
-         <l pos="pn" class="place">Aanar</l>
-         <audio>
-            <a dialect="muo" speaker="ZMN" href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111210_ZMN.wav"/>
-            <a dialect="peä" speaker="KJ" href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111219_KJ_2.wav"/>
+            <a dialect="muo" speaker="ZMN"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111210_ZMN.wav"/>
+            <a dialect="peä" speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111219_KJ_2.wav"
+            />
          </audio>
       </lg>
       <mg>
@@ -70,14 +43,18 @@
             <t pos="pn">Anár</t>
             <te>siida</te>
          </tg>
+         <tg xml:lang="deu">
+            <t pos="pn">Inari</t>
+            <te>Dorf</te>
+         </tg>
       </mg>
    </e>
-  <e meta="08_3181">
+   <e meta="08_3181">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Artman </l>
+         <l pos="pn" class="person" gender="m">Artman</l>
          <translit_cyr>Артмaн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="1" href="languagememory3181"/>
@@ -88,7 +65,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -107,9 +84,9 @@
          </tg>
       </mg>
    </e>
-  <e meta="01">
+   <e meta="01">
       <lg>
-         <l pos="pn" class="oevre" oahpa="excl">Biblija</l>
+         <l pos="pn" class="oevre">Biblija</l>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -124,12 +101,12 @@
          </semantics>
       </mg>
    </e>
-  <e meta="08_3118">
+   <e meta="08_3118">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Bååˊres</l>
+         <l pos="pn" class="person" gender="m">Bååˊres</l>
          <translit_cyr>Ба̊̄рес</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="2" href="languagememory3118"/>
@@ -140,31 +117,6 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="pn">proper name</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="pn">Boris</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pn">egennavn</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
-         </tg>
-      </mg>
-   </e>
-  <e meta="04">
-      <lg>
-         <l pos="pn" class="person" gender="m">Bååˊres</l>
-      </lg>
-      <mg>
-         <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
@@ -173,22 +125,26 @@
          <tg xml:lang="fin">
             <t pos="pn">Boris</t>
          </tg>
-         <tg xml:lang="nob">
-            <t pos="pn" oahpa="pref">Børre</t>
-            <t pos="pn">Boris</t>
-         </tg>
          <tg xml:lang="rus">
             <t pos="pn">Борис</t>
          </tg>
-         <lexicon xml:lang="eng">man's name</lexicon>
+         <tg xml:lang="nob">
+            <t pos="pn">Boris</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="pn">Børre</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="pn">Eigenname</t>
+         </tg>
       </mg>
    </e>
-  <e meta="08_3212">
+   <e meta="08_3212">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Daaˊved </l>
+         <l pos="pn" class="person" gender="m">Daaˊved</l>
          <translit_cyr>Да̄вед</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="3" href="languagememory3212"/>
@@ -199,10 +155,10 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="pn">proper name</t>
+            <t pos="pn">David</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="pn">Taavi</t>
@@ -211,19 +167,19 @@
             <t pos="pn">Имя собственное</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pn">egennavn</t>
+            <t pos="pn">David</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">David</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3121">
+   <e meta="08_3121">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Dåårfi</l>
+         <l pos="pn" class="person" gender="f">Dåårfi</l>
          <translit_cyr>Да̊̄рфы</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="3" href="languagememory3121"/>
@@ -234,10 +190,10 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="pn">(proper name)</t>
+            <t pos="pn">Dorothea</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="pn">Dorothea</t>
@@ -249,16 +205,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">(Eigenname)</t>
+            <t pos="pn">Dorothea</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3150">
+   <e meta="08_3150">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Eejjav </l>
+         <l pos="pn" class="person" gender="m">Eejjav</l>
          <translit_cyr>Э̄йяв</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="0" dialect="xxx" speaker="4" href="languagememory3150"/>
@@ -269,7 +225,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -288,12 +244,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3126">
+   <e meta="08_3126">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Eessak</l>
+         <l pos="pn" class="person" gender="m">Eessak</l>
          <translit_cyr>Э̄ссaк</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="4" href="languagememory3126"/>
@@ -304,31 +260,36 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="pn">proper name</t>
+            <t pos="pn">Isaac</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Esko, Iisakki</t>
+            <t pos="pn">Esko</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Iisakki</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pn">egennavn</t>
+            <t pos="pn">Eskil</t>
+            <t pos="pn">Eskild</t>
+            <t pos="pn">Askild</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Isak</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3122">
+   <e meta="08_3122">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Eeˊhrem</l>
+         <l pos="pn" class="person" gender="m">Eeˊhrem</l>
          <translit_cyr>Э̄хьрэм</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="4" href="languagememory3122"/>
@@ -339,13 +300,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="pn">(proper name)</t>
+            <t pos="pn">xxx</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Efraim, Raimo</t>
+            <t pos="pn">Efraim</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Raimo</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -354,16 +318,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">(Eigenname)</t>
+            <t pos="pn">xxx</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3124">
+   <e meta="08_3124">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Eeˊled</l>
+         <l pos="pn" class="person" gender="f">Eeˊled</l>
          <translit_cyr>Э̄лед</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="4" href="languagememory3124"/>
@@ -374,7 +338,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -386,51 +350,23 @@
             <t pos="pn">Имя собственное</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pn">egennavn</t>
+            <t pos="pn">Elin</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Elina</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3140">
+   <e meta="08_3140">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Evvan</l>
+         <l pos="pn" class="person" gender="m">Evvan</l>
          <translit_cyr>Эввaн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="4" href="languagememory3140"/>
          </audio>
-      </lg>
-      <mg>
-         <sources>
-            <book name="xxx" lesson="xxx"/>
-         </sources>
-         <semantics>
-            <sem class="xxx">xxx</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="pn">proper name</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="pn">Iivana, Juhani, Jussi</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pn">egennavn</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
-         </tg>
-      </mg>
-   </e>
-  <e meta="04">
-      <lg>
-         <l pos="pn" class="person" gender="m">Evvan</l>
       </lg>
       <mg>
          <sources>
@@ -439,22 +375,30 @@
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
-         <tg xml:lang="rus">
-            <t pos="pn">Иван</t>
+         <tg xml:lang="eng">
+            <t pos="pn">Ivan</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="pn">Juhani</t>
-            <t pos="pn" oahpa="pref">Jussi</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Jussi</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Iivana</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="pn">Иван</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">Ivan</t>
          </tg>
-         <tg xml:lang="eng">
+         <tg xml:lang="deu">
             <t pos="pn">Ivan</t>
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Eŋgglõs</l>
       </lg>
@@ -479,12 +423,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3131">
+   <e meta="08_3131">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Fedora</l>
+         <l pos="pn" class="person" gender="f">Fedora</l>
          <translit_cyr>Фэдорa</translit_cyr>
          <infl>
-            <form gloss="xxx">(=</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="0" href="languagememory3131"/>
@@ -495,7 +439,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -514,12 +458,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3135">
+   <e meta="08_3135">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Feekkat</l>
+         <l pos="pn" class="person" gender="f">Feekkat</l>
          <translit_cyr>Фэ̄ккaт</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="0" href="languagememory3135"/>
@@ -530,7 +474,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -549,12 +493,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3142">
+   <e meta="08_3142">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Feeˊla</l>
+         <l pos="pn" class="person" gender="m/f">Feeˊla</l>
          <translit_cyr>Фэ̄ля</translit_cyr>
          <infl>
-            <form gloss="xxx">(=</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="0" href="languagememory3142"/>
@@ -565,13 +509,36 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Illeppi; Tekla</t>
+            <t pos="pn">Tekla</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="pn">Имя собственное</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="pn">Tekla</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="pn">Tekla</t>
+         </tg>
+      </mg>
+      <mg>
+         <sources>
+            <book name="xxx" lesson="xxx"/>
+         </sources>
+         <semantics>
+            <sem class="HUMAN">PEOPLE</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="pn">proper name</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Illeppi</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -584,12 +551,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3134">
+   <e meta="08_3134">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Feâdar</l>
+         <l pos="pn" class="person" gender="f">Feâdar</l>
          <translit_cyr>Фэâдaр</translit_cyr>
          <infl>
-            <form gloss="xxx">(=</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="0" href="languagememory3134"/>
@@ -600,7 +567,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -615,16 +582,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Theodora</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3132">
+   <e meta="08_3132">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Feäd'dsi</l>
-         <translit_cyr>Фэӕд'дсы</translit_cyr>
+         <l pos="pn" class="person" gender="f">Feädˈdsi</l>
+         <translit_cyr>Фэӕдˈдсы</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="0" href="languagememory3132"/>
@@ -635,13 +602,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Fedosia, Fetsi</t>
+            <t pos="pn">Fedosia</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Fetsi</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -654,12 +624,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_380">
+   <e meta="08_380">
       <lg>
          <l pos="pn" class="place">Heˊlssen</l>
          <translit_cyr>Хэльссэн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="5" href="languagememory380"/>
@@ -670,7 +640,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">Helsinki</t>
@@ -689,12 +659,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3133">
+   <e meta="08_3133">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Huât'tar</l>
-         <translit_cyr>Хуâт'тaр</translit_cyr>
+         <l pos="pn" class="person" gender="m">Huâtˈtar</l>
+         <translit_cyr>Хуâтˈтaр</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="3" dialect="xxx" speaker="5" href="languagememory3133"/>
@@ -705,13 +675,19 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Feodor, Teodor, Huotari</t>
+            <t pos="pn">Feodor</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Teodor</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Huotari</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -720,16 +696,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Theodor</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3139">
+   <e meta="08_3139">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Jeˊvida</l>
+         <l pos="pn" class="person" gender="f">Jeˊvida</l>
          <translit_cyr>Йэвидa</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="6" href="languagememory3139"/>
@@ -740,31 +716,34 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Iida, Jevida</t>
+            <t pos="pn">Iida</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Jevida</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pn">egennavn</t>
+            <t pos="pn">Ida</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Ida</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3149">
+   <e meta="08_3149">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Jiˊlssi</l>
+         <l pos="pn" class="person" gender="m">Jiˊlssi</l>
          <translit_cyr>Ильсси</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="6" href="languagememory3149"/>
@@ -775,7 +754,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -794,13 +773,10 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3194">
+   <e meta="08_3194">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Juuˊse</l>
+         <l pos="pn" class="constellation" gloss="pl">Juuˊse</l>
          <translit_cyr>Йӯсе</translit_cyr>
-         <infl>
-            <form gloss="xxx">(mon.)</form>
-         </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="6" href="languagememory3194"/>
          </audio>
@@ -810,7 +786,8 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">MYTHOLOGY</sem>
+            <sem class="ENVIR">ELEMENT</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -822,19 +799,22 @@
             <t pos="pn">Имя собственное</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pn">egennavn, Karlsvogna</t>
+            <t pos="pn">Karlsvogna</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Großer Wagen</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="pn">Großer Bär</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3138">
+   <e meta="08_3138">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Järmman</l>
+         <l pos="pn" class="person" gender="m">Järmman</l>
          <translit_cyr>Йӕрммaн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="6" href="languagememory3138"/>
@@ -845,7 +825,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -860,16 +840,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Hermann</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3137">
+   <e meta="08_3137">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Järrsi</l>
+         <l pos="pn" class="person" gender="m">Järrsi</l>
          <translit_cyr>Йӕррсы</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="6" href="languagememory3137"/>
@@ -880,7 +860,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -899,12 +879,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3129">
+   <e meta="08_3129">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Jästtfi</l>
+         <l pos="pn" class="person" gender="m">Jästtfi</l>
          <translit_cyr>Йӕсттфи</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="6" href="languagememory3129"/>
@@ -915,7 +895,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -930,16 +910,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Eustatios</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3146">
+   <e meta="08_3146">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Jääkk </l>
+         <l pos="pn" class="person" gender="m">Jääkk</l>
          <translit_cyr>Йӕ̄кк</translit_cyr>
          <infl>
-            <form gloss="xxx">(Jakku)</form>
+            <form gloss="gen.sg">Jakku</form>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="6" href="languagememory3146"/>
@@ -950,7 +930,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -965,16 +945,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Jakob</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3147">
+   <e meta="08_3147">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Jäˊǩǩem</l>
+         <l pos="pn" class="person" gender="f">Jäˊǩǩem</l>
          <translit_cyr>Йӕќќем</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="6" dialect="xxx" speaker="6" href="languagememory3147"/>
@@ -985,7 +965,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1004,12 +984,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3230">
+   <e meta="08_3230">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Jååǥǥar</l>
+         <l pos="pn" class="person" gender="m">Jååǥǥar</l>
          <translit_cyr>Йа̊̄ғғaр</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="6" href="languagememory3230"/>
@@ -1020,7 +1000,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1032,19 +1012,19 @@
             <t pos="pn">Имя собственное</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pn">egennavn</t>
+            <t pos="pn">Jogar</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="pn">Eigenname</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3157">
+   <e meta="08_3157">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Kaaˊdren</l>
+         <l pos="pn" class="person" gender="f">Kaaˊdren</l>
          <translit_cyr>Ка̄дьрэн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="7" href="languagememory3157"/>
@@ -1055,7 +1035,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1070,16 +1050,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Katrin</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3154">
+   <e meta="08_3154">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Kaiˊssi</l>
+         <l pos="pn" class="person" gender="f">Kaiˊssi</l>
          <translit_cyr>Кaисси</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="7" href="languagememory3154"/>
@@ -1090,7 +1070,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1109,12 +1089,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3136">
+   <e meta="08_3136">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Kaurrâˊl</l>
+         <l pos="pn" class="person" gender="m">Kaurrâˊl</l>
          <translit_cyr>Кaуррâль</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="7" href="languagememory3136"/>
@@ -1125,13 +1105,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Gavril, Kauko</t>
+            <t pos="pn">Gavril</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Kauko</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -1144,12 +1127,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_381">
+   <e meta="08_381">
       <lg>
          <l pos="pn" class="place">Kaˊrjjel</l>
          <translit_cyr>Кaрьййел</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="7" href="languagememory381"/>
@@ -1160,7 +1143,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">Karelia</t>
@@ -1179,12 +1162,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3164">
+   <e meta="08_3164">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Kreessan</l>
+         <l pos="pn" class="person" gender="m">Kreessan</l>
          <translit_cyr>Крэ̄ссaн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="7" href="languagememory3164"/>
@@ -1195,7 +1178,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1210,16 +1193,16 @@
             <t pos="pn">egegnnavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Krysantios</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3159">
+   <e meta="08_3159">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Kreˊstten</l>
+         <l pos="pn" class="person" gender="f">Kreˊstten</l>
          <translit_cyr>Крэсьттэн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="7" href="languagememory3159"/>
@@ -1230,61 +1213,39 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="pn">proper name</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="pn">Kirsti, Kristiina, Ristiina</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pn">egennavn</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
-         </tg>
-      </mg>
-   </e>
-  <e meta="05">
-      <lg>
-         <l pos="pn" class="person" gender="fem">Kreˊstten</l>
-      </lg>
-      <mg>
-         <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="pn" oahpa="pref">Christina</t>
+            <t pos="pn">Christina</t>
             <t pos="pn">Christine</t>
+            <t pos="pn">Kristine</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Kirsti</t>
+            <t pos="pn">Kristiina</t>
+            <t pos="pn">Ristiina</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn" oahpa="pref">Кристина</t>
+            <t pos="pn">Кристина</t>
             <t pos="pn">Христина</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">Kristina</t>
-            <t pos="pn" oahpa="pref">Christina</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="pn">Kristiina</t>
+            <t pos="pn">Christina</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="pn">Kristina</t>
-            <t pos="pn" oahpa="pref">Christina</t>
+            <t pos="pn">Christina</t>
             <t pos="pn">Christine</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3172">
+   <e meta="08_3172">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Liizz</l>
+         <l pos="pn" class="person" gender="f">Liizz</l>
          <translit_cyr>Лӣзз</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="8" href="languagememory3172"/>
@@ -1295,7 +1256,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1307,16 +1268,16 @@
             <t pos="pn">Имя собственное</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pn">egennavn</t>
+            <t pos="pn">Lisa</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Lisa</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_371">
+   <e meta="08_371">
       <lg>
-         <l pos="pn" class="place" gender="xxx">Luujäuˊrr</l>
+         <l pos="pn" class="place">Luujäuˊrr</l>
          <translit_cyr>Лӯйӕуррь</translit_cyr>
          <infl>
             <form gloss="xxx"/>
@@ -1330,37 +1291,8 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="pn">Lovozero</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="pn">Luujärvi</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="pn">Ловозеро</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pn">Lovozero</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="pn">Lovozero</t>
-         </tg>
-      </mg>
-   </e>
-  <e meta="04">
-      <lg>
-         <l pos="pn" class="place">Luujäuˊrr</l>
-      </lg>
-      <mg>
-         <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
-         <tg xml:lang="rus">
-            <t pos="pn">Ловозеро</t>
-            <te>посёлок</te>
-         </tg>
          <tg xml:lang="eng">
             <t pos="pn">Lovozero</t>
             <te>village</te>
@@ -1369,6 +1301,10 @@
             <t pos="pn">Luujärvi</t>
             <te>kylä</te>
          </tg>
+         <tg xml:lang="rus">
+            <t pos="pn">Ловозеро</t>
+            <te>посёлок</te>
+         </tg>
          <tg xml:lang="nob">
             <t pos="pn">Lovozero</t>
             <te>landsby</te>
@@ -1376,6 +1312,9 @@
          <tg xml:lang="sme">
             <t pos="pn">Lujávri</t>
             <te>siida</te>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="pn">Lovozero</t>
          </tg>
       </mg>
       <mg>
@@ -1404,12 +1343,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3229">
+   <e meta="08_3229">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Lääda</l>
+         <l pos="pn" class="person" gender="m">Lääda</l>
          <translit_cyr>Лӕ̄дa</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="6" dialect="xxx" speaker="8" href="languagememory3229"/>
@@ -1420,16 +1359,19 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Vladimir, Lati</t>
+            <t pos="pn">Vladimir</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Lati</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
+            <t pos="pn">Владимир</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">egennavn</t>
@@ -1439,12 +1381,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3167">
+   <e meta="08_3167">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Läärvam</l>
+         <l pos="pn" class="person" gender="m">Läärvam</l>
          <translit_cyr>Лӕ̄рвaм</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="8" href="languagememory3167"/>
@@ -1455,7 +1397,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1474,12 +1416,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3166">
+   <e meta="08_3166">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Lääzar</l>
+         <l pos="pn" class="person" gender="m">Lääzar</l>
          <translit_cyr>Лӕ̄зaр</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="8" href="languagememory3166"/>
@@ -1490,7 +1432,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1499,17 +1441,17 @@
             <t pos="pn">Lasarus</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
+            <t pos="pn">Лазарь</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Lasarus</t>
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Lääˊddjânnam</l>
       </lg>
@@ -1534,12 +1476,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3168">
+   <e meta="08_3168">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Lääˊriǩ</l>
+         <l pos="pn" class="person" gender="m">Lääˊriǩ</l>
          <translit_cyr>Лӕ̄риќ</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="8" href="languagememory3168"/>
@@ -1550,7 +1492,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1569,12 +1511,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3178">
+   <e meta="08_3178">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Maadron</l>
+         <l pos="pn" class="person" gender="f">Maadron</l>
          <translit_cyr>Ма̄дрон</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="9" href="languagememory3178"/>
@@ -1585,7 +1527,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1604,12 +1546,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3177">
+   <e meta="08_3177">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Maađrân</l>
+         <l pos="pn" class="person" gender="f">Maađrân</l>
          <translit_cyr>Ма̄đрâн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="9" href="languagememory3177"/>
@@ -1620,7 +1562,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1639,9 +1581,9 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3120">
+   <e meta="08_3120">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Meeˊdrai</l>
+         <l pos="pn" class="person" gender="m">Meeˊdrai</l>
          <translit_cyr>Мэ̄дьрaй</translit_cyr>
          <infl>
             <form gloss="xxx"/>
@@ -1655,13 +1597,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Dmitri, Mitri</t>
+            <t pos="pn">Dmitri</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Mitri</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">имя собств.</t>
@@ -1674,12 +1619,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3183">
+   <e meta="08_3183">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Miikkåt</l>
+         <l pos="pn" class="person" gender="m">Miikkåt</l>
          <translit_cyr>Мӣкка̊т</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="9" href="languagememory3183"/>
@@ -1690,7 +1635,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1709,12 +1654,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3187">
+   <e meta="08_3187">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Miklai</l>
+         <l pos="pn" class="person" gender="m">Miklai</l>
          <translit_cyr>Миклaй</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="9" href="languagememory3187"/>
@@ -1725,7 +1670,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1734,22 +1679,22 @@
             <t pos="pn">Nikolai</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
+            <t pos="pn">Николай</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Nikolai</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3185">
+   <e meta="08_3185">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Mooˊssi</l>
+         <l pos="pn" class="person" gender="m">Mooˊssi</l>
          <translit_cyr>Мо̄сси</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="9" href="languagememory3185"/>
@@ -1760,7 +1705,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1775,16 +1720,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Moses</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_383">
+   <e meta="08_383">
       <lg>
          <l pos="pn" class="place">Moskk</l>
          <translit_cyr>Москк</translit_cyr>
          <infl>
-            <form gloss="xxx">(ill. Moˊsǩǩe)</form>
+            <form gloss="ill.sg"> Moˊsǩǩe</form>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="9" href="languagememory383"/>
@@ -1795,7 +1740,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">Moscow</t>
@@ -1814,7 +1759,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Mueˊtǩǩ</l>
       </lg>
@@ -1845,12 +1790,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_384">
+   <e meta="08_384">
       <lg>
          <l pos="pn" class="place">Muurman</l>
          <translit_cyr>Мӯрмaн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="9" href="languagememory384"/>
@@ -1861,7 +1806,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">Muurmansk</t>
@@ -1880,12 +1825,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3174">
+   <e meta="08_3174">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Mäkkri</l>
+         <l pos="pn" class="person" gender="m">Mäkkri</l>
          <translit_cyr>Мӕккры</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="9" href="languagememory3174"/>
@@ -1896,13 +1841,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Makarios, Mauri</t>
+            <t pos="pn">Makarios</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Mauri</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -1915,12 +1863,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3176">
+   <e meta="08_3176">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Määrf</l>
+         <l pos="pn" class="person" gender="f">Määrf</l>
          <translit_cyr>Мӕ̄рф</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="6" dialect="xxx" speaker="9" href="languagememory3176"/>
@@ -1931,7 +1879,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -1940,19 +1888,19 @@
             <t pos="pn">Martta</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
+            <t pos="pn">Марфа</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigennamen</t>
+            <t pos="pn">Marta</t>
          </tg>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
-         <l pos="pn" class="person" gender="fem">Mäˊrjj</l>
+         <l pos="pn" class="person" gender="f">Mäˊrjj</l>
          <infl>
             <form gloss="nom.pl">Määˊrj</form>
          </infl>
@@ -1981,12 +1929,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3180">
+   <e meta="08_3180">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Neeffai</l>
+         <l pos="pn" class="person" gender="m">Neeffai</l>
          <translit_cyr>Нэ̄ффaй</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="0" dialect="xxx" speaker="10" href="languagememory3180"/>
@@ -1997,7 +1945,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -2016,7 +1964,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Njauddâm</l>
       </lg>
@@ -2046,7 +1994,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Njeäˊlˈlem</l>
       </lg>
@@ -2080,7 +2028,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
          <l pos="pn" class="place">Njeˊǯǯjäuˊrr</l>
       </lg>
@@ -2109,7 +2057,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Nuõˊtˈtjäuˊrr</l>
       </lg>
@@ -2166,12 +2114,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3186">
+   <e meta="08_3186">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Nättli</l>
+         <l pos="pn" class="person" gender="f">Nättli</l>
          <translit_cyr>Нӕттли</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="10" href="languagememory3186"/>
@@ -2182,7 +2130,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -2197,16 +2145,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Natalia</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3102">
+   <e meta="08_3102">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Oggvi</l>
+         <l pos="pn" class="person" gender="f">Oggvi</l>
          <translit_cyr>Оггвы</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="0" href="languagememory3102"/>
@@ -2217,7 +2165,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -2232,16 +2180,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Agata</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3231">
+   <e meta="08_3231">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Oorfan</l>
+         <l pos="pn" class="person" gender="m">Oorfan</l>
          <translit_cyr>Оорфaн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="0" href="languagememory3231"/>
@@ -2252,7 +2200,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -2271,12 +2219,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3105">
+   <e meta="08_3105">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Oˊlssi</l>
+         <l pos="pn" class="person" gender="m">Oˊlssi</l>
          <translit_cyr>Ольсси</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="0" href="languagememory3105"/>
@@ -2287,7 +2235,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -2302,16 +2250,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Alex</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3109">
+   <e meta="08_3109">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Oˊnddri</l>
+         <l pos="pn" class="person" gender="m">Oˊnddri</l>
          <translit_cyr>Оньддры</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="0" href="languagememory3109"/>
@@ -2322,13 +2270,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Antero, Onteri</t>
+            <t pos="pn">Antero</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Onteri</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -2337,16 +2288,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">André</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3112">
+   <e meta="08_3112">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Oˊrttem</l>
+         <l pos="pn" class="person" gender="m">Oˊrttem</l>
          <translit_cyr>Орьттэм</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="0" href="languagememory3112"/>
@@ -2357,7 +2308,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -2366,7 +2317,7 @@
             <t pos="pn">Artto</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
+            <t pos="pn">Артём</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">egennavn</t>
@@ -2376,12 +2327,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3196">
+   <e meta="08_3196">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Paavvâl</l>
+         <l pos="pn" class="person" gender="m">Paavvâl</l>
          <translit_cyr>Па̄ввâл</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="11" href="languagememory3196"/>
@@ -2392,13 +2343,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="pn">proper name</t>
+            <t pos="pn">Paul</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Paavo, Pauli</t>
+            <t pos="pn">Paavo</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Pauli</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -2407,11 +2361,11 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Paul</t>
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Paaččjokk</l>
       </lg>
@@ -2468,12 +2422,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3198">
+   <e meta="08_3198">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Peeddar</l>
+         <l pos="pn" class="person" gender="m">Peeddar</l>
          <translit_cyr>Пэ̄ддaр</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="11" href="languagememory3198"/>
@@ -2484,26 +2438,26 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="pn">proper name</t>
+            <t pos="pn">Peter</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="pn">Pietari</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
+            <t pos="pn">Пётр</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Peter</t>
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Peäcˈcam</l>
       </lg>
@@ -2534,12 +2488,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3235">
+   <e meta="08_3235">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Piiˊmen</l>
+         <l pos="pn" class="person" gender="m">Piiˊmen</l>
          <translit_cyr>Пӣмен</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="11" href="languagememory3235"/>
@@ -2550,7 +2504,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -2569,12 +2523,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3236">
+   <e meta="08_3236">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Pråkkpi</l>
+         <l pos="pn" class="person" gender="m">Pråkkpi</l>
          <translit_cyr>Пра̊ккпи</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="11" href="languagememory3236"/>
@@ -2585,7 +2539,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -2604,12 +2558,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3234">
+   <e meta="08_3234">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Päälag</l>
+         <l pos="pn" class="person" gender="f">Päälag</l>
          <translit_cyr>Пӕ̄лaг</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="11" href="languagememory3234"/>
@@ -2620,13 +2574,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Pelagia, Paula</t>
+            <t pos="pn">Pelagia</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Paula</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -2635,16 +2592,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Paula</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3233">
+   <e meta="08_3233">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Päärask</l>
+         <l pos="pn" class="person" gender="f">Päärask</l>
          <translit_cyr>Пӕ̄рaск</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="11" href="languagememory3233"/>
@@ -2655,7 +2612,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -2674,12 +2631,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3199">
+   <e meta="08_3199">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Reeig</l>
+         <l pos="pn" class="person" gender="m">Reeig</l>
          <translit_cyr>Рэ̄иг</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="3" dialect="xxx" speaker="12" href="languagememory3199"/>
@@ -2690,7 +2647,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -2709,9 +2666,9 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_403">
+   <e meta="08_403">
       <lg>
-         <l pos="pn" class="place" gender="xxx">Risttǩeˊdd</l>
+         <l pos="pn" class="place">Risttǩeˊdd</l>
          <translit_cyr>Ристтќеддь</translit_cyr>
          <infl>
             <form gloss="xxx"/>
@@ -2725,7 +2682,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">Ristikent</t>
@@ -2744,7 +2701,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Ruäˊvnjargg</l>
       </lg>
@@ -2781,7 +2738,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Ruõcˈc</l>
       </lg>
@@ -2806,7 +2763,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Ruõššjânnam</l>
       </lg>
@@ -2831,12 +2788,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3200">
+   <e meta="08_3200">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Råmman</l>
+         <l pos="pn" class="person" gender="m">Råmman</l>
          <translit_cyr>Ра̊ммaн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="3" dialect="xxx" speaker="12" href="languagememory3200"/>
@@ -2847,7 +2804,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -2856,7 +2813,7 @@
             <t pos="pn">Roman</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
+            <t pos="pn">Роман</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">egennavn</t>
@@ -2866,12 +2823,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3205">
+   <e meta="08_3205">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Saammâl</l>
+         <l pos="pn" class="person" gender="m">Saammâl</l>
          <translit_cyr>Са̄ммâл</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="13" href="languagememory3205"/>
@@ -2882,10 +2839,10 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="pn">proper name</t>
+            <t pos="pn">Sam</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="pn">Samuli</t>
@@ -2901,7 +2858,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Sakssajânnam</l>
       </lg>
@@ -2926,12 +2883,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3103">
+   <e meta="08_3103">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Sandra</l>
+         <l pos="pn" class="person" gender="f">Sandra</l>
          <translit_cyr>Сaндрa</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="13" href="languagememory3103"/>
@@ -2942,13 +2899,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="pn">proper name</t>
+            <t pos="pn">Sandra</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Aleksandra, Sandra</t>
+            <t pos="pn">Aleksandra</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Sandra</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -2957,16 +2917,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Sandra</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3144">
+   <e meta="08_3144">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Seddar</l>
+         <l pos="pn" class="person" gender="m">Seddar</l>
          <translit_cyr>Сэддaр</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="13" href="languagememory3144"/>
@@ -2977,7 +2937,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -2996,12 +2956,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3209">
+   <e meta="08_3209">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Semman</l>
+         <l pos="pn" class="person" gender="m">Semman</l>
          <translit_cyr>Сэммaн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="13" href="languagememory3209"/>
@@ -3012,7 +2972,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -3031,12 +2991,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3207">
+   <e meta="08_3207">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Siˊrǧǧi</l>
+         <l pos="pn" class="person" gender="m">Siˊrǧǧi</l>
          <translit_cyr>Сирьѓѓи</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="13" href="languagememory3207"/>
@@ -3047,7 +3007,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -3056,7 +3016,7 @@
             <t pos="pn">Sergei</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
+            <t pos="pn">Сергей</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">egennavn</t>
@@ -3066,12 +3026,13 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3909">
+   <e meta="08_3909">
       <lg>
-         <l pos="pn" class="place" gender="xxx">Suõˊn'n’je ~ Sueˊn'n’jel</l>
-         <translit_cyr>Суән'нь’е~Суэн'нь’ел</translit_cyr>
+         <l pos="pn" class="place">Suõˊnˈnʼjel</l>
+         <lv variant="dial" source="1991">Sueˊnˈnʼjel</lv>
+         <translit_cyr>Суәнˈньʼе~Суэнˈньʼел</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="13" href="languagememory3909"/>
@@ -3081,31 +3042,6 @@
          <sources>
             <book name="xxx" lesson="xxx"/>
          </sources>
-         <semantics>
-            <sem class="xxx">xxx</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="pn">Suonikylä (name of a village)</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="pn">Suonikylä</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="pn">Суоникюла</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pn">Suenjel</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="pn">Suonikylä</t>
-         </tg>
-      </mg>
-   </e>
-  <e meta="04">
-      <lg>
-         <l pos="pn" class="place">Suõˊnˈnʼjel</l>
-      </lg>
-      <mg>
          <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -3118,12 +3054,16 @@
             <te>kylä</te>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn">Сонгельск</t>
+            <t pos="pn">Суоникюла</t>
+            <t pos="pn" oahpa="pref">Сонгельск</t>
             <te>посёлок</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">Suenjel</t>
             <te>landsby</te>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="pn">Suonikylä</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="pn">Suonjil</t>
@@ -3131,7 +3071,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Sââˊrvesjäuˊrr</l>
       </lg>
@@ -3186,9 +3126,9 @@
          </tg>
       </mg>
    </e>
-  <e meta="01">
+   <e meta="01">
       <lg>
-         <l pos="pn" class="person" gender="fem">Såff</l>
+         <l pos="pn" class="person" gender="f">Såff</l>
       </lg>
       <mg>
          <semantics>
@@ -3210,12 +3150,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3213">
+   <e meta="08_3213">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Taannâl</l>
+         <l pos="pn" class="person" gender="m">Taannâl</l>
          <translit_cyr>Tа̄ннâл</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="14" href="languagememory3213"/>
@@ -3226,13 +3166,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Taneli, Tauno</t>
+            <t pos="pn">Taneli</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Tauno</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -3245,7 +3188,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
          <l pos="pn" class="place">Taarr</l>
          <infl>
@@ -3273,12 +3216,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3217">
+   <e meta="08_3217">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Teehhan</l>
+         <l pos="pn" class="person" gender="m">Teehhan</l>
          <translit_cyr>Tэ̄ххaн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="14" href="languagememory3217"/>
@@ -3289,7 +3232,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -3308,12 +3251,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3215">
+   <e meta="08_3215">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Teäp'pan</l>
-         <translit_cyr>Tэӕп'пaн</translit_cyr>
+         <l pos="pn" class="person" gender="m">Teäpˈpan</l>
+         <translit_cyr>Tэӕпˈпaн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="14" href="languagememory3215"/>
@@ -3324,13 +3267,19 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Tapani, Stepan, Teppana</t>
+            <t pos="pn">Tapani</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Stepan</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Teppana</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -3339,16 +3288,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Stephan</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3216">
+   <e meta="08_3216">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Teˊrnti</l>
+         <l pos="pn" class="person" gender="m">Teˊrnti</l>
          <translit_cyr>Tэрьнти</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="0" dialect="xxx" speaker="14" href="languagememory3216"/>
@@ -3359,7 +3308,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -3378,12 +3327,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3219">
+   <e meta="08_3219">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Timofi</l>
+         <l pos="pn" class="person" gender="m">Timofi</l>
          <translit_cyr>Tимофи</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="14" href="languagememory3219"/>
@@ -3394,10 +3343,10 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="pn">proper name</t>
+            <t pos="pn">Tim</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="pn">Timoteus</t>
@@ -3413,12 +3362,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3220">
+   <e meta="08_3220">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Treeffan</l>
+         <l pos="pn" class="person" gender="m">Treeffan</l>
          <translit_cyr>Tрэ̄ффaн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="14" href="languagememory3220"/>
@@ -3429,7 +3378,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -3448,12 +3397,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3221">
+   <e meta="08_3221">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Trooˊfem</l>
+         <l pos="pn" class="person" gender="m">Trooˊfem</l>
          <translit_cyr>Tро̄фем</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="14" href="languagememory3221"/>
@@ -3464,7 +3413,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -3483,13 +3432,10 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_6148">
+   <e meta="08_6148">
       <lg>
-         <l pos="pn" class="place" gender="xxx">Tuäl'lamjokk</l>
-         <translit_cyr>Tуӕл'лaм-ёкк</translit_cyr>
-         <infl>
-            <form gloss="xxx">(-jooǥǥ, ill. -joˊǩǩe)</form>
-         </infl>
+         <l pos="pn" class="place">Tuälˈlamjokk</l>
+         <translit_cyr>Tуӕлˈлaм-ёкк</translit_cyr>
          <audio>
             <a quality="1" dialect="xxx" speaker="14" href="languagememory6148"/>
          </audio>
@@ -3499,7 +3445,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="ENVIR">TOPONOMY</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">Tuloma</t>
@@ -3518,12 +3464,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3214">
+   <e meta="08_3214">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Tädjjan</l>
+         <l pos="pn" class="person" gender="f">Tädjjan</l>
          <translit_cyr>Tӕдйян</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="14" href="languagememory3214"/>
@@ -3534,16 +3480,20 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Tanja, Tatjaana</t>
+            <t pos="pn">Tanja</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Tatjaana</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
+            <t pos="pn" oahpa="pref">Татьяна</t>
+            <t pos="pn">Танья</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">egennavn</t>
@@ -3553,7 +3503,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="01">
+   <e meta="01">
       <lg>
          <l pos="pn" class="place">Uccjokk</l>
       </lg>
@@ -3608,12 +3558,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3153">
+   <e meta="08_3153">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Uˊstten</l>
+         <l pos="pn" class="person" gender="f">Uˊstten</l>
          <translit_cyr>Усьттэн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="3" dialect="xxx" speaker="15" href="languagememory3153"/>
@@ -3624,7 +3574,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -3643,12 +3593,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3224">
+   <e meta="08_3224">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Vaaˊssel</l>
+         <l pos="pn" class="person" gender="m">Vaaˊssel</l>
          <translit_cyr>Ва̄ссел</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="16" href="languagememory3224"/>
@@ -3659,7 +3609,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -3678,12 +3628,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3228">
+   <e meta="08_3228">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Veâra</l>
+         <l pos="pn" class="person" gender="f">Veâra</l>
          <translit_cyr>Вэâрa</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="16" href="languagememory3228"/>
@@ -3694,7 +3644,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -3709,16 +3659,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Vera</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3115">
+   <e meta="08_3115">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Värvvan</l>
+         <l pos="pn" class="person" gender="f">Värvvan</l>
          <translit_cyr>Вӕрввaн</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="16" href="languagememory3115"/>
@@ -3729,7 +3679,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -3744,16 +3694,16 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Barbara</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3116">
+   <e meta="08_3116">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Vääna</l>
+         <l pos="pn" class="person" gender="m">Vääna</l>
          <translit_cyr>Вӕ̄нa</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="16" href="languagememory3116"/>
@@ -3764,10 +3714,10 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="pn">proper name</t>
+            <t pos="pn">Benjamin</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="pn">Benjam</t>
@@ -3779,11 +3729,11 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Benjamin</t>
          </tg>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
          <l pos="pn" class="person" gender="m">Väˊsǩǩ</l>
       </lg>
@@ -3809,12 +3759,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3208">
+   <e meta="08_3208">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Ziina</l>
+         <l pos="pn" class="person" gender="f">Ziina</l>
          <translit_cyr>Зӣнa</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="4" dialect="xxx" speaker="0" href="languagememory3208"/>
@@ -3825,7 +3775,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -3834,7 +3784,8 @@
             <t pos="pn">Siina</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
+            <t pos="pn" oahpa="pref">Зинаида</t>
+            <t pos="pn">Зина</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">egennavn</t>
@@ -3844,12 +3795,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3141">
+   <e meta="08_3141">
       <lg>
-         <l pos="pn" class="person" gender="xxx">iˊllep</l>
+         <l pos="pn" class="person" gender="m">Iˊllep</l>
          <translit_cyr>ыллеп</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="0" href="languagememory3141"/>
@@ -3860,13 +3811,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Ilkka, Illeppi</t>
+            <t pos="pn">Ilkka</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Illeppi</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -3879,12 +3833,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3206">
+   <e meta="08_3206">
       <lg>
-         <l pos="pn" class="person" gender="xxx">oˊhssni</l>
+         <l pos="pn" class="person" gender="f">Oˊhssni</l>
          <translit_cyr>охьссни</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="0" href="languagememory3206"/>
@@ -3895,7 +3849,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -3914,12 +3868,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3188">
+   <e meta="08_3188">
       <lg>
-         <l pos="pn" class="person" gender="xxx">oˊǩǩmi</l>
+         <l pos="pn" class="person" gender="f">Oˊǩǩmi</l>
          <translit_cyr>оќќми</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="0" href="languagememory3188"/>
@@ -3930,7 +3884,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -3939,7 +3893,7 @@
             <t pos="pn">Ofemia</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn">Имя собственное</t>
+            <t pos="pn">Офемия</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">egennavn</t>
@@ -3949,9 +3903,9 @@
          </tg>
       </mg>
    </e>
-  <e meta="04">
+   <e meta="04">
       <lg>
-         <l pos="pn" class="holiday">rosttov</l>
+         <l pos="pn" class="holiday">Rosttov</l>
       </lg>
       <mg>
          <semantics>
@@ -3977,7 +3931,7 @@
          <tg xml:lang="sme">
             <t pos="pn">juovllat</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
+         <xg>
             <x pos="idiom">Šiõǥǥ Rosttov da leklvaž Ođđ Eeˊjj!</x>
             <xtg xml:lang="nob">
                <xt pos="idiom">God jul og godt nytt år!</xt>
@@ -3994,12 +3948,12 @@
          </xg>
       </mg>
    </e>
-  <e meta="08_3110">
+   <e meta="08_3110">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Âåntašǩ</l>
+         <l pos="pn" class="person" gender="m">Âåntašǩ</l>
          <translit_cyr>А̂а̊нтaшќ</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="17" href="languagememory3110"/>
@@ -4010,13 +3964,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Anton, Antti</t>
+            <t pos="pn">Anton</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Antti</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -4025,13 +3982,13 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn">Anton</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_370">
+   <e meta="08_370">
       <lg>
-         <l pos="pn" class="place" gender="xxx">Âˊvvel</l>
+         <l pos="pn" class="place">Âˊvvel</l>
          <translit_cyr>А̂ввел</translit_cyr>
          <infl>
             <form gloss="xxx"/>
@@ -4042,32 +3999,36 @@
       </lg>
       <mg>
          <sources>
-            <book name="xxx" lesson="xxx"/>
+            <book name="kurss" lesson="phon"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">Ivalo</t>
+            <te>town</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="pn">Ivalo</t>
+            <te>kaupunki</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Ивало</t>
+            <te>город</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">Ivalo</t>
+            <te>by</te>
          </tg>
          <tg xml:lang="deu">
             <t pos="pn">Ivalo</t>
+            <te>Stadt</te>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="pn">Avvil</t>
+            <te>gávpot</te>
          </tg>
       </mg>
-   </e>
-  <e meta="04">
-      <lg>
-         <l pos="pn" class="place">Âˊvvel</l>
-      </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="phon"/>
@@ -4075,31 +4036,35 @@
          <semantics>
             <sem class="ENVIR">SETTLEMENT</sem>
          </semantics>
-         <tg xml:lang="rus">
-            <t pos="pn">Ивало</t>
-            <te>город</te>
+         <tg xml:lang="eng">
+            <t pos="pn">Ivalo</t>
+            <te>municipality</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="pn">Ivalo</t>
-            <te>kaupunki</te>
+            <te>xxx</te>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="pn">Ивало</t>
+            <te>xxx</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="pn">Ivalo</t>
-            <te>by</te>
+            <te>kommune</te>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="pn">Ivalo</t>
+            <te>Gemeinde</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="pn">Avvil</t>
-            <te>gávpot</te>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="pn">Ivalo</t>
-            <te>town</te>
+            <te>xxx</te>
          </tg>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
-         <l pos="pn" class="person" gender="fem">Äännaž</l>
+         <l pos="pn" class="person" gender="f">Äännaž</l>
          <infl>
             <form gloss="xxx">Äännže</form>
          </infl>
@@ -4129,12 +4094,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3111">
+   <e meta="08_3111">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Ääˊrhep</l>
+         <l pos="pn" class="person" gender="m">Ääˊrhep</l>
          <translit_cyr>Ӕ̄рьхэп</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="17" href="languagememory3111"/>
@@ -4145,13 +4110,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Arhippa, Erkki</t>
+            <t pos="pn">Arhippa</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Erkki</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
@@ -4164,9 +4132,9 @@
          </tg>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
-         <l pos="pn" class="person" gender="fem">Äˊnn</l>
+         <l pos="pn" class="person" gender="f">Äˊnn</l>
       </lg>
       <mg>
          <sources>
@@ -4191,12 +4159,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3101">
+   <e meta="08_3101">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Åggvi</l>
+         <l pos="pn" class="person" gender="f">Åggvi</l>
          <translit_cyr>А̊ггвы</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="17" href="languagememory3101"/>
@@ -4207,7 +4175,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -4222,16 +4190,17 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn" oahpa="pref">Agata</t>
+            <t pos="pn">Agate</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3100">
+   <e meta="08_3100">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Ååggašǩ</l>
+         <l pos="pn" class="person" gender="f">Ååggašǩ</l>
          <translit_cyr>А̊̄ггaшќ</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="17" href="languagememory3100"/>
@@ -4242,7 +4211,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -4257,16 +4226,17 @@
             <t pos="pn">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">Eigenname</t>
+            <t pos="pn" oahpa="pref">Agata</t>
+            <t pos="pn">Agate</t>
          </tg>
       </mg>
    </e>
-  <e meta="08_3130">
+   <e meta="08_3130">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Ååstaǩ</l>
+         <l pos="pn" class="person" gender="m">Ååstaǩ</l>
          <translit_cyr>А̊̄стaќ</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="9" dialect="xxx" speaker="17" href="languagememory3130"/>
@@ -4277,7 +4247,7 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
@@ -4296,7 +4266,7 @@
          </tg>
       </mg>
    </e>
-  <e meta="03">
+   <e meta="03">
       <lg>
          <l pos="pn" class="place">Čeˊvetjäuˊrr</l>
          <infl>
@@ -4349,12 +4319,12 @@
          </tg>
       </mg>
    </e>
-  <e meta="08_3160">
+   <e meta="08_3160">
       <lg>
-         <l pos="pn" class="person" gender="xxx">Ǩiuˊrrel</l>
+         <l pos="pn" class="person" gender="m">Ǩiuˊrrel</l>
          <translit_cyr>Ќиуррел</translit_cyr>
          <infl>
-            <form gloss="xxx">(=)</form>
+            <stem>=</stem>
          </infl>
          <audio>
             <a quality="2" dialect="xxx" speaker="22" href="languagememory3160"/>
@@ -4365,13 +4335,16 @@
             <book name="xxx" lesson="xxx"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pn">proper name</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">Kiureli, Kari</t>
+            <t pos="pn">Kiureli</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">Kari</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pn">Имя собственное</t>
