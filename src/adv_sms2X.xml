@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="08_6106">
+      <lg>
+         <l pos="adv">neelljas</l>
+         <translit_cyr>нэ̄лљaс</translit_cyr>
+         <audio>
+            <a quality="1" dialect="xxx" speaker="10" href="6106"/>
+         </audio>
+      </lg>
+      <mg>
+         <sources>
+            <book name="xxx" lesson="xxx"/>
+         </sources>
+         <semantics>
+            <sem class="HUMAN">PEOPLE</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="pn">neljästään</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pn">four of</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="pn">вчетвером</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="pn">på firemannshånd</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="pn">zu viert</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="03">
       <lg>
          <l pos="adv">de</l>
@@ -25,36 +57,46 @@
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e meta="08_2133">
       <lg>
          <l pos="adv">domoi</l>
+         <translit_cyr>домой</translit_cyr>
+         <audio>
+            <a quality="1" dialect="xxx" speaker="3" href="2133"/>
+         </audio>
          <etymology>
             <etymon type="loan" source="rus">домой</etymon>
          </etymology>
       </lg>
       <mg>
+         <sources>
+            <book name="xxx" lesson="xxx"/>
+         </sources>
+         <semantics>
+            <sem class="SPACE">MOTION</sem>
+            <sem class="HUMAN">FAMILY</sem>
+         </semantics>
          <tg xml:lang="eng">
-            <t pos="adv">homeward</t>
-            <te>towards home</te>
+            <t pos="pn">homeward</t>
+            <t pos="pn" oahpa="pref">home</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv">kotiin</t>
+            <t pos="pn">kotiin</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="pn">домой</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="pn">hjem</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="adv" oahpa="pref">heim</t>
+            <t pos="mwe_adv">nach Hause</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="adv">ruoktiin</t>
             <t pos="adv">ruoktot</t>
          </tg>
-         <tg xml:lang="rus">
-            <t pos="adv">домой</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="adv">heim</t>
-            <t pos="mwe_adv">nach Hause</t>
-         </tg>
-         <semantics>
-            <sem class="SPACE">MOTION</sem>
-            <sem class="HUMAN">FAMILY</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="01">
