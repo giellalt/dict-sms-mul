@@ -111,6 +111,8 @@ on the e-element in the xml files:
 
 07 - list of plants with Russian, Finnish, Latin translation, provided by Natalia Vaskova (SAKK course 2012/13)
 
+08 - sms wordlist of almost 5000 entries with multiple translations and links to audio files stored at LAT, the wordlist was compiled by Espen Sommer Eide (http://www.languagememory.org) in collaboration with KSDP
+
 =====
 Pronouns
 =====
