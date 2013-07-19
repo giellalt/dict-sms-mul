@@ -79,7 +79,7 @@
          <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
          </tg>
-        <xg>
+         <xg>
             <x type="question" pos="mwe">vuäitam-a</x>
             <xtg xml:lang="rus">
                <xt pos="mwe_s">могу ли?</xt>
@@ -91,7 +91,7 @@
                <xt pos="mwe_s">kan jeg?</xt>
             </xtg>
          </xg>
-       <xg>
+         <xg>
             <x pos="mwe_s">vueˊlǧǧep-a?</x>
             <xtg xml:lang="fin">
                <xt pos="mwe_s">lähdemmekö?</xt>
@@ -107,7 +107,7 @@
                <xt pos="mwe_s">skal vi gå?</xt>
             </xtg>
          </xg>
-         </mg>
+      </mg>
    </e>
    <e meta="03">
       <lg>
@@ -145,22 +145,25 @@
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
-         <tg xml:lang="fin">
-            <t labial="-pa">-pä</t>
+         <tg xml:lang="eng">
+            <t pos="a">sure</t>
          </tg>
          <tg xml:lang="fin">
-            <t labial="-han">-hän</t>
+            <t pos="pcle" labial="-pa">-pä</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pcle" labial="-han">-hän</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">ведь</t>
+            <t pos="pcle">ведь</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_pcle">jo, da</t>
          </tg>
       </mg>
    </e>
@@ -228,12 +231,14 @@
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
+         <tg xml:lang="eng">
+            <t pos="pcle">also</t>
+         </tg>
          <tg xml:lang="rus">
             <t pos="pcle">тоже</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pcle">также</t>
-            <t pos="pcle">тоже</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="pcle">mjös</t>
