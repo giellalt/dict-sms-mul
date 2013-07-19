@@ -16,19 +16,19 @@
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="pn">neljästään</t>
+            <t pos="adv">neljästään</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pn">four of</t>
+            <t pos="xxx">four of</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pn">вчетвером</t>
+            <t pos="adv">вчетвером</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pn">på firemannshånd</t>
+            <t pos="mwe_adv">på firemannshånd</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="pn">zu viert</t>
+            <t pos="mwe_adv">zu viert</t>
          </tg>
       </mg>
    </e>
@@ -254,16 +254,22 @@
          <tg xml:lang="eng">
             <t pos="adv">much</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
+         <xg oahpa="yes">
+            <xsources>
+               <book name="kurss" lesson="3"/>
+            </xsources>
             <x type="deriv" pos="adv">teänab</x>
+            <xtg xml:lang="eng">
+               <xt pos="mwe_adv">not more</xt>
+            </xtg>
             <xtg xml:lang="fin">
                <xt pos="adv">enää</xt>
             </xtg>
             <xtg xml:lang="rus">
-               <xt pos="xxx">(не) больше</xt>
+               <xt pos="mwe_adv">не больше</xt>
             </xtg>
             <xtg xml:lang="nob">
-               <xt pos="xxx">(ikke) mer</xt>
+               <xt pos="mwe_adv">ikke mer</xt>
             </xtg>
          </xg>
       </mg>
@@ -1179,19 +1185,25 @@
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="xxx">xxx</sem>
          </semantics>
-         <tg xml:lang="fin">
-            <t pos="adv">tietenkin</t>
+         <tg xml:lang="eng">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">конечно</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">известно</t>
          </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">tietenkin</t>
+         </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="adv">selvfølgelig</t>
          </tg>
       </mg>
    </e>
@@ -1781,6 +1793,12 @@
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adv">more</t>
+         </tg>
          <tg xml:lang="rus">
             <t pos="adv" oahpa="pref">ещё</t>
             <t pos="adv">еще</t>
@@ -1791,9 +1809,6 @@
          <tg xml:lang="nob">
             <t pos="adv">mer</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
    <e meta="06">
