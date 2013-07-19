@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+    <e meta="03">
+        <lg>
+            <l pos="det">tõt</l>
+            <infl>
+                <form gloss="gen.sg">tõn</form>
+                <form gloss="ill.sg">tõõzz</form>
+                <form gloss="ill.sg">tõˊst</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="3"/>
+            </sources>
+            <semantics>
+                <sem class="xxx"/>
+            </semantics>
+            <tg xml:lang="fin">
+                <t pos="det">se</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="det" oahpa="pref">этот</t>
+                <t pos="det">тот</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="det">xxx</t>
+            </tg>
+            <xg>
+                <x type="infl" pos="pro">tõˊst</x>
+                <xtg xml:lang="fin">
+                    <xt pos="xxx">siinä</xt>
+                </xtg>
+                <xtg xml:lang="rus">
+                    <xt pos="adv">оттуда</xt>
+                </xtg>
+                <xtg xml:lang="rus">
+                    <xt pos="adv">там</xt>
+                </xtg>
+                <xtg xml:lang="nob">
+                    <xt pos="det" neuter="dette">denne</xt>
+                </xtg>
+            </xg>
+        </mg>
+    </e>
     <e meta="01">
         <lg>
             <l pos="det">måkam</l>

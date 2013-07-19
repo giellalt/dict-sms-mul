@@ -315,6 +315,7 @@
       </lg>
       <mg>
          <sources>
+            <book name="kurss" lesson="3"/>
             <book name="200" BEDLAN_ID="*1"/>
             <book name="100"/>
          </sources>
@@ -647,48 +648,6 @@
             </xtg>
             <xtg xml:lang="nob">
                <xt pos="adv">herifra</xt>
-            </xtg>
-         </xg>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="pro">tõt</l>
-         <infl>
-            <form gloss="gen.sg">tõn</form>
-            <form gloss="ill.sg">tõõzz</form>
-            <form gloss="ill.sg">tõˊst</form>
-         </infl>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-         </sources>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-         <tg xml:lang="fin">
-            <t pos="pro">se</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="pro">этот</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
-         </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="infl" pos="pro">tõˊst</x>
-            <xtg xml:lang="fin">
-               <xt pos="xxx">siinä</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="adv">оттуда</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="adv">там</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">xxx</xt>
             </xtg>
          </xg>
       </mg>
