@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="03">
+      <lg>
+         <l pos="adp">mieˊldd</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="3"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adp">with</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adp">с</t>
+            <te>собой</te>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adp">mukana</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adp">med</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
          <l pos="adp">vuâstta</l>
@@ -301,7 +327,7 @@
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="3"/>
             <book name="200" BEDLAN_ID="5"/>
          </sources>
          <semantics>
