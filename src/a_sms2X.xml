@@ -6,61 +6,14 @@
 <!-- l pos="a" a_class="attr" needs to be checked, if they do not have a predicative counterpart, we must treat them differently-->
 <!-- rus е/ё needs spellrelex instead of dis/pref-->
 <r xml:lang="sms">
-   <e meta="01">
-      <lg>
-         <l pos="a" a_class="xxx">strääšnai</l>
-      </lg>
-      <mg>
-         <tg xml:lang="rus">
-            <t pos="a" der="attr">страшный</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="a" a_class="xxx">sä´lttai</l>
-      </lg>
-      <mg>
-         <tg xml:lang="rus">
-            <t pos="a" der="attr">соленый</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="a" a_class="xxx">jååutjõž</l>
-      </lg>
-      <mg>
-         <tg xml:lang="rus">
-            <t pos="a">xxxвчера (что)xxx</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="a">gestrig</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a" a_class="xxx">jååđjaž</l>
-      </lg>
-      <mg>
-         <tg xml:lang="rus">
-            <t pos="a">xxxзавтра (что)xxx</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="a">morgig</t>
-         </tg>
-      </mg>
-   </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">hueˊnn</l>
+         <l pos="a">hueˊnn</l>
          <deriv>
             <form gloss="attr">hueˊnes</form>
          </deriv>
          <etymology>
             <etymon type="loan" source="fin">huono</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -92,9 +45,46 @@
          </tg>
       </mg>
    </e>
+   <e meta="03">
+      <lg>
+         <l pos="a">hääˊsǩ</l>
+         <deriv>
+            <form gloss="attr">hääˊsǩes</form>
+         </deriv>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="3"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="n">fun</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a" pred="приятно">приятный</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a" pred="весело">весёлый</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a" pred="забавно">забавный</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="a">hauska</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">moro</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="a">morsom</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="06">
       <lg>
-         <l pos="a" a_class="xxx">jeeˊres</l>
+         <l pos="a">jeeˊres</l>
          <infl>
             <form gloss="nom.pl">jeärraz</form>
          </infl>
@@ -136,7 +126,7 @@
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" a_class="xxx">jeeˊresnallšem</l>
+         <l pos="a">jeeˊresnallšem</l>
       </lg>
       <mg>
          <sources>
@@ -161,9 +151,34 @@
          </tg>
       </mg>
    </e>
+   <e meta="03">
+      <lg>
+         <l pos="a">jiânnai</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="3"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="a">many</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a">много</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="a">paljon</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="a">mange</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">joorbâs</l>
+         <l pos="a">joorbâs</l>
          <deriv>
             <form gloss="attr">jorbb</form>
          </deriv>
@@ -211,9 +226,37 @@
          </tg>
       </mg>
    </e>
+   <e meta="03">
+      <lg>
+         <l pos="a">juõˊǩǩnallšem</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="3"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="a">different</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a">разный</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a">всякий</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="a">kaikenlainen</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="mwe_a">alle slags</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">jääˊmteˊmes</l>
+         <l pos="a">jääˊmteˊmes</l>
          <deriv>
             <form gloss="attr">jääˊmteˊm</form>
          </deriv>
@@ -233,6 +276,32 @@
          </tg>
          <tg xml:lang="rus">
             <t pos="a" der="attr">бессмертный</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="01">
+      <lg>
+         <l pos="a">jååutjõž</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="a">xxxвчера (что)xxx</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="a">gestrig</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="a">jååđjaž</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="a">xxxзавтра (что)xxx</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="a">morgig</t>
          </tg>
       </mg>
    </e>
@@ -283,7 +352,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">kobddi</l>
+         <l pos="a">kobddi</l>
          <deriv>
             <form gloss="attr">kobdd</form>
          </deriv>
@@ -322,7 +391,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">korččai</l>
+         <l pos="a">korččai</l>
          <deriv>
             <form gloss="attr">kuˊrčč-</form>
          </deriv>
@@ -378,7 +447,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">kuõcc</l>
+         <l pos="a">kuõcc</l>
       </lg>
       <mg>
          <sources>
@@ -410,7 +479,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">kuˊǩǩ</l>
+         <l pos="a">kuˊǩǩ</l>
          <deriv>
             <form gloss="attr">kuˊǩes</form>
          </deriv>
@@ -459,7 +528,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">kääˊmes</l>
+         <l pos="a">kääˊmes</l>
          <deriv>
             <form gloss="attr">kääˊmm</form>
          </deriv>
@@ -506,7 +575,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">kååˊšǩes</l>
+         <l pos="a">kååˊšǩes</l>
          <deriv>
             <form gloss="attr">kåˊšǩǩ-</form>
          </deriv>
@@ -556,7 +625,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">kõssâd</l>
+         <l pos="a">kõssâd</l>
          <deriv>
             <form gloss="attr">kõss</form>
          </deriv>
@@ -596,7 +665,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">kõõrâs</l>
+         <l pos="a">kõõrâs</l>
          <deriv>
             <form gloss="attr">kõrr</form>
          </deriv>
@@ -635,7 +704,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">kõõumâs</l>
+         <l pos="a">kõõumâs</l>
          <lv variant="dial" source="1991">kõõlmâs</lv>
          <deriv>
             <form gloss="attr">kõumm</form>
@@ -684,7 +753,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">liõggâs</l>
+         <l pos="a">liõggâs</l>
          <deriv>
             <form gloss="attr">liōgˈg</form>
          </deriv>
@@ -724,7 +793,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">lossâd</l>
+         <l pos="a">lossâd</l>
          <deriv>
             <form gloss="attr">loˊsses</form>
          </deriv>
@@ -810,7 +879,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">lääˊttes</l>
+         <l pos="a">lääˊttes</l>
       </lg>
       <mg>
          <sources>
@@ -842,7 +911,7 @@
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" a_class="xxx">mooččâs</l>
+         <l pos="a">mooččâs</l>
       </lg>
       <mg>
          <sources>
@@ -874,7 +943,7 @@
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" a_class="xxx">mäŋgg</l>
+         <l pos="a">mäŋgg</l>
       </lg>
       <mg>
          <sources>
@@ -901,7 +970,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">neuˊrr</l>
+         <l pos="a">neuˊrr</l>
          <deriv>
             <form gloss="attr">neeuˊres</form>
          </deriv>
@@ -939,7 +1008,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">njuõckâs</l>
+         <l pos="a">njuõckâs</l>
          <deriv>
             <form gloss="attr">njuõckk</form>
          </deriv>
@@ -978,7 +1047,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">njääˊljes</l>
+         <l pos="a">njääˊljes</l>
          <etymology>
             <etymon type="xxx" source="Sa, FS?">ńälkä</etymon>
             <cognate xml:lang="xxx"/>
@@ -1040,7 +1109,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">oouˊdab</l>
+         <l pos="a">oouˊdab</l>
          <lv variant="dial" source="1991">õõuˊdab</lv>
       </lg>
       <mg>
@@ -1072,7 +1141,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">oođâs</l>
+         <l pos="a">oođâs</l>
          <deriv>
             <form gloss="attr">ođđ</form>
          </deriv>
@@ -1084,6 +1153,7 @@
       <mg>
          <sources>
             <book name="kurss" lesson="phon"/>
+            <book name="kurss" lesson="3"/>
             <book name="200" BEDLAN_ID="*110"/>
             <book name="100"/>
          </sources>
@@ -1144,9 +1214,34 @@
          </semantics>
       </mg>
    </e>
+   <e meta="03">
+      <lg>
+         <l pos="a">oˊdinakai</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="3"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adv">only</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a">единственный</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">ainoa</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">bare</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">paakkâs</l>
+         <l pos="a">paakkâs</l>
          <deriv>
             <form gloss="attr">pakk</form>
          </deriv>
@@ -1196,7 +1291,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">peˊčǩǩer</l>
+         <l pos="a">peˊčǩǩer</l>
          <deriv>
             <form gloss="attr">peˊčǩǩrõs</form>
          </deriv>
@@ -1237,7 +1332,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">pueˊrr</l>
+         <l pos="a">pueˊrr</l>
          <etymology>
             <etymon type="inher" source="finnopermic">para</etymon>
             <cognate xml:lang="sjd" pos="adv">пуэраст</cognate>
@@ -1300,7 +1395,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">puäˊres</l>
+         <l pos="a">puäˊres</l>
          <infl>
             <form gloss="nom.pl">puärˈraz</form>
          </infl>
@@ -1338,7 +1433,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">puõˊlˈli</l>
+         <l pos="a">puõˊlˈli</l>
          <lv variant="dial" source="1988">puiˊlˈli</lv>
          <etymology>
             <etymon type="inher" source="finnougric">palˊa</etymon>
@@ -1379,7 +1474,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">pâˊsttel</l>
+         <l pos="a">pâˊsttel</l>
          <deriv>
             <form gloss="attr">pâˊsttlõs</form>
          </deriv>
@@ -1420,7 +1515,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">ruânn</l>
+         <l pos="a">ruânn</l>
          <etymology>
             <etymon type="loan" source="northgermanic"/>
             <etymon type="inher" source="kolasaamic"/>
@@ -1512,7 +1607,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">ruõnâs</l>
+         <l pos="a">ruõnâs</l>
          <etymology> </etymology>
       </lg>
       <mg term="COLOR">
@@ -1566,7 +1661,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">ruõpssâd</l>
+         <l pos="a">ruõpssâd</l>
          <deriv>
             <form gloss="attr">ruõˊpsses</form>
          </deriv>
@@ -1577,6 +1672,7 @@
       </lg>
       <mg term="COLOR">
          <sources>
+            <book name="kurss" lesson="3"/>
             <book name="200" BEDLAN_ID="*122"/>
             <book name="100"/>
          </sources>
@@ -1638,7 +1734,7 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="a" a_class="xxx">rääˊǩǩes</l>
+         <l pos="a">rääˊǩǩes</l>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -1665,7 +1761,7 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="a" a_class="xxx">seuˊŋŋed</l>
+         <l pos="a">seuˊŋŋed</l>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -1683,21 +1779,24 @@
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" a_class="xxx">seämma</l>
+         <l pos="a" a_class="=">seämma</l>
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="fin">
+            <t pos="a">same</t>
+         </tg>
+         <tg xml:lang="fin">
             <t pos="a">sama</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">одинаковый; равный; такой же; тот же</t>
+            <t pos="a" der="attr">одинаковый</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="a">samme</t>
@@ -1729,7 +1828,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">seäˊǧˈǧ</l>
+         <l pos="a">seäˊǧˈǧ</l>
          <deriv>
             <form gloss="attr">siẹˊǧǧes</form>
          </deriv>
@@ -1769,7 +1868,7 @@
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" a_class="xxx">siõm</l>
+         <l pos="a">siõm</l>
       </lg>
       <mg>
          <sources>
@@ -1791,7 +1890,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">smaavâs</l>
+         <l pos="a">smaavâs</l>
          <deriv>
             <form gloss="attr">smaavv</form>
          </deriv>
@@ -1836,9 +1935,19 @@
          </tg>
       </mg>
    </e>
+   <e meta="01">
+      <lg>
+         <l pos="a">strääšnai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">страшный</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">sähssai</l>
+         <l pos="a">sähssai</l>
          <deriv>
             <form gloss="attr">sähssas</form>
          </deriv>
@@ -1881,9 +1990,19 @@
          </tg>
       </mg>
    </e>
+   <e meta="01">
+      <lg>
+         <l pos="a">sä´lttai</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">соленый</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">tiiudâs</l>
+         <l pos="a">tiiudâs</l>
          <deriv>
             <form gloss="attr">tiudd</form>
          </deriv>
@@ -1936,7 +2055,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">tåˊlcc</l>
+         <l pos="a">tåˊlcc</l>
          <deriv>
             <form gloss="attr">tååˊlces</form>
          </deriv>
@@ -1988,7 +2107,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">uˊcc</l>
+         <l pos="a">uˊcc</l>
          <deriv>
             <form gloss="comp">uuˊccab</form>
          </deriv>
@@ -2040,7 +2159,7 @@
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" a_class="xxx">vaalmâš</l>
+         <l pos="a">vaalmâš</l>
       </lg>
       <mg>
          <sources>
@@ -2065,7 +2184,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">viskkâd</l>
+         <l pos="a">viskkâd</l>
          <deriv>
             <form gloss="attr">viˊsǩǩes</form>
          </deriv>
@@ -2117,7 +2236,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">viõlggâd</l>
+         <l pos="a">viõlggâd</l>
          <deriv>
             <form gloss="attr">viõˊlǧǧes</form>
          </deriv>
@@ -2166,7 +2285,7 @@
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" a_class="xxx">viõǥǥteˊmes</l>
+         <l pos="a">viõǥǥteˊmes</l>
          <deriv>
             <form gloss="attr">viõǥǥteˊm</form>
          </deriv>
@@ -2224,7 +2343,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">vuäˊmes</l>
+         <l pos="a">vuäˊmes</l>
          <deriv>
             <form gloss="attr">vuäˊmm</form>
          </deriv>
@@ -2235,7 +2354,7 @@
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="3"/>
             <book name="200" BEDLAN_ID="114"/>
          </sources>
          <semantics>
@@ -2269,7 +2388,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">vuäˊniǩ</l>
+         <l pos="a">vuäˊniǩ</l>
          <deriv>
             <form gloss="attr">vuäˊnǩõs</form>
          </deriv>
@@ -2309,7 +2428,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">vuõiggâd</l>
+         <l pos="a">vuõiggâd</l>
          <deriv>
             <form gloss="attr">vuõiǥâs</form>
          </deriv>
@@ -2421,7 +2540,7 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="a" a_class="xxx">ââˊliǩ</l>
+         <l pos="a">ââˊliǩ</l>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -2440,7 +2559,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">ââˊzzteˊm</l>
+         <l pos="a">ââˊzzteˊm</l>
          <deriv>
             <form gloss="attr">ââˊzzteˊmes</form>
          </deriv>
@@ -2476,7 +2595,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a">âˊldd-</l>
+         <l pos="a" class="xxx">âˊldd-</l>
          <note>bound root of ââld(a)</note>
       </lg>
       <mg>
@@ -2491,7 +2610,7 @@
    </e>
    <e meta="06">
       <lg>
-         <l pos="a" a_class="xxx">âˊǩǩed</l>
+         <l pos="a">âˊǩǩed</l>
       </lg>
       <mg>
          <sources>
@@ -2507,7 +2626,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" a_class="xxx">čappâd</l>
+         <l pos="a">čappâd</l>
          <deriv>
             <form gloss="attr">čaˊppes</form>
          </deriv>
@@ -2520,6 +2639,7 @@
          <sources>
             <book name="200" BEDLAN_ID="*14"/>
             <book name="100"/>
+            <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
@@ -2551,6 +2671,7 @@
          </tg>
          <tg xml:lang="nob">
             <t pos="a">svart</t>
+            <t pos="a">sort</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="a">čáhppat</t>
@@ -2558,6 +2679,40 @@
          <tg xml:lang="sju">
             <t pos="a">tjååhpada</t>
             <t pos="a">tjaahpada</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="a">čeäˊpp</l>
+         <deriv>
+            <form gloss="attr">čieˊppes</form>
+         </deriv>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="3"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="a">skillful</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">ловкий</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">искусный</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">талантливый</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="a">taitava</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="a">dyktig</t>
          </tg>
       </mg>
    </e>
@@ -2598,7 +2753,7 @@
    </e>
    <e meta="01">
       <lg>
-         <l pos="a" a_class="xxx">čuåkˈkâd</l>
+         <l pos="a">čuåkˈkâd</l>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -2616,7 +2771,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" a_class="xxx">čuẹˊcǩes</l>
+         <l pos="a">čuẹˊcǩes</l>
          <etymology>
             <etymon type="inher" source="saamic">ćɔ̄ckē</etymon>
             <cognate xml:lang="sjd">чуэцькесь</cognate>
