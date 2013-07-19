@@ -1,5 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="03">
+      <lg>
+         <l pos="cs">kååˊtt</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="3"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="cs">that</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="pro">кто</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="pro">что</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="pro">который</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="cs">joka</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="cs">som</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="cs">ko</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="1"/>
+         </sources>
+         <tg xml:lang="rus">
+            <t pos="cs">поскольку</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="cs" oahpa="pref">потомучто</t>
+            <t pos="mwe_cs">потому что</t>
+            <t pos="mwe_cs">потому, что</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="cs">kun</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="cs">koska</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="cs">fordi</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+      <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adv">when</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">когда</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">når</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">xxx</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
          <l pos="cs">jos</l>
@@ -84,6 +162,9 @@
          </etymology>
       </lg>
       <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="adv">пока</t>
          </tg>
@@ -96,14 +177,11 @@
          </tg>
          <tg xml:lang="deu">
             <t pos="adv">während</t>
-            <t pos="mwe_cs">so lange</t>
+            <t pos="mwe_adv">so lange</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="adv">bis</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
    <e meta="04">
@@ -151,11 +229,14 @@
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
+         <tg xml:lang="eng">
+            <t pos="cs">that</t>
+         </tg>
          <tg xml:lang="fin">
             <t pos="cs">että</t>
          </tg>
@@ -178,6 +259,9 @@
          </etymology>
       </lg>
       <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
          <tg xml:lang="eng">
             <t pos="mwe_cs">even though</t>
          </tg>
@@ -191,47 +275,6 @@
             <t pos="cs">vaikko</t>
             <t pos="cs">vaikke</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="cs">ko</l>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
-         <tg xml:lang="rus">
-            <t pos="cs">поскольку</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="cs" oahpa="pref">потомучто</t>
-            <t pos="mwe_cs">потому что</t>
-            <t pos="mwe_cs">потому, что</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="cs">kun</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="cs">koska</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="cs">fordi</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-      <mg>
-         <tg xml:lang="rus">
-            <t pos="adv">когда</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
 </r>
