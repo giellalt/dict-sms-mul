@@ -2,6 +2,32 @@
 <r xml:lang="sms">
    <e meta="03">
       <lg>
+         <l pos="adp">ool</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="5"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adp">to</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adp">на</t>
+            <tr>куда</tr>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adp">päälle </t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adp">til</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
          <l pos="adp">mieˊldd</l>
       </lg>
       <mg>
@@ -24,6 +50,21 @@
          <tg xml:lang="nob">
             <t pos="adp">med</t>
          </tg>
+         <xg>
+            <x>čuõkku mieˊldd</x>
+            <xtg xml:lang="eng">
+               <xt pos="xxx">xxx</xt>
+            </xtg>
+            <xtg xml:lang="rus">
+               <xt pos="xxx">по дороге</xt>
+            </xtg>
+            <xtg xml:lang="fin">
+               <xt pos="xxx">tietä pitkin</xt>
+            </xtg>
+            <xtg xml:lang="nob">
+               <tx pos="xxx">på veien</tx>
+            </xtg>
+         </xg>
       </mg>
    </e>
    <e meta="04">
