@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sms">
+    <e meta="03">
+        <lg>
+            <l pos="mwe" lemma="-ǥa">ij-ǥa</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="6"/>
+            </sources>
+            <semantics>
+                <sem class="xxx">xxx</sem>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="adv">neither</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="adv">eikä</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="mwe_adv">и не</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="mwe_adv">ikke heller</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="mwe" lemma="xxx">mõõn diõtt</l>
+            <infl>
+                <form gloss="xxx"> </form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="6"/>
+            </sources>
+            <semantics>
+                <sem class="xxx">xxx</sem>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="adv">why</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="mwe_adv">minkä takia</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="adv">miksi </t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="adv">зачем</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="adv">почему </t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="adv">hvorfor</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="mwe" lemma="ni">ni mâiˊd</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="6"/>
+            </sources>
+            <semantics>
+                <sem class="xxx">xxx</sem>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="pro">nothing</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="pro">mitään</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="pro" gloss="gen.sg">ничего</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="mwe_pro">ikke noe</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="mwe" lemma="ǩii">ni ǩeän</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="5"/>
+            </sources>
+            <semantics>
+                <sem class="xxx">xxx</sem>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="pro">nobody</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="pro" gloss="gen.sg">никого</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="pro">ketään</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="mwe_pro">ikke noen</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="04">
+        <lg>
+            <l pos="mwe" lemma="mâŋŋa">mâŋŋa jââđast</l>
+        </lg>
+        <mg>
+            <tg xml:lang="eng">
+                <t pos="mwe_adv">the day after tomorrow</t>
+            </tg>
+            <tg xml:lang="deu">
+                <t pos="adv">übermorgen</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="adv">послезавтра</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="mwe" lemma="maˊlinovi-">maˊlinovi ruõpssâd</l>
+        </lg>
+        <mg term="COLOR">
+            <sources>
+                <book name="kurss" lesson="5"/>
+            </sources>
+            <semantics>
+                <sem class="SENSE">PERCEPTION</sem>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="a">orange</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="a">оранжевый</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="a">oranssi</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="a">oransje</t>
+            </tg>
+        </mg>
+    </e>
+</r>
