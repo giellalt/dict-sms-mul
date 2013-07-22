@@ -2,6 +2,117 @@
 <r xml:lang="sms">
     <e meta="03">
         <lg>
+            <l pos="det">måttam</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="5"/>
+            </sources>
+            <semantics>
+                <sem class="xxx">xxx</sem>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="xxx">one of</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="xxx">кто-то</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="xxx">какой-то</t>
+            </tg>
+            <tg xml:lang="rus" oahpa="dispref">
+                <t pos="xxx">некий</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">joku</t>
+                <t pos="xxx">jokunen</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">muuan</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">eräs</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">noen blant</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">en av</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="det">nåkkam</l>
+            <infl>
+                <form gloss="xxx"/>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="5"/>
+            </sources>
+            <semantics>
+                <sem class="xxx">xxx</sem>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="xxx">such</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="xxx">такой</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">sellainen</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">slik</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="06">
+        <lg>
+            <l pos="det">jeeˊres</l>
+            <infl>
+                <form gloss="nom.pl">jeärraz</form>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="2"/>
+                <book name="lookkamkerjj" lesson="1"/>
+                <book name="200" BEDLAN_ID="116"/>
+            </sources>
+            <semantics>
+                <sem class="HUMAN">PEOPLE</sem>
+                <sem class="SENSE">COGNITION</sem>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="a" oahpa="pref">other</t>
+                <t pos="a">different</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="a" der="attr">другой</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="a" oahpa="pref">annen</t>
+                <t pos="a">annerledes</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="a">eri</t>
+                <t pos="a">toinen</t>
+                <t pos="a" oahpa="pref">muu</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="a">eará</t>
+                <t pos="a">iežá</t>
+            </tg>
+            <tg xml:lang="sju">
+                <t pos="a">mübˈbee</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
             <l pos="det">tõt</l>
             <infl>
                 <form gloss="gen.sg">tõn</form>
