@@ -2,11 +2,36 @@
 <r xml:lang="sms">
    <e meta="03">
       <lg>
+         <l pos="pcle">-ǥa</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="6"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="pcle">xxx</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="pcle">xxx</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="pcle">xxx</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="pcle">xxx</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
          <l pos="pcle">ni</l>
       </lg>
       <mg kurss="yes">
          <sources>
-            <book name="kurss" lesson="2  "/>
+            <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
             <sem class="xxx"/>
@@ -19,13 +44,13 @@
             <t pos="pcle">-kään</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pcle">eikä</t>
+            <t pos="v" gloss="3sg">ei</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="pcle">ikke</t>
+            <t pos="adv">ikke</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="pcle">not</t>
+            <t pos="adv">not</t>
          </tg>
       </mg>
    </e>

@@ -16,23 +16,29 @@
    <e meta="03">
       <lg>
          <l pos="pro">jiõčč</l>
+         <infl>
+            <form gloss="">jijstes</form>
+         </infl>
          <lv variant="dial" source="1991">jiičč</lv>
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="5"/>
          </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
+         <tg xml:lang="eng">
+            <t pos="pro">xxx</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">itse</t>
+            <t pos="pro">itse</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">xxx</t>
+            <t pos="pro">сам</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="pro">selv</t>
          </tg>
       </mg>
    </e>
@@ -103,40 +109,28 @@
          <tg xml:lang="sju">
             <t pos="pro">mii</t>
          </tg>
-         <xg>
-            <x pos="mwe_pro">mii-ne</x>
-            <xtg xml:lang="eng">
-               <xt pos="pro">some</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="pro">jokin</xt>
-               <xt pos="pro">jotain</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="pro">что-нибудь</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="pro">noe</xt>
-            </xtg>
-            <xtg xml:lang="sme">
-               <xt pos="pro">juoga</xt>
-            </xtg>
-            <xtg xml:lang="sju">
-               <xt pos="pro">sååmès</xt>
-            </xtg>
-         </xg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="mwe_pro">mâiˊd-ne</x>
-            <xtg xml:lang="rus">
-               <xt pos="pro">что-нибудь</xt>
-            </xtg>
-            <tg xml:lang="fin">
-               <t pos="pro">jotain</t>
-            </tg>
-            <xtg xml:lang="nob">
-               <xt pos="pro">noe</xt>
-            </xtg>
-         </xg>
+         <dg>
+            <d gloss="indef">mii-ne</d>
+            <dtg xml:lang="eng">
+               <dt pos="pro">some</dt>
+            </dtg>
+            <dtg xml:lang="fin">
+               <dt pos="pro">jokin</dt>
+               <dt pos="pro">jotain</dt>
+            </dtg>
+            <dtg xml:lang="rus">
+               <dt pos="pro">что-нибудь</dt>
+            </dtg>
+            <dtg xml:lang="nob">
+               <dt pos="pro">noe</dt>
+            </dtg>
+            <dtg xml:lang="sme">
+               <dt pos="pro">juoga</dt>
+            </dtg>
+            <dtg xml:lang="sju">
+               <dt pos="pro">sååmès</dt>
+            </dtg>
+         </dg>
       </mg>
    </e>
    <e meta="04">
@@ -308,6 +302,9 @@
    <e meta="05">
       <lg>
          <l pos="pro">puk</l>
+         <infl>
+            <form gloss="ill.pl">pukid</form>
+         </infl>
          <etymology>
             <etymon type="inher" source="kolasaamic"/>
             <cognate xml:lang="sjd">пугк</cognate>
@@ -347,6 +344,19 @@
          <tg xml:lang="sju">
             <t pos="pro">gàihka</t>
          </tg>
+         <xg>
+            <x type="np">puk ääiˊj</x>
+            <xtg xml:lang="fin">
+               <xt pos="mwe_adv">koko ajan</xt>
+            </xtg>
+            <xtg xml:lang="rus">
+               <xt pos="mwe_adv">всё время</xt>
+            </xtg>
+            <xtg xml:lang="nob">
+               <xt pos="adv">alltid</xt>
+               <xte>hele tiden</xte>
+            </xtg>
+         </xg>
       </mg>
    </e>
    <e meta="04">
@@ -356,7 +366,7 @@
             <form gloss="nom.du">suäna</form>
          </infl>
          <etymology>
-            <etymon type="inher" source="finnougric">sɤ̈- (sɤ̈n ~ sɤ̈ŋ)</etymon>
+            <etymon type="inher" source="finnougric">sɤ̈-</etymon>
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
@@ -411,7 +421,7 @@
             <form gloss="gen.sg">suu</form>
          </infl>
          <etymology>
-            <etymon type="xxx" source="finnougric">sɤ̈ (sɤ̈n ~ sɤ̈ŋ)</etymon>
+            <etymon type="xxx" source="finnougric">sɤ̈-</etymon>
             <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
@@ -655,6 +665,10 @@
    <e meta="04">
       <lg>
          <l pos="pro">ǩii</l>
+         <infl>
+            <form gloss="gen.sg">ǩeän</form>
+            <form gloss="nom.pl">ǩeäk</form>
+         </infl>
          <etymology>
             <etymon type="inher" source="U?">ke</etymon>
             <etymon type="inher" source="FU">ke</etymon>

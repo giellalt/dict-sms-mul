@@ -6,42 +6,31 @@
 <!-- l pos="a" a_class="attr" needs to be checked, if they do not have a predicative counterpart, we must treat them differently-->
 <!-- rus е/ё needs spellrelex instead of dis/pref-->
 <r xml:lang="sms">
-   <e meta="05">
+   <e meta="03">
       <lg>
-         <l pos="a">hueˊnn</l>
+         <l pos="a">pueidak</l>
          <deriv>
-            <form gloss="attr">hueˊnes</form>
+            <form gloss="attr">puõiˊdd-</form>
          </deriv>
-         <etymology>
-            <etymon type="loan" source="fin">huono</etymon>
-         </etymology>
       </lg>
       <mg>
          <sources>
-            <book name="200" BEDLAN_ID="7"/>
+            <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="SENSE">EMOTION</sem>
+            <sem class="xxx">xxx</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="a">bad</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="a" der="attr">плохой</t>
-            <t pos="a" der="pred" oahpa="pref">плохо</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="a" oahpa="pref">dårlig</t>
-            <t pos="a">ond</t>
+            <t pos="a">greasy</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="a">huono</t>
+            <t pos="a">lihava</t>
          </tg>
-         <tg xml:lang="sme">
-            <t pos="a">hēittot</t>
+         <tg xml:lang="rus">
+            <t pos="a">жирный</t>
          </tg>
-         <tg xml:lang="sju">
-            <t pos="a">nä̀yree</t>
+         <tg xml:lang="nob">
+            <t pos="a">fett</t>
          </tg>
       </mg>
    </e>
@@ -79,48 +68,6 @@
          </tg>
          <tg xml:lang="nob">
             <t pos="a">morsom</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="06">
-      <lg>
-         <l pos="a">jeeˊres</l>
-         <infl>
-            <form gloss="nom.pl">jeärraz</form>
-         </infl>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-            <book name="lookkamkerjj" lesson="1"/>
-            <book name="200" BEDLAN_ID="116"/>
-         </sources>
-         <semantics>
-            <sem class="HUMAN">PEOPLE</sem>
-            <sem class="SENSE">COGNITION</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="a" oahpa="pref">other</t>
-            <t pos="a">different</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="a" der="attr">другой</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="a" oahpa="pref">annen</t>
-            <t pos="a">annerledes</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="a">eri</t>
-            <t pos="a">toinen</t>
-            <t pos="a" oahpa="pref">muu</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="a">eará</t>
-            <t pos="a">iežá</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="a">mübˈbee</t>
          </tg>
       </mg>
    </e>
@@ -912,6 +859,34 @@
    </e>
    <e meta="03">
       <lg>
+         <l pos="a">miõlstes</l>
+         <infl>
+            <form gloss="xxx">(\#miõlsteez)</form>
+         </infl>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="5"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">радостный, довольный</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">mielissään, tyytyväinen, tyytyväisiä</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">fornøyd, glad</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
          <l pos="a">mooččâs</l>
       </lg>
       <mg>
@@ -1369,31 +1344,6 @@
          </tg>
       </mg>
    </e>
-   <e meta="06">
-      <lg>
-         <l pos="a" gloss="nom.pl">puärˈraz</l>
-      </lg>
-      <mg>
-         <sources>
-            <book name="lookkamkerjj" lesson="1"/>
-         </sources>
-         <semantics>
-            <sem class="HUMAN">PEOPLE</sem>
-         </semantics>
-         <tg xml:lang="fin">
-            <t pos="n" number="pl">vanhemmat</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="n" number="pl">Eltern</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="n" number="pl">parents</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="n" number="pl">xxx</t>
-         </tg>
-      </mg>
-   </e>
    <e meta="05">
       <lg>
          <l pos="a">puäˊres</l>
@@ -1407,6 +1357,7 @@
       </lg>
       <mg>
          <sources>
+            <book name="lookkamkerjj" lesson="1"/>
             <book name="200" BEDLAN_ID="114"/>
          </sources>
          <semantics>
@@ -1457,31 +1408,6 @@
          </tg>
       </mg>
    </e>
-   <e meta="03">
-      <lg>
-         <l pos="a">puõˊlli</l>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="4"/>
-         </sources>
-         <semantics>
-            <sem class="xxx">xxx</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="a">hot</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="a">kuuma</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="a">горячий</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="a">het</t>
-         </tg>
-      </mg>
-   </e>
    <e meta="05">
       <lg>
          <l pos="a">puõˊlˈli</l>
@@ -1493,6 +1419,7 @@
       </lg>
       <mg>
          <sources>
+            <book name="kurss" lesson="4"/>
             <book name="200" BEDLAN_ID="*185"/>
             <book name="100"/>
          </sources>
@@ -1659,10 +1586,13 @@
    <e meta="05">
       <lg>
          <l pos="a">ruõnâs</l>
-         <etymology/>
+         <infl>
+            <form gloss="nom.pl">ruõnnâz</form>
+         </infl>
       </lg>
-      <mg term="COLOR">
+      <mg>
          <sources>
+            <book name="kurss" lesson="5"/>
             <book name="200" BEDLAN_ID="*66"/>
             <book name="100"/>
          </sources>
@@ -1783,6 +1713,34 @@
          </semantics>
       </mg>
    </e>
+   <e meta="03">
+      <lg>
+         <l pos="a">ručkkâd</l>
+         <infl>
+            <form gloss="xxx">(\#ruˊčǩǩes)</form>
+         </infl>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="5"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">коричневый</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">ruskea</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">brun</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="01">
       <lg>
          <l pos="a">rääˊǩǩes</l>
@@ -1856,24 +1814,34 @@
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" a_class="=">seämmanalla</l>
+         <l pos="a" a_class="pred">seämmanalla</l>
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">samalla tavalla, samoin</t>
+            <t pos="mwe_a">samalla tavalla</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="a">samoin</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">так же, таким же/подобным образом</t>
+            <t pos="mwe_a">подобным образом</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_np">på samme sett</t>
+            <t pos="mwe_a">på samme sett</t>
+            <t pos="mwe_a">det samme</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="mwe_a">the same</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="a">similar</t>
          </tg>
       </mg>
    </e>
@@ -2169,7 +2137,7 @@
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="6"/>
             <book name="200" BEDLAN_ID="*147"/>
             <book name="100"/>
          </sources>
@@ -2178,6 +2146,9 @@
          </semantics>
          <tg xml:lang="eng">
             <t pos="a">small</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="a">little</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="a" der="attr">маленький</t>
@@ -2246,7 +2217,7 @@
       </lg>
       <mg term="COLOR">
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="5"/>
             <book name="200" BEDLAN_ID="*205"/>
             <book name="100"/>
          </sources>
@@ -2574,15 +2545,22 @@
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" a_class="=">vâjjeei</l>
+         <l pos="a">vâjjeei</l>
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="5"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="xxx">xxx</sem>
          </semantics>
+         <tg xml:lang="eng">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="a">ond</t>
+            <tr>om en hund</tr>
+         </tg>
          <tg xml:lang="fin">
             <t pos="a">vihainen</t>
             <tr>koirasta</tr>
@@ -2590,9 +2568,6 @@
          <tg xml:lang="rus">
             <t pos="a">злой</t>
             <tr>о собаке</tr>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
          </tg>
       </mg>
    </e>
@@ -2621,7 +2596,6 @@
          <deriv>
             <form gloss="attr">ââˊzzteˊmes</form>
          </deriv>
-         <etymology/>
       </lg>
       <mg>
          <sources>
@@ -2825,6 +2799,34 @@
          <semantics>
             <sem class="CLOTH">PART</sem>
          </semantics>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="a">čuõvvâd</l>
+         <infl>
+            <form gloss="xxx">(\#čuõˊvves)</form>
+         </infl>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="5"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">яркий, светлый</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">kirkas, valoisa</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">klar, lys</t>
+         </tg>
       </mg>
    </e>
    <e meta="05">

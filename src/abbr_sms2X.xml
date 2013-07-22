@@ -8,9 +8,15 @@
          </audio>
       </lg>
       <mg>
+         <source>
+            <book name="kurss" lesson="5"/>
+         </source>
          <semantics>
             <sem class="xxx"/>
          </semantics>
+         <lexicon>
+            <lex xml:lang="sms">da nuˊtt ooudâs</lex>
+         </lexicon>
          <tg xml:lang="fin">
             <t pos="abbr">jne</t>
             <t pos="xxx">ja niin edelleen</t>

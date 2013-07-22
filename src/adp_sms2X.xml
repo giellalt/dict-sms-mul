@@ -2,6 +2,46 @@
 <r xml:lang="sms">
    <e meta="03">
       <lg>
+         <l pos="adp">mâŋŋa</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="4"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="adp">after</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adp">jälkeen</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adp">после</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adp">etter</t>
+         </tg>
+         <xg>
+            <x>mâŋŋa poorrmest</x>
+            <xtg xml:lang="eng">
+               <xt pos="xxx">xxx</xt>
+            </xtg>
+            <xtg xml:lang="rus">
+               <xt pos="xxx">после еды</xt>
+            </xtg>
+            <xtg xml:lang="fin">
+               <xt pos="xxx">syönnin jälkeen</xt>
+            </xtg>
+            <xtg xml:lang="nob">
+               <xt pos="xxx">etter maten</xt>
+            </xtg>
+         </xg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
          <l pos="adp">ool</l>
       </lg>
       <mg>
@@ -261,28 +301,6 @@
             <t pos="adp">tilbake</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="adp">vuâlla</l>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-         </sources>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-         <tg xml:lang="fin">
-            <t pos="xxx">alle</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="xxx">под (куда)</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
          </tg>
       </mg>

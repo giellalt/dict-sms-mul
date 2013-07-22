@@ -2,28 +2,32 @@
 <r xml:lang="sms">
    <e meta="03">
       <lg>
-         <l pos="interj">späˊsseb</l>
+         <l pos="interj">kâˊl</l>
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="2"/>
+            <book name="kurss" lesson="5"/>
          </sources>
          <semantics>
-            <sem class="HUMAN">PEOPLE</sem>
-            <sem class="SENSE">EMOTION</sem>
+            <sem class="xxx">xxx</sem>
          </semantics>
-         <tg xml:lang="fin">
-            <t pos="n">kiitos</t>
+         <tg xml:lang="eng">
+            <t pos="xxx">yes</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="interj">спасибо</t>
+            <t pos="xxx">да</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="xxx">всё-таки </t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="xxx">kyllä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="n">takk</t>
+            <t pos="xxx">ja</t>
          </tg>
-         <tg xml:lang="eng">
-            <t pos="mwe_vp">thank you</t>
-            <t pos="n" oahpa="pref">thanks</t>
+         <tg xml:lang="nob">
+            <t pos="xxx">vel</t>
          </tg>
       </mg>
    </e>
