@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="04">
+      <lg>
+         <lv source="ZMN" pos="v">njikkšted</lv>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="v">hikotella</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="v">икать</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="v">hicken</t>
+            <te>Schluckauf haben</te>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="v">njikktõõllâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="v">nikotella</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="01">
       <lg>
          <l pos="v">aassâd</l>

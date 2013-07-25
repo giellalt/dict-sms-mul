@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="04">
+      <lg>
+         <l pos="n">njiõkˈknjaž</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="n">hikka</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">Schluckauf</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">икота</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">hikke</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n" number="pl">hiccups</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="01">
       <lg>
          <l pos="n">aacaǩ</l>
