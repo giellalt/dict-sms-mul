@@ -98,6 +98,7 @@
   <e meta="04">
       <lg>
          <l pos="a" class="1â">jõll</l>
+         <stem>jõõll</stem>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -150,6 +151,7 @@
   <e meta="04">
       <lg>
          <l pos="a" class="4â">jõõskâs</l>
+         <stem>jõskk</stem>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -192,6 +194,7 @@
   <e meta="04">
       <lg>
          <l pos="a" class="1e">kuˊǩǩ</l>
+         <stem>kuˊǩ</stem>
          <etymology>
             <etymon type="inher" source="saamic">kukkē</etymon>
             <cognate xml:lang="sjd">куһкь</cognate>
@@ -238,6 +241,7 @@
   <e meta="04">
       <lg>
          <l pos="a" class="4e">kääˊmes</l>
+         <stem>kääˊmm</stem>
       </lg>
       <semantics>
          <sem class="SENSE">PERCEPTION</sem>
@@ -282,6 +286,7 @@
   <e meta="05">
       <lg>
          <l pos="a" class="4â">kõssâd</l>
+         <stem>kõs's</stem>
          <etymology>
             <etymon type="xxx" source="finnougric">küse</etymon>
             <cognate xml:lang="xxx"/>
@@ -319,6 +324,7 @@
   <e meta="05">
       <lg>
          <l pos="a" class="4â">kõõrâs</l>
+         <stem>kõrr</stem>
          <etymology>
             <etymon type="xxx" source="finnovolgaic">kirɜ</etymon>
             <cognate xml:lang="xxx"/>
@@ -355,6 +361,7 @@
   <e meta="04">
       <lg>
          <l pos="a" class="4â">kõõumâs</l>
+         <stem>kõumm</stem>
          <etymology>
             <etymon type="inher" source="finnopermic">külmä</etymon>
             <cognate xml:lang="sjd">кэлмас</cognate>
