@@ -2,6 +2,65 @@
 <r xml:lang="sms">
    <e meta="04">
       <lg>
+         <l pos="n">ruõšˈš</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="a" der="attr">русский</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="a">venäläinen</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="a">russisk</t>
+         </tg>
+         <semantics>
+            <sem class="HUMAN">PEOPLE</sem>
+         </semantics>
+      </mg>
+   </e>
+   <e meta="05">
+      <lg>
+         <l pos="n" term="anat">ruõidd</l>
+         <etymology>
+            <etymon type="xxx" source="saamic?" variant="raisi">reisi</etymon>
+            <cognate xml:lang="xxx"/>
+         </etymology>
+      </lg>
+      <mg>
+         <sources>
+            <book name="200" BEDLAN_ID="220"/>
+         </sources>
+         <semantics>
+            <sem class="BODY">PART</sem>
+         </semantics>
+         <tg xml:lang="deu">
+            <t pos="mwe_n">vorderer Oberschenkel</t>
+            <tr>Mensch</tr>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="mwe_n">anterior thigh</t>
+            <tr>human</tr>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="mwe_n">передное бедро</t>
+            <tr>человек</tr>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="mwe_n">fremre lår</t>
+            <tr>meneske</tr>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="mwe_n">reiden etupuoli</t>
+            <tr>ihminen</tr>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="n">ruaida</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
          <l pos="n">njiõkˈknjaž</l>
       </lg>
       <mg>
@@ -6850,7 +6909,6 @@
    <e meta="04">
       <lg>
          <l pos="n">pueiˊdd</l>
-         <lv variant="dial" source="1991">puõiˊdd</lv>
          <etymology>
             <etymon type="inher" source="finnosaamic?">pajta</etymon>
             <etymon type="inher" source="saamic"/>
