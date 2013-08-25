@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- ord -->
+<!-- dg xg -->
 <r xml:lang="sms">
    <e meta="03">
       <lg>
@@ -44,7 +46,6 @@
    <e meta="04">
       <lg>
          <l pos="num">dohat</l>
-         <lv variant="dial" source="1991">doohhat</lv>
       </lg>
       <mg>
          <semantics>
@@ -70,7 +71,6 @@
    <e meta="04">
       <lg>
          <l pos="num">kolmm</l>
-         <lv variant="dial" source="1991">koumm</lv>
          <etymology>
             <etymon type="xxx" source="finnougric">kolme</etymon>
             <cognate xml:lang="xxx"/>
@@ -127,8 +127,6 @@
    <e meta="01">
       <lg>
          <l pos="num">kutmlo</l>
-         <lv variant="dial" source="1991">kuttmlo</lv>
-         <lv variant="dial" source="1991">kutumblo</lv>
       </lg>
       <mg>
          <semantics>
@@ -197,8 +195,6 @@
    <e meta="01">
       <lg>
          <l pos="num">kuttlo</l>
-         <lv variant="dial" source="1991">kuttlå-</lv>
-         <lv variant="dial" source="1991">kuttlåk-</lv>
       </lg>
       <mg>
          <semantics>
@@ -281,7 +277,6 @@
    <e meta="04">
       <lg>
          <l pos="num">kuõˊhtt</l>
-         <lv variant="dial" source="1991">kueˊhtt</lv>
          <etymology>
             <etymon type="inher" source="finnopermic">kakta</etymon>
             <cognate xml:lang="fin">kaksi</cognate>
@@ -567,8 +562,6 @@
    <e meta="04">
       <lg>
          <l pos="num">nelljmlo</l>
-         <lv variant="dial" source="1991">nelljumblo</lv>
-         <lv variant="dial" source="1991">nenjmlo</lv>
       </lg>
       <mg>
          <semantics>
@@ -714,7 +707,7 @@
          </tg>
          <dg der="ordinal">
             <d pos="ord">vuõssmõs</d>
-            <lv>vuõssâmõs</lv>
+            <d pos="ord">vuõssâmõs</d>
             <dtg xml:lang="rus">
                <dt pos="ord">первый</dt>
             </dtg>
@@ -800,7 +793,6 @@
    <e meta="04">
       <lg>
          <l pos="num">čueˊtt</l>
-         <lv variant="dial" source="1991">čueˊđ</lv>
       </lg>
       <mg>
          <semantics>
