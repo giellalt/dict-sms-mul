@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sms">
+    <e>
+        <lg>
+            <l pos="num" lemma="num_čiččâm">čiiččad</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="num">седьмой</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="num">seventh</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="num" lemma="num_õhtt">xxxvuõssmõs/vuõssâmõsxxx</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="num">первый</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="num">first</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="num">ensimmäinen</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="num">vuosttas</t>
+                <dt pos="num">vuosttaš</dt>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="num" lemma="num_ååuˊc">ååucad</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="num">девятый</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="num">ninth</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="num">yhdeksäs</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="num" lemma="num_vitt">viiđad</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="num">пятый</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="num">fifth</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="num">viides</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="num" lemma="num_nellj">neelljad</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="num">четвертый</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="num">fourth</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="num">neljäs</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="num" lemma="num_lååi">lååǥǥad</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="num">десятый</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="num">tenth</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="num">kymmenes</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="num" lemma="num_kääuˊc">kääucad</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="num">восьмой</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="num">eighth</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="num">kahdeksas</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="num" lemma="num_kuõˊhtt">nuˊbb</l>
+            <etymology>
+                <etymon type="xxx" source="saamic">mu+mpē</etymon>
+            </etymology>
+        </lg>
+        <mg>
+            <sources>
+                <book name="200" BEDLAN_ID="116"/>
+            </sources>
+            <semantics>
+                <sem class="SENSE">QUANTITY</sem>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="num">second</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="num">второй</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="num">annen</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="num">toinen</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="num">nubbi</t>
+            </tg>
+            <tg xml:lang="sju">
+                <t pos="num">jietjaa</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="04">
+        <lg>
+            <l pos="num" lemma="num_kutt">kuuđad</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="num">шестой</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="num">sixth</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="num">kuudes</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="num">guđát</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="04">
+        <lg>
+            <l pos="num" lemma="num_kolmm">kuälmad</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="num">третий</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="num">third</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="num">kolmas</t>
+            </tg>
+        </mg>
+    </e>
+</r>

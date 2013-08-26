@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sms">
+    <e>
+        <lg>
+            <l pos="n" lemma="num_čueˊtt">čueˊđes</l>
+        </lg>
+        <mg>
+            <tg xml:lang="eng">
+                <t pos="mwe_np">one hundred people</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="n" lemma="num_čiččâm">čiččmõs</l>
+        </lg>
+        <tg xml:lang="eng">
+            <t pos="mwe_np">seven people</t>
+        </tg>
+    </e>
+    <e>
+        <lg>
+            <l pos="n" lemma="num_nellj">neelljõs</l>
+        </lg>
+        <mg>
+            <tg xml:lang="eng">
+                <t pos="mwe_np">one-fourth</t>
+            </tg>
+        </mg>
+    </e>
+    <e>
+        <lg>
+            <l pos="n" lemma="num_nellj">neelljad</l>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="num">четвертый</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="num">fourth</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="num">neljäs</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="04">
+        <lg>
+            <l pos="n" lemma="num_kutt">kuuđõs</l>
+        </lg>
+        <mg>
+            <tg xml:lang="eng">
+                <t pos="n">one-sixth</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="mwe_np">kuudes osa</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="n">guđadas</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="04">
+        <lg>
+            <l pos="n" lemma="num_kolmm">kuälmõs</l>
+        </lg>
+        <mg>
+            <tg xml:lang="eng">
+                <t pos="n">one-third</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="mwe_np">kolmas osa</t>
+            </tg>
+        </mg>
+    </e>
+</r>
