@@ -13,9 +13,9 @@ The dictionary is devided into several single files for the different PoS (deriv
 **perhaps we should rather have an own list with abbreviations, like the term lists for oahpa?
 *num=numerals
 **note1:so far, the db-file includes both cardinals, ordinals, and other quantifiers; syntactically these are different PoS's though
-*mwe=multi-word expressions
+*multiword=multi-word expressions
 **only a preliminary solution to list them among true PoS's
-*to be continued:
+*to be continued…
 
 =====
 Derivation
@@ -37,6 +37,7 @@ LEXICOGRAPHY
 =====
 …to be completed…
 <e meta="xxx"> = for meta see below
+-><usage oahpa="no" dict="xxx"/>
 -><lg>
 --><l pos="xxx"> for pos see above
 --><mg>

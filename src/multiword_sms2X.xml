@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
     <e meta="03">
+        <usage oahpa="no" dict="xxx"/>
         <lg>
             <l pos="V" lemma="põõllâd">ij põõl tõˊst</l>
         </lg>
@@ -20,6 +21,7 @@
         </mg>
     </e>
     <e meta="03">
+        <usage oahpa="no" dict="xxx"/>
         <lg>
             <l pos="N" lemma="xxx">ääiˊj ǩeeˊjjest</l>
         </lg>
@@ -45,6 +47,7 @@
         </mg>
     </e>
     <e meta="03">
+        <usage oahpa="yes" dict="xxx"/>
         <lg>
             <l pos="V" lemma="xxx">tääˊvted ǩidd</l>
         </lg>
@@ -73,6 +76,7 @@
         </mg>
     </e>
     <e meta="03">
+        <usage oahpa="yes" dict="xxx"/>
         <lg>
             <l pos="V" lemma="-ǥa">ij-ǥa</l>
         </lg>
@@ -98,11 +102,9 @@
         </mg>
     </e>
     <e meta="03">
+        <usage oahpa="yes" dict="xxx"/>
         <lg>
             <l pos="Adv" lemma="xxx">mõõn diõtt</l>
-            <infl>
-                <form gloss="xxx"> </form>
-            </infl>
         </lg>
         <mg>
             <sources>
@@ -132,6 +134,7 @@
         </mg>
     </e>
     <e meta="03">
+        <usage oahpa="yes" dict="xxx"/>
         <lg>
             <l pos="Pro" lemma="ni">ni mâiˊd</l>
         </lg>
@@ -157,6 +160,7 @@
         </mg>
     </e>
     <e meta="03">
+        <usage oahpa="yes" dict="xxx"/>
         <lg>
             <l pos="Pro" lemma="ǩii">ni ǩeän</l>
         </lg>
@@ -198,6 +202,7 @@
         </mg>
     </e>
     <e meta="03">
+        <usage oahpa="yes" dict="xxx"/>
         <lg>
             <l pos="A" lemma="maˊlinovi-">maˊlinovi ruõpssâd</l>
         </lg>
