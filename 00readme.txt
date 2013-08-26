@@ -1,17 +1,48 @@
 This directory contains material relevant to the Skolt Sámi dictionary. The aim of this "common" dictionary database is to create a rich structure in one single lexicon file, which later allows exporting for different purposes: e.g. bilingual learner dictionaries, Oahpa!, descriptive dictionaries, etc. Thus "sms2X" basically means both …2Xlanguages and …2Xproducts.
 
-Documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
+Documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict (still incomplete)
 
 Incoming raw files go into inc/
+
+=====
+PoS
+=====
+The dictionary is devided into several single files for the different PoS (derived lemmas are in separate files, see below):
+*abbr=abbreviations
+**only a preliminary solution to list them among true PoS's
+**perhaps we should rather have an own list with abbreviations, like the term lists for oahpa?
+*num=numerals
+**note1:so far, the db-file includes both cardinals, ordinals, and other quantifiers; syntactically these are different PoS's though
+*mwe=multi-word expressions
+**only a preliminary solution to list them among true PoS's
+*to be continued:
+
+=====
+Derivation
+=====
+Since most derivations are formed by means of regular/productive morphology and do not represent own lemmas they are stored in separate files for derived PoS's with the link to the respective root as a variable. For different kinds of dictionaries, we will later handle derivations differently:
+*Oahpa!-nuõrti includes derivations
+*Saan?? (whereas a simple word list - like the current GT online dict for sms - can include derivations as own lemmas, a better structured dictionary does not need to include erivations as own lemmas)
+*contlex lexica do not include productive derivations
+Issues to be discussed and resolved later:
+*what are the non/lexicalized derivations and how do we tag this?
+
+=====
+Variation
+=====
+Variants are stored in a separate file with the link to the respective main lemma as a variable.
 
 =====
 LEXICOGRAPHY
 =====
 …to be completed…
-<e>
+<e meta="xxx"> = for meta see below
 -><lg>
+--><l pos="xxx"> for pos see above
 --><mg>
----><dg> = "derivation group" = derived forms or expressions, to be listed under a lemma; try not to have similar <dg> under different <lg>!; some forms might be relevant for Oahpa! or (reversed) dictionary
+---><sources><book name="xxx" lesson="xxx"/> = for oahpa
+---><sem
+---><xxx>
 ---><eg> = "example group" = example forms, phrases or sentences; never relevant for Oahpa! or (reversed) dictionary
 
 =====
@@ -68,12 +99,6 @@ Other phonological variants (of unclear dialectal origin) are listed under <l>, 
 if they are true cognates (but not derived forms, etc.).
 
 =====
-Preliminary conventions: dialectal variants
-=====
-variants marked with P or N in the dictionary (1991) are listed as own entries, e.g.:
-<l pos="n" dial="P">tåˊlǧǧ</l>
-
-=====
 Preliminary conventions: media
 =====
 Audiofiles live at the KSDP-archive. Links to audiofiles go under <lg> (because they are representations of the lemma, but not of the meaning). The future aim is to compile dictionaries with audio representations of the single lemmata.
@@ -117,18 +142,6 @@ on the e-element in the xml files:
 Pronouns
 =====
 * check inflected personal pronouns (e.g. <l pos="PRO" person="2" number="sg">tun</l>) (how should they be listed?)
-
-====
-PoS
-====
-* how to deal with multiword (phrasal) expressions? Learn from other versions of Oahpa!
-
-=====
-pos="abbr"
-=====
-used for abbreviations occurring as lemmata
-*does this make sense?
-*perhaps we should rather have an own list with abbraviations, like the term lists?
 
 =====
 Synonyms
