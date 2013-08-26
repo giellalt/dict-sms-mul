@@ -9,7 +9,7 @@
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="cc">or</t>
@@ -34,7 +34,7 @@
       </lg>
       <mg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="fin">
             <t pos="cc">vaan</t>
@@ -47,7 +47,7 @@
       </lg>
       <mg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="fin">
             <t pos="cc">vaan</t>
@@ -60,7 +60,7 @@
       </lg>
       <mg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="fin">
             <t pos="cc">vaan</t>
@@ -79,7 +79,7 @@
             <book name="kurss" lesson="1"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="rus">
             <t pos="cc">но</t>
@@ -164,9 +164,9 @@
             <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">niin</t>
-            <t pos="xxx">ja niin</t>
-            <t pos="xxx">sitten</t>
+            <t pos="interj">niin</t>
+            <t pos="mwe_interj">ja niin</t>
+            <t pos="adv">sitten</t>
          </tg>
       </mg>
    </e>
@@ -189,8 +189,6 @@
    <e meta="03">
       <lg>
          <l pos="cc">leâˊša</l>
-         <lv variant="dial" source="1991">leša</lv>
-         <lv variant="obsc" source="meta01">leâža</lv>
       </lg>
       <mg>
          <sources>
@@ -221,6 +219,9 @@
          <tg xml:lang="nob">
             <t pos="cc">men</t>
          </tg>
+         <tg xml:lang="eng">
+            <t pos="cc">but</t>
+         </tg>
          <tg xml:lang="sme">
             <t pos="cc">muhto</t>
          </tg>
@@ -248,14 +249,13 @@
             <t pos="cc">vai</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">COGNITION</sem>
          </semantics>
       </mg>
    </e>
    <e meta="05">
       <lg>
-         <l pos="cc" oahpa="dispref">ja</l>
-         <lv variant="dial" source="1991">jä</lv>
+         <l pos="cc">ja</l>
       </lg>
       <mg>
          <sources>

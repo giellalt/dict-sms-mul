@@ -115,16 +115,16 @@
          <tg xml:lang="fin">
             <t pos="adv">vastaan</t>
          </tg>
-         <dg oahpa="excl" kurss="yes">
-            <d pos="mwe_adp">päärnai vuâstta</d>
-            <dtg xml:lang="eng">
-               <dt pos="a">pregnant</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="a" oahpa="pref">raskaana</dt>
-               <dt pos="mwe_vp">olla paksuna</dt>
-            </dtg>
-         </dg>
+         <xg oahpa="excl" kurss="yes">
+            <x pos="mwe_adp">päärnai vuâstta</x>
+            <xtg xml:lang="eng">
+               <xt pos="a">pregnant</xt>
+            </xtg>
+            <xtg xml:lang="fin">
+               <xt pos="a" oahpa="pref">raskaana</xt>
+               <xt pos="mwe_vp">olla paksuna</xt>
+            </xtg>
+         </xg>
       </mg>
    </e>
    <e meta="03">
@@ -143,7 +143,13 @@
             <t pos="adv">sivuitse</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="adv">forbi</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">past</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">by</t>
          </tg>
          <semantics>
             <sem class="SPACE">MOTION</sem>
@@ -168,6 +174,9 @@
          <tg xml:lang="nob">
             <t pos="xxx">xxx</t>
          </tg>
+         <tg xml:lang="eng">
+            <t pos="adp">to</t>
+         </tg>
          <semantics>
             <sem class="SPACE">MOTION</sem>
          </semantics>
@@ -186,9 +195,6 @@
          </tg>
          <tg xml:lang="rus">
             <t pos="prp">до</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="xxx">пока не</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adp">ennen</t>
@@ -381,8 +387,6 @@
    <e meta="04">
       <lg>
          <l pos="adp">åˊrnn</l>
-         <lv variant="dial" source="1991">åˊrren</lv>
-         <lv variant="dial" source="1991">vueˊrrn</lv>
       </lg>
       <mg>
          <sources>

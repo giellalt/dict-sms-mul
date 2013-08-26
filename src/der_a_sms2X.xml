@@ -99,7 +99,6 @@
     <e meta="04">
         <lg>
             <l pos="a">oouˊdab</l>
-            <lv variant="dial" source="1991">õõuˊdab</lv>
         </lg>
         <mg>
             <semantics>
@@ -168,7 +167,6 @@
     <e meta="05">
         <lg>
             <l pos="a" class="attr" oahpa="dispref">šuõrš-</l>
-            <lv variant="dial" source="1988">šuårš-</lv>
         </lg>
         <mg>
             <sources>
@@ -202,7 +200,6 @@
     <e meta="05">
         <lg>
             <l pos="a" class="attr">čiˊǯǯ-</l>
-            <lv variant="dial" source="1991">čiˊǯs-</lv>
         </lg>
         <mg>
             <sources>
@@ -240,13 +237,13 @@
             <note>bound root of ââld(a)</note>
         </lg>
         <mg>
-            <dg>
-                <d pos="n">âˊlddpuäʒʒ</d>
-                <dtg xml:lang="fin">
-                    <dt>käsiporo</dt>
+            <xg>
+                <x pos="n">âˊlddpuäʒʒ</x>
+                <xtg xml:lang="fin">
+                    <xt>käsiporo</xt>
                     <te>joka on aina käsillä</te>
-                </dtg>
-            </dg>
+                </xtg>
+            </xg>
         </mg>
     </e>
     <e meta="04">
@@ -314,7 +311,6 @@
     <e meta="05">
         <lg>
             <l pos="a" class="attr">vuäˊljs-</l>
-            <lv variant="dial" source="1988">vuäˊls-</lv>
         </lg>
         <mg>
             <sources>
