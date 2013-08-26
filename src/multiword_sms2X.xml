@@ -2,7 +2,7 @@
 <r xml:lang="sms">
     <e meta="03">
         <lg>
-            <l pos="mwe" lemma="põõllâd">ij põõl tõˊst</l>
+            <l pos="V" lemma="põõllâd">ij põõl tõˊst</l>
         </lg>
         <mg>
             <tg xml:lang="eng">
@@ -21,7 +21,7 @@
     </e>
     <e meta="03">
         <lg>
-            <l pos="mwe" lemma="xxx">ääiˊj ǩeeˊjjest</l>
+            <l pos="N" lemma="xxx">ääiˊj ǩeeˊjjest</l>
         </lg>
         <mg>
             <sources>
@@ -46,7 +46,7 @@
     </e>
     <e meta="03">
         <lg>
-            <l pos="mwe" lemma="xxx">tääˊvted ǩidd</l>
+            <l pos="V" lemma="xxx">tääˊvted ǩidd</l>
         </lg>
         <mg>
             <sources>
@@ -74,7 +74,7 @@
     </e>
     <e meta="03">
         <lg>
-            <l pos="mwe" lemma="-ǥa">ij-ǥa</l>
+            <l pos="V" lemma="-ǥa">ij-ǥa</l>
         </lg>
         <mg>
             <sources>
@@ -90,16 +90,16 @@
                 <t pos="adv">eikä</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="mwe_adv">и не</t>
+                <t pos="Adv">и не</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_adv">ikke heller</t>
+                <t pos="Adv">ikke heller</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
         <lg>
-            <l pos="mwe" lemma="xxx">mõõn diõtt</l>
+            <l pos="Adv" lemma="xxx">mõõn diõtt</l>
             <infl>
                 <form gloss="xxx"> </form>
             </infl>
@@ -115,7 +115,7 @@
                 <t pos="adv">why</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="mwe_adv">minkä takia</t>
+                <t pos="Adv">minkä takia</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="adv">miksi </t>
@@ -133,7 +133,7 @@
     </e>
     <e meta="03">
         <lg>
-            <l pos="mwe" lemma="ni">ni mâiˊd</l>
+            <l pos="Pro" lemma="ni">ni mâiˊd</l>
         </lg>
         <mg>
             <sources>
@@ -152,13 +152,13 @@
                 <t pos="pro" gloss="gen.sg">ничего</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_pro">ikke noe</t>
+                <t pos="Pro">ikke noe</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
         <lg>
-            <l pos="mwe" lemma="ǩii">ni ǩeän</l>
+            <l pos="Pro" lemma="ǩii">ni ǩeän</l>
         </lg>
         <mg>
             <sources>
@@ -177,17 +177,17 @@
                 <t pos="pro">ketään</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_pro">ikke noen</t>
+                <t pos="Pro">ikke noen</t>
             </tg>
         </mg>
     </e>
     <e meta="04">
         <lg>
-            <l pos="mwe" lemma="mâŋŋa">mâŋŋa jââđast</l>
+            <l pos="Adv" lemma="mâŋŋa">mâŋŋa jââđast</l>
         </lg>
         <mg>
             <tg xml:lang="eng">
-                <t pos="mwe_adv">the day after tomorrow</t>
+                <t pos="Adv">the day after tomorrow</t>
             </tg>
             <tg xml:lang="deu">
                 <t pos="adv">übermorgen</t>
@@ -199,7 +199,7 @@
     </e>
     <e meta="03">
         <lg>
-            <l pos="mwe" lemma="maˊlinovi-">maˊlinovi ruõpssâd</l>
+            <l pos="A" lemma="maˊlinovi-">maˊlinovi ruõpssâd</l>
         </lg>
         <mg term="COLOR">
             <sources>
