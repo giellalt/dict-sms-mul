@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
     <e meta="03">
-        <usage oahpa="no" dict="xxx"/>
+        <usage oahpa="no"/>
         <lg>
-            <l pos="V" lemma="põõllâd">ij põõl tõˊst</l>
+            <l pos="V" lemma="V_põõllâd">ij põõl tõˊst</l>
         </lg>
         <mg>
             <tg xml:lang="eng">
-                <t pos="xxx">she is not afraid of this</t>
+                <t pos="V">she is not afraid of this</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="xxx">она не боится этого</t>
+                <t pos="V">она не боится этого</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="xxx">hän ei pelkää sitä</t>
+                <t pos="V">hän ei pelkää sitä</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="xxx">hun er ikke redd for dette</t>
+                <t pos="V">hun er ikke redd for dette</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
-        <usage oahpa="no" dict="xxx"/>
+        <usage oahpa="no"/>
         <lg>
             <l pos="N" lemma="xxx">ääiˊj ǩeeˊjjest</l>
         </lg>
@@ -30,24 +30,24 @@
                 <book name="kurss" lesson="5"/>
             </sources>
             <semantics>
-                <sem class="xxx">xxx</sem>
+                <sem class="TIME">CYCLE</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="xxx">in process of time</t>
+                <t pos="ADP">in process of time</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="xxx">с течением времени</t>
+                <t pos="ADP">с течением времени</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="xxx">ajan kuluttua</t>
+                <t pos="ADP">ajan kuluttua</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="xxx">med tiden</t>
+                <t pos="ADP">med tiden</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
-        <usage oahpa="yes" dict="xxx"/>
+        <usage oahpa="yes"/>
         <lg>
             <l pos="V" lemma="xxx">tääˊvted ǩidd</l>
         </lg>
@@ -56,155 +56,130 @@
                 <book name="kurss" lesson="6"/>
             </sources>
             <semantics>
-                <sem class="xxx">xxx</sem>
+                <sem class="WORK">ECONOMY</sem>
+                <sem class="ZOO">REINDEER</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="v">capture</t>
+                <t pos="V">capture</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="xxx">ottaa kiinni</t>
+                <t pos="V">ottaa kiinni</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="xxx">брать</t>
+                <t pos="V">брать</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="xxx">схватить</t>
+                <t pos="V">схватить</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="xxx">fange inn</t>
+                <t pos="V">fange inn</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
-        <usage oahpa="yes" dict="xxx"/>
+        <usage oahpa="yes"/>
         <lg>
-            <l pos="V" lemma="-ǥa">ij-ǥa</l>
+            <l pos="V" lemma="xxx_-ǥa">ij-ǥa</l>
         </lg>
         <mg>
             <sources>
                 <book name="kurss" lesson="6"/>
             </sources>
             <semantics>
-                <sem class="xxx">xxx</sem>
+                <sem class="SENSE">PERCEPTION</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="adv">neither</t>
+                <t pos="ADV">neither</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="adv">eikä</t>
+                <t pos="ADV">eikä</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="Adv">и не</t>
+                <t pos="ADV">и не</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="Adv">ikke heller</t>
+                <t pos="ADV">ikke heller</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
-        <usage oahpa="yes" dict="xxx"/>
+        <usage oahpa="yes"/>
         <lg>
-            <l pos="Adv" lemma="xxx">mõõn diõtt</l>
+            <l pos="ADV" lemma="xxx">mõõn diõtt</l>
         </lg>
         <mg>
             <sources>
                 <book name="kurss" lesson="6"/>
             </sources>
             <semantics>
-                <sem class="xxx">xxx</sem>
+                <sem class="SENSE">PERCEPTION</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="adv">why</t>
+                <t pos="ADV">why</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="Adv">minkä takia</t>
+                <t pos="ADV">minkä takia</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="adv">miksi </t>
+                <t pos="ADV">miksi </t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="adv">зачем</t>
+                <t pos="ADV">зачем</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="adv">почему </t>
+                <t pos="ADV">почему </t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="adv">hvorfor</t>
+                <t pos="ADV">hvorfor</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
-        <usage oahpa="yes" dict="xxx"/>
+        <usage oahpa="yes"/>
         <lg>
-            <l pos="Pro" lemma="ni">ni mâiˊd</l>
+            <l pos="PRO" lemma="xxx_ni">ni mâiˊd</l>
         </lg>
         <mg>
             <sources>
                 <book name="kurss" lesson="6"/>
             </sources>
             <semantics>
-                <sem class="xxx">xxx</sem>
+                <sem class="SENSE">QUANTITY</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="pro">nothing</t>
+                <t pos="PRO">nothing</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="pro">mitään</t>
+                <t pos="PRO">mitään</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="pro" gloss="gen.sg">ничего</t>
+                <t pos="PRO" gloss="gen.sg">ничего</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="Pro">ikke noe</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="03">
-        <usage oahpa="yes" dict="xxx"/>
-        <lg>
-            <l pos="Pro" lemma="ǩii">ni ǩeän</l>
-        </lg>
-        <mg>
-            <sources>
-                <book name="kurss" lesson="5"/>
-            </sources>
-            <semantics>
-                <sem class="xxx">xxx</sem>
-            </semantics>
-            <tg xml:lang="eng">
-                <t pos="pro">nobody</t>
-            </tg>
-            <tg xml:lang="rus">
-                <t pos="pro" gloss="gen.sg">никого</t>
-            </tg>
-            <tg xml:lang="fin">
-                <t pos="pro">ketään</t>
-            </tg>
-            <tg xml:lang="nob">
-                <t pos="Pro">ikke noen</t>
+                <t pos="PRO">ikke noe</t>
             </tg>
         </mg>
     </e>
     <e meta="04">
         <lg>
-            <l pos="Adv" lemma="mâŋŋa">mâŋŋa jââđast</l>
+            <l pos="ADV" lemma="xxx">mâŋŋa jââđast</l>
         </lg>
         <mg>
             <tg xml:lang="eng">
-                <t pos="Adv">the day after tomorrow</t>
+                <t pos="ADV">the day after tomorrow</t>
             </tg>
             <tg xml:lang="deu">
-                <t pos="adv">übermorgen</t>
+                <t pos="ADV">übermorgen</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="adv">послезавтра</t>
+                <t pos="ADV">послезавтра</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
-        <usage oahpa="yes" dict="xxx"/>
+        <usage oahpa="yes"/>
         <lg>
-            <l pos="A" lemma="maˊlinovi-">maˊlinovi ruõpssâd</l>
+            <l pos="A" lemma="a_maˊlinovi-">maˊlinovi ruõpssâd</l>
         </lg>
         <mg term="COLOR">
             <sources>
@@ -214,16 +189,16 @@
                 <sem class="SENSE">PERCEPTION</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="a">orange</t>
+                <t pos="A">orange</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="a">оранжевый</t>
+                <t pos="A">оранжевый</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="a">oranssi</t>
+                <t pos="A">oranssi</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="a">oransje</t>
+                <t pos="A">oransje</t>
             </tg>
         </mg>
     </e>
