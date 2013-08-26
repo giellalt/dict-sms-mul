@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- ord -->
-<!-- dg xg -->
 <r xml:lang="sms">
    <e meta="03">
       <lg>
@@ -31,7 +29,7 @@
    </e>
    <e meta="06">
       <lg>
-         <l pos="ord">vuõsˈs</l>
+         <l pos="num">vuõsˈs</l>
       </lg>
       <mg>
          <sources>
@@ -73,7 +71,6 @@
          <l pos="num">kolmm</l>
          <etymology>
             <etymon type="xxx" source="finnougric">kolme</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -101,27 +98,6 @@
          <tg xml:lang="sju">
             <t pos="num">gulˈbma</t>
          </tg>
-         <dg der="fraction">
-            <d pos="n">kuälmõs</d>
-            <dtg xml:lang="eng">
-               <dt pos="n">one-third</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="mwe_np">kolmas osa</dt>
-            </dtg>
-         </dg>
-         <dg der="ordinal">
-            <d pos="ord">kuälmad</d>
-            <dtg xml:lang="rus">
-               <dt pos="ord">третий</dt>
-            </dtg>
-            <dtg xml:lang="eng">
-               <dt pos="ord">third</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="ord">kolmas</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -163,33 +139,6 @@
          <tg xml:lang="sme">
             <t pos="num">guhtta</t>
          </tg>
-         <dg der="fraction">
-            <d pos="n">kuuđõs</d>
-            <dtg xml:lang="eng">
-               <dt pos="mwe_np">one-sixth</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="mwe_np">kuudes osa</dt>
-            </dtg>
-            <dtg xml:lang="sme">
-               <dt pos="n">guđadas</dt>
-            </dtg>
-         </dg>
-         <dg der="ordinal">
-            <d pos="ord">kuuđad</d>
-            <dtg xml:lang="rus">
-               <dt pos="ord">шестой</dt>
-            </dtg>
-            <dtg xml:lang="eng">
-               <dt pos="ord">sixth</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="ord">kuudes</dt>
-            </dtg>
-            <dtg xml:lang="sme">
-               <dt pos="ord">guđát</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -260,6 +209,9 @@
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="num">двадцать четыре</t>
          </tg>
@@ -269,9 +221,6 @@
          <tg xml:lang="nob">
             <t pos="num">xxx</t>
          </tg>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="04">
@@ -317,34 +266,6 @@
          <tg xml:lang="nob">
             <t pos="num">to</t>
          </tg>
-         <dg der="ordinal">
-            <d pos="ord">nuˊbb</d>
-            <etymology>
-               <etymon type="xxx" source="saamic">mu+mpē</etymon>
-               <cognate xml:lang="xxx"/>
-            </etymology>
-            <sources>
-               <book name="200" BEDLAN_ID="116"/>
-            </sources>
-            <dtg xml:lang="eng">
-               <dt pos="ord">second</dt>
-            </dtg>
-            <dtg xml:lang="rus">
-               <dt pos="ord">второй</dt>
-            </dtg>
-            <dtg xml:lang="nob">
-               <dt pos="ord">annen</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="ord">toinen</dt>
-            </dtg>
-            <dtg xml:lang="sme">
-               <dt pos="ord">nubbi</dt>
-            </dtg>
-            <dtg xml:lang="sju">
-               <dt pos="ord">jietjaa</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -367,18 +288,6 @@
          <tg xml:lang="eng">
             <t pos="num">eight</t>
          </tg>
-         <dg der="ordinal">
-            <d pos="ord">kääucad</d>
-            <dtg xml:lang="rus">
-               <dt pos="ord">восьмой</dt>
-            </dtg>
-            <dtg xml:lang="eng">
-               <dt pos="ord">eighth</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="ord">kahdeksas</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -439,18 +348,6 @@
          <tg xml:lang="eng">
             <t pos="num">ten</t>
          </tg>
-         <dg der="ordinal">
-            <d pos="ord">lååǥǥad</d>
-            <dtg xml:lang="rus">
-               <dt pos="ord">десятый</dt>
-            </dtg>
-            <dtg xml:lang="eng">
-               <dt pos="ord">tenth</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="ord">kymmenes</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -518,26 +415,6 @@
          <tg xml:lang="sju">
             <t pos="num">nèlˈja</t>
          </tg>
-         <lg>
-            <l pos="num">neelljõs</l>
-         </lg>
-         <dg der="fraction">
-            <dtg xml:lang="eng">
-               <dt pos="mwe_np">one-fourth</dt>
-            </dtg>
-         </dg>
-         <dg der="ordinal">
-            <d pos="ord">neelljad</d>
-            <dtg xml:lang="rus">
-               <dt pos="ord">четвертый</dt>
-            </dtg>
-            <dtg xml:lang="eng">
-               <dt pos="ord">fourth</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="ord">neljäs</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -584,7 +461,6 @@
          <etymology>
             <etymon type="inher" source="uralic?"/>
             <etymon type="inher" source="FU">witte</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -612,18 +488,6 @@
          <tg xml:lang="sju">
             <t pos="num">viihta</t>
          </tg>
-         <dg der="ordinal">
-            <d pos="ord">viiđad</d>
-            <dtg xml:lang="rus">
-               <dt pos="ord">пятый</dt>
-            </dtg>
-            <dtg xml:lang="eng">
-               <dt pos="ord">fifth</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="ord">viides</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -643,18 +507,6 @@
          <tg xml:lang="fin">
             <t pos="num">yhdeksän</t>
          </tg>
-         <dg der="ordinal">
-            <d pos="ord">ååucad</d>
-            <dtg xml:lang="rus">
-               <dt pos="ord">девятый</dt>
-            </dtg>
-            <dtg xml:lang="eng">
-               <dt pos="ord">ninth</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="ord">yhdeksäs</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="04">
@@ -705,23 +557,6 @@
          <tg xml:lang="deu">
             <t pos="num">eins</t>
          </tg>
-         <dg der="ordinal">
-            <d pos="ord">vuõssmõs</d>
-            <d pos="ord">vuõssâmõs</d>
-            <dtg xml:lang="rus">
-               <dt pos="ord">первый</dt>
-            </dtg>
-            <dtg xml:lang="eng">
-               <dt pos="ord">first</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="ord">ensimmäinen</dt>
-            </dtg>
-            <dtg xml:lang="sme">
-               <dt pos="ord">vuosttas</dt>
-               <dt pos="ord">vuosttaš</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -773,21 +608,6 @@
          <tg xml:lang="eng">
             <t pos="num">seven</t>
          </tg>
-         <dg der="collective">
-            <d pos="n">čiččmõs</d>
-            <dtg xml:lang="eng">
-               <d pos="mwe_np">seven people</d>
-            </dtg>
-         </dg>
-         <dg der="ordinal">
-            <d pos="ord">čiiččad</d>
-            <dtg xml:lang="rus">
-               <dt pos="ord">седьмой</dt>
-            </dtg>
-            <dtg xml:lang="eng">
-               <dt pos="ord">seventh</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="04">
@@ -807,12 +627,6 @@
          <tg xml:lang="rus">
             <t pos="num">сто</t>
          </tg>
-         <dg der="collective">
-            <d pos="n">čueˊđes</d>
-            <dtg xml:lang="eng">
-               <dt pos="mwe_np">one hundred people</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
 </r>
