@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sms">
+    <e>
+        <lv pos="num" variant="dial" source="1991" lemma="čueˊtt">čueˊđ</lv>
+    </e>
+    <e>
+        <lv pos="num" variant="dial" source="1991" lemma="nelljmlo">nelljumblo</lv>
+    </e>
+    <e>
+        <lv pos="num" variant="dial" source="1991" lemma="nelljmlo">nenjmlo</lv>
+    </e>
+    <e>
+        <lv pos="num" variant="dial" source="1991" lemma="kuõˊhtt">kueˊhtt</lv>
+    </e>
+    <e>
+        <lv pos="num" variant="dial" source="1991" lemma="kuttlo">kuttlå-</lv>
+    </e>
+    <e>
+        <lv pos="num" variant="dial" source="1991" lemma="kuttlo">kuttlåk-</lv>
+    </e>
+    <e>
+        <lv pos="num" variant="dial" source="1991" lemma="kutmlo">kuttmlo</lv>
+    </e>
+    <e>
+        <lv pos="num" variant="dial" source="1991" lemma="kutmlo">kutumblo</lv>
+    </e>
+    <e>
+        <lv pos="num" variant="dial" source="1991" lemma="kolmm">koumm</lv>
+    </e>
+    <e>
+        <lv pos="num" variant="dial" source="1991" lemma="dohat">doohhat</lv>
+    </e>
+    <e>
+        <lv pos="cc" variant="dial" source="1991" lemma="leâˊša">leša</lv>
+    </e>
+    <e>
+        <lv pos="cc" variant="obsc" source="meta01" lemma="leâˊša">leâža</lv>
+    </e>
+    <e>
+        <lv pos="cc" variant="dial" source="1991" lemma="ja">jä</lv>
+    </e>
+    <e>
+        <lv pos="adp" variant="dial" source="1991" lemma="åˊrnn">åˊrren</lv>
+    </e>
+    <e>
+        <lv pos="adp" variant="dial" source="1991" lemma="åˊrnn">vueˊrrn</lv>
+    </e>
+    <e>
+        <lv pos="xxx" variant="dial" source="1991" lemma="tiiudâs">tiuddâz</lv>
+    </e>
+    <e>
+        <lv pos="xxx" variant="dial" source="1988" lemma="puõˊlˈli">puiˊlˈli</lv>
+    </e>
+    <e>
+        <vl pos="xxx" variant="dial" source="1991" lemma="pueiˊdd">puõiˊdd</vl>
+    </e>
+    <e>
+        <lv pos="xxx" variant="dial" source="1991" lemma="kõõumâs">kõõlmâs</lv>
+    </e>
+    <e>
+        <lv pos="der_a" variant="dial" source="1991" lemma="oouˊdab">õõuˊdab</lv>
+    </e>
+    <e>
+        <lv pos="xxx" variant="dial" source="1988" lemma="šuõrš-">šuårš-</lv>
+    </e>
+    <e>
+        <lv pos="xxx" variant="dial" source="1991" lemma="čiˊǯǯ-">čiˊǯs-</lv>
+    </e>
+    <e>
+        <lv pos="xxx" variant="dial" source="1988" lemma="vuäˊljs-">vuäˊls-</lv>
+    </e>
+</r>
