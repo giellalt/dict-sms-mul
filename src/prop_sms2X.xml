@@ -4231,6 +4231,9 @@
          <tg xml:lang="deu">
             <t pos="prop">Kiprian</t>
          </tg>
+         <tg xml:lang="rom">
+            <t pos="prop">Ciprian</t>
+         </tg>
       </mg>
    </e>
 </r>
