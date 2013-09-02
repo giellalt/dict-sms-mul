@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
    <e meta="03">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="person" gender="f">Dåˊmnn </l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="3"/>
          </sources>
@@ -27,7 +27,6 @@
       </mg>
    </e>
    <e meta="08_369">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Aanar</l>
          <translit_cyr>Аaнaр</translit_cyr>
@@ -44,6 +43,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
@@ -77,7 +77,6 @@
       </mg>
    </e>
    <e meta="08_3181">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Artman</l>
          <translit_cyr>Артмaн</translit_cyr>
@@ -89,6 +88,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -110,11 +110,11 @@
       </mg>
    </e>
    <e meta="01">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="oevre">Biblija</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <tg xml:lang="eng">
             <t pos="prop">Bible</t>
             <te>the Holy Bible</te>
@@ -128,7 +128,6 @@
       </mg>
    </e>
    <e meta="08_3118">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="person" gender="m">Bååˊres</l>
          <translit_cyr>Ба̊̄рес</translit_cyr>
@@ -140,6 +139,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -164,7 +164,6 @@
       </mg>
    </e>
    <e meta="08_3212">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="person" gender="m">Daaˊved</l>
          <translit_cyr>Да̄вед</translit_cyr>
@@ -176,6 +175,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -197,7 +197,6 @@
       </mg>
    </e>
    <e meta="08_3121">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Dåårfi</l>
          <translit_cyr>Да̊̄рфы</translit_cyr>
@@ -209,6 +208,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -230,7 +230,6 @@
       </mg>
    </e>
    <e meta="08_3150">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Eejjav</l>
          <translit_cyr>Э̄йяв</translit_cyr>
@@ -242,6 +241,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -263,7 +263,6 @@
       </mg>
    </e>
    <e meta="08_3126">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="person" gender="m">Eessak</l>
          <translit_cyr>Э̄ссaк</translit_cyr>
@@ -275,6 +274,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -292,7 +292,11 @@
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Eskil</t>
-            <t pos="prop" oahpa="pref">Eskild</t>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="prop">Eskild</t>
+         </tg>
+         <tg xml:lang="nob">
             <t pos="prop">Askild</t>
          </tg>
          <tg xml:lang="deu">
@@ -301,7 +305,6 @@
       </mg>
    </e>
    <e meta="08_3122">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Eeˊhrem</l>
          <translit_cyr>Э̄хьрэм</translit_cyr>
@@ -313,6 +316,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -337,7 +341,6 @@
       </mg>
    </e>
    <e meta="08_3124">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Eeˊled</l>
          <translit_cyr>Э̄лед</translit_cyr>
@@ -349,6 +352,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -370,7 +374,6 @@
       </mg>
    </e>
    <e meta="08_3140">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="person" gender="m">Evvan</l>
          <translit_cyr>Эввaн</translit_cyr>
@@ -382,6 +385,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
@@ -412,11 +416,11 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Eŋgglõs</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="dict"/>
          </sources>
@@ -438,7 +442,6 @@
       </mg>
    </e>
    <e meta="08_3131">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Fedora</l>
          <translit_cyr>Фэдорa</translit_cyr>
@@ -450,6 +453,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -471,7 +475,6 @@
       </mg>
    </e>
    <e meta="08_3135">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Feekkat</l>
          <translit_cyr>Фэ̄ккaт</translit_cyr>
@@ -483,6 +486,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -504,7 +508,6 @@
       </mg>
    </e>
    <e meta="08_3142">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m/f">Feeˊla</l>
          <translit_cyr>Фэ̄ля</translit_cyr>
@@ -516,6 +519,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -536,6 +540,7 @@
          </tg>
       </mg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -557,7 +562,6 @@
       </mg>
    </e>
    <e meta="08_3134">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Feâdar</l>
          <translit_cyr>Фэâдaр</translit_cyr>
@@ -569,6 +573,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -590,7 +595,6 @@
       </mg>
    </e>
    <e meta="08_3132">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Feädˈdsi</l>
          <translit_cyr>Фэӕдˈдсы</translit_cyr>
@@ -602,6 +606,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -626,7 +631,6 @@
       </mg>
    </e>
    <e meta="08_380">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Heˊlssen</l>
          <translit_cyr>Хэльссэн</translit_cyr>
@@ -638,6 +642,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -652,7 +657,9 @@
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Helsinki</t>
-            <t pos="prop" oahpa="pref">Helsingfors</t>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="prop">Helsingfors</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="prop">Helsinki</t>
@@ -660,7 +667,6 @@
       </mg>
    </e>
    <e meta="08_3133">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Huâtˈtar</l>
          <translit_cyr>Хуâтˈтaр</translit_cyr>
@@ -672,6 +678,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -699,7 +706,6 @@
       </mg>
    </e>
    <e meta="08_3139">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Jeˊvida</l>
          <translit_cyr>Йэвидa</translit_cyr>
@@ -711,6 +717,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -735,7 +742,6 @@
       </mg>
    </e>
    <e meta="08_3149">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Jiˊlssi</l>
          <translit_cyr>Ильсси</translit_cyr>
@@ -747,6 +753,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -768,7 +775,6 @@
       </mg>
    </e>
    <e meta="08_3194">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="constellation" nr="pl">Juuˊse</l>
          <translit_cyr>Йӯсе</translit_cyr>
@@ -777,6 +783,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">MYTHOLOGY</sem>
             <sem type="ENVIR">ELEMENT</sem>
@@ -802,7 +809,6 @@
       </mg>
    </e>
    <e meta="08_3138">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Järmman</l>
          <translit_cyr>Йӕрммaн</translit_cyr>
@@ -814,6 +820,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -835,7 +842,6 @@
       </mg>
    </e>
    <e meta="08_3137">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Järrsi</l>
          <translit_cyr>Йӕррсы</translit_cyr>
@@ -847,6 +853,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -868,7 +875,6 @@
       </mg>
    </e>
    <e meta="08_3129">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Jästtfi</l>
          <translit_cyr>Йӕсттфи</translit_cyr>
@@ -880,6 +886,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -901,7 +908,6 @@
       </mg>
    </e>
    <e meta="08_3146">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Jääkk</l>
          <translit_cyr>Йӕ̄кк</translit_cyr>
@@ -913,6 +919,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -934,7 +941,6 @@
       </mg>
    </e>
    <e meta="08_3147">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Jäˊǩǩem</l>
          <translit_cyr>Йӕќќем</translit_cyr>
@@ -946,6 +952,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -967,7 +974,6 @@
       </mg>
    </e>
    <e meta="08_3230">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Jååǥǥar</l>
          <translit_cyr>Йа̊̄ғғaр</translit_cyr>
@@ -979,6 +985,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1000,7 +1007,6 @@
       </mg>
    </e>
    <e meta="08_3157">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Kaaˊdren</l>
          <translit_cyr>Ка̄дьрэн</translit_cyr>
@@ -1012,6 +1018,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1033,7 +1040,6 @@
       </mg>
    </e>
    <e meta="08_3154">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Kaiˊssi</l>
          <translit_cyr>Кaисси</translit_cyr>
@@ -1044,6 +1050,7 @@
             <a quality="9" dialect="xxx" speaker="7" href="languagememory3154"/>
          </audio>
       </lg>
+      <usage oahpa="no"/>
       <mg>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
@@ -1066,7 +1073,6 @@
       </mg>
    </e>
    <e meta="08_3136">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Kaurrâˊl</l>
          <translit_cyr>Кaуррâль</translit_cyr>
@@ -1078,6 +1084,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1102,7 +1109,6 @@
       </mg>
    </e>
    <e meta="08_381">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Kaˊrjjel</l>
          <translit_cyr>Кaрьййел</translit_cyr>
@@ -1114,6 +1120,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -1135,7 +1142,6 @@
       </mg>
    </e>
    <e meta="08_3164">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Kreessan</l>
          <translit_cyr>Крэ̄ссaн</translit_cyr>
@@ -1147,6 +1153,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1168,7 +1175,6 @@
       </mg>
    </e>
    <e meta="08_3159">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="person" gender="f">Kreˊstten</l>
          <translit_cyr>Крэсьттэн</translit_cyr>
@@ -1180,25 +1186,35 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
+         <tg xml:lang="eng" oahpa="pref">
+            <t pos="prop">Christine</t>
+         </tg>
          <tg xml:lang="eng">
-            <t pos="prop">Christina</t>
-            <t pos="prop" oahpa="pref">Christine</t>
             <t pos="prop">Kristine</t>
          </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="prop">Kirsti</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="prop" oahpa="pref">Kirsti</t>
             <t pos="prop">Kristiina</t>
+         </tg>
+         <tg xml:lang="fin">
             <t pos="prop">Ristiina</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Кристина</t>
-            <t pos="prop" oahpa="pref">Христина</t>
+         </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="prop">Христина</t>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="prop">Kristina</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="prop" oahpa="pref">Kristina</t>
             <t pos="prop">Christina</t>
          </tg>
          <tg xml:lang="deu">
@@ -1209,7 +1225,6 @@
       </mg>
    </e>
    <e meta="08_3172">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Liizz</l>
          <translit_cyr>Лӣзз</translit_cyr>
@@ -1221,6 +1236,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1242,7 +1258,6 @@
       </mg>
    </e>
    <e meta="08_371">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Luujäuˊrr</l>
          <translit_cyr>Лӯйӕуррь</translit_cyr>
@@ -1254,6 +1269,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -1282,6 +1298,7 @@
          </tg>
       </mg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">TOPONOMY</sem>
          </semantics>
@@ -1308,7 +1325,6 @@
       </mg>
    </e>
    <e meta="08_3229">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Lääda</l>
          <translit_cyr>Лӕ̄дa</translit_cyr>
@@ -1320,6 +1336,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1344,7 +1361,6 @@
       </mg>
    </e>
    <e meta="08_3167">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Läärvam</l>
          <translit_cyr>Лӕ̄рвaм</translit_cyr>
@@ -1356,6 +1372,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1377,7 +1394,6 @@
       </mg>
    </e>
    <e meta="08_3166">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Lääzar</l>
          <translit_cyr>Лӕ̄зaр</translit_cyr>
@@ -1389,6 +1405,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1410,11 +1427,11 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Lääˊddjânnam</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="dict"/>
          </sources>
@@ -1436,7 +1453,6 @@
       </mg>
    </e>
    <e meta="08_3168">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Lääˊriǩ</l>
          <translit_cyr>Лӕ̄риќ</translit_cyr>
@@ -1448,6 +1464,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1469,7 +1486,6 @@
       </mg>
    </e>
    <e meta="08_3178">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Maadron</l>
          <translit_cyr>Ма̄дрон</translit_cyr>
@@ -1481,6 +1497,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1502,7 +1519,6 @@
       </mg>
    </e>
    <e meta="08_3177">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Maađrân</l>
          <translit_cyr>Ма̄đрâн</translit_cyr>
@@ -1514,6 +1530,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1535,7 +1552,6 @@
       </mg>
    </e>
    <e meta="08_3120">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Meeˊdrai</l>
          <translit_cyr>Мэ̄дьрaй</translit_cyr>
@@ -1547,6 +1563,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1571,7 +1588,6 @@
       </mg>
    </e>
    <e meta="08_3183">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Miikkåt</l>
          <translit_cyr>Мӣкка̊т</translit_cyr>
@@ -1583,6 +1599,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1604,7 +1621,6 @@
       </mg>
    </e>
    <e meta="08_3187">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Miklai</l>
          <translit_cyr>Миклaй</translit_cyr>
@@ -1616,6 +1632,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1637,7 +1654,6 @@
       </mg>
    </e>
    <e meta="08_3185">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Mooˊssi</l>
          <translit_cyr>Мо̄сси</translit_cyr>
@@ -1649,6 +1665,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1670,7 +1687,6 @@
       </mg>
    </e>
    <e meta="08_383">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Moskk</l>
          <translit_cyr>Москк</translit_cyr>
@@ -1682,6 +1698,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -1703,11 +1720,11 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Mueˊtǩǩ</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -1719,9 +1736,12 @@
             <t pos="prop">Muotka</t>
             <te>kylä</te>
          </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="prop">Мотовск</t>
+            <te>посёлок</te>
+         </tg>
          <tg xml:lang="rus">
             <t pos="prop">Мотка</t>
-            <t pos="prop" oahpa="pref">Мотовск</t>
             <te>посёлок</te>
          </tg>
          <tg xml:lang="nob">
@@ -1735,7 +1755,6 @@
       </mg>
    </e>
    <e meta="08_384">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Muurman</l>
          <translit_cyr>Мӯрмaн</translit_cyr>
@@ -1747,6 +1766,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -1768,7 +1788,6 @@
       </mg>
    </e>
    <e meta="08_3174">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Mäkkri</l>
          <translit_cyr>Мӕккры</translit_cyr>
@@ -1780,6 +1799,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1804,7 +1824,6 @@
       </mg>
    </e>
    <e meta="08_3176">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Määrf</l>
          <translit_cyr>Мӕ̄рф</translit_cyr>
@@ -1816,6 +1835,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1837,7 +1857,6 @@
       </mg>
    </e>
    <e meta="03">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="person" gender="f">Mäˊrjj</l>
          <infl>
@@ -1845,6 +1864,7 @@
          </infl>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
@@ -1854,22 +1874,27 @@
          <tg xml:lang="rus">
             <t pos="prop">Мария</t>
          </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="prop">Marja</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="prop" oahpa="pref">Marja</t>
             <t pos="prop">Maria</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Maria</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="prop" oahpa="pref">Maria</t>
+            <t pos="prop">Maria</t>
+         </tg>
+         <tg xml:lang="eng" oahpa="pref">
             <t pos="prop">Mary</t>
+         </tg>
+         <tg xml:lang="eng">
             <t pos="prop">Miriam</t>
          </tg>
       </mg>
    </e>
    <e meta="08_3180">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Neeffai</l>
          <translit_cyr>Нэ̄ффaй</translit_cyr>
@@ -1881,6 +1906,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1902,11 +1928,11 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Njauddâm</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -1933,11 +1959,11 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Njeäˊlˈlem</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -1968,11 +1994,11 @@
       </mg>
    </e>
    <e meta="03">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Njeˊǯǯjäuˊrr</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
@@ -1998,11 +2024,11 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Nuõˊtˈtjäuˊrr</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -2018,9 +2044,12 @@
             <t pos="prop">Нотозеро</t>
             <te>посёлок</te>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" oahpa="dispref">
             <t pos="prop">Nøttiager</t>
-            <t pos="prop" oahpa="pref">Notozero</t>
+            <te>landsby</te>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="prop">Notozero</t>
             <te>landsby</te>
          </tg>
          <tg xml:lang="sme">
@@ -2029,6 +2058,7 @@
          </tg>
       </mg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">TOPONOMY</sem>
          </semantics>
@@ -2044,9 +2074,12 @@
             <t pos="prop">Нотозеро</t>
             <te>озеро</te>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" oahpa="dispref">
             <t pos="prop">Nøttiager</t>
-            <t pos="prop" oahpa="pref">Notozero</t>
+            <te>sjø</te>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="prop">Notozero</t>
             <te>sjø</te>
          </tg>
          <tg xml:lang="sme">
@@ -2056,7 +2089,6 @@
       </mg>
    </e>
    <e meta="08_3186">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Nättli</l>
          <translit_cyr>Нӕттли</translit_cyr>
@@ -2068,6 +2100,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2089,7 +2122,6 @@
       </mg>
    </e>
    <e meta="08_3102">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Oggvi</l>
          <translit_cyr>Оггвы</translit_cyr>
@@ -2101,6 +2133,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2122,7 +2155,6 @@
       </mg>
    </e>
    <e meta="08_3231">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Oorfan</l>
          <translit_cyr>Оорфaн</translit_cyr>
@@ -2134,6 +2166,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2155,7 +2188,6 @@
       </mg>
    </e>
    <e meta="08_3105">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Oˊlssi</l>
          <translit_cyr>Ольсси</translit_cyr>
@@ -2167,6 +2199,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2188,7 +2221,6 @@
       </mg>
    </e>
    <e meta="08_3109">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Oˊnddri</l>
          <translit_cyr>Оньддры</translit_cyr>
@@ -2200,6 +2232,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2224,7 +2257,6 @@
       </mg>
    </e>
    <e meta="08_3112">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Oˊrttem</l>
          <translit_cyr>Орьттэм</translit_cyr>
@@ -2236,6 +2268,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2257,7 +2290,6 @@
       </mg>
    </e>
    <e meta="08_3196">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Paavvâl</l>
          <translit_cyr>Па̄ввâл</translit_cyr>
@@ -2269,6 +2301,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2293,17 +2326,20 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Paaččjokk</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
+         <tg xml:lang="eng" oahpa="pref">
+            <t pos="prop">Pasvik</t>
+            <te>village</te>
+         </tg>
          <tg xml:lang="eng">
             <t pos="prop">Paatsjoki</t>
-            <t pos="prop" oahpa="pref">Pasvik</t>
             <te>village</te>
          </tg>
          <tg xml:lang="fin">
@@ -2324,12 +2360,16 @@
          </tg>
       </mg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">TOPONOMY</sem>
          </semantics>
+         <tg xml:lang="eng" oahpa="pref">
+            <t pos="prop">Pasvikelva</t>
+            <te>river</te>
+         </tg>
          <tg xml:lang="eng">
             <t pos="prop">Paatsjoki</t>
-            <t pos="prop" oahpa="pref">Pasvikelva</t>
             <te>river</te>
          </tg>
          <tg xml:lang="fin">
@@ -2351,7 +2391,6 @@
       </mg>
    </e>
    <e meta="08_3198">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="person" gender="m">Peeddar</l>
          <translit_cyr>Пэ̄ддaр</translit_cyr>
@@ -2363,6 +2402,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2377,7 +2417,9 @@
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Petter</t>
-            <t pos="prop" oahpa="pref">Peder</t>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="prop">Peder</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Per</t>
@@ -2388,11 +2430,11 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Peäcˈcam</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -2408,9 +2450,12 @@
             <t pos="prop">Печенга</t>
             <te>посёлок</te>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" oahpa="dispref">
             <t pos="prop">Peisen</t>
-            <t pos="prop" oahpa="pref">Petsjenga</t>
+            <te>landsby</te>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="prop">Petsjenga</t>
             <te>landsby</te>
          </tg>
          <tg xml:lang="sme">
@@ -2420,7 +2465,6 @@
       </mg>
    </e>
    <e meta="08_3235">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Piiˊmen</l>
          <translit_cyr>Пӣмен</translit_cyr>
@@ -2432,6 +2476,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2453,7 +2498,6 @@
       </mg>
    </e>
    <e meta="08_3236">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Pråkkpi</l>
          <translit_cyr>Пра̊ккпи</translit_cyr>
@@ -2465,6 +2509,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2486,7 +2531,6 @@
       </mg>
    </e>
    <e meta="08_3234">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Päälag</l>
          <translit_cyr>Пӕ̄лaг</translit_cyr>
@@ -2498,6 +2542,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2522,7 +2567,6 @@
       </mg>
    </e>
    <e meta="08_3233">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Päärask</l>
          <translit_cyr>Пӕ̄рaск</translit_cyr>
@@ -2534,6 +2578,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2555,7 +2600,6 @@
       </mg>
    </e>
    <e meta="08_3199">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Reeig</l>
          <translit_cyr>Рэ̄иг</translit_cyr>
@@ -2567,6 +2611,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2588,18 +2633,15 @@
       </mg>
    </e>
    <e meta="08_403">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Risttǩeˊdd</l>
          <translit_cyr>Ристтќеддь</translit_cyr>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
          <audio>
             <a quality="3" dialect="xxx" speaker="12" href="languagememory403"/>
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -2621,11 +2663,11 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Ruäˊvnjargg</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="dict"/>
          </sources>
@@ -2659,11 +2701,11 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Ruõcˈc</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="dict"/>
          </sources>
@@ -2685,11 +2727,11 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Ruõššjânnam</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="dict"/>
          </sources>
@@ -2711,7 +2753,6 @@
       </mg>
    </e>
    <e meta="08_3200">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Råmman</l>
          <translit_cyr>Ра̊ммaн</translit_cyr>
@@ -2723,6 +2764,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2744,7 +2786,6 @@
       </mg>
    </e>
    <e meta="08_3205">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Saammâl</l>
          <translit_cyr>Са̄ммâл</translit_cyr>
@@ -2756,6 +2797,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2777,11 +2819,11 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Sakssajânnam</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="dict"/>
          </sources>
@@ -2803,7 +2845,6 @@
       </mg>
    </e>
    <e meta="08_3103">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Sandra</l>
          <translit_cyr>Сaндрa</translit_cyr>
@@ -2815,6 +2856,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2839,7 +2881,6 @@
       </mg>
    </e>
    <e meta="08_3144">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Seddar</l>
          <translit_cyr>Сэддaр</translit_cyr>
@@ -2851,6 +2892,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2872,7 +2914,6 @@
       </mg>
    </e>
    <e meta="08_3209">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Semman</l>
          <translit_cyr>Сэммaн</translit_cyr>
@@ -2884,6 +2925,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2905,7 +2947,6 @@
       </mg>
    </e>
    <e meta="08_3207">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Siˊrǧǧi</l>
          <translit_cyr>Сирьѓѓи</translit_cyr>
@@ -2917,6 +2958,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -2938,10 +2980,8 @@
       </mg>
    </e>
    <e meta="08_3909">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Suõˊnˈnʼjel</l>
-         <lv variant="dial" source="1991">Sueˊnˈnʼjel</lv>
          <translit_cyr>Суәнˈньʼе~Суэнˈньʼел</translit_cyr>
          <infl>
             <stem>=</stem>
@@ -2951,6 +2991,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -2962,9 +3003,12 @@
             <t pos="prop">Suonikylä</t>
             <te>kylä</te>
          </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="prop">Сонгельск</t>
+            <te>посёлок</te>
+         </tg>
          <tg xml:lang="rus">
             <t pos="prop">Суоникюла</t>
-            <t pos="prop" oahpa="pref">Сонгельск</t>
             <te>посёлок</te>
          </tg>
          <tg xml:lang="nob">
@@ -2973,6 +3017,7 @@
          </tg>
          <tg xml:lang="deu">
             <t pos="prop">Suonikylä</t>
+            <te>Dorf</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Suonjil</t>
@@ -2981,11 +3026,11 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Sââˊrvesjäuˊrr</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -3011,6 +3056,7 @@
          </tg>
       </mg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">TOPONOMY</sem>
          </semantics>
@@ -3037,20 +3083,21 @@
       </mg>
    </e>
    <e meta="01">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="person" gender="f">Såff</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="prop" oahpa="pref">Sophia</t>
-            <t pos="prop">Sofia</t>
+            <t pos="prop">Sophia</t>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="prop">Sofie</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="prop" oahpa="pref">Sofie</t>
             <t pos="prop">Sophia</t>
          </tg>
          <tg xml:lang="fin">
@@ -3062,7 +3109,6 @@
       </mg>
    </e>
    <e meta="08_3213">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Taannâl</l>
          <translit_cyr>Tа̄ннâл</translit_cyr>
@@ -3074,6 +3120,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3098,7 +3145,6 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Taarr</l>
          <infl>
@@ -3106,6 +3152,7 @@
          </infl>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="2"/>
          </sources>
@@ -3127,7 +3174,6 @@
       </mg>
    </e>
    <e meta="08_3217">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Teehhan</l>
          <translit_cyr>Tэ̄ххaн</translit_cyr>
@@ -3139,6 +3185,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3160,7 +3207,6 @@
       </mg>
    </e>
    <e meta="08_3215">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Teäpˈpan</l>
          <translit_cyr>Tэӕпˈпaн</translit_cyr>
@@ -3172,6 +3218,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3199,7 +3246,6 @@
       </mg>
    </e>
    <e meta="08_3216">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Teˊrnti</l>
          <translit_cyr>Tэрьнти</translit_cyr>
@@ -3211,6 +3257,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3232,7 +3279,6 @@
       </mg>
    </e>
    <e meta="08_3219">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Timofi</l>
          <translit_cyr>Tимофи</translit_cyr>
@@ -3244,6 +3290,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3265,7 +3312,6 @@
       </mg>
    </e>
    <e meta="08_3220">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Treeffan</l>
          <translit_cyr>Tрэ̄ффaн</translit_cyr>
@@ -3277,6 +3323,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3298,7 +3345,6 @@
       </mg>
    </e>
    <e meta="08_3221">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Trooˊfem</l>
          <translit_cyr>Tро̄фем</translit_cyr>
@@ -3310,6 +3356,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3331,7 +3378,6 @@
       </mg>
    </e>
    <e meta="08_6148">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Tuälˈlamjokk</l>
          <translit_cyr>Tуӕлˈлaм-ёкк</translit_cyr>
@@ -3340,6 +3386,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">TOPONOMY</sem>
          </semantics>
@@ -3362,7 +3409,6 @@
       </mg>
    </e>
    <e meta="08_3214">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Tädjjan</l>
          <translit_cyr>Tӕдйян</translit_cyr>
@@ -3374,6 +3420,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3386,8 +3433,10 @@
          <tg xml:lang="fin">
             <t pos="prop">Tatjaana</t>
          </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="prop">Татьяна</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="prop" oahpa="pref">Татьяна</t>
             <t pos="prop">Танья</t>
          </tg>
          <tg xml:lang="nob">
@@ -3399,11 +3448,11 @@
       </mg>
    </e>
    <e meta="01">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Uccjokk</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
@@ -3429,6 +3478,7 @@
          </tg>
       </mg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">TOPONOMY</sem>
          </semantics>
@@ -3455,7 +3505,6 @@
       </mg>
    </e>
    <e meta="08_3153">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Uˊstten</l>
          <translit_cyr>Усьттэн</translit_cyr>
@@ -3467,6 +3516,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3488,7 +3538,6 @@
       </mg>
    </e>
    <e meta="08_3224">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Vaaˊssel</l>
          <translit_cyr>Ва̄ссел</translit_cyr>
@@ -3500,6 +3549,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3521,7 +3571,6 @@
       </mg>
    </e>
    <e meta="08_3228">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Veâra</l>
          <translit_cyr>Вэâрa</translit_cyr>
@@ -3533,6 +3582,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3554,7 +3604,6 @@
       </mg>
    </e>
    <e meta="08_3115">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Värvvan</l>
          <translit_cyr>Вӕрввaн</translit_cyr>
@@ -3566,6 +3615,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3587,7 +3637,6 @@
       </mg>
    </e>
    <e meta="08_3116">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Vääna</l>
          <translit_cyr>Вӕ̄нa</translit_cyr>
@@ -3599,6 +3648,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3620,19 +3670,21 @@
       </mg>
    </e>
    <e meta="03">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="person" gender="m">Väˊsǩǩ</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="prop">Vasko</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="prop" oahpa="pref">Vasko</t>
             <t pos="prop">Pasi</t>
          </tg>
          <tg xml:lang="rus">
@@ -3647,7 +3699,6 @@
       </mg>
    </e>
    <e meta="08_3208">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Ziina</l>
          <translit_cyr>Зӣнa</translit_cyr>
@@ -3659,6 +3710,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3668,8 +3720,10 @@
          <tg xml:lang="fin">
             <t pos="prop">Siina</t>
          </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="prop">Зинаида</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="prop" oahpa="pref">Зинаида</t>
             <t pos="prop">Зина</t>
          </tg>
          <tg xml:lang="nob">
@@ -3681,7 +3735,6 @@
       </mg>
    </e>
    <e meta="08_3141">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Iˊllep</l>
          <translit_cyr>ыллеп</translit_cyr>
@@ -3693,6 +3746,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3717,7 +3771,6 @@
       </mg>
    </e>
    <e meta="08_3206">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Oˊhssni</l>
          <translit_cyr>охьссни</translit_cyr>
@@ -3729,6 +3782,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3750,7 +3804,6 @@
       </mg>
    </e>
    <e meta="08_3188">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Oˊǩǩmi</l>
          <translit_cyr>оќќми</translit_cyr>
@@ -3762,6 +3815,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3783,11 +3837,11 @@
       </mg>
    </e>
    <e meta="04">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="holiday">Rosttov</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">RELIGION</sem>
             <sem type="HUMAN">FAMILY</sem>
@@ -3829,7 +3883,6 @@
       </mg>
    </e>
    <e meta="08_3110">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">âåntašǩ</l>
          <translit_cyr>А̂а̊нтaшќ</translit_cyr>
@@ -3841,6 +3894,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -3865,18 +3919,15 @@
       </mg>
    </e>
    <e meta="08_370">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Âˊvvel</l>
          <translit_cyr>А̂ввел</translit_cyr>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="17" href="languagememory370"/>
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
@@ -3909,6 +3960,7 @@
          </tg>
       </mg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
@@ -3921,11 +3973,11 @@
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Ivalo</t>
-            <te>xxx</te>
+            <te>kunta</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Ивало</t>
-            <te>xxx</te>
+            <te>коммуна</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Ivalo</t>
@@ -3937,12 +3989,11 @@
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Avvil</t>
-            <te>xxx</te>
+            <te>suohkan</te>
          </tg>
       </mg>
    </e>
    <e meta="03">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="person" gender="f">Äännaž</l>
          <infl>
@@ -3950,15 +4001,18 @@
          </infl>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="prop">Annikki</t>
+         </tg>
          <tg xml:lang="fin">
             <t pos="prop">Anni</t>
-            <t pos="prop" oahpa="pref">Annikki</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Annika</t>
@@ -3966,8 +4020,10 @@
          <tg xml:lang="rus">
             <t pos="prop">Анюшка</t>
          </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="prop">Anni</t>
+         </tg>
          <tg xml:lang="nob">
-            <t pos="prop" oahpa="pref">Anni</t>
             <t pos="prop">Anna</t>
          </tg>
          <tg xml:lang="eng">
@@ -3976,7 +4032,6 @@
       </mg>
    </e>
    <e meta="08_3111">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Ääˊrhep</l>
          <translit_cyr>Ӕ̄рьхэп</translit_cyr>
@@ -3988,6 +4043,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -4012,11 +4068,11 @@
       </mg>
    </e>
    <e meta="03">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="person" gender="f">Äˊnn</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
@@ -4026,9 +4082,11 @@
          <tg xml:lang="fin">
             <t pos="prop">Anni</t>
          </tg>
-         <tg xml:lang="rus">
+         <tg xml:lang="rus" oahpa="pref">
             <t pos="prop">Анна</t>
-            <t pos="prop" oahpa="dispref">Аня</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="prop">Аня</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Anna</t>
@@ -4039,7 +4097,6 @@
       </mg>
    </e>
    <e meta="08_3101">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Åggvi</l>
          <translit_cyr>А̊ггвы</translit_cyr>
@@ -4051,6 +4108,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -4067,13 +4125,12 @@
             <t pos="prop">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="prop" oahpa="pref">Agata</t>
+            <t pos="prop">Agata</t>
             <t pos="prop">Agate</t>
          </tg>
       </mg>
    </e>
    <e meta="08_3100">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="f">Ååggašǩ</l>
          <translit_cyr>А̊̄ггaшќ</translit_cyr>
@@ -4085,6 +4142,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -4101,13 +4159,12 @@
             <t pos="prop">egennavn</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="prop" oahpa="pref">Agata</t>
+            <t pos="prop">Agata</t>
             <t pos="prop">Agate</t>
          </tg>
       </mg>
    </e>
    <e meta="08_3130">
-      <usage oahpa="xxx"/>
       <lg>
          <l pos="prop" type="person" gender="m">Ååstaǩ</l>
          <translit_cyr>А̊̄стaќ</translit_cyr>
@@ -4119,6 +4176,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
@@ -4140,7 +4198,6 @@
       </mg>
    </e>
    <e meta="03">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="place">Čeˊvetjäuˊrr</l>
          <infl>
@@ -4148,6 +4205,7 @@
          </infl>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
@@ -4172,6 +4230,7 @@
          </tg>
       </mg>
       <mg>
+         <usage oahpa="yes"/>
          <semantics>
             <sem type="ENVIR">TOPONOMY</sem>
          </semantics>
@@ -4194,10 +4253,8 @@
       </mg>
    </e>
    <e meta="08_3160">
-      <usage oahpa="yes"/>
       <lg>
          <l pos="prop" type="person" gender="m">Ǩiuˊrrel</l>
-         <lv variant="dial" source="kurss">Ǩiurrâl</lv>
          <translit_cyr>Ќиуррел</translit_cyr>
          <infl>
             <stem>=</stem>
@@ -4207,6 +4264,7 @@
          </audio>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="3"/>
          </sources>

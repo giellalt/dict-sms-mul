@@ -5,7 +5,8 @@
          <l pos="det">seämma</l>
       </lg>
       <mg>
-         <sources>
+          <usage oahpa="yes"/>
+          <sources>
             <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
@@ -31,67 +32,66 @@
             <l pos="det">måttam</l>
         </lg>
         <mg>
+            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="5"/>
             </sources>
             <semantics>
-                <sem class="xxx">xxx</sem>
+                <sem class="SENSE">PERCEPTION</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="xxx">one of</t>
+                <t pos="mwe_det">one of</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="xxx">кто-то</t>
+                <t pos="det">кто-то</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="xxx">какой-то</t>
+                <t pos="det">какой-то</t>
             </tg>
             <tg xml:lang="rus" oahpa="dispref">
-                <t pos="xxx">некий</t>
+                <t pos="det">некий</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="xxx">joku</t>
-                <t pos="xxx">jokunen</t>
+                <t pos="det">joku</t>
+                <t pos="det">jokunen</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="xxx">muuan</t>
+                <t pos="det">muuan</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="xxx">eräs</t>
+                <t pos="det">eräs</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="xxx">noen blant</t>
+                <t pos="mwe_det">noen blant</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="xxx">en av</t>
+                <t pos="mwe_det">en av</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
         <lg>
             <l pos="det">nåkkam</l>
-            <infl>
-                <form gloss="xxx"/>
-            </infl>
         </lg>
         <mg>
+            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="5"/>
             </sources>
             <semantics>
-                <sem class="xxx">xxx</sem>
+                <sem class="SENSE">PERCEPTION</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="xxx">such</t>
+                <t pos="det">such</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="xxx">такой</t>
+                <t pos="det">такой</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="xxx">sellainen</t>
+                <t pos="det">sellainen</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="xxx">slik</t>
+                <t pos="det">slik</t>
             </tg>
         </mg>
     </e>
@@ -103,6 +103,7 @@
             </infl>
         </lg>
         <mg>
+            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="2"/>
                 <book name="lookkamkerjj" lesson="1"/>
@@ -147,37 +148,28 @@
             </infl>
         </lg>
         <mg>
+            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="3"/>
             </sources>
             <semantics>
-                <sem class="xxx"/>
+                <sem class="SENSE">PERCEPTION</sem>
             </semantics>
             <tg xml:lang="fin">
                 <t pos="det">se</t>
             </tg>
+            <tg xml:lang="rus" oahpa="pref">
+                <t pos="det">этот</t>
+            </tg>
             <tg xml:lang="rus">
-                <t pos="det" oahpa="pref">этот</t>
                 <t pos="det">тот</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="det">xxx</t>
+                <t pos="det" neuter="dette">denne</t>
             </tg>
-            <xg>
-                <x type="infl" pos="pro">tõˊst</x>
-                <xtg xml:lang="fin">
-                    <xt pos="xxx">siinä</xt>
-                </xtg>
-                <xtg xml:lang="rus">
-                    <xt pos="adv">оттуда</xt>
-                </xtg>
-                <xtg xml:lang="rus">
-                    <xt pos="adv">там</xt>
-                </xtg>
-                <xtg xml:lang="nob">
-                    <xt pos="det" neuter="dette">denne</xt>
-                </xtg>
-            </xg>
+            <tg xml:lang="eng">
+                <t pos="det">this</t>
+            </tg>
         </mg>
     </e>
     <e meta="01">
@@ -185,6 +177,7 @@
             <l pos="det">måkam</l>
         </lg>
         <mg>
+            <usage oahpa="no"/>
             <tg xml:lang="rus">
                 <t>какой</t>
             </tg>
@@ -193,19 +186,6 @@
             </tg>
             <tg xml:lang="nob">
                 <t>hvilken</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="01">
-        <lg>
-            <l pos="xxx">kâˊll</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="xxx">сколько</t>
-            </tg>
-            <tg xml:lang="eng">
-                <t pos="mwe_xxx">how many</t>
             </tg>
         </mg>
     </e>

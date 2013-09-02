@@ -5,6 +5,7 @@
          <l pos="cc">avi</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
@@ -33,6 +34,7 @@
          <l pos="cc">seâša</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -46,6 +48,7 @@
          <l pos="cc">peˊce</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -59,6 +62,7 @@
          <l pos="cc">nâǥa</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -75,6 +79,7 @@
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
@@ -84,7 +89,7 @@
          <tg xml:lang="rus">
             <t pos="cc">но</t>
          </tg>
-         <tg xml:lang="rus">
+         <tg xml:lang="rus" oahpa="pref">
             <t pos="cc">а</t>
          </tg>
          <tg xml:lang="rus">
@@ -121,6 +126,7 @@
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="1"/>
             <book name="200" BEDLAN_ID="2"/>
@@ -154,9 +160,10 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="cc" oahpa="dispref">de</l>
+         <l pos="cc">de</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <sources>
             <book name="200" BEDLAN_ID="2"/>
          </sources>
@@ -172,9 +179,10 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="cc" oahpa="dispref">di</l>
+         <l pos="cc">di</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <sources>
             <book name="200" BEDLAN_ID="2"/>
          </sources>
@@ -191,6 +199,7 @@
          <l pos="cc">leâˊša</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
@@ -235,6 +244,10 @@
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="no"/>
+         <semantics>
+            <sem class="SENSE">COGNITION</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="cc">или</t>
          </tg>
@@ -248,9 +261,6 @@
          <tg xml:lang="fin">
             <t pos="cc">vai</t>
          </tg>
-         <semantics>
-            <sem class="SENSE">COGNITION</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="05">
@@ -258,6 +268,7 @@
          <l pos="cc">ja</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="200" BEDLAN_ID="2"/>
          </sources>

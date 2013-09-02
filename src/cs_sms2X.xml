@@ -8,11 +8,12 @@
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="mwe_cs">even though</t>
@@ -40,11 +41,12 @@
          <l pos="cs">kååˊtt</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="cs">that</t>
@@ -55,7 +57,7 @@
          <tg xml:lang="rus">
             <t pos="pro">что</t>
          </tg>
-         <tg xml:lang="rus">
+         <tg xml:lang="rus" oahpa="pref">
             <t pos="pro">который</t>
          </tg>
          <tg xml:lang="fin">
@@ -71,9 +73,13 @@
          <l pos="cs">ko</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
+         <semantics>
+            <sem class="SENSE">COGNITION</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="cs">поскольку</t>
          </tg>
@@ -91,13 +97,11 @@
          <tg xml:lang="nob">
             <t pos="cs">fordi</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="TIME">POINT</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="adv">when</t>
@@ -116,7 +120,6 @@
    <e meta="04">
       <lg>
          <l pos="cs">jos</l>
-         <lv variant="dial" source="1991">jõs</lv>
          <etymology>
             <etymon type="inher" source="finnosaamic?">jo+s</etymon>
             <etymon type="inher" source="finnic">jo+s</etymon>
@@ -124,6 +127,7 @@
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="200" BEDLAN_ID="84"/>
          </sources>
@@ -154,13 +158,13 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="cs" oahpa="dispref">ku</l>
+         <l pos="cs">ku</l>
          <etymology>
             <etymon type="xxx" source="finnic">ku+jn ~ ku+δen?</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <sources>
             <book name="200" BEDLAN_ID="84"/>
          </sources>
@@ -197,8 +201,9 @@
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="rus">
             <t pos="adv">пока</t>
@@ -224,11 +229,11 @@
          <l pos="cs">tõˊnt</l>
          <etymology>
             <etymon type="inher" source="saamic">te̮</etymon>
-            <cognate xml:lang="xxx"/>
             <note>derivation</note>
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="dict"/>
             <book name="200" BEDLAN_ID="9"/>
@@ -263,11 +268,12 @@
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="cs">that</t>
