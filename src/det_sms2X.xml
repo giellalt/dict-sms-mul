@@ -20,7 +20,7 @@
             <t pos="a">sama</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="a" der="attr">одинаковый</t>
+            <t pos="a">одинаковый</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="a">samme</t>
@@ -118,7 +118,7 @@
                 <t pos="a">different</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="a" der="attr">другой</t>
+                <t pos="a">другой</t>
             </tg>
             <tg xml:lang="nob">
                 <t pos="a" oahpa="pref">annen</t>
