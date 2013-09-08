@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
     <e>
+        <lv pos="prop" variant="dial" source="kurss" lemma="Ǩiuˊrrel">Ǩiurrâl</lv>
+    </e>
+    <e>
+        <lv pos="prop" variant="dial" source="1991" lemma="Suõˊnˈnʼjel">Sueˊnˈnʼjel</lv>
+    </e>
+    <e>
+        <lv pos="cs" variant="dial" source="1991" lemma="jos">jõs</lv>
+    </e>
+    <e>
         <lv pos="num" variant="dial" source="1991" lemma="čueˊtt">čueˊđ</lv>
     </e>
     <e>

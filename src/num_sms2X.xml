@@ -1,23 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="01">
+      <lg>
+         <l pos="num">kâˊll</l>
+      </lg>
+      <mg>
+         <usage oahpa="no"/>
+         <tg xml:lang="rus">
+            <t pos="num">сколько</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="mwe_num">how many</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="03">
       <lg>
          <l pos="num">mäŋgg</l>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
-         <tg xml:lang="rus">
+         <tg xml:lang="rus" oahpa="dispref">
             <t pos="num">несколько</t>
-            <t pos="num" oahpa="dispref">много</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="num">много</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="num" oahpa="pref">moni</t>
             <t pos="num">monta</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="num">moni</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="num">mange</t>
@@ -32,6 +51,7 @@
          <l pos="num">vuõsˈs</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <sources>
             <book name="lookkamkerjj" lesson="1"/>
          </sources>
@@ -46,6 +66,7 @@
          <l pos="num">dohat</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -74,6 +95,7 @@
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <sources>
             <book name="200" BEDLAN_ID="175"/>
          </sources>
@@ -105,6 +127,7 @@
          <l pos="num">kutmlo</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -124,6 +147,7 @@
          <l pos="num">kutt</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -146,6 +170,7 @@
          <l pos="num">kuttlo</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -165,6 +190,7 @@
          <l pos="num">kuâhttlo</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <tg xml:lang="rus">
             <t pos="num">двадцать</t>
          </tg>
@@ -187,6 +213,7 @@
          <l pos="num">kuâhttlokutt</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <tg xml:lang="rus">
             <t pos="num">двадцать шесть</t>
          </tg>
@@ -206,6 +233,7 @@
          <l pos="num">kuâhttlonellj</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
@@ -235,6 +263,7 @@
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="200" BEDLAN_ID="*182"/>
             <book name="100"/>
@@ -273,6 +302,7 @@
          <l pos="num">kääuˊc</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
@@ -295,6 +325,7 @@
          <l pos="num">käˊhcclo</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <tg xml:lang="rus">
             <t pos="num">восемьдесят</t>
          </tg>
@@ -314,6 +345,7 @@
          <l pos="num">käˊhccmlo</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <tg xml:lang="rus">
             <t pos="num">восемнадцать</t>
          </tg>
@@ -333,6 +365,7 @@
          <l pos="num">lååi</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -355,6 +388,7 @@
          <l pos="num">miljard</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <tg xml:lang="rus">
             <t pos="num">миллиард</t>
          </tg>
@@ -371,6 +405,7 @@
          <l pos="num">miljon</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <tg xml:lang="rus">
             <t pos="num">миллион</t>
          </tg>
@@ -391,6 +426,7 @@
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="200" BEDLAN_ID="59"/>
          </sources>
@@ -422,6 +458,7 @@
          <l pos="num">nelljlo</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <tg xml:lang="rus">
             <t pos="num">сорок</t>
          </tg>
@@ -441,6 +478,7 @@
          <l pos="num">nelljmlo</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -464,6 +502,7 @@
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="200" BEDLAN_ID="52"/>
          </sources>
@@ -495,6 +534,7 @@
          <l pos="num">ååuˊc</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -525,6 +565,7 @@
          </etymology>
       </lg>
       <mg>
+         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="phon"/>
             <book name="200" BEDLAN_ID="*115"/>
@@ -564,6 +605,7 @@
          <l pos="num">õtmlo</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <tg xml:lang="rus">
             <t pos="num">одиннадцать</t>
          </tg>
@@ -583,6 +625,7 @@
          <l pos="num">čičmlo</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <tg xml:lang="rus">
             <t pos="num">семьдесят</t>
          </tg>
@@ -599,6 +642,7 @@
          <l pos="num">čiččâm</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -615,6 +659,7 @@
          <l pos="num">čueˊtt</l>
       </lg>
       <mg>
+         <usage oahpa="no"/>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>

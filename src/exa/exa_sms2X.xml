@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sms">
+    <xg>
+        <x>mâŋŋa poorrmest</x>
+        <xtg xml:lang="eng">
+            <xt pos="xxx">xxx</xt>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="xxx">после еды</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="xxx">syönnin jälkeen</xt>
+        </xtg>
+        <xtg xml:lang="nob">
+            <xt pos="mwe_adv">etter maten</xt>
+        </xtg>
+    </xg>
+    <xg>
+        <x>čuõkku mieˊldd</x>
+        <xtg xml:lang="eng">
+            <xt pos="xxx">xxx</xt>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="xxx">по дороге</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="xxx">tietä pitkin</xt>
+        </xtg>
+        <xtg xml:lang="nob">
+            <tx pos="xxx">på veien</tx>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="yes">
+        <x pos="mwe_adp">päärnai vuâstta</x>
+        <xtg xml:lang="eng">
+            <xt pos="a">pregnant</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="a" oahpa="pref">raskaana</xt>
+            <xt pos="mwe_vp">olla paksuna</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x pos="con">ouddâl ko</x>
+        <xtg xml:lang="rus">
+            <xt>до того как</xt>
+            <xt>пока не</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt>ennen kuin</xt>
+        </xtg>
+        <xtg xml:lang="nob">
+            <xt>før enn</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x pos="xxx">kuõđđu tiõrvân!</x>
+        <xtg xml:lang="rus">
+            <xt>до свидания!</xt>
+            <xtr>тому, кто будь здоров!</xtr>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt>näkemiin!</xt>
+            <xtr>jäävälle = jää terveenä!</xtr>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x pos="xxx">mõõn tiõrvân!</x>
+        <xtg xml:lang="rus">
+            <xt>до свидания!</xt>
+            <xtr>уходящему, t.e. счастливо добраться!</xtr>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt>Näkemiin!</xt>
+            <xtr>lähtijälle = Mene terveenä!</xtr>
+        </xtg>
+    </xg>
+</r>

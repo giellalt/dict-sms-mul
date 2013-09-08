@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
     <e meta="03">
-        <usage oahpa="no"/>
         <lg>
             <l pos="V" lemma="V_põõllâd">ij põõl tõˊst</l>
         </lg>
         <mg>
+            <usage oahpa="no"/>
             <tg xml:lang="eng">
                 <t pos="V">she is not afraid of this</t>
             </tg>
@@ -21,11 +21,11 @@
         </mg>
     </e>
     <e meta="03">
-        <usage oahpa="no"/>
         <lg>
             <l pos="N" lemma="xxx">ääiˊj ǩeeˊjjest</l>
         </lg>
         <mg>
+            <usage oahpa="no"/>
             <sources>
                 <book name="kurss" lesson="5"/>
             </sources>
@@ -47,11 +47,11 @@
         </mg>
     </e>
     <e meta="03">
-        <usage oahpa="yes"/>
         <lg>
             <l pos="V" lemma="xxx">tääˊvted ǩidd</l>
         </lg>
         <mg>
+            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="6"/>
             </sources>
@@ -77,11 +77,11 @@
         </mg>
     </e>
     <e meta="03">
-        <usage oahpa="yes"/>
         <lg>
             <l pos="V" lemma="xxx_-ǥa">ij-ǥa</l>
         </lg>
         <mg>
+            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="6"/>
             </sources>
@@ -103,11 +103,11 @@
         </mg>
     </e>
     <e meta="03">
-        <usage oahpa="yes"/>
         <lg>
             <l pos="ADV" lemma="xxx">mõõn diõtt</l>
         </lg>
         <mg>
+            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="6"/>
             </sources>
@@ -135,11 +135,11 @@
         </mg>
     </e>
     <e meta="03">
-        <usage oahpa="yes"/>
         <lg>
             <l pos="PRO" lemma="xxx_ni">ni mâiˊd</l>
         </lg>
         <mg>
+            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="6"/>
             </sources>
@@ -165,6 +165,7 @@
             <l pos="ADV" lemma="xxx">mâŋŋa jââđast</l>
         </lg>
         <mg>
+            <usage oahpa="no"/>
             <tg xml:lang="eng">
                 <t pos="ADV">the day after tomorrow</t>
             </tg>
@@ -177,11 +178,11 @@
         </mg>
     </e>
     <e meta="03">
-        <usage oahpa="yes"/>
         <lg>
             <l pos="A" lemma="a_maˊlinovi-">maˊlinovi ruõpssâd</l>
         </lg>
         <mg term="COLOR">
+            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="5"/>
             </sources>
