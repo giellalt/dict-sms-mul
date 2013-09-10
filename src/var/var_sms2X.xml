@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
     <e>
+        <lv pos="pro" variant="dial" source="1991" lemma="jiõčč">jiičč</lv>
+    </e>
+    <e>
+        <lv pos="pcle" variant="ZMN" source="ksdp" lemma="tåˊlǩ">tåuka</lv>
+    </e>
+    <e>
+        <lv pos="adv" variant="xxx" source="xxx" lemma="tõndiõtt">tõˊnt</lv>
+    </e>
+    <e>
+        <lv pos="adv" variant="dial" source="1991" lemma="ååˊn">ââˊn</lv>
+    </e>
+    <e>
+        <lv pos="adv" variant="dial" source="1991" lemma="ålggan">åuggan</lv>
+    </e>
+    <e>
+        <lv pos="adv" variant="dial" source="1991" lemma="ââlda">ââld</lv>
+    </e>
+    <e>
+        <lv pos="adv" variant="dial" source="1991" lemma="tåˊben">toˊben</lv>
+    </e>
+    <e>
+        <lv pos="adv" variant="dial" source="1991" lemma="simmna">siõmˈmna</lv>
+    </e>
+    <e>
+        <lv pos="adv" variant="dial" source="1991" lemma="occnja">õccnja</lv>
+    </e>
+    <e>
+        <lv pos="adv" variant="dial" source="1991" lemma="occanj">õccanj</lv>
+    </e>
+    <e>
+        <lv pos="adv" variant="dial" source="ksdp" lemma="mäˊhtt">mohtt</lv>
+    </e>
+    <e>
+        <lv pos="adv" variant="dial" source="1991" lemma="eeˊđeld">eeˊđääld</lv>
+    </e>
+    <e>
         <lv pos="prop" variant="dial" source="kurss" lemma="Ǩiuˊrrel">Ǩiurrâl</lv>
     </e>
     <e>

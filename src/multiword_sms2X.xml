@@ -2,26 +2,6 @@
 <r xml:lang="sms">
     <e meta="03">
         <lg>
-            <l pos="V" lemma="V_põõllâd">ij põõl tõˊst</l>
-        </lg>
-        <mg>
-            <usage oahpa="no"/>
-            <tg xml:lang="eng">
-                <t pos="V">she is not afraid of this</t>
-            </tg>
-            <tg xml:lang="rus">
-                <t pos="V">она не боится этого</t>
-            </tg>
-            <tg xml:lang="fin">
-                <t pos="V">hän ei pelkää sitä</t>
-            </tg>
-            <tg xml:lang="nob">
-                <t pos="V">hun er ikke redd for dette</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="03">
-        <lg>
             <l pos="N" lemma="xxx">ääiˊj ǩeeˊjjest</l>
         </lg>
         <mg>

@@ -1,5 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+    <dg>
+        <d type="infl" pos="pro">suäna</d>
+        <dtg xml:lang="eng">
+            <dt pos="pro">they</dt>
+            <dtr>two</dtr>
+        </dtg>
+        <dtg xml:lang="fin">
+            <dt pos="pro">he</dt>
+            <dtr>kaksi</dtr>
+        </dtg>
+        <dtg xml:lang="sme">
+            <dt pos="pro">soai</dt>
+        </dtg>
+    </dg>
+    <dg>
+        <d pos="pro" gloss="gen.sg">muu</d>
+        <dtg xml:lang="rus" pos="pro">мой</dtg>
+        <dtg xml:lang="rus" pos="pro">моя</dtg>
+        <dtg xml:lang="rus" pos="pro">мое</dtg>
+        <dtg xml:lang="rus" pos="pro">мои</dtg>
+        <dtg xml:lang="eng" pos="pro">mine</dtg>
+        <dtg xml:lang="eng" pos="pro">my</dtg>
+        <dtg xml:lang="fin" pos="pro">minun</dtg>
+        <dtg xml:lang="sme" pos="pro">mu</dtg>
+    </dg>
+    <dg>
+        <d gloss="indef">mii-ne</d>
+        <dtg xml:lang="eng">
+            <dt pos="pro">some</dt>
+        </dtg>
+        <dtg xml:lang="fin">
+            <dt pos="pro">jokin</dt>
+            <dt pos="pro">jotain</dt>
+        </dtg>
+        <dtg xml:lang="rus">
+            <dt pos="pro">что-нибудь</dt>
+        </dtg>
+        <dtg xml:lang="nob">
+            <dt pos="pro">noe</dt>
+        </dtg>
+        <dtg xml:lang="sme">
+            <dt pos="pro">juoga</dt>
+        </dtg>
+        <dtg xml:lang="sju">
+            <dt pos="pro">sååmès</dt>
+        </dtg>
+    </dg>
+    <xg oahpa="excl" kurss="xxx">
+        <x type="xxx" pos="mwe_pro">kååˊtt-ne</x>
+        <xtg xml:lang="eng">
+            <xt pos="quant">some</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="xxx">jokin</xt>
+            <xt pos="xxx">jotain</xt>
+        </xtg>
+        <xtg xml:lang="sme">
+            <xt pos="xxx">soamis</xt>
+        </xtg>
+        <xtg xml:lang="sju">
+            <xt pos="xxx">naaga</xt>
+            <xt pos="xxx">naagan</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="yes">
+        <x type="infl" pos="pro">täˊst</x>
+        <xtg xml:lang="eng">
+            <xt pos="adv">here</xt>
+        </xtg>
+        <xtg xml:lang="eng">
+            <xt pos="mwe_adv">from here</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="pro">tässä</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="pro">tästä</xt>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="adv">здесь</xt>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="adv">отсюда</xt>
+        </xtg>
+        <xtg xml:lang="nob">
+            <xt pos="adv">her</xt>
+        </xtg>
+        <xtg xml:lang="nob">
+            <xt pos="adv">herifra</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="yes">
+        <x type="infl" pos="pro">tõõzz</x>
+        <xtg xml:lang="fin">
+            <xt pos="adv">sille</xt>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="adv">туда</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x pos="pro">tuu</x>
+        <xtg xml:lang="rus">
+            <xt pos="pro" fem="твоя" neuter="твое" plural="твои">твой</xt>
+        </xtg>
+        <xtg xml:lang="eng">
+            <xt pos="pro" oahpa="pref">your</xt>
+            <xt pos="pro">yours</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="pro">sinun</xt>
+        </xtg>
+        <xtg xml:lang="sme">
+            <xt pos="pro">du</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x pos="pro">suu</x>
+        <xtg xml:lang="eng">
+            <xt pos="pro" fem="her">his</xt>
+            <xt pos="pro" fem="hers">his</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="pro">hänen</xt>
+        </xtg>
+        <xtg xml:lang="sme">
+            <xt pos="pro">su</xt>
+        </xtg>
+    </xg>
+    <xg>
+        <x type="np">puk ääiˊj</x>
+        <xtg xml:lang="fin">
+            <xt pos="mwe_adv">koko ajan</xt>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="mwe_adv">всё время</xt>
+        </xtg>
+        <xtg xml:lang="nob">
+            <xt pos="adv">alltid</xt>
+            <xte>hele tiden</xte>
+        </xtg>
+    </xg>
+    <xg>
+        <x type="question" pos="mwe">vuäitam-a</x>
+        <xtg xml:lang="rus">
+            <xt pos="mwe_s">могу ли?</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="mwe_s">voinko?</xt>
+        </xtg>
+        <xtg xml:lang="nob">
+            <xt pos="mwe_s">kan jeg?</xt>
+        </xtg>
+    </xg>
+    <xg>
+        <x pos="mwe_s">vueˊlǧǧep-a?</x>
+        <xtg xml:lang="fin">
+            <xt pos="mwe_s">lähdemmekö?</xt>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="mwe_s">пойдём что ли?</xt>
+            <xt pos="mwe_s">пойдем что ли?</xt>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="mwe_s">уходим что ли?</xt>
+        </xtg>
+        <xtg xml:lang="nob">
+            <xt pos="mwe_s">skal vi gå?</xt>
+        </xtg>
+    </xg>
+    <dg>
+        <d pos="pcle">naa-a</d>
+        <dtg xml:lang="rus">
+            <dt pos="xxx">да есть</dt>
+        </dtg>
+        <dtg xml:lang="fin">
+            <dt pos="xxx">kylä on</dt>
+        </dtg>
+        <dtg xml:lang="nob">
+            <dt pos="xxx">sånn er det</dt>
+        </dtg>
+    </dg>
+    <e meta="03">
+        <lg>
+            <l pos="V" lemma="V_põõllâd">ij põõl tõˊst</l>
+        </lg>
+        <mg>
+            <usage oahpa="no"/>
+            <tg xml:lang="eng">
+                <t pos="V">she is not afraid of this</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="V">она не боится этого</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="V">hän ei pelkää sitä</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="V">hun er ikke redd for dette</t>
+            </tg>
+        </mg>
+    </e>
     <xg>
         <x>mâŋŋa poorrmest</x>
         <xtg xml:lang="eng">

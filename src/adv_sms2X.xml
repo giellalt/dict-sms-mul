@@ -180,9 +180,11 @@
             <sem class="SPACE">MOTION</sem>
             <sem class="HUMAN">FAMILY</sem>
          </semantics>
+         <tg xml:lang="eng" oahpa="pref">
+            <t pos="adv">home</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="adv">homeward</t>
-            <t pos="adv" oahpa="pref">home</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">kotiin</t>
@@ -194,7 +196,7 @@
             <t pos="adv">hjem</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="adv" oahpa="pref">heim</t>
+            <t pos="adv">heim</t>
             <t pos="mwe_adv">nach Hause</t>
          </tg>
          <tg xml:lang="sme">
@@ -229,7 +231,6 @@
    <e meta="04">
       <lg>
          <l pos="adv">eeˊđeld</l>
-         <lv variant="dial" source="1991">eeˊđääld</lv>
       </lg>
       <mg>
          <semantics>
@@ -295,7 +296,6 @@
    <e meta="01">
       <lg>
          <l pos="adv">hääˊrveld</l>
-         <synonym>häˊrvv</synonym>
       </lg>
       <mg>
          <semantics>
@@ -342,8 +342,10 @@
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="adv">уже</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="adv" oahpa="pref">уже</t>
             <t pos="adv">уж</t>
          </tg>
          <tg xml:lang="fin">
@@ -490,7 +492,7 @@
             <t pos="adv">весело</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv">xxx</t>
+            <t pos="adv">iloisesti</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">gladsomely</t>
@@ -523,8 +525,10 @@
          <tg xml:lang="nob">
             <t pos="adv">når</t>
          </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="adv">milloin</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="adv" oahpa="pref">milloin</t>
             <t pos="adv">koska</t>
          </tg>
          <tg xml:lang="sme">
@@ -615,9 +619,11 @@
          <tg xml:lang="eng">
             <t pos="adv">near</t>
          </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="adv">рядом</t>
+         </tg>
          <tg xml:lang="rus">
             <t pos="adv">окола</t>
-            <t pos="adv" oahpa="pref">рядом</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">nær</t>
@@ -711,7 +717,6 @@
    <e meta="03">
       <lg>
          <l pos="adv">mäˊhtt</l>
-         <lv variant="dial" source="ksdp">mohtt</lv>
          <etymology>
             <etymon type="xxx" source="uralic">mɜ</etymon>
             <note>derivation</note>
@@ -752,9 +757,6 @@
    <e meta="03">
       <lg>
          <l pos="adv">occanj</l>
-         <lv variant="dial" source="1991">õccanj</lv>
-         <synonym>occnja</synonym>
-         <synonym>simmna</synonym>
          <audio>
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111211_ZMN_5.wav"/>
@@ -771,7 +773,7 @@
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="excl">
+         <tg xml:lang="rus">
             <t pos="adv">чуточку</t>
          </tg>
          <tg xml:lang="rus" oahpa="pref">
@@ -793,7 +795,7 @@
             <t pos="mwe_adv">a little bit</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" oahpa="pref">somewhat</t>
+            <t pos="adv">somewhat</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="adv">ва̄нас</t>
@@ -808,10 +810,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="adv" oahpa="dispref">occnja</l>
-         <lv variant="dial" source="1991">õccnja</lv>
-         <synonym>occanj</synonym>
-         <synonym>simmna</synonym>
+         <l pos="adv">occnja</l>
       </lg>
       <mg>
          <sources>
@@ -820,7 +819,7 @@
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="excl">
+         <tg xml:lang="rus">
             <t pos="adv">чуточку</t>
          </tg>
          <tg xml:lang="rus" oahpa="pref">
@@ -842,7 +841,7 @@
             <t pos="mwe_adv">a little bit</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" oahpa="pref">somewhat</t>
+            <t pos="adv">somewhat</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="adv">ва̄нас</t>
@@ -960,8 +959,10 @@
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
+         <tg xml:lang="eng" oahpa="pref">
+            <t pos="adv">in</t>
+         </tg>
          <tg xml:lang="eng">
-            <t pos="adv" oahpa="pref">in</t>
             <t pos="adv">inside</t>
          </tg>
          <tg xml:lang="rus">
@@ -1007,8 +1008,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="adv" oahpa="dispref">simmna</l>
-         <lv variant="dial" source="1991">siõmˈmna</lv>
+         <l pos="adv">simmna</l>
       </lg>
       <mg>
          <sources>
@@ -1020,19 +1020,27 @@
          </semantics>
          <tg xml:lang="rus">
             <t pos="adv">чуть-чуть</t>
-            <t pos="adv" oahpa="excl">чуточку</t>
-            <t pos="adv" oahpa="pref">немного</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">чуточку</t>
+         </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="adv">немного</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">vähän</t>
          </tg>
-         <tg xml:lang="nob">
-            <t pos="adv">litt</t>
+         <tg xml:lang="nob" oahpa="pref">
             <t pos="mwe_adv">en smule</t>
          </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">litt</t>
+         </tg>
+         <tg xml:lang="eng" oahpa="pref">
+            <t pos="adv">a little bit</t>
+         </tg>
          <tg xml:lang="eng">
-            <t pos="adv" oahpa="pref">somewhat</t>
-            <t pos="mwe_adv">a little bit</t>
+            <t pos="adv">somewhat</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="adv">ва̄нас</t>
@@ -1058,7 +1066,7 @@
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="excl">
+         <tg xml:lang="rus">
             <t pos="adv">чуточку</t>
          </tg>
          <tg xml:lang="rus" oahpa="pref">
@@ -1080,7 +1088,7 @@
             <t pos="mwe_adv">a little bit</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="adv" oahpa="pref">somewhat</t>
+            <t pos="adv">somewhat</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="adv">ва̄нас</t>
@@ -1205,7 +1213,7 @@
          <semantics>
             <sem class="SPACE">MOTION</sem>
          </semantics>
-         <tg xml:lang="eng" style="obs" oahpa="excl">
+         <tg xml:lang="eng" style="obs" oahpa="dispref">
             <t pos="adv">hither</t>
          </tg>
          <tg xml:lang="eng">
@@ -1295,9 +1303,11 @@
          <tg xml:lang="nob">
             <t pos="adv">dit</t>
          </tg>
+         <tg xml:lang="eng" oahpa="pref">
+            <t pos="mwe_adv">to there</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="adv">there</t>
-            <t pos="mwe_adv" oahpa="pref">to there</t>
          </tg>
       </mg>
    </e>
@@ -1366,19 +1376,19 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENCE">PERCEPTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="adv">immediately</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">heti</t>
+            <t pos="adv">heti</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">сразу (же)</t>
+            <t pos="adv">сразу</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">umiddelbart</t>
+            <t pos="adv">umiddelbart</t>
          </tg>
       </mg>
    </e>
@@ -1387,16 +1397,18 @@
          <l pos="adv">tälvva</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="TIME">CYCLE</sem>
+         </semantics>
          <tg xml:lang="eng">
             <t pos="mwe_adv">in the winter</t>
+         </tg>
+         <tg xml:lang="eng">
             <t pos="mwe_adv">in winter</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">talvella</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
    <e meta="03">
@@ -1427,7 +1439,6 @@
    <e meta="04">
       <lg>
          <l pos="adv">tääiˊb</l>
-         <synonym>tääiˊben</synonym>
          <etymology>
             <etymon type="inher" source="uralic">tä-</etymon>
             <note>derivation</note>
@@ -1487,8 +1498,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="adv" oahpa="pref">tääiˊben</l>
-         <synonym>tääiˊb</synonym>
+         <l pos="adv">tääiˊben</l>
          <etymology>
             <etymon type="inher" source="uralic">tä-</etymon>
             <note>derivation</note>
@@ -1549,15 +1559,14 @@
    <e meta="01">
       <lg>
          <l pos="adv">tääˊl</l>
-         <synonym>ååˊn</synonym>
       </lg>
       <mg>
+         <semantics>
+            <sem class="TIME">POINT</sem>
+         </semantics>
          <tg xml:lang="eng">
             <t pos="adv">now</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
    <e meta="03">
@@ -1568,6 +1577,9 @@
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
+         <semantics>
+            <sem class="TIME">POINT</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="adv">сегодня</t>
          </tg>
@@ -1575,7 +1587,7 @@
             <t pos="adv">tänään</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">i dag</t>
+            <t pos="mwe_adv">i dag</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="adv">odne</t>
@@ -1583,9 +1595,6 @@
          <tg xml:lang="eng">
             <t pos="adv">today</t>
          </tg>
-         <semantics>
-            <sem class="TIME">CYCLE</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="03">
@@ -1596,6 +1605,9 @@
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
+         <semantics>
+            <sem class="SPACE">POSITION</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="adv">здесь</t>
          </tg>
@@ -1608,15 +1620,11 @@
          <tg xml:lang="eng">
             <t pos="adv">here</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
    <e meta="04">
       <lg>
          <l pos="adv">tåˊben</l>
-         <lv variant="dial" source="1991">toˊben</lv>
          <etymology>
             <etymon type="inher" source="uralic">to-</etymon>
             <note>derivation</note>
@@ -1639,8 +1647,10 @@
          <tg xml:lang="nob">
             <t pos="adv">der</t>
          </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="adv">siellä</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="adv" oahpa="pref">siellä</t>
             <t pos="adv">tuolla</t>
          </tg>
          <tg xml:lang="sme">
@@ -1658,15 +1668,19 @@
          <tg xml:lang="eng">
             <t pos="mwe_adv">from there</t>
          </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="adv">оттуда</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="adv" oahpa="pref">оттуда</t>
             <t pos="mwe_adv">от там</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">derfra</t>
          </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="adv">sieltä</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="adv" oahpa="pref">sieltä</t>
             <t pos="adv">tuolta</t>
          </tg>
          <tg xml:lang="sme">
@@ -1681,7 +1695,6 @@
    <e meta="04">
       <lg>
          <l pos="adv">tõndiõtt</l>
-         <synonym>tõˊnt</synonym>
          <etymology>
             <etymon type="inher" source="saamic">te̮</etymon>
             <note>derivation</note>
@@ -1695,64 +1708,23 @@
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="mwe_adv">sen takia</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="mwe_adv" oahpa="pref">sen takia</t>
             <t pos="adv">siksi</t>
          </tg>
-         <tg xml:lang="eng">
-            <t pos="mwe_adv" oahpa="pref">for that reason</t>
-            <t pos="adv">therefore</t>
+         <tg xml:lang="eng" oahpa="pref">
+            <t pos="mwe_adv">for that reason</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="mwe_adv">that's why</t>
          </tg>
-         <tg xml:lang="rus">
-            <t pos="mwe_adv" oahpa="pref">по этой причине</t>
-            <t pos="adv">поэтому</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="adv">derfor</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="adv">danne</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="adv">diaht</t>
-            <t pos="adv">diahta</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="adv">tõˊnt</l>
-         <synonym>tõndiõtt</synonym>
-         <etymology>
-            <etymon type="inher" source="saamic">te̮</etymon>
-            <note>derivation</note>
-         </etymology>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-            <book name="200" BEDLAN_ID="9"/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">COGNITION</sem>
-         </semantics>
-         <tg xml:lang="fin">
-            <t pos="adv">siksi</t>
-            <te>sen takia</te>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="adv" oahpa="pref">therefore</t>
-            <te>for that reason</te>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="mwe_adv">that's why</t>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="mwe_adv">по этой причине</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">поэтому</t>
-            <te>по этой причине</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">derfor</t>
@@ -1771,6 +1743,9 @@
          <l pos="adv">uˊccbõššán</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="SENSE">PERCEPTION</sem>
+         </semantics>
          <tg xml:lang="eng">
             <t pos="adv">меньше</t>
          </tg>
@@ -1780,9 +1755,6 @@
          <tg xml:lang="fin">
             <t pos="adv">vähemmän</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
    <e meta="03">
@@ -1794,7 +1766,7 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="adv">certainly</t>
@@ -1825,7 +1797,7 @@
             <book name="kurss" lesson="5"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="TIME">POINT</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="adv">first</t>
@@ -1837,11 +1809,13 @@
             <t pos="adv">сначала</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adv">ensin</t>
             <t pos="adv">ensiksi</t>
          </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">ensin</t>
+         </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">i begynnelse</t>
+            <t pos="mwe_adv">i begynnelse</t>
          </tg>
       </mg>
    </e>
@@ -1880,7 +1854,7 @@
             <book name="kurss" lesson="1"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">PERCEPTION</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="adv">more</t>
@@ -1913,7 +1887,6 @@
    <e meta="04">
       <lg>
          <l pos="adv">ââlda</l>
-         <lv variant="dial" source="1991">ââld</lv>
          <etymology>
             <etymon type="inher" source="U?">wülä</etymon>
             <etymon type="inher" source="FU">wülä</etymon>
@@ -1927,16 +1900,22 @@
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="adv">близко</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="adv" oahpa="pref">близко</t>
             <t pos="adv">недалеко</t>
          </tg>
+         <tg xml:lang="eng" oahpa="pref">
+            <t pos="adv">near</t>
+         </tg>
          <tg xml:lang="eng">
-            <t pos="adv" oahpa="pref">near</t>
             <t pos="adv">nearby</t>
          </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="adv">lähellä</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="adv" oahpa="pref">lähellä</t>
             <t pos="adv">lähelle</t>
          </tg>
          <tg xml:lang="sme">
@@ -1946,7 +1925,8 @@
             <t pos="adv">lahka</t>
          </tg>
       </mg>
-      <mg oahpa="excl">
+      <mg>
+         <usuage oahpa="excl"/>
          <tg xml:lang="fin">
             <t pos="adv">läheltä</t>
          </tg>
@@ -1955,14 +1935,13 @@
    <e meta="03">
       <lg>
          <l pos="adv">ålggan</l>
-         <lv variant="dial" source="1991">åuggan</lv>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SPACE">POSITION</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="adv">outside</t>
@@ -1983,6 +1962,9 @@
          <l pos="adv">åålǥas</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="SPACE">MOTION</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="adp">наружу</t>
          </tg>
@@ -1992,16 +1974,11 @@
          <tg xml:lang="fin">
             <t pos="adv">ulos</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
    <e meta="03">
       <lg>
          <l pos="adv">ååˊn</l>
-         <lv variant="dial" source="1991">ââˊn</lv>
-         <synonym>tääˊl</synonym>
       </lg>
       <mg>
          <sources>
@@ -2055,7 +2032,7 @@
             <t pos="adv">yksin</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="adv">alene</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">alone</t>
@@ -2067,12 +2044,12 @@
          <l pos="adv">õiˊdde</l>
       </lg>
       <mg>
-         <tg xml:lang="eng">
-            <t pos="xxx">a short while ago</t>
-         </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="TIME">POINT</sem>
          </semantics>
+         <tg xml:lang="eng">
+            <t pos="mwe_adv">a short while ago</t>
+         </tg>
       </mg>
    </e>
    <e meta="03">
@@ -2084,19 +2061,28 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_adv">very much</t>
+         </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="adv">kovin</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">kovin, aivan; kovin, liian</t>
+            <t pos="adv">aivan</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">liian</t>
+         </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="adv">очень</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">очень; слишком, очень</t>
+            <t pos="adv">слишком</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">mye</t>
+            <t pos="adv">mye</t>
          </tg>
       </mg>
    </e>
@@ -2105,12 +2091,12 @@
          <l pos="adv">čuõˊttešt</l>
       </lg>
       <mg>
-         <tg xml:lang="eng">
-            <t pos="xxx">one hundred times</t>
-         </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="TIME">CYCLE</sem>
          </semantics>
+         <tg xml:lang="eng">
+            <t pos="mwe_adv">one hundred times</t>
+         </tg>
       </mg>
    </e>
    <e meta="01">
@@ -2118,15 +2104,15 @@
          <l pos="adv">čâhčča</l>
       </lg>
       <mg>
-         <tg xml:lang="eng">
-            <t pos="xxx">in the fall</t>
-            <t pos="xxx">in fall</t>
-            <t pos="xxx">in the autumn</t>
-            <t pos="xxx">in autumn</t>
-         </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="TIME">CYCLE</sem>
          </semantics>
+         <tg xml:lang="eng">
+            <t pos="mwe_adv">in the fall</t>
+            <t pos="mwe_adv">in fall</t>
+            <t pos="mwe_adv">in the autumn</t>
+            <t pos="mwe_adv">in autumn</t>
+         </tg>
       </mg>
    </e>
    <e meta="01">
@@ -2134,15 +2120,15 @@
          <l pos="adv">čõõuči</l>
       </lg>
       <mg>
-         <tg xml:lang="eng">
-            <t pos="xxx">every fall</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="xxx">every autumn</t>
-         </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="TIME">CYCLE</sem>
          </semantics>
+         <tg xml:lang="eng">
+            <t pos="mwe_adv">every fall</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="mwe_adv">every autumn</t>
+         </tg>
       </mg>
    </e>
    <e meta="01">
@@ -2150,16 +2136,16 @@
          <l pos="adv">ǩeâđˈđa</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="TIME">CYCLE</sem>
+         </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">in the spring</t>
-            <t pos="xxx">in spring</t>
+            <t pos="mwe_adv">in the spring</t>
+            <t pos="mwe_adv">in spring</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">keväällä</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
    <e meta="01">
@@ -2167,9 +2153,12 @@
          <l pos="adv">ǩeässa</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="TIME">CYCLE</sem>
+         </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">in the summer</t>
-            <t pos="xxx">in summer</t>
+            <t pos="mwe_adv">in the summer</t>
+            <t pos="mwe_adv">in summer</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">kesällä</t>
@@ -2177,9 +2166,6 @@
          <tg xml:lang="fin">
             <t pos="adv">suvella</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
 </r>

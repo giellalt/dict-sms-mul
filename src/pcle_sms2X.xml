@@ -9,19 +9,13 @@
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
-         <tg xml:lang="eng">
-            <t pos="pcle">xxx</t>
-         </tg>
          <tg xml:lang="fin">
-            <t pos="pcle">xxx</t>
+            <t pos="pcle" labial="-ka">-kä</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="pcle">xxx</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pcle">xxx</t>
+            <t pos="pcle">ли</t>
          </tg>
       </mg>
    </e>
@@ -34,14 +28,13 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="rus">
             <t pos="pcle">ни</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pcle">-kaan</t>
-            <t pos="pcle">-kään</t>
+            <t pos="pcle" labial="-kaan">-kään</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v" gloss="3sg">ei</t>
@@ -57,7 +50,6 @@
    <e meta="04">
       <lg>
          <l pos="pcle">tåˊlǩ</l>
-         <lv variant="dial" speaker="ZMN">tåuka</lv>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -92,46 +84,14 @@
             <book name="kurss" lesson="1"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="rus">
             <t pos="pcle">ли</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pcle">-ko</t>
-            <t pos="pcle">-kö</t>
+            <t pos="pcle" labial="-ko">-kö</t>
          </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
-         </tg>
-         <xg>
-            <x type="question" pos="mwe">vuäitam-a</x>
-            <xtg xml:lang="rus">
-               <xt pos="mwe_s">могу ли?</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="mwe_s">voinko?</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="mwe_s">kan jeg?</xt>
-            </xtg>
-         </xg>
-         <xg>
-            <x pos="mwe_s">vueˊlǧǧep-a?</x>
-            <xtg xml:lang="fin">
-               <xt pos="mwe_s">lähdemmekö?</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="mwe_s">пойдём что ли?</xt>
-               <xt pos="mwe_s">пойдем что ли?</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="mwe_s">уходим что ли?</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="mwe_s">skal vi gå?</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="03">
@@ -143,7 +103,7 @@
             <book name="kurss" lesson="1"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="rus">
             <t pos="pcle">ведь</t>
@@ -152,15 +112,10 @@
             <t pos="pcle">же</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pcle">-pa</t>
-            <t pos="pcle">-pä</t>
+            <t pos="pcle" labial="-pa">-pä</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pcle">-han</t>
-            <t pos="pcle">-hän</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="pcle" labial="-han">-hän</t>
          </tg>
       </mg>
    </e>
@@ -173,7 +128,7 @@
             <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="a">sure</t>
@@ -200,30 +155,21 @@
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
+         <semantics>
+            <sem class="SENSE">EMOTION</sem>
+         </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">xxx</t>
+            <t pos="pcle">да</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">xxx</t>
+            <t pos="pcle">kyllä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="pcle">sånn</t>
          </tg>
-         <dg>
-            <d pos="pcle">naa-a</d>
-            <dtg xml:lang="rus">
-               <dt pos="xxx">да есть</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="xxx">kylä on</dt>
-            </dtg>
-            <dtg xml:lang="nob">
-               <dt pos="xxx">sånn er det</dt>
-            </dtg>
-         </dg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <tg xml:lang="eng">
+            <t pos="pcle">yes</t>
+         </tg>
       </mg>
    </e>
    <e meta="03">
@@ -234,6 +180,9 @@
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
+         <semantics>
+            <sem class="SENSE">EMOTION</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="pcle">так</t>
          </tg>
@@ -243,9 +192,6 @@
          <tg xml:lang="nob">
             <t pos="pcle">så</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
    <e meta="03">
@@ -256,6 +202,9 @@
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
+         <semantics>
+            <sem class="SENSE">EMOTION</sem>
+         </semantics>
          <tg xml:lang="eng">
             <t pos="pcle">also</t>
          </tg>
@@ -274,9 +223,6 @@
          <tg xml:lang="nob">
             <t pos="pcle">også</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
 </r>
