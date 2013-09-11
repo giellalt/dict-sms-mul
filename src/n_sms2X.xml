@@ -2,28 +2,6 @@
 <r xml:lang="sms">
    <e meta="09">
       <lg>
-         <l pos="n">aanaar</l>
-      </lg>
-      <mg>
-         <sources>
-            <book/>
-         </sources>
-         <tg xml:lang="rus">
-            <t pos="n">инари</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="n">inari</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="n">enare</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="09">
-      <lg>
          <l pos="n">eeˊjj</l>
       </lg>
       <mg>
