@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xml:lang="sms">
+    <e meta="06">
+        <lg>
+            <l pos="pro" lemma="jiõčč" gloss="xxx">jiččen</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="lookkamkerjj" lesson="1"/>
+            </sources>
+            <tg xml:lang="fin">
+                <t pos="pro">omaan</t>
+            </tg>
+        </mg>
+    </e>
+</r>
