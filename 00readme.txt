@@ -139,6 +139,11 @@ on the e-element in the xml files:
 
 08 - sms wordlist of almost 5000 entries with multiple translations and links to audio files stored at TLA (http://tla.mpi.nl), the wordlist was compiled by Espen Sommer Eide (http://www.languagememory.org) in collaboration with KSDP
 
+09 - Added words from the Saami parliament webpage, top 20 or so from the lemmata not in the dictionary already. (svn revision: 80649, author: trond)
+
+10 - a few lemmas imported from contlex
+
+
 =====
 Pronouns
 =====

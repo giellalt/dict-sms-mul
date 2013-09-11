@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
-  <e>
+   <e meta="09">
       <lg>
          <l pos="n">aanaar</l>
       </lg>
@@ -22,7 +22,7 @@
          </semantics>
       </mg>
    </e>
-   <e>
+   <e meta="09">
       <lg>
          <l pos="n">eeˊjj</l>
       </lg>
@@ -47,7 +47,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="09">
       <lg>
          <l pos="n">eeˊčč</l>
       </lg>
@@ -72,7 +72,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="09">
       <lg>
          <l pos="n">eeˊǩǩ</l>
       </lg>
@@ -97,7 +97,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="09">
       <lg>
          <l pos="n">teâtt</l>
       </lg>
@@ -119,7 +119,7 @@
          </semantics>
       </mg>
    </e>
-   <e>
+   <e meta="09">
       <lg>
          <l pos="n">sääˊmteˊǧǧ</l>
       </lg>
@@ -141,7 +141,7 @@
          </semantics>
       </mg>
    </e>
-   <e>
+   <e meta="09">
       <lg>
          <l pos="n">sääˊm</l>
       </lg>
@@ -163,7 +163,7 @@
          </semantics>
       </mg>
    </e>
-   <e>
+   <e meta="09">
       <lg>
          <l pos="n">tâˊvvsääˊm</l>
       </lg>
@@ -185,7 +185,7 @@
          </semantics>
       </mg>
    </e>
-   <e>
+   <e meta="09">
       <lg>
          <l pos="n">kulttuur</l>
       </lg>
@@ -207,8 +207,6 @@
          </semantics>
       </mg>
    </e>
-
-
    <e meta="04">
       <lg>
          <l pos="n">ruõšˈš</l>

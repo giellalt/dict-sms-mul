@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
-   <e>
+   <e meta="09">
       <lg>
          <l pos="adp">diõtt</l>
       </lg>
@@ -328,7 +328,7 @@
          </semantics>
          <tg xml:lang="rus">
             <t pos="adp">с</t>
-            <e>откуда</e>
+            <te>откуда</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="adp">päällä</t>

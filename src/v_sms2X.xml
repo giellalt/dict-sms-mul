@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
-   <e>
+   <e meta="09">
       <lg>
          <lv pos="v">kuõskkâd</lv>
 <stg><st Contlex=""></st></stg>
@@ -628,7 +628,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">joorrâd</l>
 <stg><st Contlex="VIQQAD">joorr</st></stg>
@@ -755,7 +755,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">siâlggâd</l>
 <stg><st Contlex="VIQQAD">siâlgg</st></stg>
@@ -2145,7 +2145,7 @@
          </semantics>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">suddâd</l>
 <stg><st Contlex="VIQQAD">sudd</st></stg>
@@ -2311,7 +2311,7 @@
          </xg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">ǩiâvvâd</l>
 <stg><st Contlex="VIQQAD">ǩiâvv</st></stg>
@@ -2413,7 +2413,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">njuõccâd</l>
 <stg><st Contlex="VIQQAD">njuõcc</st></stg>
@@ -2427,7 +2427,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">kuåccâd</l>
 <stg><st Contlex="VIQQAD">kuåcc</st></stg>
@@ -3318,7 +3318,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">čaakkâd</l>
 <stg><st Contlex="VIQQAD">čaakk</st></stg>
@@ -3370,7 +3370,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">puõccâd</l>
 <stg><st Contlex="VIQQAD">puõcc</st></stg>
@@ -3502,7 +3502,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">cuõllâd</l>
 <stg><st Contlex="VIQQAD">cuõll</st></stg>
@@ -3719,7 +3719,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">piassâd</l>
 <stg><st Contlex="VIQQAD">piass</st></stg>
@@ -4078,7 +4078,7 @@
          </semantics>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">nuõllâd</l>
 <stg><st Contlex="VIQQAD">nuõll</st></stg>
@@ -4230,7 +4230,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">koossâd</l>
 <stg><st Contlex="VIQQAD">kooss</st></stg>
@@ -4903,7 +4903,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">muårrâd</l>
 <stg><st Contlex="VIQQAD">muårr</st></stg>
@@ -4974,7 +4974,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">sõõkkâd</l>
 <stg><st Contlex="VIQQAD">sõõkk</st></stg>
@@ -5650,7 +5650,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">kuaccâd</l>
 <stg><st Contlex="VIQQAD">kuacc</st></stg>
@@ -7027,7 +7027,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e meta="10">
       <lg>
          <l pos="v">lõõmmâd</l>
 <stg><st Contlex="VIQQAD">lõõmm</st></stg>
