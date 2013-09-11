@@ -1,43 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
-   <e meta="09">
-      <lg>
-         <l pos="a">sääˊmǩiõllsaž</l>
-      </lg>
-      <mg>
-         <sources>
-            <book/>
-         </sources>
-         <semantics>
-            <sem/>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="a" pred="xxx">xxx</t>
-         </tg>
-         <tg xml:lang="sjd">
-            <t pos="a" pred="xxx">xxx</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="a">saamenkielinen</t>
-            <t pos="a">koltankielinen</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="a">Saami language speaking</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="a">saamischsprachig</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="a">samiskspråklig</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="a" pred="xxx">xxx</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="a" pred="xxx">xxx</t>
-         </tg>
-      </mg>
-   </e>
    <e meta="04">
       <lg>
          <l pos="a" class="30">feertak</l>
