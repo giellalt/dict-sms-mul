@@ -9,19 +9,19 @@
             <book/>
          </sources>
          <semantics>
-            <sem class="TIME">POINT</sem>
+            <sem class="SENSE">PERCEPTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="adp">because of</t>
+            <t pos="mwe_adp">because of</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adp">takia</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="adp">xxx</t>
+            <t pos="mwe_adp">на основании</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="adp">på grunn av</t>
+            <t pos="mwe_adp">på grunn av</t>
          </tg>
       </mg>
    </e>
