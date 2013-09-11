@@ -2,18 +2,23 @@
 <r xml:lang="sms">
    <e meta="09">
       <lg>
-         <lv pos="v">kuõskkâd</lv>
-<stg><st Contlex=""></st></stg>
+         <l pos="v">kuõskkâd</l>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="fin">
             <t pos="v">koskea</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v">xxx</t>
+            <t pos="v" impf="затрогать">затронуть</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="v">touch</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="v">xxx</t>
+            <t pos="v">berühren</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">berøre</t>
@@ -23,7 +28,9 @@
    <e meta="04">
       <lg>
          <lv source="ZMN" pos="v">njikkšted</lv>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -41,7 +48,9 @@
    <e meta="04">
       <lg>
          <l pos="v">njikktõõllâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -52,7 +61,9 @@
    <e meta="01">
       <lg>
          <l pos="v">aassâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -75,7 +86,9 @@
    <e meta="04">
       <lg>
          <l pos="v">ceäˊlǩǩed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -123,7 +136,9 @@
    <e meta="03">
       <lg>
          <l pos="v" subjectrectio="loc">feˊrttjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
 
       </lg>
       <mg>
@@ -151,7 +166,9 @@
    <e meta="03">
       <lg>
          <l pos="v">fiˊttjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -180,7 +197,9 @@
    <e meta="03">
       <lg>
          <l pos="v">hoiˊddjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -209,7 +228,9 @@
    <e meta="04">
       <lg>
          <l pos="v" person="3" number="sg">ij</l>
-<stg><st Contlex="IJ">ij</st></stg>
+         <stg>
+            <st Contlex="IJ">ij</st>
+         </stg>
          <etymology>
             <etymon type="inher" source="uralic">e-</etymon>
             <cognate xml:lang="sjd">эйй</cognate>
@@ -252,7 +273,9 @@
    <e meta="04">
       <lg>
          <l pos="v">išttâd</l>
-<stg><st Contlex="VIQQAD">ištt</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">ištt</st>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -305,7 +328,9 @@
    <e meta="01">
       <lg>
          <l pos="v">jeällõõččâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -317,7 +342,9 @@
    <e meta="05">
       <lg>
          <l pos="v" oahpa="dispref">jiõŋŋâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="finnougric">jäŋe</etymon>
             <cognate xml:lang="xxx"/>
@@ -355,7 +382,9 @@
    <e meta="05">
       <lg>
          <l pos="v">jiẹˊlled</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="uralic">elä-</etymon>
             <cognate xml:lang="xxx"/>
@@ -392,7 +421,9 @@
    <e meta="04">
       <lg>
          <l pos="v">juukkâd</l>
-<stg><st Contlex="VIQQAD">juukk</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">juukk</st>
+         </stg>
          <etymology>
             <etymon type="inher" source="finnougric">juɣe-</etymon>
             <cognate xml:lang="sjd">югкэ</cognate>
@@ -436,7 +467,9 @@
    <e meta="05">
       <lg>
          <l pos="v">juurdčed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -475,7 +508,9 @@
    <e meta="03">
       <lg>
          <l pos="v">juˊrdded</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -504,7 +539,9 @@
    <e meta="03">
       <lg>
          <l pos="v">jälsted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">jälstam</form>
             <form gloss="2sg.prs">jälstak</form>
@@ -549,7 +586,9 @@
    <e meta="04">
       <lg>
          <l pos="v">jääˊmmed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="inher" source="uralic">jama-</etymon>
             <cognate xml:lang="sjd">я̄мме</cognate>
@@ -594,7 +633,9 @@
    <e meta="05">
       <lg>
          <l pos="v">jåårǥled</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="saamic">jorke̮-lē ~ jork-ēhtē-</etymon>
             <cognate xml:lang="xxx"/>
@@ -631,7 +672,9 @@
    <e meta="10">
       <lg>
          <l pos="v">joorrâd</l>
-<stg><st Contlex="VIQQAD">joorr</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">joorr</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -645,7 +688,9 @@
    <e meta="06">
       <lg>
          <l pos="v">jååˊtted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.prs">jåått</form>
             <form gloss="1pl.pst">jooˊđim</form>
@@ -679,7 +724,9 @@
    <e meta="03">
       <lg>
          <l pos="v">kaaˊfstõõllâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -705,7 +752,9 @@
    <e meta="03">
       <lg>
          <l pos="v">kaggâd</l>
-<stg><st Contlex="VIQQAD">kagg</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">kagg</st>
+         </stg>
          <infl>
             <form gloss="1sg.pst">kaˊǧǧem</form>
          </infl>
@@ -732,7 +781,9 @@
    <e meta="03">
       <lg>
          <l pos="v">kaunnâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -758,21 +809,25 @@
    <e meta="10">
       <lg>
          <l pos="v">siâlggâd</l>
-<stg><st Contlex="VIQQAD">siâlgg</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">siâlgg</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="v"></t>
+            <t pos="v"/>
          </tg>
          <tg xml:lang="fin">
-            <t pos="v"></t>
+            <t pos="v"/>
          </tg>
       </mg>
    </e>
    <e meta="05">
       <lg>
          <l pos="v">kolggâd</l>
-<stg><st Contlex="VIQQAD">kolgg</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">kolgg</st>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -805,7 +860,9 @@
    <e meta="03">
       <lg>
          <l pos="v">kollˊjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx">kollai</form>
          </infl>
@@ -834,7 +891,9 @@
    <e meta="05">
       <lg>
          <l pos="v">kueˊdˈded</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="uralic">kanta</etymon>
             <cognate xml:lang="xxx"/>
@@ -871,7 +930,9 @@
    <e meta="04">
       <lg>
          <l pos="v">kuullâd</l>
-<stg><st Contlex="VIQQAD">kuull</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">kuull</st>
+         </stg>
          <etymology>
             <etymon type="inher" source="U?">kule</etymon>
             <etymon type="inher" source="FU">kule</etymon>
@@ -917,7 +978,9 @@
    <e meta="01">
       <lg>
          <l pos="v">kuâlddad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -937,7 +1000,9 @@
    <e meta="06">
       <lg>
          <l pos="v">kuâđđjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1pl.prs">kuâđđjep</form>
          </infl>
@@ -954,7 +1019,9 @@
    <e meta="05">
       <lg>
          <l pos="v">kuäivvad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="FP, U?">kojwa-</etymon>
             <cognate xml:lang="xxx"/>
@@ -994,7 +1061,9 @@
    <e meta="04">
       <lg>
          <l pos="v">kuärrad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.pst">kuärai</form>
          </infl>
@@ -1064,7 +1133,9 @@
    <e meta="03">
       <lg>
          <l pos="v">kuärŋŋad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -1087,7 +1158,9 @@
    <e meta="03">
       <lg>
          <l pos="v">kââmted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -1114,7 +1187,9 @@
    <e meta="05">
       <lg>
          <l pos="v">kâˊlmmed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="finnopermic">külmä</etymon>
             <cognate xml:lang="xxx"/>
@@ -1151,7 +1226,9 @@
    <e meta="03">
       <lg>
          <l pos="v">kâˊlmstõõllâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -1177,7 +1254,9 @@
    <e meta="03">
       <lg>
          <l pos="v">käinnad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -1206,7 +1285,9 @@
    <e meta="01">
       <lg>
          <l pos="v">kälkked</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -1223,7 +1304,9 @@
    <e meta="04">
       <lg>
          <l pos="v">käˊcǩǩed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="inher" source="finnopermic">kačka-</etymon>
             <cognate xml:lang="sjd">ка̄ццькэ</cognate>
@@ -1272,7 +1355,9 @@
    <e meta="05">
       <lg>
          <l pos="v">kåbllad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="inher" source="saamic">koplē</etymon>
             <cognate xml:lang="kar">kuploa</cognate>
@@ -1315,7 +1400,9 @@
    <e meta="06">
       <lg>
          <l pos="v">kååˊđđed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.pst">kooˊđi</form>
          </infl>
@@ -1332,7 +1419,9 @@
    <e meta="03">
       <lg>
          <l pos="v">kåččad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -1361,7 +1450,9 @@
    <e meta="04">
       <lg>
          <l pos="v">kåˊdded</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="inher" source="uralic">kunta-</etymon>
             <cognate xml:lang="sjd">коаннҍтэ</cognate>
@@ -1407,7 +1498,9 @@
    <e meta="03">
       <lg>
          <l pos="v">kõõjjeed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -1436,7 +1529,9 @@
    <e meta="03">
       <lg>
          <l pos="v">kõõččâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -1462,7 +1557,9 @@
    <e meta="05">
       <lg>
          <l pos="v">kõččâd</l>
-<stg><st Contlex="VIQQAD">kõčč</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">kõčč</st>
+         </stg>
          <etymology>
             <etymon type="xxx" source="saamic">ke̮ćće̮</etymon>
             <cognate xml:lang="xxx"/>
@@ -1498,7 +1595,9 @@
    <e meta="05">
       <lg>
          <l pos="v">laullad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <lv variant="dial" source="1991">läullad</lv>
          <etymology>
             <etymon type="inher" source="finnosaamic?"/>
@@ -1537,7 +1636,9 @@
    <e meta="05">
       <lg>
          <l pos="v" oahpa="dispref">laˊsǩǩeed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="xxx"/>
             <cognate xml:lang="fin">laskea</cognate>
@@ -1574,7 +1675,9 @@
    <e meta="05">
       <lg>
          <l pos="v" oahpa="dispref">laˊǧǧsted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -1606,7 +1709,9 @@
    <e meta="03">
       <lg>
          <l pos="v">leeˊd</l>
-<stg><st Contlex="LEED">l</st></stg>
+         <stg>
+            <st Contlex="LEED">l</st>
+         </stg>
          <infl>
             <form gloss="1sg.prs">leäm</form>
             <form gloss="2sg.prs">leäk</form>
@@ -1643,7 +1748,9 @@
    <e meta="01">
       <lg>
          <l pos="v">leättad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -1660,7 +1767,9 @@
    <e meta="05">
       <lg>
          <l pos="v">lieˊnˈnjsted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="inher" source="eastsaamic?"/>
             <cognate xml:lang="smn">leännjuđ</cognate>
@@ -1704,7 +1813,9 @@
    <e meta="04">
       <lg>
          <l pos="v">liâššâd</l>
-<stg><st Contlex="VIQQAD">liâšš</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">liâšš</st>
+         </stg>
          <etymology>
             <etymon type="loan" source="rus?">лежать</etymon>
             <cognate xml:lang="sjd">ле̄шшэ</cognate>
@@ -1749,7 +1860,9 @@
    <e meta="03">
       <lg>
          <l pos="v">loojjted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">loojjtam</form>
             <form gloss="3sg.prs">loojjat</form>
@@ -1779,7 +1892,9 @@
    <e meta="04">
       <lg>
          <l pos="v">lookkâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <semantics>
@@ -1834,7 +1949,9 @@
    <e meta="03">
       <lg>
          <l pos="v" class="xxx">lueˊštted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="conneg.prs">lueˊšt</form>
          </infl>
@@ -1857,7 +1974,9 @@
    <e meta="01">
       <lg>
          <l pos="v">luuhâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <semantics>
@@ -1912,7 +2031,9 @@
    <e meta="05">
       <lg>
          <l pos="v">luõˊdˈdjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="saamic">lōntɔ̄-</etymon>
             <cognate xml:lang="xxx"/>
@@ -1949,7 +2070,9 @@
    <e meta="03">
       <lg>
          <l pos="v">maaššâd</l>
-<stg><st Contlex="VIQQAD">maašš</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">maašš</st>
+         </stg>
          <infl>
             <form gloss="3pl.prs">mäˊšše</form>
          </infl>
@@ -1978,7 +2101,9 @@
    <e meta="05">
       <lg>
          <l pos="v">maaˊlˈjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="loan" source="northgermanic?"/>
             <cognate xml:lang="xxx"/>
@@ -2025,7 +2150,9 @@
    <e meta="03">
       <lg>
          <l pos="v">mainsted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3pl.prs">mainste</form>
          </infl>
@@ -2072,7 +2199,9 @@
    <e meta="03">
       <lg>
          <l pos="v">meeˊst feˊrttai</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
 
       </lg>
       <mg>
@@ -2099,7 +2228,9 @@
    <e meta="03">
       <lg>
          <l pos="v">meärkkad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -2128,7 +2259,9 @@
    <e meta="01">
       <lg>
          <l pos="v">mieˊrreed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -2148,7 +2281,9 @@
    <e meta="10">
       <lg>
          <l pos="v">suddâd</l>
-<stg><st Contlex="VIQQAD">sudd</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">sudd</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -2162,7 +2297,9 @@
    <e meta="05">
       <lg>
          <l pos="v">miẹˊcsted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <lv variant="dial" source="1991">miẹˊccsted</lv>
          <etymology>
             <etymon type="loan" source="fin?">metsästää</etymon>
@@ -2201,7 +2338,9 @@
    <e meta="03">
       <lg>
          <l pos="v">muˊštted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="imp.sg">muuˊšt</form>
          </infl>
@@ -2231,7 +2370,9 @@
    <e meta="03">
       <lg>
          <l pos="v">mååjjmed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -2260,7 +2401,9 @@
    <e meta="04">
       <lg>
          <l pos="v">mõõnnâd</l>
-<stg><st Contlex="VIQQAD">mõõnn</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">mõõnn</st>
+         </stg>
          <audio>
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/moyoynnayd_SKO111210_ZMN.wav"
@@ -2314,11 +2457,13 @@
    <e meta="10">
       <lg>
          <l pos="v">ǩiâvvâd</l>
-<stg><st Contlex="VIQQAD">ǩiâvv</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">ǩiâvv</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="v"></t>
+            <t pos="v"/>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">käydä</t>
@@ -2328,7 +2473,9 @@
    <e meta="03">
       <lg>
          <l pos="v">neälggad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -2354,7 +2501,9 @@
    <e meta="03">
       <lg>
          <l pos="v">njeˊʒʒed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -2379,7 +2528,9 @@
    <e meta="05">
       <lg>
          <l pos="v">njiimmâd</l>
-<stg><st Contlex="VIQQAD">njiimm</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">njiimm</st>
+         </stg>
          <etymology>
             <etymon type="xxx" source="uralic">ńime-</etymon>
             <cognate xml:lang="xxx"/>
@@ -2416,7 +2567,9 @@
    <e meta="10">
       <lg>
          <l pos="v">njuõccâd</l>
-<stg><st Contlex="VIQQAD">njuõcc</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">njuõcc</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -2430,7 +2583,9 @@
    <e meta="10">
       <lg>
          <l pos="v">kuåccâd</l>
-<stg><st Contlex="VIQQAD">kuåcc</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">kuåcc</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -2444,7 +2599,9 @@
    <e meta="03">
       <lg>
          <l pos="v">njuärsted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -2473,7 +2630,9 @@
    <e meta="05">
       <lg>
          <l pos="v">njuˊnnʼjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -2506,7 +2665,9 @@
    <e meta="03">
       <lg>
          <l pos="v">njääˊljsted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -2535,7 +2696,9 @@
    <e meta="03">
       <lg>
          <l pos="v">noorrâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
 
       </lg>
       <mg>
@@ -2562,7 +2725,9 @@
    <e meta="05">
       <lg>
          <l pos="v">oiˊǧǧeed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -2595,7 +2760,9 @@
    <e meta="03">
       <lg>
          <l pos="v">ooccâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">ooʒʒam</form>
          </infl>
@@ -2624,7 +2791,9 @@
    <e meta="05">
       <lg>
          <l pos="v">peiˊtted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="loan" source="finnic"/>
             <cognate xml:lang="est">(ära) peita</cognate>
@@ -2661,7 +2830,9 @@
    <e meta="03">
       <lg>
          <l pos="v">peˊštted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.pst">piišti</form>
          </infl>
@@ -2697,7 +2868,9 @@
    <e meta="03">
       <lg>
          <l pos="v">piijjâd</l>
-<stg><st Contlex="VIQQAD">piijj</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">piijj</st>
+         </stg>
          <infl>
             <form gloss="xxx">(\#peˊjje)</form>
          </infl>
@@ -2726,7 +2899,9 @@
    <e meta="01">
       <lg>
          <l pos="v">pirsted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <lv variant="dial" source="1991">piirsted</lv>
       </lg>
       <mg>
@@ -2751,7 +2926,9 @@
    <e meta="03">
       <lg>
          <l pos="v">piâssâd</l>
-<stg><st Contlex="VIQQAD">piâss</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">piâss</st>
+         </stg>
          <infl>
             <form gloss="1sg.prs">piâzzam</form>
          </infl>
@@ -2785,7 +2962,9 @@
    <e meta="03">
       <lg>
          <l pos="v">pleässjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -2811,7 +2990,9 @@
    <e meta="03">
       <lg>
          <l pos="v">ponjsted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx">(\#ponjste)</form>
          </infl>
@@ -2840,7 +3021,9 @@
    <e meta="04">
       <lg>
          <l pos="v">poorrâd</l>
-<stg><st Contlex="VIQQAD">poorr</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">poorr</st>
+         </stg>
          <etymology>
             <etymon type="inher" source="uralic">pure-</etymon>
             <cognate xml:lang="sjd">по̄ррэ</cognate>
@@ -2891,7 +3074,9 @@
    <e meta="01">
       <lg>
          <l pos="v">porgâđ</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -2914,7 +3099,9 @@
    <e meta="01">
       <lg>
          <l pos="v">porstõõttâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -2925,7 +3112,9 @@
    <e meta="01">
       <lg>
          <l pos="v">porstõõvvâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -2939,7 +3128,9 @@
    <e meta="03">
       <lg>
          <l pos="v">preuggad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -2968,7 +3159,9 @@
    <e meta="04">
       <lg>
          <l pos="v">pueˊlled</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="inher" source="finnougric">palˊa</etymon>
             <cognate xml:lang="sjd">пӯлле</cognate>
@@ -3012,7 +3205,9 @@
    <e meta="04">
       <lg>
          <l pos="v">pueˊtted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <lv variant="dial" source="1991">puẹˊtted</lv>
          <infl>
             <form gloss="1pl.pst">puõđim</form>
@@ -3089,7 +3284,9 @@
    <e meta="03">
       <lg>
          <l pos="v">puäˊđ veäkka!</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -3118,7 +3315,9 @@
    <e meta="03">
       <lg>
          <l pos="v">puˊhtted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
 
       </lg>
       <mg>
@@ -3145,7 +3344,9 @@
    <e meta="03">
       <lg>
          <l pos="v">päkkad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">päkam</form>
             <form gloss="3sg.prs">päkk</form>
@@ -3175,7 +3376,9 @@
    <e meta="03">
       <lg>
          <l pos="v">päˊštted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">pääštam</form>
             <form gloss="3sg.pst">paaˊšti</form>
@@ -3222,7 +3425,9 @@
    <e meta="05">
       <lg>
          <l pos="v">pååssad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="uralic">pušɜ-</etymon>
             <cognate xml:lang="xxx"/>
@@ -3285,7 +3490,9 @@
    <e meta="05">
       <lg>
          <l pos="v">påǥsted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <lv variant="dial" source="1991">pååǥǥsted</lv>
       </lg>
       <mg>
@@ -3321,11 +3528,13 @@
    <e meta="10">
       <lg>
          <l pos="v">čaakkâd</l>
-<stg><st Contlex="VIQQAD">čaakk</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">čaakk</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="v"></t>
+            <t pos="v"/>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">mahtua</t>
@@ -3335,7 +3544,9 @@
    <e meta="05">
       <lg>
          <l pos="v">põõllâd</l>
-<stg><st Contlex="VIQQAD">põõll</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">põõll</st>
+         </stg>
          <etymology>
             <etymon type="xxx" source="uralic">pele-</etymon>
             <cognate xml:lang="xxx"/>
@@ -3373,11 +3584,13 @@
    <e meta="10">
       <lg>
          <l pos="v">puõccâd</l>
-<stg><st Contlex="VIQQAD">puõcc</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">puõcc</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="v"></t>
+            <t pos="v"/>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">potea</t>
@@ -3387,7 +3600,9 @@
    <e meta="04">
       <lg>
          <l pos="v">põõssâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3pl.prs">pâˊsse</form>
          </infl>
@@ -3460,7 +3675,9 @@
    <e meta="05">
       <lg>
          <l pos="v">raajjâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">raajam</form>
          </infl>
@@ -3505,11 +3722,13 @@
    <e meta="10">
       <lg>
          <l pos="v">cuõllâd</l>
-<stg><st Contlex="VIQQAD">cuõll</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">cuõll</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="v"></t>
+            <t pos="v"/>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">lintata</t>
@@ -3519,7 +3738,9 @@
    <e meta="05">
       <lg>
          <l pos="v">rekknâˊstted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="xxx"/>
             <cognate xml:lang="swe">räkna</cognate>
@@ -3557,7 +3778,9 @@
    <e meta="05">
       <lg>
          <l pos="v">reäkkad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.prs">reäkk</form>
          </infl>
@@ -3603,7 +3826,9 @@
    <e meta="03">
       <lg>
          <l pos="v">reäkkâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">reäǥǥam</form>
          </infl>
@@ -3630,7 +3855,9 @@
    <e meta="03">
       <lg>
          <l pos="v">ruâkksed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -3659,7 +3886,9 @@
    <e meta="03">
       <lg>
          <l pos="v">ruâpseed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -3688,7 +3917,9 @@
    <e meta="05">
       <lg>
          <l pos="v">ruõtˈtâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -3722,21 +3953,25 @@
    <e meta="10">
       <lg>
          <l pos="v">piassâd</l>
-<stg><st Contlex="VIQQAD">piass</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">piass</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="v"></t>
+            <t pos="v"/>
          </tg>
          <tg xml:lang="fin">
-            <t pos="v"></t>
+            <t pos="v"/>
          </tg>
       </mg>
    </e>
    <e meta="05">
       <lg>
          <l pos="v">ruˊvvjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="saamic">ruvije̮-</etymon>
             <cognate xml:lang="xxx"/>
@@ -3770,7 +4005,9 @@
    <e meta="05">
       <lg>
          <l pos="v" oahpa="dispref">rääppad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="xxx"/>
             <cognate xml:lang="fin?">raapia</cognate>
@@ -3811,7 +4048,9 @@
    <e meta="01">
       <lg>
          <l pos="v">räˊǩsted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -3832,7 +4071,9 @@
    <e meta="05">
       <lg>
          <l pos="v">sekkad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -3862,7 +4103,9 @@
    <e meta="03">
       <lg>
          <l pos="v">siltteed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="conneg.prs">silttâd</form>
          </infl>
@@ -3888,7 +4131,9 @@
    <e meta="03">
       <lg>
          <l pos="v">siõrrâd</l>
-<stg><st Contlex="VIQQAD">siõrr</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">siõrr</st>
+         </stg>
          <infl>
             <form gloss="3pl.prs">seäˊrre</form>
          </infl>
@@ -3944,7 +4189,9 @@
    <e meta="01">
       <lg>
          <l pos="v">sniimmâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -3963,7 +4210,9 @@
    <e meta="03">
       <lg>
          <l pos="v">soiˊttjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.prs">såitt</form>
          </infl>
@@ -3993,7 +4242,9 @@
    <e meta="03">
       <lg>
          <l pos="v">suukkâd</l>
-<stg><st Contlex="VIQQAD">suukk</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">suukk</st>
+         </stg>
          <infl>
             <form gloss="1sg.prs">suuǥǥam</form>
             <form gloss="1pl.pst">suuǥǥim</form>
@@ -4028,7 +4279,9 @@
    <e meta="03">
       <lg>
          <l pos="v">suåppâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">suåvam</form>
             <form gloss="2sg.prs">suåvak</form>
@@ -4062,7 +4315,9 @@
    <e meta="01">
       <lg>
          <l pos="v">suẹibbad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <lv variant="dial" source="1991">suâibbad</lv>
       </lg>
       <mg>
@@ -4081,11 +4336,13 @@
    <e meta="10">
       <lg>
          <l pos="v">nuõllâd</l>
-<stg><st Contlex="VIQQAD">nuõll</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">nuõll</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="v"></t>
+            <t pos="v"/>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">kehiä auki</t>
@@ -4095,7 +4352,9 @@
    <e meta="05">
       <lg>
          <l pos="v">sââjjad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="finnovolgaic">šiŋa-</etymon>
             <cognate xml:lang="xxx"/>
@@ -4129,7 +4388,9 @@
    <e meta="01">
       <lg>
          <l pos="v">särnnad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -4152,7 +4413,9 @@
    <e meta="03">
       <lg>
          <l pos="v">säˊtted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.prs">sätt</form>
             <form gloss="prtgen">säˊttmen</form>
@@ -4185,7 +4448,9 @@
    <e meta="03">
       <lg>
          <l pos="v">taarbšed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">taarbšam</form>
             <form gloss="conneg.prs">taarbâš</form>
@@ -4222,7 +4487,9 @@
    <e meta="01">
       <lg>
          <l pos="v">teevvad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -4233,7 +4500,9 @@
    <e meta="10">
       <lg>
          <l pos="v">koossâd</l>
-<stg><st Contlex="VIQQAD">kooss</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">kooss</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -4247,7 +4516,9 @@
    <e meta="04">
       <lg>
          <l pos="v">tieˊtted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <class>2.1.3.4</class>
             <form gloss="1sg.prs">teâđam</form>
@@ -4298,7 +4569,9 @@
    <e meta="03">
       <lg>
          <l pos="v">tiârrâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3pl.prs">teäˊrre</form>
          </infl>
@@ -4328,7 +4601,9 @@
    <e meta="03">
       <lg>
          <l pos="v">tiõrvted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">tiõrvtam</form>
             <form gloss="3sg.prs">tiõrvat</form>
@@ -4359,7 +4634,9 @@
    <e meta="03">
       <lg>
          <l pos="v">tobddâd</l>
-<stg><st Contlex="VIQQAD">tobdd</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">tobdd</st>
+         </stg>
          <infl>
             <form gloss="1sg.prs">toobdam</form>
             <form gloss="3sg.prs">tåbdd</form>
@@ -4393,7 +4670,9 @@
    <e meta="03">
       <lg>
          <l pos="v">tollstõõllâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -4419,7 +4698,9 @@
    <e meta="03">
       <lg>
          <l pos="v">tueˊllʼjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx">tueˊlle!</form>
          </infl>
@@ -4448,7 +4729,9 @@
    <e meta="05">
       <lg>
          <l pos="v">tuärrad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="inher" source="uralic">torɜ-</etymon>
             <cognate xml:lang="xxx"/>
@@ -4485,7 +4768,9 @@
    <e meta="04">
       <lg>
          <l pos="v">tuõˊlˈlʼjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <lv variant="dial" source="1991">tueˊlˈlʼjed</lv>
          <infl>
             <form gloss="imp.sg">tueˊlle</form>
@@ -4524,7 +4809,9 @@
    <e meta="03">
       <lg>
          <l pos="v">tuˊtǩǩeed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.prs">tuˊtǩǩad</form>
          </infl>
@@ -4553,7 +4840,9 @@
    <e meta="03">
       <lg>
          <l pos="v">tuˊvdded</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.prs">toudd</form>
          </infl>
@@ -4583,7 +4872,9 @@
    <e meta="04">
       <lg>
          <l pos="v">tuẹjˈjeed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="2sg.prs">tuẹjjääk</form>
          </infl>
@@ -4624,7 +4915,9 @@
    <e meta="03">
       <lg>
          <l pos="v">tättad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.prs">tätt</form>
          </infl>
@@ -4657,7 +4950,9 @@
    <e meta="05">
       <lg>
          <l pos="v">täävvad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -4691,7 +4986,9 @@
    <e meta="03">
       <lg>
          <l pos="v">tääˊvted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -4719,7 +5016,9 @@
    <e meta="03">
       <lg>
          <l pos="v">urččâd</l>
-<stg><st Contlex="VIQQAD">určč</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">určč</st>
+         </stg>
          <lv variant="dial" source="1991">uˊrččâd</lv>
          <infl>
             <form gloss="3sg.prs">orčč</form>
@@ -4760,7 +5059,9 @@
    <e meta="03">
       <lg>
          <l pos="v">uuˊrčted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3pl.prs">uuˊrčte</form>
          </infl>
@@ -4791,7 +5092,9 @@
    <e meta="04">
       <lg>
          <l pos="v">uˊvdded</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.prs">oudd</form>
          </infl>
@@ -4843,7 +5146,9 @@
    <e meta="03">
       <lg>
          <l pos="v">vaarõõttâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.prs">vaarââtt</form>
          </infl>
@@ -4875,7 +5180,9 @@
    <e meta="04">
       <lg>
          <l pos="v">vaˊstteed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <lv variant="dial" source="1991">väˊstteed</lv>
       </lg>
       <mg>
@@ -4906,7 +5213,9 @@
    <e meta="10">
       <lg>
          <l pos="v">muårrâd</l>
-<stg><st Contlex="VIQQAD">muårr</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">muårr</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -4920,7 +5229,9 @@
    <e meta="03">
       <lg>
          <l pos="v">veäncceed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <audio>
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/veaencceed_SKO111211_ZMN_5.wav"/>
@@ -4954,7 +5265,9 @@
    <e meta="01">
       <lg>
          <l pos="v">veˊrrddeed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <semantics>
@@ -4977,7 +5290,9 @@
    <e meta="10">
       <lg>
          <l pos="v">sõõkkâd</l>
-<stg><st Contlex="VIQQAD">sõõkk</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">sõõkk</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -4991,7 +5306,9 @@
    <e meta="06">
       <lg>
          <l pos="v">viikkâd</l>
-<stg><st Contlex="VIQQAD">viikk</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">viikk</st>
+         </stg>
          <infl>
             <form gloss="xxx">viˊǩǩe</form>
          </infl>
@@ -5008,7 +5325,9 @@
    <e meta="03">
       <lg>
          <l pos="v">viiššâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="conneg.prs">viižž</form>
          </infl>
@@ -5035,7 +5354,9 @@
    <e meta="03">
       <lg>
          <l pos="v">viǯǯâd</l>
-<stg><st Contlex="VIQQAD">viǯǯ</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">viǯǯ</st>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -5074,7 +5395,9 @@
    <e meta="04">
       <lg>
          <l pos="v">vueiˊnned</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.prs">vuäinn</form>
             <form gloss="conneg.prs">vuäinnam</form>
@@ -5123,7 +5446,9 @@
    <e meta="03">
       <lg>
          <l pos="v">vueiˊtted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">vuäitam</form>
             <form gloss="conneg.prs">vueiˊt</form>
@@ -5159,7 +5484,9 @@
    <e meta="03">
       <lg>
          <l pos="v">vuejjad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx">vuejj</form>
          </infl>
@@ -5188,7 +5515,9 @@
    <e meta="03">
       <lg>
          <l pos="v">vuejted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -5217,7 +5546,9 @@
    <e meta="05">
       <lg>
          <l pos="v">vueˊhssed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="inher" source="finnopermic">okse-</etymon>
             <etymon type="inher" source="saamic">vōksē</etymon>
@@ -5260,7 +5591,9 @@
    <e meta="03">
       <lg>
          <l pos="v">vueˊlǧǧed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">vuâlǥam</form>
             <form gloss="2sg.prs">vuâlǥak</form>
@@ -5299,7 +5632,9 @@
    <e meta="05">
       <lg>
          <l pos="v">vueˊlǧǧeed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -5332,7 +5667,9 @@
    <e meta="03">
       <lg>
          <l pos="v">vueˊrdded</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.prs">vuârdd</form>
          </infl>
@@ -5365,7 +5702,9 @@
    <e meta="03">
       <lg>
          <l pos="v">vuäǯǯad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="2sg.prs">vuäǯǯak</form>
             <form gloss="3sg.pst">vuäʒʒai</form>
@@ -5402,7 +5741,9 @@
    <e meta="03">
       <lg>
          <l pos="v">vuäˊstted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -5426,7 +5767,9 @@
    <e meta="05">
       <lg>
          <l pos="v">vuõiŋŋâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="uralic">wajŋe</etymon>
             <cognate xml:lang="xxx"/>
@@ -5462,7 +5805,9 @@
    <e meta="04">
       <lg>
          <l pos="v">vuõjjâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="inher" source="uralic">uje-</etymon>
             <cognate xml:lang="sjd">вӯйе</cognate>
@@ -5537,7 +5882,9 @@
    <e meta="04">
       <lg>
          <l pos="v">vuẹjjad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <lv variant="dial" source="1991">vuâjjad</lv>
          <lv variant="dial" source="1991">vueˊjjed</lv>
          <infl>
@@ -5574,7 +5921,9 @@
    <e meta="03">
       <lg>
          <l pos="v">vuẹjted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <lv variant="dial" source="1991">vuâjted</lv>
          <infl>
             <form gloss="1pl.prs">vuejtep</form>
@@ -5601,7 +5950,9 @@
    <e meta="04">
       <lg>
          <l pos="v">vuẹˊđđed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1pl.pst">vuõˊđim</form>
          </infl>
@@ -5653,21 +6004,25 @@
    <e meta="10">
       <lg>
          <l pos="v">kuaccâd</l>
-<stg><st Contlex="VIQQAD">kuacc</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">kuacc</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="v"></t>
+            <t pos="v"/>
          </tg>
          <tg xml:lang="fin">
-            <t pos="v"></t>
+            <t pos="v"/>
          </tg>
       </mg>
    </e>
    <e meta="05">
       <lg>
          <l pos="v">västtled</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -5699,7 +6054,9 @@
    <e meta="03">
       <lg>
          <l pos="v">väällad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">väällam</form>
             <form gloss="3sg.prs">vääll</form>
@@ -5729,7 +6086,9 @@
    <e meta="03">
       <lg>
          <l pos="v">vääˊlʼjed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">vääˊlʼjam</form>
          </infl>
@@ -5759,7 +6118,9 @@
    <e meta="04">
       <lg>
          <l pos="v">väˊldded</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">vääldam</form>
             <form gloss="3sg.prs">väldd</form>
@@ -5824,7 +6185,9 @@
    <e meta="04">
       <lg>
          <l pos="v">väˊʒʒed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="inher" source="finnougric">wanča-</etymon>
             <cognate xml:lang="sjd">ва̄ннҍцэ</cognate>
@@ -5870,7 +6233,9 @@
    <e meta="04">
       <lg>
          <l pos="v">âskkeed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -5900,7 +6265,9 @@
    <e meta="01">
       <lg>
          <l pos="v">âˊbrred</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -5923,7 +6290,9 @@
    <e meta="05">
       <lg>
          <l pos="v">âˊpssed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="uralic">ipɜ ~ ipɜ-sɜ (ipsɜ)</etymon>
             <cognate xml:lang="xxx"/>
@@ -5979,7 +6348,9 @@
    <e meta="03">
       <lg>
          <l pos="v">âˊvveed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">âˊvvam</form>
             <form gloss="3sg.prs">âˊvvad</form>
@@ -6010,7 +6381,9 @@
    <e meta="03">
       <lg>
          <l pos="v">äiggad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">ääiǥam</form>
          </infl>
@@ -6039,7 +6412,9 @@
    <e meta="03">
       <lg>
          <l pos="v">ääˊveed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.prs">ääˊvad</form>
             <form gloss="xxx">ääˊva</form>
@@ -6070,7 +6445,9 @@
    <e meta="03">
       <lg>
          <l pos="v">äˊlǧǧed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="3sg.prs">älgg</form>
             <form gloss="2sg.prs">äälǥak</form>
@@ -6104,7 +6481,9 @@
    <e meta="04">
       <lg>
          <l pos="v">årsted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -6131,7 +6510,9 @@
    <e meta="03">
       <lg>
          <l pos="v">åskkad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="conneg.prs">ååsk</form>
          </infl>
@@ -6159,7 +6540,9 @@
    <e meta="03">
       <lg>
          <l pos="v">õlggâd</l>
-<stg><st Contlex="VIQQAD">õlgg</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">õlgg</st>
+         </stg>
          <infl>
             <form gloss="1sg.prs">õõlǥam</form>
             <form gloss="3sg.pst">õõlǥi</form>
@@ -6202,7 +6585,9 @@
    <e meta="03">
       <lg>
          <l pos="v">õsttâd</l>
-<stg><st Contlex="VIQQAD">õstt</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">õstt</st>
+         </stg>
          <audio>
             <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ysttayd_SKO111211_ZMN_5.wav"/>
@@ -6236,7 +6621,9 @@
    <e meta="01">
       <lg>
          <l pos="v">čeärggad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -6247,7 +6634,9 @@
    <e meta="05">
       <lg>
          <l pos="v">čiõkkâd</l>
-<stg><st Contlex="VIQQAD">čiõkk</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">čiõkk</st>
+         </stg>
          <etymology>
             <etymon type="xxx" source="finnosaamic">śäki-</etymon>
             <cognate xml:lang="xxx"/>
@@ -6288,7 +6677,9 @@
    <e meta="05">
       <lg>
          <l pos="v">čolggâd</l>
-<stg><st Contlex="VIQQAD">čolgg</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">čolgg</st>
+         </stg>
          <etymology>
             <etymon type="xxx" source="finnougric">śülˊke-</etymon>
             <cognate xml:lang="xxx"/>
@@ -6325,7 +6716,9 @@
    <e meta="03">
       <lg>
          <l pos="v">čouggâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -6354,7 +6747,9 @@
    <e meta="03">
       <lg>
          <l pos="v">čueˊcced</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">čuâcam</form>
             <form gloss="3sg.prs">čuâcc</form>
@@ -6384,7 +6779,9 @@
    <e meta="03">
       <lg>
          <l pos="v">čuârvvad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -6413,7 +6810,9 @@
    <e meta="03">
       <lg>
          <l pos="v">čuâvvad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -6442,7 +6841,9 @@
    <e meta="03">
       <lg>
          <l pos="v">čuäˊjted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx">(\#čuäˊjtam,čuäˊjat)</form>
          </infl>
@@ -6471,7 +6872,9 @@
    <e meta="05">
       <lg>
          <l pos="v">čuõpˈpâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="inher" source="finnougric?">ćappɜ-</etymon>
             <cognate xml:lang="sjd">чӯһпэ</cognate>
@@ -6516,7 +6919,9 @@
    <e meta="01">
       <lg>
          <l pos="v">čuõrmsted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -6534,7 +6939,9 @@
    <e meta="05">
       <lg>
          <l pos="v">čuõˊǧǧeed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -6570,7 +6977,9 @@
    <e meta="05">
       <lg>
          <l pos="v">čuẹǯʼǯad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <lv variant="dial">čuâǯˈǯad</lv>
          <lv variant="dial">čuäǯˈǯad</lv>
          <etymology>
@@ -6616,7 +7025,9 @@
    <e meta="05">
       <lg>
          <l pos="v">čâˊcǩǩed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -6649,7 +7060,9 @@
    <e meta="05">
       <lg>
          <l pos="v">čärvvad</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -6682,7 +7095,9 @@
    <e meta="05">
       <lg>
          <l pos="v">čõõnnâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="saamic">će̮ne̮-</etymon>
             <cognate xml:lang="xxx"/>
@@ -6718,7 +7133,9 @@
    <e meta="03">
       <lg>
          <l pos="v">šõddâd</l>
-<stg><st Contlex="VIQQAD">šõdd</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">šõdd</st>
+         </stg>
          <infl>
             <form gloss="3sg.prs">šâdd</form>
             <form gloss="3sg.pst">šõõddi</form>
@@ -6769,7 +7186,9 @@
    <e meta="05">
       <lg>
          <l pos="v" oahpa="dispref">ǩeâulleed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <semantics>
@@ -6799,7 +7218,9 @@
    <e meta="04">
       <lg>
          <l pos="v">ǩeˊrdded</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="inher" source="finnosaamic">kīri-</etymon>
             <cognate xml:lang="sjd">кыррьтэ</cognate>
@@ -6845,7 +7266,9 @@
    <e meta="03">
       <lg>
          <l pos="v">ǩeˊtted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1sg.prs">keâttam</form>
          </infl>
@@ -6874,7 +7297,9 @@
    <e meta="01">
       <lg>
          <l pos="v">ǩiirjted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -6895,7 +7320,9 @@
    <e meta="03">
       <lg>
          <l pos="v">ǩiirted</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx">(\#ǩiirtam,ǩiirat)</form>
          </infl>
@@ -6924,7 +7351,9 @@
    <e meta="03">
       <lg>
          <l pos="v">ǩiiččeed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="xxx"/>
          </infl>
@@ -6953,7 +7382,9 @@
    <e meta="03">
       <lg>
          <l pos="v">ǩiõččâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <infl>
             <form gloss="1pl.prs">ǩiõččâp</form>
             <form gloss="3pl.prs">ǩeäˊčče</form>
@@ -6992,7 +7423,9 @@
    <e meta="03">
       <lg>
          <l pos="v">ǩiččlõddâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <sources>
@@ -7030,11 +7463,13 @@
    <e meta="10">
       <lg>
          <l pos="v">lõõmmâd</l>
-<stg><st Contlex="VIQQAD">lõõmm</st></stg>
+         <stg>
+            <st Contlex="VIQQAD">lõõmm</st>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="v"></t>
+            <t pos="v"/>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">piiloutua</t>
@@ -7044,7 +7479,9 @@
    <e meta="01">
       <lg>
          <l pos="v">ǩiččlõõttâd</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -7057,7 +7494,9 @@
    <e meta="05">
       <lg>
          <l pos="v">ǩiẹˊssed</l>
-<stg><st Contlex=""></st></stg>
+         <stg>
+            <st Contlex=""/>
+         </stg>
          <etymology>
             <etymon type="xxx" source="saamic">kɛ̄sē-</etymon>
             <cognate xml:lang="xxx"/>
