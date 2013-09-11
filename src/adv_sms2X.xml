@@ -7,7 +7,7 @@
       </lg>
       <mg>
          <sources>
-            <book>
+            <book/>
          </sources>
          <semantics>
             <sem class="SENSE">xxx</sem>
@@ -33,7 +33,7 @@
       </lg>
       <mg>
          <sources>
-            <book>
+            <book/>
          </sources>
          <semantics>
             <sem class="SENSE">xxx</sem>
