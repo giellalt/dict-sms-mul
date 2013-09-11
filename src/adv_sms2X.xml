@@ -3,52 +3,25 @@
    <e meta="09">
       <lg>
          <l pos="adv">ooudâs</l>
-         <note>check pos</note>
       </lg>
       <mg>
          <sources>
             <book/>
          </sources>
          <semantics>
-            <sem class="SENSE">xxx</sem>
+            <sem class="TIME">POINT</sem>
          </semantics>
          <tg xml:lang="fin">
             <t pos="adv">eteenpäin</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="adv">xxx</t>
+            <t pos="adv">дальше</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">framover</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">forwards</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="09">
-      <lg>
-         <l pos="adv">eeˊjjest</l>
-         <note>check pos</note>
-      </lg>
-      <mg>
-         <sources>
-            <book/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">xxx</sem>
-         </semantics>
-         <tg xml:lang="fin">
-            <t pos="adv">vuonna</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="adv">на год</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="adv">året</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="adv">in the year</t>
          </tg>
       </mg>
    </e>
