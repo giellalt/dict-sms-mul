@@ -18,14 +18,15 @@ The dictionary is devided into several single files for the different PoS (deriv
 *to be continued…
 
 =====
-Derivation
+Derivation (subfolder ~/der)
 =====
 Since most derivations are formed by means of regular/productive morphology and do not represent own lemmas they are stored in separate files for derived PoS's with the link to the respective root as a variable. For different kinds of dictionaries, we will later handle derivations differently:
-*Oahpa!-nuõrti includes derivations
-*Saan?? (whereas a simple word list - like the current GT online dict for sms - can include derivations as own lemmas, a better structured dictionary does not need to include erivations as own lemmas)
+*Oahpa!-nuõrti includes derivations similar to other lemmas (if these derivations are tagged for oahpa)
+*saan.oahpa.no includes derivations similar to other lemmas
+*in a future printed dictionary some derivations will be listed under root lemmas
 *contlex lexica do not include productive derivations
-Issues to be discussed and resolved later:
-*what are the non/lexicalized derivations and how do we tag this?
+**PROBLEM: what are the productive (non/lexicalized) derivations and how do we tag this?
+
 
 =====
 Variation
