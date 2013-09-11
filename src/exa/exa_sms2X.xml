@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+            <xg>
+                <x type="compound" pos="a">kuuđekksaž</x>
+                <xtg xml:lang="fin">
+                    <t pos="a">kuusivuotias</t>
+                </xtg>
+                <xtg xml:lang="eng">
+                    <xt pos="mwe_a">six years old</xt>
+                </xtg>
+            </xg>
     <dg>
         <d type="infl" pos="pro">suäna</d>
         <dtg xml:lang="eng">

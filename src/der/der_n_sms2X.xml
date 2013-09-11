@@ -1,5 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+    <e meta="04">
+        <lg>
+            <l pos="n" lemma="prop_Tâˊrjj">tâˊrjjlaž</l>
+        </lg>
+        <mg>
+            <sources>
+                <book/>
+            </sources>
+            <semantics>
+                <sem class="HUMAN">PEOPLE</sem>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="mwe_n">иоканьгский саами</t>
+                <t pos="mwe_n">иокангский саами</t>
+                <t pos="mwe_n">йоканьгский саами</t>
+                <t pos="mwe_n">йокангский саами</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="n">turjalainen</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="n">tersame</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="mwe_n">Ter Sami</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="04">
+        <lg>
+            <l pos="n" lemma="n_sääˊmm">äˊǩǩelsääˊmm</l>
+        </lg>
+        <mg>
+            <sources>
+                <book/>
+            </sources>
+            <semantics>
+                <sem class="HUMAN">PEOPLE</sem>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="mwe_n">бабинский саами</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="n">akkalansaamelainen</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="n">akkalasame</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="mwe_n">Akkala Sami</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="04">
+        <lg>
+            <l pos="n" lemma="n_sääˊmm">ǩiˊlddsääˊmm</l>
+        </lg>
+        <mg>
+            <sources>
+                <book/>
+            </sources>
+            <semantics>
+                <sem class="HUMAN">PEOPLE</sem>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="n">кильдин-саами</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="n">kildiniläinen</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="n">kildinsame</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="mwe_n">Kildin Sami</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="09">
+        <lg>
+            <l pos="n" lemma="n_sääˊmm">tâˊvvsääˊmm</l>
+        </lg>
+        <mg>
+            <sources>
+                <book/>
+            </sources>
+            <semantics>
+                <sem class="HUMAN">PEOPLE</sem>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="mwe_n">северный саами</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="n">pohjoissaamelainen</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="n">nordsame</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="mwe_n">North Sami</t>
+            </tg>
+        </mg>
+    </e>
     <e>
         <lg>
             <l pos="n" lemma="num_čueˊtt">čueˊđes</l>

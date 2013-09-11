@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="04">
+      <lg>
+         <l pos="prop" type="place">Tâˊrjj</l>
+      </lg>
+      <mg>
+         <semantics>
+            <sem type="ENVIR">SETTLEMENT</sem>
+         </semantics>
+         <tg xml:lang="rus">
+            <t pos="mwe_prop">Терский берег</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="prop">Turja</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="03">
       <lg>
-         <l pos="prop" type="person" gender="f">Dåˊmnn </l>
+         <l pos="prop" type="person" gender="f">Dåˊmnn</l>
       </lg>
       <mg>
          <usage oahpa="yes"/>
