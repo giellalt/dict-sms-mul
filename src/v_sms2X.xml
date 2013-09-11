@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e>
+      <lg>
+         <lv pos="v">kuõskkâd</lv>
+<stg><st Contlex=""></st></stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="v">koskea</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="v">xxx</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="v">xxx</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="v">berøre</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="04">
       <lg>
          <lv source="ZMN" pos="v">njikkšted</lv>

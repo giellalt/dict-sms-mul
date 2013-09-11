@@ -1,5 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+  <e>
+      <lg>
+         <l pos="n">aanaar</l>
+      </lg>
+      <mg>
+         <sources>
+            <book/>
+         </sources>
+         <tg xml:lang="rus">
+            <t pos="n">инари</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">inari</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">enare</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">eeˊjj</l>
+      </lg>
+      <mg>
+         <sources>
+            <book>
+         </sources>
+         <semantics>
+            <sem class="SENSE">TIME</sem>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="adv">vuosi</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">год</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">år</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">year</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">eeˊčč</l>
+      </lg>
+      <mg>
+         <sources>
+            <book>
+         </sources>
+         <semantics>
+            <sem class="SENSE">TIME</sem>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="adv">vuosi</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">год</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">år</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">year</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">eeˊǩǩ</l>
+      </lg>
+      <mg>
+         <sources>
+            <book>
+         </sources>
+         <semantics>
+            <sem class="SENSE">TIME</sem>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="adv">vuosi</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">год</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">år</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">year</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">teâtt</l>
+      </lg>
+      <mg>
+         <sources>
+            <book/>
+         </sources>
+         <tg xml:lang="rus">
+            <t pos="n">знание</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">tieto</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">kunnskap</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sääˊmteˊǧǧ</l>
+      </lg>
+      <mg>
+         <sources>
+            <book/>
+         </sources>
+         <tg xml:lang="rus">
+            <t pos="n">саамский парламент</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">saamelaiskäräjät</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">sametinget</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">sääˊm</l>
+      </lg>
+      <mg>
+         <sources>
+            <book/>
+         </sources>
+         <tg xml:lang="rus">
+            <t pos="n">саами</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">saamelainen</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">same</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">tâˊvvsääˊm</l>
+      </lg>
+      <mg>
+         <sources>
+            <book/>
+         </sources>
+         <tg xml:lang="rus">
+            <t pos="n">северный саам</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">pohjoissaamelainen</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">nordsame</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">kulttuur</l>
+      </lg>
+      <mg>
+         <sources>
+            <book/>
+         </sources>
+         <tg xml:lang="rus">
+            <t pos="n">култура</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">kulttuuri</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">kultur</t>
+         </tg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
+      </mg>
+   </e>
+
+
    <e meta="04">
       <lg>
          <l pos="n">ruõšˈš</l>
