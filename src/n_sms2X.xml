@@ -8,6 +8,9 @@
          <sources>
             <book/>
          </sources>
+         <semantics>
+            <sem class="HUMAN"/>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="n">знание</t>
          </tg>
@@ -17,9 +20,9 @@
          <tg xml:lang="nob">
             <t pos="n">kunnskap</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <tg xml:lang="eng">
+            <t pos="n">knowledge</t>
+         </tg>
       </mg>
    </e>
    <e meta="09">
@@ -30,8 +33,11 @@
          <sources>
             <book/>
          </sources>
+         <semantics>
+            <sem class="HUMAN"/>
+         </semantics>
          <tg xml:lang="rus">
-            <t pos="n">саамский парламент</t>
+            <t pos="mwe_n">саамский парламент</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">saamelaiskäräjät</t>
@@ -39,19 +45,31 @@
          <tg xml:lang="nob">
             <t pos="n">sametinget</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <tg xml:lang="swe">
+            <t pos="n">sametinget</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="mwe_n">Sami parliament</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="n">sámediggi</t>
+         </tg>
+         <tg xml:lang="sjd">
+            <t pos="mwe_n">са̄мь соббар</t>
+         </tg>
       </mg>
    </e>
    <e meta="09">
       <lg>
-         <l pos="n">sääˊm</l>
+         <l pos="n">sääˊmm</l>
       </lg>
       <mg>
          <sources>
             <book/>
          </sources>
+         <semantics>
+            <sem class="HUMAN">PEOPLE</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="n">саами</t>
          </tg>
@@ -61,31 +79,29 @@
          <tg xml:lang="nob">
             <t pos="n">same</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <tg xml:lang="nob">
+            <t pos="n">Sami</t>
+         </tg>
       </mg>
-   </e>
-   <e meta="09">
-      <lg>
-         <l pos="n">tâˊvvsääˊm</l>
-      </lg>
       <mg>
          <sources>
             <book/>
          </sources>
+         <semantics>
+            <sem class="HUMAN">PEOPLE</sem>
+         </semantics>
          <tg xml:lang="rus">
-            <t pos="n">северный саам</t>
+            <t pos="n">колтта-саами</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="n">pohjoissaamelainen</t>
+            <t pos="n">koltta</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="n">nordsame</t>
+            <t pos="n">skoltesame</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <tg xml:lang="nob">
+            <t pos="mwe_n">Skolt Sami</t>
+         </tg>
       </mg>
    </e>
    <e meta="09">
@@ -96,6 +112,9 @@
          <sources>
             <book/>
          </sources>
+         <semantics>
+            <sem class="HUMAN"/>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="n">култура</t>
          </tg>
@@ -105,9 +124,9 @@
          <tg xml:lang="nob">
             <t pos="n">kultur</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
+         <tg xml:lang="eng">
+            <t pos="n">culture</t>
+         </tg>
       </mg>
    </e>
    <e meta="04">
