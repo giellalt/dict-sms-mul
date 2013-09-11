@@ -2,56 +2,6 @@
 <r xml:lang="sms">
    <e meta="09">
       <lg>
-         <l pos="n">eeˊjj</l>
-      </lg>
-      <mg>
-         <sources>
-            <book/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">TIME</sem>
-         </semantics>
-         <tg xml:lang="fin">
-            <t pos="adv">vuosi</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="adv">год</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="adv">år</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="adv">year</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="09">
-      <lg>
-         <l pos="n">eeˊčč</l>
-      </lg>
-      <mg>
-         <sources>
-            <book/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">TIME</sem>
-         </semantics>
-         <tg xml:lang="fin">
-            <t pos="adv">vuosi</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="adv">год</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="adv">år</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="adv">year</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="09">
-      <lg>
          <l pos="n">eeˊǩǩ</l>
       </lg>
       <mg>
