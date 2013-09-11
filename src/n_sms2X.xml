@@ -28,7 +28,7 @@
       </lg>
       <mg>
          <sources>
-            <book>
+            <book/>
          </sources>
          <semantics>
             <sem class="SENSE">TIME</sem>
@@ -53,7 +53,7 @@
       </lg>
       <mg>
          <sources>
-            <book>
+            <book/>
          </sources>
          <semantics>
             <sem class="SENSE">TIME</sem>
@@ -78,7 +78,7 @@
       </lg>
       <mg>
          <sources>
-            <book>
+            <book/>
          </sources>
          <semantics>
             <sem class="SENSE">TIME</sem>
