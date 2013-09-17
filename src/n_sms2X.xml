@@ -1070,7 +1070,6 @@
    <e meta="03">
       <lg>
          <l pos="n">eˊčč</l>
-         <lv variant="dial" source="1991">eeˊčč</lv>
          <infl>
             <form gloss="nom.pl">eeˊjj</form>
          </infl>
@@ -1184,7 +1183,6 @@
    <e meta="01">
       <lg>
          <l pos="n">gaˊzeâˊt</l>
-         <lv variant="dial" source="meta01">gaˊzaat</lv>
       </lg>
       <mg>
          <semantics>
@@ -1607,7 +1605,6 @@
    <e meta="07">
       <lg>
          <l pos="n">jeättmõš</l>
-         <lv variant="dial" source="xxx">jättmõš</lv>
          <infl>
             <form gloss="gen.sg">-mõõžž</form>
             <form gloss="ill.sg">-mõˊšše</form>
@@ -1646,7 +1643,6 @@
    <e meta="04">
       <lg>
          <l pos="n">jeäˊnˈn</l>
-         <lv variant="dial" source="1991">jieˊnˈn</lv>
          <infl>
             <form gloss="poss3.com.sg">jieˊnnines</form>
          </infl>
@@ -2529,7 +2525,6 @@
    <e meta="04">
       <lg>
          <l pos="n">kaaˊff</l>
-         <lv variant="dial" source="1991">kååˊff</lv>
          <infl>
             <form gloss="gen.sg">kaaˊf</form>
          </infl>
@@ -2637,7 +2632,6 @@
    <e meta="04">
       <lg>
          <l pos="n">keäˊpˈper</l>
-         <lv variant="dial" source="1991">kâˊpper</lv>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -5543,7 +5537,6 @@
    <e meta="01">
       <lg>
          <l pos="n">neäˊttelʼlopp</l>
-         <lv variant="orth" source="xxx">neäˊttel-lopp</lv>
       </lg>
       <mg>
          <semantics>
@@ -6143,76 +6136,6 @@
          </tg>
       </mg>
    </e>
-   <e meta="03">
-      <lg>
-         <l pos="n" type="dim" root="åålm">ooumaž</l>
-         <lv variant="dial" source="1991">ååumaž</lv>
-         <audio>
-            <a dialect="muo" speaker="ZMN"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ooumazh_SKO111210_ZMN.wav"
-            />
-         </audio>
-         <infl>
-            <form gloss="nom.pl">oummu</form>
-         </infl>
-      </lg>
-      <mg term="KINSHIP">
-         <sources>
-            <book name="kurss" lesson="1"/>
-            <book name="200" BEDLAN_ID="*99"/>
-            <book name="100"/>
-         </sources>
-         <semantics>
-            <sem class="HUMAN">FAMILY</sem>
-         </semantics>
-         <tg xml:lang="fin">
-            <t pos="n">mies</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="n">mann</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="n">муж</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="n" oahpa="pref">Ehemann</t>
-            <t pos="n">Mann</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="n">dievdu</t>
-            <t pos="n">almmái</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="n">ålmài</t>
-            <t pos="n">ålˈmaah</t>
-         </tg>
-      </mg>
-      <mg>
-         <semantics>
-            <sem class="HUMAN">PEOPLE</sem>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="n">человек</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="n">ihminen</t>
-            <t pos="n" oahpa="pref">henkilö</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="n">person</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="n" oahpa="pref">person</t>
-            <t pos="n">man</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="n">olmmoš</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="n">alˈmatja</t>
-         </tg>
-      </mg>
-   </e>
    <e meta="01">
       <lg>
          <l pos="n">oovâš</l>
@@ -6472,7 +6395,6 @@
    <e meta="04">
       <lg>
          <l pos="n">peˊssertuẹjj</l>
-         <lv variant="dial" source="1991">peˊssertuâjj</lv>
       </lg>
       <mg term="DUODJI">
          <semantics>
@@ -7492,8 +7414,6 @@
    <e meta="04">
       <lg>
          <l pos="n">pâˊzzlâšttammään</l>
-         <lv variant="orth" source="ksdp">pâˊzzlâšttamʼmään</lv>
-         <lv variant="orth" source="ksdp">pâˊzzlâšttam-mään</lv>
       </lg>
       <mg>
          <semantics>
@@ -8946,7 +8866,6 @@
    <e meta="04">
       <lg>
          <l pos="n">sieˊm</l>
-         <lv variant="dial" source="1991">siõm</lv>
          <infl>
             <form gloss="nom.pl">siõmˈmân</form>
          </infl>
@@ -9091,7 +9010,6 @@
    <e meta="04">
       <lg>
          <l pos="n">siõmm</l>
-         <lv variant="orth" source="1991">siõm</lv>
       </lg>
       <mg kurss="yes">
          <sources>
@@ -9202,7 +9120,6 @@
    <e meta="03">
       <lg>
          <l pos="n">sluuˊžb</l>
-         <lv variant="dial" source="1991">sluuˊžv</lv>
          <synonym>sluuž</synonym>
          <etymology>
             <etymon type="loan" source="rus">служба</etymon>
@@ -9483,7 +9400,6 @@
    <e meta="04">
       <lg>
          <l pos="n">stuẹˊll</l>
-         <lv variant="dial" source="1991">stuâˊll</lv>
          <synonym>påˊrdd</synonym>
       </lg>
       <mg>
@@ -12074,7 +11990,6 @@
    <e meta="03">
       <lg>
          <l pos="n">vuäˊǯˈǯ</l>
-         <lv variant="dial" source="1991">vueˊǯˈǯ</lv>
          <infl>
             <form gloss="loc.sg">vuäˊǯǯest</form>
          </infl>
@@ -12422,7 +12337,6 @@
    <e meta="04">
       <lg>
          <l pos="n">vuẹˊddes</l>
-         <lv variant="dial" source="1988">vuâˊddes</lv>
          <etymology>
             <etymon type="inher" source="finnovolgaic">ontɜ</etymon>
             <cognate xml:lang="sjd">вуэнҍтэсь</cognate>
@@ -13180,7 +13094,6 @@
    <e meta="04">
       <lg>
          <l pos="n">åål</l>
-         <lv variant="dial">ååum</lv>
          <etymology>
             <etymon type="inher" source="saamic">olmɔ̄-</etymon>
             <cognate xml:lang="xxx"/>
@@ -13245,8 +13158,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="n" root="åålm">åålmai</l>
-         <lv variant="dial">ååumai</lv>
+         <l pos="n">åålmai</l>
          <etymology>
             <etymon type="inher" source="saamic">e̮lmāj</etymon>
             <cognate xml:lang="xxx"/>
@@ -13387,8 +13299,6 @@
    <e meta="04">
       <lg>
          <l pos="n">õummooumaž</l>
-         <lv variant="orth" source="xxx">õumm-ooumaž</lv>
-         <lv variant="dial" source="1991">õumååumaž</lv>
       </lg>
       <mg>
          <sources>
@@ -13478,7 +13388,6 @@
    <e meta="04">
       <lg>
          <l pos="n">čee</l>
-         <lv variant="dial" source="1991">čeei</lv>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -13763,8 +13672,6 @@
    <e meta="05">
       <lg>
          <l pos="n">čuâr</l>
-         <lv variant="dial" source="1991">čuâras</lv>
-         <lv variant="dial" source="1991">čuâraš</lv>
       </lg>
       <mg>
          <sources>
@@ -13829,7 +13736,6 @@
    <e meta="04">
       <lg>
          <l pos="n">čuäjtõs</l>
-         <lv variant="orth" source="1988">čuäitõs</lv>
       </lg>
       <mg>
          <semantics>
@@ -15156,7 +15062,6 @@
    <e meta="03">
       <lg>
          <l pos="n">ǩizldõk</l>
-         <lv variant="dial" source="1991">ǩiizzldõk</lv>
       </lg>
       <mg>
          <sources>
@@ -15294,9 +15199,6 @@
    <e meta="04">
       <lg>
          <l pos="n">ǩiõttʼtuẹjj</l>
-         <lv variant="dial" source="1991">ǩiõttʼtuâjj</lv>
-         <lv variant="orth" source="xxx">ǩiõtt-tuẹjj</lv>
-         <lv variant="orth" source="xxx">ǩiõtt-tuâjj</lv>
       </lg>
       <mg term="DUODJI">
          <tg xml:lang="rus">
@@ -15339,7 +15241,6 @@
    <e meta="03">
       <lg>
          <l pos="n">ǩiđđ</l>
-         <lv source="meta01">ǩiđđâ</lv>
       </lg>
       <mg>
          <sources>
