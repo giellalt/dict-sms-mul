@@ -1249,7 +1249,6 @@
    <e meta="01">
       <lg>
          <l pos="n">gåårad</l>
-         <synonym>lâˊnn</synonym>
          <etymology>
             <etymon type="loan" source="rus">город</etymon>
          </etymology>
@@ -1405,7 +1404,6 @@
    <e meta="04">
       <lg>
          <l pos="n" dial="???" oahpa="dispref">ijj</l>
-         <synonym>inn</synonym>
          <etymology>
             <etymon type="inher" source="finnougric">üje</etymon>
             <cognate xml:lang="sjd">ыйй</cognate>
@@ -5705,7 +5703,6 @@
    <e meta="01">
       <lg>
          <l pos="n">njuhččmään</l>
-         <synonym>pââˊzzmään</synonym>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -7368,7 +7365,6 @@
    <e meta="01">
       <lg>
          <l pos="n">pââˊzzmään</l>
-         <synonym>njuhččmään</synonym>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -7799,7 +7795,6 @@
    <e meta="03">
       <lg>
          <l pos="n">påˊrdd</l>
-         <synonym>stuẹˊll</synonym>
          <infl>
             <form gloss="gen.sg">pååˊrd</form>
          </infl>
@@ -8103,7 +8098,6 @@
    <e meta="01">
       <lg>
          <l pos="n">reäppen</l>
-         <synonym>truuba</synonym>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -9054,7 +9048,6 @@
    <e meta="01">
       <lg>
          <l pos="n">skammʼmään</l>
-         <synonym>vuˊvrrmään</synonym>
       </lg>
       <mg>
          <semantics>
@@ -9096,7 +9089,6 @@
    <e meta="04">
       <lg>
          <l pos="n">sluuž</l>
-         <synonym>sluuˊžb</synonym>
          <etymology>
             <etymon type="loan" source="rus">служба</etymon>
          </etymology>
@@ -9120,7 +9112,6 @@
    <e meta="03">
       <lg>
          <l pos="n">sluuˊžb</l>
-         <synonym>sluuž</synonym>
          <etymology>
             <etymon type="loan" source="rus">служба</etymon>
          </etymology>
@@ -9400,7 +9391,6 @@
    <e meta="04">
       <lg>
          <l pos="n">stuẹˊll</l>
-         <synonym>påˊrdd</synonym>
       </lg>
       <mg>
          <semantics>
@@ -9582,7 +9572,6 @@
    <e meta="01">
       <lg>
          <l pos="n">sukkâr</l>
-         <synonym>säähhar</synonym>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -10024,7 +10013,6 @@
    <e meta="03">
       <lg>
          <l pos="n">säähhar</l>
-         <synonym>sukkâr</synonym>
       </lg>
       <mg>
          <sources>
@@ -10795,7 +10783,6 @@
    <e meta="01">
       <lg>
          <l pos="n">truuba</l>
-         <synonym>reäˊppen</synonym>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -12311,7 +12298,6 @@
    <e meta="04">
       <lg>
          <l pos="n">vuˊvrrmään</l>
-         <synonym>skammʼmään</synonym>
       </lg>
       <mg>
          <semantics>
@@ -14034,7 +14020,6 @@
    <e meta="01">
       <lg>
          <l pos="n">čâˊlmmluõmm</l>
-         <synonym>čâˊlmmrååmm</synonym>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -14067,7 +14052,6 @@
    <e meta="01">
       <lg>
          <l pos="n">čâˊlmmrååmm</l>
-         <synonym>čâˊlmmluõmm</synonym>
       </lg>
       <mg>
          <tg xml:lang="eng">
