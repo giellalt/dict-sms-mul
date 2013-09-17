@@ -1,5 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+    <lg>
+        <lv pos="n" variant="xxx" source="meta01" lemma="ǩiđđ">ǩiđđâ</lv>
+    </lg>
+    <e>
+        <lv pos="n" variant="orth" source="xxx" lemma="ǩiõttʼtuẹjj">ǩiõtt-tuâjj</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="orth" source="xxx" lemma="ǩiõttʼtuẹjj">ǩiõtt-tuẹjj</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="ǩiõttʼtuẹjj">ǩiõttʼtuâjj</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="ǩizldõk">ǩiizzldõk</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="orth" source="1988" lemma="čuäjtõs">čuäitõs</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="čuâr">čuâraš</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="čuâr">čuâras</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="čee">čeei</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="õummooumaž">õumååumaž</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="orth" source="xxx" lemma="õummooumaž">õumm-ooumaž</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="xxx" lemma="åålmai">ååumai</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="xxx" lemma="åål">ååum</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1988" lemma="vuẹˊddes">vuâˊddes</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="vuäˊǯˈǯ">vueˊǯˈǯ</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="stuẹˊll">stuâˊll</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="sluuˊžb">sluuˊžv</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="orth" source="1991" lemma="siõmm">siõm</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="sieˊm">siõm</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="orth" source="ksdp" lemma="pâˊzzlâšttammään">pâˊzzlâšttam-mään</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="orth" source="ksdp" lemma="pâˊzzlâšttammään">pâˊzzlâšttamʼmään</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="peˊssertuẹjj">peˊssertuâjj</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="ooumaž">ååumaž</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="orth" source="xxx" lemma="neäˊttelʼlopp">neäˊttel-lopp</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="keäˊpˈper">kâˊpper</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="kaaˊff">kååˊff</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="jeäˊnˈn">jieˊnˈn</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="xxx" lemma="jeättmõš">jättmõš</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="meta01" lemma="gaˊzeâˊt">gaˊzaat</lv>
+    </e>
+    <e>
+        <lv pos="n" variant="dial" source="1991" lemma="eˊčč">eeˊčč</lv>
+    </e>
     <e>
         <lv pos="pro" variant="dial" source="ksdp" lemma="ton">tun</lv>
     </e>

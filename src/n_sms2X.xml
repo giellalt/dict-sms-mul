@@ -1766,12 +1766,6 @@
          <tg xml:lang="eng">
             <t pos="n">evening</t>
          </tg>
-         <dg der="adverbial">
-            <d gloss="gen.sg">jeäˊǩǩää</d>
-            <dtg xml:lang="rus">
-               <dt pos="adv">вечером</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="05">
@@ -2199,22 +2193,9 @@
          <l pos="n">jälstempõrtt</l>
       </lg>
       <mg>
-         <tg xml:lang="deu">Wohnhaus</tg>
-         <dg oahpa="excl" kurss="no">
-            <d pos="mwe_np">päärnai jälstempõrtt</d>
-            <dtg xml:lang="eng">
-               <dt pos="mwe_np">boarding house</dt>
-            </dtg>
-            <dtg xml:lang="eng">
-               <dt pos="n">dormitory</dt>
-               <dt pos="n">dorm</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="n">asuntola</dt>
-               <dt pos="n">opiskelija-asuntola</dt>
-               <dt pos="n">oppilasasuntola</dt>
-            </dtg>
-         </dg>
+         <tg xml:lang="deu">
+            <t pos="n">Wohnhaus</t>
+         </tg>
       </mg>
    </e>
    <e meta="05">
@@ -5082,12 +5063,6 @@
          <tg xml:lang="fin">
             <t pos="n">opetusjärjestelmä</t>
          </tg>
-         <dg oahpa="excl" kurss="no">
-            <d pos="n">Learnlinc-ougglestmättʼtempirrõõzzâst</d>
-            <dtg xml:lang="fin">
-               <dt pos="n">Learnlinc-etäopetusjärjestelmässä</dt>
-            </dtg>
-         </dg>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -6668,12 +6643,6 @@
             <t pos="n">biegˈŋja</t>
             <t pos="n">dä̀rra</t>
          </tg>
-         <dg>
-            <d pos="n" gloss="dim">piânˈnǥaž</d>
-            <dtg xml:lang="deu">
-               <dt pos="n" gloss="dim">Hündchen</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="03">
@@ -7916,27 +7885,6 @@
          <tg xml:lang="sju">
             <t pos="n">gååhtee</t>
          </tg>
-         <dg oahpa="excl" kurss="no">
-            <d pos="n" gloss="loc.sg">põõrtâst</d>
-            <dtg xml:lang="rus">
-               <dt pos="adv">дома</dt>
-            </dtg>
-            <dtg xml:lang="rus">
-               <dt pos="mwe_adp">в доме</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="adv">kotona</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="n">talossa</dt>
-            </dtg>
-            <dtg xml:lang="nob">
-               <dt pos="adv">hjemme</dt>
-            </dtg>
-            <dtg xml:lang="nob">
-               <dt pos="mwe_adp">i huset</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="05">
@@ -8052,6 +8000,9 @@
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
+         <semantics>
+            <sem class="WORK">ECONOMY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="n">работа</t>
          </tg>
@@ -8062,21 +8013,6 @@
             <t pos="n">arbeid</t>
             <t pos="n">jobb</t>
          </tg>
-         <dg oahpa="excl" kurss="no">
-            <d pos="n" gloss="loc.sg">reâuǥast</d>
-            <dtg xml:lang="rus">
-               <dt pos="mwe_adp">на работе</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="n" gloss="xxx">työssä</dt>
-            </dtg>
-            <dtg xml:lang="nob">
-               <dt pos="mwe_adp">på jobben</dt>
-            </dtg>
-         </dg>
-         <semantics>
-            <sem class="WORK">ECONOMY</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="01">
@@ -9015,18 +8951,6 @@
          <tg xml:lang="deu">
             <t pos="a" type="attr" m="kleiner" pl="kleine">kleine</t>
          </tg>
-         <dg oahpa="incl">
-            <d pos="n">siõmâž</d>
-            <dtg xml:lang="eng">
-               <dt pos="n">baby</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="n">vauva</dt>
-            </dtg>
-            <dtg xml:lang="sme">
-               <dt pos="n">njuoratmánná</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -9485,21 +9409,6 @@
          <tg xml:lang="eng">
             <t pos="n">Saturday</t>
          </tg>
-         <dg oahpa="incl" kurss="yes">
-            <d pos="n" gloss="gen.sg">sueˊvet</d>
-            <dtg xml:lang="fin">
-               <dt pos="n">lauantaina</dt>
-            </dtg>
-            <dtg xml:lang="rus">
-               <xt pos="mwe_adp">в субботу</xt>
-            </dtg>
-            <dtg xml:lang="nob">
-               <xt pos="mwe_adp">på lørdag</xt>
-            </dtg>
-            <dtg xml:lang="eng">
-               <xt pos="mwe_adp">on Saturday</xt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="07">
@@ -10091,15 +10000,6 @@
          <tg xml:lang="sju">
             <t pos="n">sàlltee</t>
          </tg>
-         <dg oahpa="incl">
-            <d pos="a">säˊlttai</d>
-            <dtg xml:lang="eng">
-               <dt pos="a">salty</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="a">suolainen</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="07">
@@ -10629,21 +10529,6 @@
          <tg xml:lang="deu">
             <t pos="n">Feuer</t>
          </tg>
-         <dg oahpa="incl" kurss="yes">
-            <d pos="v">tollstõõllâd</d>
-            <dtg xml:lang="eng">
-               <dt pos="mwe_vp">having a bonfire</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <xt pos="v">tulistella</xt>
-            </dtg>
-            <dtg xml:lang="rus">
-               <dt pos="mwe_vp">сидеть у костра</dt>
-            </dtg>
-            <dtg xml:lang="nob">
-               <dt pos="mwe_vp">sitte ved ild</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -10832,9 +10717,6 @@
    <e meta="03">
       <lg>
          <l pos="n">tueˊlääž</l>
-         <infl>
-            <form gloss="xxx">tueˊlää</form>
-         </infl>
       </lg>
       <mg>
          <sources>
@@ -10856,18 +10738,6 @@
          <tg xml:lang="nob">
             <t pos="n">morgon</t>
          </tg>
-         <dg oahpa="incl" kurss="yes">
-            <x pos="n" gloss="xxx">tueˊlää</x>
-            <dtg xml:lang="fin">
-               <dt pos="xxx">aamulla</dt>
-            </dtg>
-            <dtg xml:lang="rus">
-               <dt pos="xxx">утром</dt>
-            </dtg>
-            <dtg xml:lang="nob">
-               <dt pos="xxx">xxx</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="03">
@@ -11017,18 +10887,6 @@
             <t pos="n">arbeid</t>
             <t pos="n">jobb</t>
          </tg>
-         <dg oahpa="incl" kurss="no">
-            <d pos="n" gloss="loc.sg">tuẹjast</d>
-            <dtg xml:lang="rus">
-               <dt pos="mwe_adp">на работе</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="n" gloss="xxx">työssä</dt>
-            </dtg>
-            <dtg xml:lang="nob">
-               <dt pos="mwe_adp">på jobben</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="03">
@@ -11074,23 +10932,6 @@
             <t pos="n">tupakka</t>
             <tr>aine</tr>
          </tg>
-         <dg>
-            <d source="ZMN" pos="mwe_np" oahpa="incl">suõskkâm tääbbaǩ</d>
-            <dtg xml:lang="deu">
-               <t pos="n">Priem</t>
-               <t pos="n">Kautabak</t>
-            </dtg>
-            <dtg xml:lang="eng">
-               <t pos="n">chew</t>
-               <t pos="mwe_np">chewing tobacco</t>
-            </dtg>
-            <dtg xml:lang="nob">
-               <t pos="n">snus</t>
-            </dtg>
-            <dtg xml:lang="fin">
-               <t pos="n">nuuska</t>
-            </dtg>
-         </dg>
       </mg>
       <mg spec="BOT">
          <semantics>
@@ -11183,18 +11024,6 @@
          <tg xml:lang="eng">
             <t pos="n">winter</t>
          </tg>
-         <dg oahpa="incl" kurss="yes">
-            <d pos="n" gloss="ill.sg">tälvva</d>
-            <dtg xml:lang="fin">
-               <dt pos="n" gloss="xxx">talvella</dt>
-            </dtg>
-            <dtg xml:lang="rus">
-               <dt pos="n" gloss="xxx">зимой</dt>
-            </dtg>
-            <dtg xml:lang="nob">
-               <dt pos="xxx">xxx</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="01">
@@ -12009,15 +11838,6 @@
                <xt pos="mwe_xxx">суп из мяса</xt>
             </xtg>
          </xg>
-         <dg oahpa="incl" kurss="yes">
-            <d pos="n">vuäˊǯˈǯveärr</d>
-            <dtg xml:lang="fin">
-               <xt pos="n">lihakeito</xt>
-            </dtg>
-            <dtg xml:lang="rus">
-               <dt pos="mwe_np">мясный суп</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="04">
@@ -12262,18 +12082,6 @@
          <tg xml:lang="eng">
             <t pos="n">Monday</t>
          </tg>
-         <dg oahpa="incl" kurss="yes">
-            <d pos="n" gloss="gen.sg">vuõsˈsaarǥ</d>
-            <dtg xml:lang="fin">
-               <dt pos="xxx">maanantaina</dt>
-            </dtg>
-            <dtg xml:lang="rus">
-               <dt pos="mwe_adp">в понедельник</dt>
-            </dtg>
-            <dtg xml:lang="nob">
-               <dt pos="mwe_adp">på mandag</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="04">
@@ -12593,18 +12401,6 @@
          <tg xml:lang="eng">
             <t pos="n">age</t>
          </tg>
-         <dg oahpa="excl" kurss="no">
-            <d pos="a">âkksaž</d>
-            <dtg xml:lang="rus">
-               <dt pos="mwe_adp">в возрасте</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="a">ikäinen</dt>
-            </dtg>
-            <dtg xml:lang="nob">
-               <dt pos="mwe_adp">på alder</dt>
-            </dtg>
-         </dg>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="TIME">UNIT</sem>
@@ -13709,12 +13505,6 @@
          <tg xml:lang="fin">
             <t pos="n">näyttely</t>
          </tg>
-         <dg oahpa="incl" kurss="no">
-            <d pos="n">ǩiõttʼtuẹjjčuäjtõs</d>
-            <dtg xml:lang="deu">
-               <dt pos="n">Handwerksausstellung</dt>
-            </dtg>
-         </dg>
       </mg>
    </e>
    <e meta="04">
@@ -14384,18 +14174,6 @@
          <tg xml:lang="eng">
             <t pos="n">school</t>
          </tg>
-         <dg oahpa="incl" kurss="no">
-            <d pos="n" gloss="loc.sg">škooulâst</d>
-            <dtg xml:lang="rus">
-               <dt pos="mwe_adp">в школе</dt>
-            </dtg>
-            <dtg xml:lang="fin">
-               <dt pos="n" gloss="xxx">koulussa</dt>
-            </dtg>
-            <dtg xml:lang="no">
-               <dt pos="mwe_adp">på skolen</dt>
-            </dtg>
-         </dg>
          <semantics>
             <sem class="HOUSE">DWELLING</sem>
          </semantics>

@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+    <e meta="04">
+        <lg>
+            <d pos="a" lemma="n_ââˊǩǩ">âkksaž</d>
+        </lg>
+        <mg>
+            <tg xml:lang="rus">
+                <t pos="mwe_a">в возрасте</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="a">ikäinen</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="mwe_a">på alder</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="04">
+        <lg>
+            <d pos="a" lemma="n_säˊltt">säˊlttai</d>
+        </lg>
+        <mg>
+            <tg xml:lang="eng">
+                <t pos="a">salty</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="a">suolainen</t>
+            </tg>
+        </mg>
+    </e>
     <e meta="09">
         <lg>
             <l pos="a" lemma="n_sääˊmǩiõll">sääˊmǩiõllsaž</l>
