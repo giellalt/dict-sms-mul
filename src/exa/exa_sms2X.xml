@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+            <xg oahpa="excl" kurss="no">
+                <x type="np" pos="mwe">ortodokslaž ceerkav Njeäˊllmest</x>
+                <xtg xml:lang="eng">
+                    <xt pos="xxx">the orthodox church in Nellim</xt>
+                </xtg>
+            </xg>
+            <xg oahpa="excl" kurss="no">
+                <x type="np" pos="mwe">ortodokslaž sluuˊžv</x>
+                <xtg xml:lang="eng">
+                    <xt pos="xxx">orthodox service</xt>
+                </xtg>
+            </xg>
+            <xg oahpa="excl" kurss="no">
+                <x type="np" pos="mwe">oouˊdab peiˊvv</x>
+                <xtg xml:lang="fin">
+                    <xt pos="mwe_n">edellinen päivä</xt>
+                </xtg>
+                <xtg xml:lang="eng">
+                    <xt pos="mwe_n">the day before yesterday</xt>
+                </xtg>
+                <xtg xml:lang="deu">
+                    <xt pos="n">Vorgestern</xt>
+                </xtg>
+            </xg>
+            <xg oahpa="excl" kurss="no">
+                <x type="np" pos="mwe">oouˊdab eeˊjj</x>
+                <xtg xml:lang="fin">
+                    <xt pos="mwe_n">edellisenä vuonna</xt>
+                </xtg>
+            </xg>
             <xg>
                 <x type="compound" pos="a">kuuđekksaž</x>
                 <xtg xml:lang="fin">

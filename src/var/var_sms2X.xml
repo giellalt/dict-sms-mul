@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
     <e>
+        <lv pos="pro" variant="dial" source="ksdp" lemma="ton">tun</lv>
+    </e>
+    <e>
+        <lv pos="pro" variant="dial" source="ksdp" lemma="mon">mun</lv>
+    </e>
+    <e>
         <lv pos="pro" variant="dial" source="1991" lemma="jiõčč">jiičč</lv>
     </e>
     <e>

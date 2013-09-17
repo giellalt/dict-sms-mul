@@ -28,25 +28,6 @@
          </tg>
       </mg>
    </e>
-   <e meta="01">
-      <lg>
-         <l pos="pro">kâˊll</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="mwe">how many</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="mwe">kuinka paljon</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="pro">galle</t>
-         </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-   </e>
    <e meta="04">
       <lg>
          <l pos="pro">mii</l>
@@ -73,8 +54,10 @@
          <tg xml:lang="rus">
             <t pos="pro">что</t>
          </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="pro">mikä</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="pro" oahpa="pref">mikä</t>
             <t pos="pro">mitä</t>
          </tg>
          <tg xml:lang="nob">
@@ -142,7 +125,6 @@
    <e meta="03">
       <lg>
          <l pos="pro">mon</l>
-         <lv variant="dial" source="ksdp">mun</lv>
          <infl>
             <form gloss="gen.sg">muu</form>
          </infl>
@@ -187,69 +169,6 @@
          <tg xml:lang="sju">
             <t pos="pro">månna</t>
          </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="pro">mäŋgg</l>
-         <etymology>
-            <etymon type="loan" source="northgermanic"/>
-            <cognate xml:lang="swe">många</cognate>
-         </etymology>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="phon"/>
-            <book name="200" BEDLAN_ID="*100"/>
-            <book name="100"/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="pro" oahpa="pref">много</t>
-            <t pos="pro">многочисленный</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="pro">monta</t>
-            <t pos="pro">moni</t>
-            <t pos="pro">usea</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="pro">many</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="pro">viele</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pro">mange</t>
-         </tg>
-         <tg xml:lang="sjd">
-            <t pos="pro">е̄ннэ</t>
-         </tg>
-         <tg xml:lang="smn">
-            <t pos="pro">maŋga</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="pro">eatnat</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="pro">mǜhtema</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="01">
-      <lg>
-         <l pos="pro">måkam</l>
-      </lg>
-      <mg>
-         <tg xml:lang="eng">
-            <t pos="mwe">what kind of</t>
-         </tg>
-         <semantics>
-            <sem class="HUMAN">PEOPLE</sem>
-            <sem class="SENSE">PERCEPTION</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="05">
@@ -307,7 +226,6 @@
          </infl>
          <etymology>
             <etymon type="inher" source="finnougric">sɤ̈-</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -348,7 +266,6 @@
          </infl>
          <etymology>
             <etymon type="xxx" source="finnougric">sɤ̈-</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -362,8 +279,10 @@
          <tg xml:lang="rus">
             <t pos="pro" fem="она">он</t>
          </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="pro">hän</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="pro" oahpa="pref">hän</t>
             <t pos="pro">se</t>
          </tg>
          <tg xml:lang="nob">
@@ -385,7 +304,6 @@
    <e meta="04">
       <lg>
          <l pos="pro">ton</l>
-         <lv variant="dial" source="ksdp">tun</lv>
          <infl>
             <form gloss="gen.sg">tuu</form>
          </infl>
@@ -426,99 +344,6 @@
          </tg>
          <tg xml:lang="nob">
             <t pos="pro">du</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="pro">tut</l>
-         <etymology>
-            <etymon type="inher" source="uralic">to+tɜ</etymon>
-            <cognate xml:lang="sjd">тудт</cognate>
-         </etymology>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-            <book name="200" BEDLAN_ID="*168"/>
-            <book name="100"/>
-         </sources>
-         <semantics>
-            <sem class="SPACE">POSITION</sem>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="pro">тот</t>
-         </tg>
-         <tg xml:lang="sjd">
-            <t pos="pro">тудт</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="pro">tuo</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="pro">that</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="pro">jenes</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pro" oahpa="pref">det</t>
-            <t pos="mwe_pro">det der</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="pro">dot</t>
-            <t pos="pro">duot</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="pro">dühta</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="pro">tät</l>
-         <infl>
-            <form gloss="gen.sg">tän</form>
-            <form gloss="loc.sg">täˊst</form>
-         </infl>
-         <etymology>
-            <etymon type="inher" source="uralic">tä+tɜ</etymon>
-            <cognate xml:lang="sjd">та̄дт</cognate>
-         </etymology>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-            <book name="200" BEDLAN_ID="*174"/>
-            <book name="100"/>
-         </sources>
-         <semantics>
-            <sem class="SPACE">POSITION</sem>
-            <sem class="SENSE">COGNITION</sem>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="pro">этот</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="pro">tämä</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pro" neuter="dette">denne</t>
-         </tg>
-         <tg xml:lang="sjd">
-            <t pos="pro">та̄дт</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="pro">this</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="pro">dieses</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="pro">dát</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="pro">daahta</t>
          </tg>
       </mg>
    </e>
@@ -572,14 +397,14 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="pro" oahpa="dispref">kååˊtt</l>
+         <l pos="pro">kååˊtt</l>
          <etymology>
             <etymon type="inher" source="uralic?">ku-</etymon>
-            <cognate xml:lang="xxx"/>
             <note>derivation</note>
          </etymology>
       </lg>
       <mg>
+         <usuage oahpa="excl"/>
          <sources>
             <book name="200" BEDLAN_ID="153"/>
          </sources>
@@ -614,7 +439,6 @@
          <l pos="pro">tij</l>
          <etymology>
             <etymon type="inher" source="uralic">tɤ̈</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>

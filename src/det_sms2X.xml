@@ -1,6 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
-   <e meta="03">
+    <e meta="01">
+        <lg>
+            <l pos="det">måkam</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="HUMAN">PEOPLE</sem>
+                <sem class="SENSE">PERCEPTION</sem>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="mwe_det">what kind of</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="04">
+        <lg>
+            <l pos="det">tut</l>
+            <etymology>
+                <etymon type="inher" source="uralic">to+tɜ</etymon>
+                <cognate xml:lang="sjd">тудт</cognate>
+            </etymology>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="dict"/>
+                <book name="200" BEDLAN_ID="*168"/>
+                <book name="100"/>
+            </sources>
+            <semantics>
+                <sem class="SPACE">POSITION</sem>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="det">тот</t>
+            </tg>
+            <tg xml:lang="sjd">
+                <t pos="det">тудт</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="det">tuo</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="det">that</t>
+            </tg>
+            <tg xml:lang="deu">
+                <t pos="det">jenes</t>
+            </tg>
+            <tg xml:lang="nob" oahpa="pref">
+                <t pos="det">det</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="mwe_det">det der</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="det">dot</t>
+                <t pos="det">duot</t>
+            </tg>
+            <tg xml:lang="sju">
+                <t pos="det">dühta</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="04">
+        <lg>
+            <l pos="det">tät</l>
+            <infl>
+                <form gloss="gen.sg">tän</form>
+                <form gloss="loc.sg">täˊst</form>
+            </infl>
+            <etymology>
+                <etymon type="inher" source="uralic">tä+tɜ</etymon>
+                <cognate xml:lang="sjd">та̄дт</cognate>
+            </etymology>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="1"/>
+                <book name="200" BEDLAN_ID="*174"/>
+                <book name="100"/>
+            </sources>
+            <semantics>
+                <sem class="SPACE">POSITION</sem>
+                <sem class="SENSE">COGNITION</sem>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="det">этот</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="det">tämä</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="det" neuter="dette">denne</t>
+            </tg>
+            <tg xml:lang="sjd">
+                <t pos="det">та̄дт</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="det">this</t>
+            </tg>
+            <tg xml:lang="deu">
+                <t pos="det">dieses</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="det">dát</t>
+            </tg>
+            <tg xml:lang="sju">
+                <t pos="det">daahta</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
       <lg>
          <l pos="det">seämma</l>
       </lg>

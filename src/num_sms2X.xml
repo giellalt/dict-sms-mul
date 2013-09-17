@@ -1,48 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
+   <e meta="04">
+      <lg>
+         <l pos="num">mäŋgg</l>
+         <etymology>
+            <etymon type="loan" source="northgermanic"/>
+            <cognate xml:lang="swe">många</cognate>
+         </etymology>
+      </lg>
+      <mg>
+         <usage oahpa="yes"/>
+         <sources>
+            <book name="kurss" lesson="phon"/>
+            <book name="kurss" lesson="2"/>
+            <book name="200" BEDLAN_ID="*100"/>
+            <book name="100"/>
+         </sources>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="num">много</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="num">несколько</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="a">многочисленный</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="num">monta</t>
+            <t pos="num">moni</t>
+            <t pos="num">usea</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="num">many</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="num">viele</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="num">mange</t>
+         </tg>
+         <tg xml:lang="sjd">
+            <t pos="num">е̄ннэ</t>
+         </tg>
+         <tg xml:lang="smn">
+            <t pos="num">maŋga</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="num">eatnat</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="num">mǜhtema</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="01">
       <lg>
          <l pos="num">kâˊll</l>
       </lg>
       <mg>
          <usage oahpa="excl"/>
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="num">сколько</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="mwe_num">how many</t>
          </tg>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="num">mäŋgg</l>
-      </lg>
-      <mg>
-         <usage oahpa="yes"/>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="num">несколько</t>
-         </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="num">много</t>
-         </tg>
          <tg xml:lang="fin">
-            <t pos="num">monta</t>
+            <t pos="mwe">kuinka paljon</t>
          </tg>
-         <tg xml:lang="fin">
-            <t pos="num">moni</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="num">mange</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="num">many</t>
+         <tg xml:lang="sme">
+            <t pos="pro">galle</t>
          </tg>
       </mg>
    </e>
