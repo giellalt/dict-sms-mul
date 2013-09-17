@@ -153,7 +153,6 @@
          <l pos="n" term="anat">ruõidd</l>
          <etymology>
             <etymon type="xxx" source="saamic?" variant="raisi">reisi</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -983,7 +982,6 @@
          </infl>
          <etymology>
             <etymon type="inher" source="finnougric">ikä</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -1075,7 +1073,6 @@
          </infl>
          <etymology>
             <etymon type="inher" source="uralic">ićä</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg term="KINSHIP">
@@ -1646,7 +1643,6 @@
          </infl>
          <etymology>
             <etymon type="inher" source="finnopermic">enä</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg term="KINSHIP">
@@ -1783,7 +1779,6 @@
          <l pos="n">jieˊlli</l>
          <etymology>
             <etymon type="xxx" source="finnic">elä+jä ~ elä+vä ?</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -1927,7 +1922,6 @@
          <l pos="n">jiõŋŋ</l>
          <etymology>
             <etymon type="inher" source="finnougric">jäŋe</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -1965,7 +1959,6 @@
          <l pos="n">jokk</l>
          <etymology>
             <etymon type="inher" source="uralic">joke</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -2131,7 +2124,6 @@
          <l pos="n">jânnam</l>
          <etymology>
             <etymon type="xxx" source="saamic">ɛ̄ne̮m</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -2230,7 +2222,6 @@
          <l pos="n">jäuˊrr</l>
          <etymology>
             <etymon type="xxx" source="finnovolgaic">järwä</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -2759,7 +2750,6 @@
          <l pos="n">kotkk</l>
          <etymology>
             <etymon type="xxx" source="finnopermic">kutke</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -3218,7 +3208,6 @@
          <l pos="n">kuõjj</l>
          <etymology>
             <etymon type="inher" source="uralic">koje</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg term="KINSHIP">
@@ -3320,7 +3309,6 @@
          <etymology>
             <etymon type="inher" source="uralic">küje</etymon>
             <etymon type="inher" source="saamic">kōvtē</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -4835,7 +4823,6 @@
          <l pos="n">mueˊrjj</l>
          <etymology>
             <etymon type="xxx" source="FV, FU?">marja</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -4971,7 +4958,6 @@
          <l pos="n">muõtt</l>
          <etymology>
             <etymon type="xxx" source="finnosaamic">matta-</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -5978,7 +5964,6 @@
          <l pos="n">nääˊpp</l>
          <etymology>
             <etymon type="xxx" source="saamic">nāpē</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -6746,7 +6731,6 @@
          <l pos="n">piõgˈg</l>
          <etymology>
             <etymon type="xxx" source="saamic">pēŋke̮</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -9689,7 +9673,6 @@
          <l pos="n">suäjj</l>
          <etymology>
             <etymon type="xxx" source="saamic">sɔ̄jē</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -9892,7 +9875,6 @@
          <l pos="n">svaaik</l>
          <etymology>
             <etymon type="loan" source="rus?">свёкор</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg term="KINSHIP">
@@ -11338,7 +11320,6 @@
          <l pos="n" dial="N" oahpa="dispref">tåˊlǧǧ</l>
          <etymology>
             <etymon type="inher" source="uralic">tulka</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -12727,7 +12708,6 @@
          <l pos="n">âˊlmm</l>
          <etymology>
             <etymon type="xxx" source="finnougric">ilma</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -13082,7 +13062,6 @@
          <l pos="n">åål</l>
          <etymology>
             <etymon type="inher" source="saamic">olmɔ̄-</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg term="KINSHIP">
@@ -13147,7 +13126,6 @@
          <l pos="n">åålmai</l>
          <etymology>
             <etymon type="inher" source="saamic">e̮lmāj</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg term="KINSHIP">
@@ -13855,7 +13833,6 @@
          <l pos="n">čuẹˊll</l>
          <etymology>
             <etymon type="xxx" source="finnougric">śola</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -13894,7 +13871,6 @@
          <l pos="n">čââˊđ</l>
          <etymology>
             <etymon type="inher" source="finnougric">śüδä+mɜ</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -15110,7 +15086,6 @@
          </infl>
          <etymology>
             <etymon type="xxx" source="finnougric">käte</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
