@@ -1013,15 +1013,6 @@
          <tg xml:lang="sju">
             <t pos="n">jàhpee</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="mwe_np">lååi eeˊǩǩed</x>
-            <xtg xml:lang="rus">
-               <xt pos="mwe_np">десять лет</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="mwe_np">kymmenen vuotta</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="03">
@@ -2919,12 +2910,6 @@
          <tg xml:lang="eng">
             <t pos="n">course</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x pos="mwe_np">nuõrttsääˊmǩiõl kurss</x>
-            <xtg xml:lang="fin">
-               <xt pos="mwe_np">koltansaamen kielen kurssi</xt>
-            </xtg>
-         </xg>
          <semantics>
             <sem class="WORK">SCHOOL</sem>
          </semantics>
@@ -4977,12 +4962,6 @@
          <tg xml:lang="rus">
             <t pos="n">музей</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="mwe_np">nuõrttsaaˊmi muˊzei</x>
-            <xtg xml:lang="rus">
-               <xt pos="mwe_np">колттасаамский музей</xt>
-            </xtg>
-         </xg>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -6417,21 +6396,6 @@
          <tg xml:lang="nob">
             <t pos="n">xxx</t>
          </tg>
-         <xg>
-            <x type="np">suu peäˊlest</x>
-            <xtg xml:lang="eng">
-               <xt pos="mwe_adv">instead of him/her</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="xxx"/>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="xxx"/>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="mwe_adv">i stedet for han/henne</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="03">
@@ -11671,15 +11635,6 @@
          <tg xml:lang="eng">
             <t pos="n">meat</t>
          </tg>
-         <xg>
-            <x type="s">veärr lij vueˊǯǯest</x>
-            <xtg xml:lang="rus">
-               <xt pos="mwe_s">суп из мяса</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="mwe_s">keitto on lihasta</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="03">
@@ -11718,12 +11673,6 @@
          <tg xml:lang="fin">
             <t pos="n">peruskurssi</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x type="np" pos="n-n">nuõrttsääˊmǩiõl vuâđđkurss</x>
-            <xtg xml:lang="fin">
-               <xt pos="xxx">koltansaamen kielen peruskurssi</xt>
-            </xtg>
-         </xg>
          <semantics>
             <sem class="xxx"/>
          </semantics>
@@ -11829,15 +11778,6 @@
          <tg xml:lang="sju">
             <t pos="n">beärˈgoo</t>
          </tg>
-         <xg>
-            <x pos="xxx">veärr lij vueˊǯǯest</x>
-            <xtg xml:lang="fin">
-               <xt pos="xxx">keito on lihasta</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="mwe_xxx">суп из мяса</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="04">
@@ -12306,12 +12246,6 @@
          <tg xml:lang="deu">
             <t pos="n">Schuh</t>
          </tg>
-         <xg kurss="no">
-            <x pos="n">Jäuvss kämmääd!</x>
-            <xtg xml:lang="deu">
-               <xt pos="n">Bitte Schuhe ausziehen!</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="01">
@@ -12661,18 +12595,6 @@
          <tg xml:lang="eng">
             <t pos="n">time</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x type="np" pos="n-n">ääiˊj ǩeeˊjjest</x>
-            <xtg xml:lang="fin">
-               <xt pos="xxx">ajan kuluttua</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="xxx">с течением времени</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">xxx</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="01">
@@ -14947,12 +14869,6 @@
          <tg xml:lang="sme">
             <t pos="n">duodji</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="mwe_np">nuõrttsaaˊmi ǩiõttʼtuẹjj</x>
-            <xtg xml:lang="rus">
-               <xt pos="mwe_np">колттасаамское рукоделие</xt>
-            </xtg>
-         </xg>
          <semantics>
             <sem class="WORK">ECONOMY</sem>
          </semantics>

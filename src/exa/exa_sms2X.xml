@@ -1,44 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
-            <xg oahpa="excl" kurss="no">
-                <x type="np" pos="mwe">ortodokslaž ceerkav Njeäˊllmest</x>
-                <xtg xml:lang="eng">
-                    <xt pos="xxx">the orthodox church in Nellim</xt>
-                </xtg>
-            </xg>
-            <xg oahpa="excl" kurss="no">
-                <x type="np" pos="mwe">ortodokslaž sluuˊžv</x>
-                <xtg xml:lang="eng">
-                    <xt pos="xxx">orthodox service</xt>
-                </xtg>
-            </xg>
-            <xg oahpa="excl" kurss="no">
-                <x type="np" pos="mwe">oouˊdab peiˊvv</x>
-                <xtg xml:lang="fin">
-                    <xt pos="mwe_n">edellinen päivä</xt>
-                </xtg>
-                <xtg xml:lang="eng">
-                    <xt pos="mwe_n">the day before yesterday</xt>
-                </xtg>
-                <xtg xml:lang="deu">
-                    <xt pos="n">Vorgestern</xt>
-                </xtg>
-            </xg>
-            <xg oahpa="excl" kurss="no">
-                <x type="np" pos="mwe">oouˊdab eeˊjj</x>
-                <xtg xml:lang="fin">
-                    <xt pos="mwe_n">edellisenä vuonna</xt>
-                </xtg>
-            </xg>
-            <xg>
-                <x type="compound" pos="a">kuuđekksaž</x>
-                <xtg xml:lang="fin">
-                    <t pos="a">kuusivuotias</t>
-                </xtg>
-                <xtg xml:lang="eng">
-                    <xt pos="mwe_a">six years old</xt>
-                </xtg>
-            </xg>
+    <xg oahpa="excl" kurss="no">
+        <x pos="mwe_np">lååi eeˊǩǩed</x>
+        <xtg xml:lang="rus">
+            <xt pos="mwe_np">десять лет</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="mwe_np">kymmenen vuotta</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="yes">
+        <x pos="mwe_np">nuõrttsääˊmǩiõl kurss</x>
+        <xtg xml:lang="fin">
+            <xt pos="mwe_np">koltansaamen kielen kurssi</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x pos="mwe_np">nuõrttsaaˊmi muˊzei</x>
+        <xtg xml:lang="rus">
+            <xt pos="mwe_np">колттасаамский музей</xt>
+        </xtg>
+    </xg>
+    <xg>
+        <x type="np">suu peäˊlest</x>
+        <xtg xml:lang="eng">
+            <xt pos="mwe_adv">instead of him/her</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="xxx"/>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="xxx"/>
+        </xtg>
+        <xtg xml:lang="nob">
+            <xt pos="mwe_adv">i stedet for han/henne</xt>
+        </xtg>
+    </xg>
+    <xg>
+        <x type="s">veärr lij vueˊǯǯest</x>
+        <xtg xml:lang="rus">
+            <xt pos="mwe_s">суп из мяса</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="mwe_s">keitto on lihasta</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x type="np" pos="n-n">nuõrttsääˊmǩiõl vuâđđkurss</x>
+        <xtg xml:lang="fin">
+            <xt pos="xxx">koltansaamen kielen peruskurssi</xt>
+        </xtg>
+    </xg>
+    <xg>
+        <x pos="xxx">veärr lij vueˊǯǯest</x>
+        <xtg xml:lang="fin">
+            <xt pos="xxx">keito on lihasta</xt>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="mwe_xxx">суп из мяса</xt>
+        </xtg>
+    </xg>
+    <xg kurss="no">
+        <x pos="n">Jäuvss kämmääd!</x>
+        <xtg xml:lang="deu">
+            <xt pos="n">Bitte Schuhe ausziehen!</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="yes">
+        <x type="np" pos="n-n">ääiˊj ǩeeˊjjest</x>
+        <xtg xml:lang="fin">
+            <xt pos="xxx">ajan kuluttua</xt>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="xxx">с течением времени</xt>
+        </xtg>
+        <xtg xml:lang="nob">
+            <xt pos="xxx">xxx</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x pos="mwe_np">nuõrttsaaˊmi ǩiõttʼtuẹjj</x>
+        <xtg xml:lang="rus">
+            <xt pos="mwe_np">колттасаамское рукоделие</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x type="np" pos="mwe">ortodokslaž ceerkav Njeäˊllmest</x>
+        <xtg xml:lang="eng">
+            <xt pos="xxx">the orthodox church in Nellim</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x type="np" pos="mwe">ortodokslaž sluuˊžv</x>
+        <xtg xml:lang="eng">
+            <xt pos="xxx">orthodox service</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x type="np" pos="mwe">oouˊdab peiˊvv</x>
+        <xtg xml:lang="fin">
+            <xt pos="mwe_n">edellinen päivä</xt>
+        </xtg>
+        <xtg xml:lang="eng">
+            <xt pos="mwe_n">the day before yesterday</xt>
+        </xtg>
+        <xtg xml:lang="deu">
+            <xt pos="n">Vorgestern</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x type="np" pos="mwe">oouˊdab eeˊjj</x>
+        <xtg xml:lang="fin">
+            <xt pos="mwe_n">edellisenä vuonna</xt>
+        </xtg>
+    </xg>
+    <xg>
+        <x type="compound" pos="a">kuuđekksaž</x>
+        <xtg xml:lang="fin">
+            <t pos="a">kuusivuotias</t>
+        </xtg>
+        <xtg xml:lang="eng">
+            <xt pos="mwe_a">six years old</xt>
+        </xtg>
+    </xg>
     <dg>
         <d type="infl" pos="pro">suäna</d>
         <dtg xml:lang="eng">
