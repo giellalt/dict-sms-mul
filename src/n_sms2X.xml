@@ -318,7 +318,7 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">the beginning of the week</t>
+            <t pos="mwe_n">the beginning of the week</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">alkuviikko</t>
@@ -381,7 +381,7 @@
             <t pos="n">allergia</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">xxx</t>
+            <t pos="n">аллергия</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">allergi</t>
@@ -801,7 +801,7 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">church choir</t>
+            <t pos="mwe_n">church choir</t>
          </tg>
          <semantics>
             <sem class="HUMAN">RELIGION</sem>
@@ -914,7 +914,7 @@
             <t pos="n">паук</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">xxx</t>
+            <t pos="n">hämähäkki</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">ederkopp</t>
@@ -970,7 +970,10 @@
             <t pos="n">isäntä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="n">vert</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">host</t>
          </tg>
       </mg>
    </e>
@@ -1265,16 +1268,16 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">украшение</t>
+            <t pos="n">украшение</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">koriste-esine</t>
+            <t pos="n">koriste-esine</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">dekorasjon</t>
+            <t pos="n">dekorasjon</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">decoration</t>
          </tg>
       </mg>
    </e>
@@ -1323,10 +1326,13 @@
             <te>дома</te>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">глава семьи</t>
+            <t pos="mwe_n">глава семьи</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="n">Hausherr</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">isäntä</t>
          </tg>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
@@ -1431,7 +1437,7 @@
             <t pos="n">ijjâ</t>
          </tg>
          <tg xml:lang="sju">
-            <t pos="xxx">jijja</t>
+            <t pos="n">jijja</t>
          </tg>
       </mg>
    </e>
@@ -1614,9 +1620,9 @@
             <t pos="n">blokkebær</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">box whortleberry</t>
-            <t pos="xxx">bog blueberry</t>
-            <t pos="xxx">xxxbog bilberry</t>
+            <t pos="mwe_n">box whortleberry</t>
+            <t pos="mwe_n">bog blueberry</t>
+            <t pos="mwe_n">xxxbog bilberry</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">ehtemas</t>
@@ -1685,7 +1691,10 @@
             <t pos="n">härkä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="n">trekkrein</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="mwe_n">trek ox</t>
          </tg>
          <semantics>
             <sem class="ZOO">DOMESTIC</sem>
@@ -1709,28 +1718,26 @@
    <e meta="03">
       <lg>
          <l pos="n">jeäˊǧǧreˊss</l>
-         <infl>
-            <form gloss="xxx">(\#-reeˊss)</form>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="5"/>
          </sources>
+         <lexicon xml:lang="lat">betula nana</lexicon>
          <semantics>
             <sem class="xxx">xxx</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_n">dwarf birch</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">карликовая берёза</t>
+            <t pos="mwe_n">карликовая берёза</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">vaivaiskoivu, -koivut, -n</t>
+            <t pos="n">vaivaiskoivu</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">dvergbjørk</t>
+            <t pos="n">dvergbjørk</t>
          </tg>
       </mg>
    </e>
@@ -1809,16 +1816,16 @@
             <sem class="xxx">xxx</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">mother</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">äitinsä</t>
+            <t pos="n">äiti</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">свою маму</t>
+            <t pos="n">мама</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">mora hans/hennes </t>
+            <t pos="n">mor</t>
          </tg>
       </mg>
    </e>
@@ -1858,7 +1865,8 @@
             <sem class="xxx">xxx</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">uncle</t>
+            <tr>father's older brother</tr>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">дядя</t>
@@ -1889,16 +1897,19 @@
             <sem class="xxx">xxx</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">voice</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">ääni, äänet, -n</t>
+            <t pos="n">ääni</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">голос </t>
+            <t pos="n">голос</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">stemme, lyd</t>
+            <t pos="n">stemme</t>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="n">lyd</t>
          </tg>
       </mg>
    </e>
@@ -2291,7 +2302,7 @@
             <t pos="n">eno</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">onkel</t>
+            <t pos="n">onkel</t>
             <te>mors bror</te>
          </tg>
          <tg xml:lang="sme">
@@ -2437,9 +2448,6 @@
    <e meta="03">
       <lg>
          <l pos="n">kaavsõs</l>
-         <infl>
-            <form gloss="xxx">(\#kaavsõõzz), kaavsõõzzâs</form>
-         </infl>
       </lg>
       <mg>
          <sources>
@@ -2449,16 +2457,16 @@
             <sem class="xxx">xxx</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">bride</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">невеста , свою невесту</t>
+            <t pos="n">невеста</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">morsian, morsiamet, morsiamensa</t>
+            <t pos="n">morsian</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">brud, (til) sin brud</t>
+            <t pos="n">brud</t>
          </tg>
       </mg>
    </e>
@@ -2528,16 +2536,16 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">кофейный cтол накрыт</t>
+            <t pos="mwe_n">кофейный cтол</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">kahvipöytä</t>
+            <t pos="n">kahvipöytä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">kaffebord</t>
+            <t pos="n">kaffebord</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_n">coffee table</t>
          </tg>
       </mg>
    </e>
@@ -2704,16 +2712,16 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx"/>
+            <t pos="n">чашка</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx"/>
+            <t pos="n">kuppi</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">kopp</t>
+            <t pos="n">kopp</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">cup</t>
          </tg>
       </mg>
    </e>
@@ -2748,34 +2756,6 @@
          </tg>
          <tg xml:lang="sju">
             <t pos="n">gådhka</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="n">kueˊhtt čiâss pieˊlin</l>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-         </sources>
-         <semantics>
-            <sem class="xxx">xxx</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="xxx">два с половиной часа</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx">kaksi ja puoli tuntia</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">to og en halv time</t>
          </tg>
       </mg>
    </e>
@@ -2964,7 +2944,7 @@
             <sem class="xxx">xxx</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">blouse</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">кофточка</t>
@@ -3011,16 +2991,16 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">стук</t>
+            <t pos="n">стук</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">kolkutus</t>
+            <t pos="n">kolkutus</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">banking</t>
+            <t pos="n">banking</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">knocking</t>
          </tg>
       </mg>
    </e>
@@ -3077,7 +3057,7 @@
       </lg>
       <mg term="DUODJI">
          <tg xml:lang="eng">
-            <t pos="xxx">sewing machine</t>
+            <t pos="mwe_n">sewing machine</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">ompelukone</t>
@@ -3113,7 +3093,7 @@
             <t pos="n">rinkeli</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="n">kringle</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="n">Kringel</t>
@@ -3325,10 +3305,13 @@
             <t pos="n">таймень</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">xxx</t>
+            <t pos="n">taimen</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">xxx</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="n">aure</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="n">куввч</t>
@@ -3418,7 +3401,7 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx"/>
+            <t pos="n">спальня</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">makuuhuoneet</t>
@@ -3450,7 +3433,7 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">chicken egg</t>
+            <t pos="mwe_n">chicken egg</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">kananmuna</t>
@@ -3482,13 +3465,13 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">chicken soup</t>
+            <t pos="mwe_n">chicken soup</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">chicken bouillon</t>
+            <t pos="mwe_n">chicken bouillon</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">chicken broth</t>
+            <t pos="mwe_n">chicken broth</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">kanakeitto</t>
@@ -3529,7 +3512,7 @@
             <te>lobby</te>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">lobby</t>
          </tg>
       </mg>
    </e>
@@ -3548,7 +3531,7 @@
             <sem class="xxx">xxx</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">shirt</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">юбка</t>
@@ -3602,7 +3585,7 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">pea soup</t>
+            <t pos="mwe_n">pea soup</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">hernekeitto</t>
@@ -3625,13 +3608,15 @@
          </sources>
          <tg xml:lang="rus">
             <t pos="n">кувакса</t>
-            <t pos="n">шалаш</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">tepee</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">laavu</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="n">lavvo</t>
          </tg>
          <semantics>
             <sem class="HOUSE">DWELLING</sem>
@@ -3653,16 +3638,16 @@
             <sem class="xxx">xxx</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">wheel</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">колесо</t>
+            <t pos="n">колесо</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">pyörä, pyörät, -n</t>
+            <t pos="n">pyörä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">hjul</t>
+            <t pos="n">hjul</t>
          </tg>
       </mg>
    </e>
@@ -3704,7 +3689,7 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">gold medal</t>
+            <t pos="mwe_n">gold medal</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">kultamitali</t>
@@ -3780,7 +3765,7 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="xxx">middle finger</t>
+            <t pos="mwe_n">middle finger</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">keskisormi</t>
@@ -4009,16 +3994,16 @@
             <sem class="xxx"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">хлебница</t>
+            <t pos="n">хлебница</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">leipävati, pullavati</t>
+            <t pos="n">leipävati</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">brødtallerken</t>
+            <t pos="n">brødtallerken</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_n">bread plate</t>
          </tg>
       </mg>
    </e>
@@ -4233,16 +4218,16 @@
             <sem class="xxx">xxx</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="abbr">SUV</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">внедорожник, на вредорожнике</t>
+            <t pos="n">внедорожник</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">maastoautolla</t>
+            <t pos="n">maastoautolla</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">jeep</t>
+            <t pos="n">jeep</t>
          </tg>
       </mg>
    </e>
@@ -4318,16 +4303,19 @@
             <sem class="xxx">xxx</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">addition</t>
+         </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="n">прибавление</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">прибавление (прибавка, дополнение), вдобавок</t>
+            <t pos="n">вдобавок</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">lisä, lisäksi</t>
+            <t pos="n">lisä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">tillegg, I tillegg (=som tillegg)</t>
+            <t pos="n">tillegg</t>
          </tg>
       </mg>
    </e>
@@ -4343,10 +4331,13 @@
             <t pos="n">ремень</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">xxx</t>
+            <t pos="n">hihna</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="n">belte</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">belt</t>
          </tg>
          <semantics>
             <sem class="CLOTH">PIECE</sem>
@@ -4593,17 +4584,20 @@
          <semantics>
             <sem class="xxx">xxx</sem>
          </semantics>
+         <tg xml:lang="deu">
+            <t pos="n">Forststraße</t>
+         </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_n">logging road</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">лесная дорога</t>
+            <t pos="mwe_n">лесная дорога</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">metsätie</t>
+            <t pos="n">metsätie</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">skogsvei</t>
+            <t pos="n">skogsvei</t>
          </tg>
       </mg>
    </e>
@@ -4691,16 +4685,38 @@
             <sem class="xxx">xxx</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">mark</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">merkki, merkit, -n</t>
+            <t pos="n">merkki</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">знак; метка хозяина на ухе оленя </t>
+            <t pos="n">знак</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">merke</t>
+            <t pos="n">merke</t>
+         </tg>
+      </mg>
+      <mg>
+         <usuage oahpa="excl"/>
+         <sources>
+            <book name="kurss" lesson="6"/>
+         </sources>
+         <semantics>
+            <sem class="xxx">xxx</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="n">xxx</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">merkki</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">клейма</t>
+            <te>метка хозяина на ухе оленя</te>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">xxxmerke</t>
          </tg>
       </mg>
    </e>
@@ -4830,7 +4846,7 @@
             <sem class="xxx">xxx</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="n">xxx</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">mehu</t>
@@ -4860,7 +4876,10 @@
             <t pos="n">täti</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="n">tante</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">aunt</t>
          </tg>
          <lexicon xml:lang="fin">äidin nuorempi sisar</lexicon>
          <semantics>
