@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
-    <lg>
+    <e>
         <lv pos="n" variant="xxx" source="meta01" lemma="ǩiđđ">ǩiđđâ</lv>
-    </lg>
+    </e>
     <e>
         <lv pos="n" variant="orth" source="xxx" lemma="ǩiõttʼtuẹjj">ǩiõtt-tuâjj</lv>
     </e>
