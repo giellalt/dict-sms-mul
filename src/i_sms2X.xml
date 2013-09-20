@@ -5,7 +5,6 @@
          <l pos="i">kâˊl</l>
       </lg>
       <mg>
-         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="5"/>
          </sources>
@@ -37,7 +36,6 @@
          <l pos="i">tiõrv</l>
       </lg>
       <mg>
-         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
@@ -75,7 +73,6 @@
          <l pos="i">tiõrvvsa</l>
       </lg>
       <mg>
-         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="2"/>
          </sources>
@@ -106,7 +103,6 @@
          <l pos="i">tuõtt</l>
       </lg>
       <mg>
-         <usage oahpa="yes"/>
          <sources>
             <book name="kurss" lesson="2"/>
          </sources>
@@ -131,8 +127,7 @@
             <t pos="a">right</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="no"/>
+      <mg exclude="oahpa;">
          <sources>
             <book name="kurss" lesson="2"/>
          </sources>
