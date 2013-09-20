@@ -86,7 +86,7 @@
             <semantics>
                 <sem class="SPACE">POSITION</sem>
             </semantics>
-            <tg xml:lang="eng" style="obs" oahpa="excl">
+            <tg xml:lang="eng" style="obs" exclude="oahpa;">
                 <t pos="adv">whence</t>
             </tg>
             <tg xml:lang="eng" oahpa="pref">
