@@ -706,8 +706,7 @@
             <form gloss="1sg.pst">kaˊǧǧem</form>
          </infl>
       </lg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
@@ -1892,8 +1891,7 @@
             <form gloss="conneg.prs">lueˊšt</form>
          </infl>
       </lg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <sources>
             <book name="kurss" lesson="dict"/>
          </sources>
@@ -2072,8 +2070,7 @@
             <t pos="v">molˈlet</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <semantics>
             <sem class="WORK">ECONOMY</sem>
          </semantics>
@@ -3248,8 +3245,7 @@
             <t pos="v">steike</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <tg xml:lang="rus">
             <t pos="v">светить</t>
             <te>о солнце</te>
@@ -3996,8 +3992,7 @@
             <t pos="v">stååhkat</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <semantics>
             <sem class="HUMAN">FAMILY</sem>
             <sem class="WORK">LAISURE</sem>
@@ -5656,8 +5651,7 @@
             <t pos="v">kjøre</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <tg xml:lang="rus">
             <t pos="v">кататься</t>
          </tg>

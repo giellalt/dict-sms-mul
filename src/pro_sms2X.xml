@@ -403,8 +403,7 @@
             <note>derivation</note>
          </etymology>
       </lg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <sources>
             <book name="200" BEDLAN_ID="153"/>
          </sources>
