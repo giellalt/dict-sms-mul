@@ -2,6 +2,175 @@
 <r xml:lang="sms">
     <e meta="03">
         <lg>
+            <l pos="v">puäˊđ veäkka!</l>
+            <stg>
+                <st Contlex=""/>
+            </stg>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="6"/>
+            </sources>
+            <semantics>
+                <sem class="WORK"/>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">tule avuksi!</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="xxx">иди помоги! иди на помощь!</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">kom til/og hjelp!</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="v">meeˊst feˊrttai</l>
+            <stg>
+                <st Contlex=""/>
+            </stg>
+
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="3"/>
+            </sources>
+            <semantics>
+                <sem class="WORK"/>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="xxx">нам надо</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx"/>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">vi trenger</t>
+            </tg>
+        </mg>
+    </e>
+    <xg>
+        <x type="idiom">mâiˊd mainstak?</x>
+        <xtg xml:lang="eng">
+            <xt pos="xxx">xxx</xt>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="xxx">что нового?</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="xxx">mitä kuuluu?</xt>
+        </xtg>
+        <xtg xml:lang="nob">
+            <xt pos="xxx">hvordan har du det?</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="yes">
+        <x pos="v">mâânn ǩidd</x>
+        <xtg xml:lang="rus">
+            <xt pos="v">закроется</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x pos="v">puäˊđ!</x>
+        <xtg xml:lang="rus">
+            <xt pos="v">приходи!</xt>
+            <xt pos="v">иди!</xt>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="v">come!</xt>
+            <xt pos="mwe_v">come in!</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt pos="v">tule!</xt>
+        </xtg>
+        <xtg xml:lang="nob">
+            <xt pos="v">kom!</xt>
+        </xtg>
+    </xg>
+    <xg>
+        <x pos="v" gloss="1pl.prs">vueˊlǧǧep!</x>
+        <xtg xml:lang="rus">
+            <xt pos="v" oahpa="pref">пойдём!</xt>
+            <xt pos="v">пойдем!</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x pos="mwe_v">vääldam ǩidd</x>
+        <xtg xml:lang="rus">
+            <xt pos="v">поймаю</xt>
+        </xtg>
+    </xg>
+    <xg>
+        <x pos="mwe_s">täˊst, vääˊld!</x>
+        <xtg xml:lang="fin">
+            <xt pos="mwe_s">tässä, ota!</xt>
+            <xt pos="mwe_s" oahpa="pref">ole hyvä!</xt>
+        </xtg>
+        <xtg xml:lang="rus">
+            <xt pos="s">возьми!</xt>
+            <xt pos="mwe_s" oahpa="pref">пожалуйста, будь добр!</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="no">
+        <x pos="xxx">mon õõlǥam</x>
+        <xtg xml:lang="rus">
+            <xt>мне надо</xt>
+            <xt>мне нужно</xt>
+        </xtg>
+        <xtg xml:lang="fin">
+            <xt>minun pitää</xt>
+        </xtg>
+    </xg>
+    <xg oahpa="excl" kurss="xxx">
+        <x type="phrase" pos="mwe_v">išttâd åårrad</x>
+        <xtg xml:lang="fin">
+            <t pos="v">istua</t>
+        </xtg>
+        <xtg xml:lang="sme">
+            <xt pos="v">čohkkát</xt>
+        </xtg>
+        <xtg xml:lang="sju">
+            <xt pos="v">tjåhkàhit</xt>
+        </xtg>
+    </xg>
+    <e meta="03">
+        <lg>
+            <l pos="n">neellji kååˊlzivuiˊm</l>
+            <infl>
+                <form gloss="xxx"/>
+            </infl>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="5"/>
+            </sources>
+            <semantics>
+                <sem class="xxx">xxx</sem>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="xxx">xxx</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="xxx">на четырёх колёсах, четырмя колёсами</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="xxx">neljällä pyörällä</t>
+            </tg>
+            <tg xml:lang="nob">
+                <t pos="xxx">med fire hjul</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
             <l pos="n">kueˊhtt čiâss pieˊlin</l>
             <infl>
                 <form gloss="xxx"/>
