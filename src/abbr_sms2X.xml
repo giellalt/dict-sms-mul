@@ -70,7 +70,7 @@
          <tg xml:lang="fin">
             <t pos="n">tiistai</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
+         <xg kurss="no">
             <x pos="xxx">älgg mâ 15.11.11 č 17.00</x>
             <xtg xml:lang="fin">
                <xt pos="ххх">alkaen ti 15.11.11 klo 17.00</xt>
@@ -89,7 +89,7 @@
          <tg xml:lang="fin">
             <t pos="abbr">h</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
+         <xg kurss="no">
             <x pos="xxx">40 č</x>
             <xtg xml:lang="fin">
                <xt pos="ххх">40 h</xt>
@@ -104,7 +104,7 @@
          <tg xml:lang="fin">
             <t pos="abbr">klo</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
+         <xg kurss="no">
             <x pos="xxx">č 17.00</x>
             <xtg xml:lang="fin">
                <xt pos="ххх">klo 17.00</xt>
