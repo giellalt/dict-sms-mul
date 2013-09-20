@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="sms">
     <e>
+        <l pos="n" variant="xxx" source="xxx" lemma="vuäˊǯˈǯveärr">vueˊǯˈǯveärr</l>
+    </lg>
+    <lg>
+        <l pos="n" variant="xxx" source="xxx" lemma="vuäˊǯˈǯ">vueˊǯˈǯ</l>
+        <infl>
+            <form gloss="loc.sg">vueˊǯǯest</form>
+        </infl>
+    </lg>
+    <lg>
+        <l pos="v" variant="xxx" source="xxx" lemma="tuõˊlˈlʼjed">tueˊlˈlʼjed</l>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="xxx" lemma="čuẹǯʼǯad">čuâǯˈǯad</lv>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="xxx" lemma="čuẹǯʼǯad">čuäǯˈǯad</lv>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="1991" lemma="vuẹjted">vuâjted</lv>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="1991" lemma="vuẹjjad">vuâjjad</lv>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="1991" lemma="vuẹjjad">vueˊjjed</lv>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="1991" lemma="vaˊstteed">väˊstteed</lv>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="1991" lemma="urččâd">uˊrččâd</lv>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="1991" lemma="tuõˊlˈlʼjed">tueˊlˈlʼjed</lv>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="1991" lemma="suẹibbad">suâibbad</lv>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="1991" lemma="påǥsted">pååǥǥsted</lv>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="1991" lemma="pueˊtted">puẹˊtted</lv>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="1991" lemma="pirsted">piirsted</lv>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="1991" lemma="miẹˊcsted">miẹˊccsted</lv>
+    </lg>
+    <lg>
+        <lv pos="v" variant="dial" source="1991" lemma="laullad">läullad</lv>
+    </lg>
+    <lg>
         <lv pos="n" variant="xxx" source="meta01" lemma="ǩiđđ">ǩiđđâ</lv>
     </e>
     <e>
