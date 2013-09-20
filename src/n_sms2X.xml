@@ -1399,7 +1399,7 @@
          </etymology>
       </lg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <sources>
             <book name="200" BEDLAN_ID="*111"/>
             <book name="100"/>
@@ -2157,7 +2157,7 @@
          </tg>
       </mg>
       <mg term="ASTROLOGY">
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <semantics>
             <sem class="ENVIR">ELEMENT</sem>
          </semantics>
@@ -4693,7 +4693,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
@@ -5148,7 +5148,7 @@
          <l pos="n">määnpââˊjj</l>
       </lg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <semantics>
             <sem class="TIME">CYCLE</sem>
          </semantics>
@@ -5315,7 +5315,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <semantics>
             <sem class="SPACE">RELATION</sem>
             <sem class="WORK">TRAVEL</sem>
@@ -6908,7 +6908,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <semantics>
             <sem class="BODY">PART</sem>
             <sem class="FOOD">NATURE</sem>
@@ -10670,7 +10670,7 @@
          <l pos="n">tueˊles-</l>
       </lg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <sources>
             <book name="kurss" lesson="dict"/>
          </sources>
@@ -10766,7 +10766,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -11061,7 +11061,7 @@
          </etymology>
       </lg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <sources>
             <book name="200" BEDLAN_ID="*159"/>
             <book name="100"/>
@@ -11104,7 +11104,7 @@
          </etymology>
       </lg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <sources>
             <book name="200" BEDLAN_ID="*47"/>
             <book name="100"/>
@@ -11349,7 +11349,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <sources>
             <book name="kurss" lesson="2"/>
          </sources>
@@ -12432,7 +12432,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <semantics>
             <sem class="HUMAN">RELIGION</sem>
          </semantics>
@@ -13291,7 +13291,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <semantics>
             <sem class="HOUSE">DWELLING</sem>
          </semantics>
@@ -13300,7 +13300,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <semantics>
             <sem class="ENVIR">TOPONOMY</sem>
          </semantics>
@@ -13663,7 +13663,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <semantics>
             <sem class="ENVIR">ELEMENT</sem>
          </semantics>
@@ -13672,7 +13672,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <tg xml:lang="eng">
             <t pos="n">grain</t>
          </tg>
@@ -13684,7 +13684,7 @@
          </semantics>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <tg xml:lang="eng">
             <t pos="n">pane</t>
             <tr>of glass</tr>
