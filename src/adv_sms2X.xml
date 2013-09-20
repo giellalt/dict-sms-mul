@@ -1950,7 +1950,7 @@
             <t pos="adv">lahka</t>
          </tg>
       </mg>
-      <mg excl="oahpa;">
+      <mg exclude="oahpa;">
          <tg xml:lang="fin">
             <t pos="adv">läheltä</t>
          </tg>
