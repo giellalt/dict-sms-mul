@@ -260,3 +260,6 @@ sms2X>grep '<e' src/pn_sms2X.xml | wc -l
 ==> TODO later.
 I will just comment out the link to the proper_noun play.
 
+=============
+cg-comment: I don't like the current structure of the src-dir for the same reason I didn't like the former structure of the gt_corpora.
+  ==> to be changed
