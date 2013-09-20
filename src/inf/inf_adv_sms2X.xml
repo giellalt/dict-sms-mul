@@ -11,7 +11,7 @@
             <semantics>
                 <sem class="SPACE">MOTION</sem>
             </semantics>
-            <tg xml:lang="eng" style="obs" oahpa="excl">
+            <tg xml:lang="eng" style="obs" exclude="oahpa;">
                 <t pos="adv">whither</t>
             </tg>
             <tg xml:lang="eng" oahpa="pref">
