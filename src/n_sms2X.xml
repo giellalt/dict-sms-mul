@@ -1398,8 +1398,7 @@
             <cognate xml:lang="sjd">ыйй</cognate>
          </etymology>
       </lg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <sources>
             <book name="200" BEDLAN_ID="*111"/>
             <book name="100"/>
@@ -2156,8 +2155,7 @@
             <t pos="n">eädˈnama</t>
          </tg>
       </mg>
-      <mg term="ASTROLOGY">
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;" term="ASTROLOGY">
          <semantics>
             <sem class="ENVIR">ELEMENT</sem>
          </semantics>
@@ -3725,10 +3723,10 @@
          <tg xml:lang="rus" oahpa="pref">
             <t pos="n">кора</t>
          </tg>
-         <tg xml:lang="rus" oahpa="excl">
+         <tg xml:lang="rus" exclude="oahpa;">
             <t pos="n">корка</t>
          </tg>
-         <tg xml:lang="rus" oahpa="excl">
+         <tg xml:lang="rus" exclude="oahpa;">
             <t pos="n">скорлупа</t>
          </tg>
          <tg xml:lang="nob" oahpa="pref">
@@ -4692,8 +4690,7 @@
             <t pos="n">merke</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
@@ -5117,7 +5114,7 @@
          <tg xml:lang="rus" oahpa="pref">
             <t pos="n">луна</t>
          </tg>
-         <tg xml:lang="rus" oahpa="excl">
+         <tg xml:lang="rus" exclude="oahpa;">
             <t pos="n" style="arch">месяц</t>
          </tg>
          <tg xml:lang="sjd">
@@ -5147,8 +5144,7 @@
       <lg>
          <l pos="n">määnpââˊjj</l>
       </lg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <semantics>
             <sem class="TIME">CYCLE</sem>
          </semantics>
@@ -5314,8 +5310,7 @@
             <t pos="n">mätki</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <semantics>
             <sem class="SPACE">RELATION</sem>
             <sem class="WORK">TRAVEL</sem>
@@ -5830,7 +5825,7 @@
          <tg xml:lang="rus">
             <t pos="n">туалет</t>
          </tg>
-         <tg xml:lang="rus" oahpa="excl">
+         <tg xml:lang="rus" exclude="oahpa;">
             <t pos="n">нужник</t>
          </tg>
          <tg xml:lang="fin">
@@ -6907,8 +6902,7 @@
             <t pos="n">vuajja</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <semantics>
             <sem class="BODY">PART</sem>
             <sem class="FOOD">NATURE</sem>
@@ -10669,8 +10663,7 @@
       <lg>
          <l pos="n">tueˊles-</l>
       </lg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <sources>
             <book name="kurss" lesson="dict"/>
          </sources>
@@ -10765,8 +10758,7 @@
             <t pos="n">right</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -11060,8 +11052,7 @@
             <cognate xml:lang="sjd">та̄ссьт</cognate>
          </etymology>
       </lg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <sources>
             <book name="200" BEDLAN_ID="*159"/>
             <book name="100"/>
@@ -11103,8 +11094,7 @@
             <etymon type="inher" source="uralic">tulka</etymon>
          </etymology>
       </lg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <sources>
             <book name="200" BEDLAN_ID="*47"/>
             <book name="100"/>
@@ -11348,8 +11338,7 @@
             <t pos="n">soup</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <sources>
             <book name="kurss" lesson="2"/>
          </sources>
@@ -12431,8 +12420,7 @@
             <t pos="n">alˈbmee</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <semantics>
             <sem class="HUMAN">RELIGION</sem>
          </semantics>
@@ -13290,8 +13278,7 @@
             <t pos="n">tjyvvèlka</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <semantics>
             <sem class="HOUSE">DWELLING</sem>
          </semantics>
@@ -13299,8 +13286,7 @@
             <t pos="n">Dachrücken der Lappenkote</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <semantics>
             <sem class="ENVIR">TOPONOMY</sem>
          </semantics>
@@ -13662,8 +13648,7 @@
             <t pos="n">Auge</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <semantics>
             <sem class="ENVIR">ELEMENT</sem>
          </semantics>
@@ -13671,8 +13656,7 @@
             <t pos="n">drop</t>
          </tg>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <tg xml:lang="eng">
             <t pos="n">grain</t>
          </tg>
@@ -13683,8 +13667,7 @@
             <sem class="FOOD">GROCERY</sem>
          </semantics>
       </mg>
-      <mg>
-         <usage oahpa="excl"/>
+      <mg exclude="oahpa;">
          <tg xml:lang="eng">
             <t pos="n">pane</t>
             <tr>of glass</tr>
