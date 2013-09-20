@@ -72,13 +72,13 @@
             <xt pos="xxx">hvordan har du det?</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="yes">
+    <xg kurss="yes">
         <x pos="v">mâânn ǩidd</x>
         <xtg xml:lang="rus">
             <xt pos="v">закроется</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x pos="v">puäˊđ!</x>
         <xtg xml:lang="rus">
             <xt pos="v">приходи!</xt>
@@ -102,7 +102,7 @@
             <xt pos="v">пойдем!</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x pos="mwe_v">vääldam ǩidd</x>
         <xtg xml:lang="rus">
             <xt pos="v">поймаю</xt>
@@ -119,7 +119,7 @@
             <xt pos="mwe_s" oahpa="pref">пожалуйста, будь добр!</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x pos="xxx">mon õõlǥam</x>
         <xtg xml:lang="rus">
             <xt>мне надо</xt>
@@ -129,7 +129,7 @@
             <xt>minun pitää</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="xxx">
+    <xg kurss="xxx">
         <x type="phrase" pos="mwe_v">išttâd åårrad</x>
         <xtg xml:lang="fin">
             <t pos="v">istua</t>
@@ -197,7 +197,7 @@
             </tg>
         </mg>
     </e>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x pos="mwe_np">lååi eeˊǩǩed</x>
         <xtg xml:lang="rus">
             <xt pos="mwe_np">десять лет</xt>
@@ -206,13 +206,13 @@
             <xt pos="mwe_np">kymmenen vuotta</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="yes">
+    <xg kurss="yes">
         <x pos="mwe_np">nuõrttsääˊmǩiõl kurss</x>
         <xtg xml:lang="fin">
             <xt pos="mwe_np">koltansaamen kielen kurssi</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x pos="mwe_np">nuõrttsaaˊmi muˊzei</x>
         <xtg xml:lang="rus">
             <xt pos="mwe_np">колттасаамский музей</xt>
@@ -242,7 +242,7 @@
             <xt pos="mwe_s">keitto on lihasta</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x type="np" pos="n-n">nuõrttsääˊmǩiõl vuâđđkurss</x>
         <xtg xml:lang="fin">
             <xt pos="xxx">koltansaamen kielen peruskurssi</xt>
@@ -263,7 +263,7 @@
             <xt pos="n">Bitte Schuhe ausziehen!</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="yes">
+    <xg kurss="yes">
         <x type="np" pos="n-n">ääiˊj ǩeeˊjjest</x>
         <xtg xml:lang="fin">
             <xt pos="xxx">ajan kuluttua</xt>
@@ -275,25 +275,25 @@
             <xt pos="xxx">xxx</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x pos="mwe_np">nuõrttsaaˊmi ǩiõttʼtuẹjj</x>
         <xtg xml:lang="rus">
             <xt pos="mwe_np">колттасаамское рукоделие</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x type="np" pos="mwe">ortodokslaž ceerkav Njeäˊllmest</x>
         <xtg xml:lang="eng">
             <xt pos="xxx">the orthodox church in Nellim</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x type="np" pos="mwe">ortodokslaž sluuˊžv</x>
         <xtg xml:lang="eng">
             <xt pos="xxx">orthodox service</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x type="np" pos="mwe">oouˊdab peiˊvv</x>
         <xtg xml:lang="fin">
             <xt pos="mwe_n">edellinen päivä</xt>
@@ -305,7 +305,7 @@
             <xt pos="n">Vorgestern</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x type="np" pos="mwe">oouˊdab eeˊjj</x>
         <xtg xml:lang="fin">
             <xt pos="mwe_n">edellisenä vuonna</xt>
@@ -367,7 +367,7 @@
             <dt pos="pro">sååmès</dt>
         </dtg>
     </dg>
-    <xg oahpa="excl" kurss="xxx">
+    <xg kurss="xxx">
         <x type="xxx" pos="mwe_pro">kååˊtt-ne</x>
         <xtg xml:lang="eng">
             <xt pos="quant">some</xt>
@@ -384,7 +384,7 @@
             <xt pos="xxx">naagan</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="yes">
+    <xg kurss="yes">
         <x type="infl" pos="pro">täˊst</x>
         <xtg xml:lang="eng">
             <xt pos="adv">here</xt>
@@ -411,7 +411,7 @@
             <xt pos="adv">herifra</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="yes">
+    <xg kurss="yes">
         <x type="infl" pos="pro">tõõzz</x>
         <xtg xml:lang="fin">
             <xt pos="adv">sille</xt>
@@ -420,7 +420,7 @@
             <xt pos="adv">туда</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x pos="pro">tuu</x>
         <xtg xml:lang="rus">
             <xt pos="pro" fem="твоя" neuter="твое" plural="твои">твой</xt>
@@ -436,7 +436,7 @@
             <xt pos="pro">du</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x pos="pro">suu</x>
         <xtg xml:lang="eng">
             <xt pos="pro" fem="her">his</xt>
@@ -552,7 +552,7 @@
             <tx pos="xxx">på veien</tx>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="yes">
+    <xg kurss="yes">
         <x pos="mwe_adp">päärnai vuâstta</x>
         <xtg xml:lang="eng">
             <xt pos="a">pregnant</xt>
@@ -562,7 +562,7 @@
             <xt pos="mwe_vp">olla paksuna</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x pos="con">ouddâl ko</x>
         <xtg xml:lang="rus">
             <xt>до того как</xt>
@@ -575,7 +575,7 @@
             <xt>før enn</xt>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x pos="xxx">kuõđđu tiõrvân!</x>
         <xtg xml:lang="rus">
             <xt>до свидания!</xt>
@@ -586,7 +586,7 @@
             <xtr>jäävälle = jää terveenä!</xtr>
         </xtg>
     </xg>
-    <xg oahpa="excl" kurss="no">
+    <xg kurss="no">
         <x pos="xxx">mõõn tiõrvân!</x>
         <xtg xml:lang="rus">
             <xt>до свидания!</xt>
