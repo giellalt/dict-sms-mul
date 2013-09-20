@@ -33,20 +33,21 @@ Since most derivations are formed by means of regular/productive morphology and 
 Variation
 =====
 Variants are stored in a separate file with the link to the respective main lemma as a variable.
+~/sms2X/src/var/var_sms2X.xml
+Note that this is a weird structure, indeed, but I want to park these variants somewhere. We do not need them now. Their final place cannot be in the main lemma list.
+
 
 =====
 LEXICOGRAPHY
 =====
 …to be completed…
 <e meta="xxx"> = for meta see below
--><usage oahpa="no" dict="xxx"/>
 -><lg>
 --><l pos="xxx"> for pos see above
---><mg>
+--><mg excluded="oahpa;OTHER_APP/>
 ---><sources><book name="xxx" lesson="xxx"/> = for oahpa
 ---><sem
 ---><xxx>
----><eg> = "example group" = example forms, phrases or sentences; never relevant for Oahpa! or (reversed) dictionary
 
 =====
 TODO
@@ -56,8 +57,6 @@ TODO
 *  <lg>
 ** find a systematic and consistent way for handling variants (dial and orth) 
 ** find a systematic and consistent way for handling audiofiles
-* <variants>
-** resolve the preliminary tagging of what was called "synonyms"
 * <mg>
 ** for all entries from "term" and "kurss" complete <semantics>, and <tg> in eng, rus, nob, fin
 * check consistency of adjective entries (in sms and rus):
@@ -96,10 +95,7 @@ Preliminary conventions: other Skolt Sámi orthography
 
 <l> = always the first variant used by the 1991 dictionary, i.e. the "main Suonikylä form"
 
-Other phonological variants (of unclear dialectal origin) are listed under <l>, e.g.:
-<l pos="adv">occanj</l>
-<lv variant="dial">õccanj</lv>
-if they are true cognates (but not derived forms, etc.).
+Other phonological variants (of unclear dialectal origin) are listed in a separate file with a link to the main lemma 
 
 =====
 Preliminary conventions: media
@@ -115,9 +111,7 @@ Preliminary conventions: other orthography
 =====
 Preliminary conventions: inflection
 =====
-The current solution with inflected forms in <xg> is preliminary. These forms are taken from the book "kurss" and are perhaps necessary for Oahpa!
-
-Also the field <infl> in <lg> is preliminary. Inflected forms are listed if they occur in the wordlists. I am converting to the lexical database. I only use <infl> for learning about inflection classes now, but this information will be obsolete as soon as the FST works.
+In the field <infl> in <lg> is preliminary. Inflected forms are listed if they occur in the wordlists. I am converting to the lexical database. I only use <infl> for learning about inflection classes now, but this information will be obsolete as soon as the FST works.
 
 =====
 meta
@@ -145,16 +139,6 @@ on the e-element in the xml files:
 
 10 - a few lemmas imported from contlex
 
-
-=====
-Pronouns
-=====
-* check inflected personal pronouns (e.g. <l pos="PRO" person="2" number="sg">tun</l>) (how should they be listed?)
-
-=====
-Synonyms
-=====
-cf. variants such as occanj ≠ [derived] occnja and occanj ≠ [synonym] simmna; These variants are listed as own lemmata, but I have stopped tagging them as <synonyms>
 
 =======
 some cip-comments:
