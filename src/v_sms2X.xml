@@ -707,7 +707,7 @@
          </infl>
       </lg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
@@ -1893,7 +1893,7 @@
          </infl>
       </lg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <sources>
             <book name="kurss" lesson="dict"/>
          </sources>
@@ -2073,7 +2073,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <semantics>
             <sem class="WORK">ECONOMY</sem>
          </semantics>
@@ -3249,7 +3249,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <tg xml:lang="rus">
             <t pos="v">светить</t>
             <te>о солнце</te>
@@ -3997,7 +3997,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <semantics>
             <sem class="HUMAN">FAMILY</sem>
             <sem class="WORK">LAISURE</sem>
@@ -5657,7 +5657,7 @@
          </tg>
       </mg>
       <mg>
-         <usuage oahpa="excl"/>
+         <usage oahpa="excl"/>
          <tg xml:lang="rus">
             <t pos="v">кататься</t>
          </tg>
