@@ -1,6 +1,7 @@
 This directory contains material relevant to the Skolt Sámi dictionary. The aim of this "common" dictionary database is to create a rich structure in one single lexicon file, which later allows exporting for different purposes: e.g. bilingual learner dictionaries, Oahpa!, descriptive dictionaries, etc. Thus "sms2X" basically means both …2Xlanguages and …2Xproducts.
 
-Documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict (still incomplete)
+ ==> update your URL:
+ Documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict (still incomplete)
 
 Incoming raw files go into inc/
 
@@ -8,24 +9,24 @@ Incoming raw files go into inc/
 PoS
 =====
 The dictionary is devided into several single files for the different PoS (derived lemmas are in separate files, see below):
-*abbr=abbreviations
-**only a preliminary solution to list them among true PoS's
-**perhaps we should rather have an own list with abbreviations, like the term lists for oahpa?
-*num=numerals
-**note1:so far, the db-file includes both cardinals, ordinals, and other quantifiers; syntactically these are different PoS's though
-*multiword=multi-word expressions
-**only a preliminary solution to list them among true PoS's
-*to be continued…
+* abbr=abbreviations
+** only a preliminary solution to list them among true PoS's
+** perhaps we should rather have an own list with abbreviations, like the term lists for oahpa?
+* num=numerals
+** note1:so far, the db-file includes both cardinals, ordinals, and other quantifiers; syntactically these are different PoS's though
+* multiword=multi-word expressions
+** only a preliminary solution to list them among true PoS's
+* to be continued…
 
 =====
 Derivation (subfolder ~/der)
 =====
 Since most derivations are formed by means of regular/productive morphology and do not represent own lemmas they are stored in separate files for derived PoS's with the link to the respective root as a variable. For different kinds of dictionaries, we will later handle derivations differently:
-*Oahpa!-nuõrti includes derivations similar to other lemmas (if these derivations are tagged for oahpa)
-*saan.oahpa.no includes derivations similar to other lemmas
-*in a future printed dictionary some derivations will be listed under root lemmas
-*contlex lexica do not include productive derivations
-**PROBLEM: what are the productive (non/lexicalized) derivations and how do we tag this?
+* Oahpa!-nuõrti includes derivations similar to other lemmas (if these derivations are tagged for oahpa)
+* saan.oahpa.no includes derivations similar to other lemmas
+* in a future printed dictionary some derivations will be listed under root lemmas
+* contlex lexica do not include productive derivations
+** PROBLEM: what are the productive (non/lexicalized) derivations and how do we tag this?
 
 
 =====
@@ -51,8 +52,8 @@ LEXICOGRAPHY
 TODO
 =====
 
-*@Ciprian: I'm afraid the existing scripts have to be changes after <source> was moved into <mg>
-* <lg>
+* @Ciprian: I'm afraid the existing scripts have to be changed after <source> was moved into <mg>
+*  <lg>
 ** find a systematic and consistent way for handling variants (dial and orth) 
 ** find a systematic and consistent way for handling audiofiles
 * <variants>
@@ -62,7 +63,7 @@ TODO
 * check consistency of adjective entries (in sms and rus):
 ** <l> with pred, attr under <der>?
 ** pos-tagging: as "a", "a:attr", "a:pred"?
-* write better documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
+* write better documentation at ___CORRECT-ME___ http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
 * fill in all xxx's
 * check <t> vs. <tg> vs. <mg>
 * check <tr> <te> and other such extensions
