@@ -54,8 +54,7 @@
         <lg>
             <l pos="N" lemma="xxx">ääiˊj ǩeeˊjjest</l>
         </lg>
-        <mg>
-            <usage oahpa="no"/>
+        <mg exclude="oahpa;">
             <sources>
                 <book name="kurss" lesson="5"/>
             </sources>
@@ -81,7 +80,6 @@
             <l pos="V" lemma="xxx">tääˊvted ǩidd</l>
         </lg>
         <mg>
-            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="6"/>
             </sources>
@@ -111,7 +109,6 @@
             <l pos="V" lemma="xxx_-ǥa">ij-ǥa</l>
         </lg>
         <mg>
-            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="6"/>
             </sources>
@@ -137,7 +134,6 @@
             <l pos="ADV" lemma="xxx">mõõn diõtt</l>
         </lg>
         <mg>
-            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="6"/>
             </sources>
@@ -169,7 +165,6 @@
             <l pos="PRO" lemma="xxx_ni">ni mâiˊd</l>
         </lg>
         <mg>
-            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="6"/>
             </sources>
@@ -194,8 +189,7 @@
         <lg>
             <l pos="ADV" lemma="xxx">mâŋŋa jââđast</l>
         </lg>
-        <mg>
-            <usage oahpa="no"/>
+        <mg exclude="oahpa;">
             <tg xml:lang="eng">
                 <t pos="ADV">the day after tomorrow</t>
             </tg>
@@ -212,7 +206,6 @@
             <l pos="A" lemma="a_maˊlinovi-">maˊlinovi ruõpssâd</l>
         </lg>
         <mg term="COLOR">
-            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="5"/>
             </sources>
