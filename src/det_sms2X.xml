@@ -114,7 +114,6 @@
          <l pos="det">seämma</l>
       </lg>
       <mg>
-          <usage oahpa="yes"/>
           <sources>
             <book name="kurss" lesson="3"/>
          </sources>
@@ -141,7 +140,6 @@
             <l pos="det">måttam</l>
         </lg>
         <mg>
-            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="5"/>
             </sources>
@@ -183,7 +181,6 @@
             <l pos="det">nåkkam</l>
         </lg>
         <mg>
-            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="5"/>
             </sources>
@@ -212,7 +209,6 @@
             </infl>
         </lg>
         <mg>
-            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="2"/>
                 <book name="lookkamkerjj" lesson="1"/>
@@ -257,7 +253,6 @@
             </infl>
         </lg>
         <mg>
-            <usage oahpa="yes"/>
             <sources>
                 <book name="kurss" lesson="3"/>
             </sources>
@@ -285,8 +280,7 @@
         <lg>
             <l pos="det">måkam</l>
         </lg>
-        <mg>
-            <usage oahpa="no"/>
+        <mg exclude="oahpa;">
             <tg xml:lang="rus">
                 <t>какой</t>
             </tg>
