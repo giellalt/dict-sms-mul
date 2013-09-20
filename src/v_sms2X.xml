@@ -27,7 +27,7 @@
    </e>
    <e meta="04">
       <lg>
-         <lv source="ZMN" pos="v">njikkšted</lv>
+         <l source="ZMN" pos="v">njikkšted</l>
          <stg>
             <st Contlex=""/>
          </stg>
@@ -100,15 +100,19 @@
             <sem class="LANG">SPEECH</sem>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v" impf="высказать">сказать</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref" impf="высказать">сказать</t>
             <t pos="v">говорить</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="v">це̄ӆӆькэ</t>
          </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="v">sanoa</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="v" oahpa="pref">sanoa</t>
             <t pos="v">lausua</t>
             <t pos="v">puhua</t>
          </tg>
@@ -116,11 +120,13 @@
             <t pos="v">say</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="v" oahpa="pref">sagen</t>
+            <t pos="v">sagen</t>
             <t pos="v">sprechen</t>
          </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="v">si</t>
+         </tg>
          <tg xml:lang="nob">
-            <t pos="v" oahpa="pref">si</t>
             <t pos="v">snakke</t>
          </tg>
          <tg xml:lang="sme">
@@ -146,17 +152,17 @@
             <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">need</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">надо</t>
-            <t pos="v" gloss="xxx">нужно</t>
+            <t pos="v">надо</t>
+            <t pos="v">нужно</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">täytyä</t>
+            <t pos="v">täytyä</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">trenge</t>
@@ -169,28 +175,26 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">PERCEPTION</sem>
+            <sem class="LANG">SPEECH</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">understand</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">ymmärtää, (hän) ei ymmärrä</t>
+            <t pos="v">ymmärtää</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">понимать, (он) не понимает</t>
+            <t pos="v">понимать</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">forstå</t>
+            <t pos="v">forstå</t>
          </tg>
       </mg>
    </e>
@@ -206,13 +210,13 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="BODY">HEALTH</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">cure</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">hoitaa</t>
+            <t pos="v">hoitaa</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v" impf="заботиться">позаботиться</t>
@@ -221,52 +225,7 @@
             <t pos="v">лечить</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx"/>
-         </tg>
-      </mg>
-   </e>
-   <e meta="04">
-      <lg>
-         <l pos="v" person="3" number="sg">ij</l>
-         <stg>
-            <st Contlex="IJ">ij</st>
-         </stg>
-         <etymology>
-            <etymon type="inher" source="uralic">e-</etymon>
-            <cognate xml:lang="sjd">эйй</cognate>
-         </etymology>
-      </lg>
-      <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="*113"/>
-            <book name="100"/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">COGNITION</sem>
-         </semantics>
-         <tg xml:lang="rus">
-            <t pos="pcle">не</t>
-         </tg>
-         <tg xml:lang="sjd">
-            <t pos="v" person="3" number="sg">эйй</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="v" person="3" number="sg">ei</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="pcle">not</t>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="pcle">nicht</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pcle">ikke</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="v" person="3" number="sg">ii</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="v" person="3" number="sg">ii</t>
+            <t pos="v">behandle</t>
          </tg>
       </mg>
    </e>
@@ -311,18 +270,6 @@
          <tg xml:lang="smn">
             <t pos="v">čokkáđ</t>
          </tg>
-         <xg oahpa="excl" kurss="xxx">
-            <x type="phrase" pos="mwe_v">išttâd åårrad</x>
-            <xtg xml:lang="fin">
-               <t pos="v">istua</t>
-            </xtg>
-            <xtg xml:lang="sme">
-               <xt pos="v">čohkkát</xt>
-            </xtg>
-            <xtg xml:lang="sju">
-               <xt pos="v">tjåhkàhit</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="01">
@@ -341,13 +288,12 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="v" oahpa="dispref">jiõŋŋâd</l>
+         <l pos="v">jiõŋŋâd</l>
          <stg>
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="finnougric">jäŋe</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="finnougric">jäŋe</etymon>
          </etymology>
       </lg>
       <mg>
@@ -362,8 +308,7 @@
             <t pos="v">freeze</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" impf="замёрзнуть" oahpa="pref">мёрзнуть</t>
-            <t pos="v" impf="замёрзнуть">мерзнуть</t>
+            <t pos="v" impf="замёрзнуть" ё="мёрзнуть">мерзнуть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">fryse</t>
@@ -386,8 +331,7 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="uralic">elä-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="uralic">elä-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -517,7 +461,7 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="v">believe</t>
@@ -626,7 +570,7 @@
             <t pos="v">jápmit</t>
          </tg>
          <tg xml:lang="sju">
-            <t pos="xxx">jàbˈmeet</t>
+            <t pos="v">jàbˈmeet</t>
          </tg>
       </mg>
    </e>
@@ -637,8 +581,7 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="saamic">jorke̮-lē ~ jork-ēhtē-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="saamic">jorke̮-lē ~ jork-ēhtē-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -702,7 +645,7 @@
             <book name="lookkamkerjj" lesson="1"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="rus" oahpa="pref">
             <t pos="v">ехать</t>
@@ -714,7 +657,7 @@
             <t pos="v">dra</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">drive</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">kulkea</t>
@@ -732,16 +675,20 @@
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>
-         <tg xml:lang="rus">
+         <tg xml:lang="rus" oahpa="pref">
             <t pos="v">кофейничать</t>
-            <t pos="xxx">сидеть за чашкой кофе</t>
-            <te>пить кофе</te>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="mwe_v">пить кофе</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">kahvistella</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">drikke kaffe</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="v">drink coffee</t>
          </tg>
          <semantics>
             <sem class="FOOD">DISH</sem>
@@ -760,6 +707,7 @@
          </infl>
       </lg>
       <mg>
+         <usuage oahpa="excl"/>
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
@@ -769,9 +717,6 @@
          <tg xml:lang="fin">
             <t pos="v">kohottaa</t>
             <t pos="v">nostaa</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
          </tg>
          <semantics>
             <sem class="HUMAN">FAMILY</sem>
@@ -790,10 +735,10 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SPACE">POSITION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">be situated</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">löytää</t>
@@ -864,7 +809,7 @@
             <st Contlex=""/>
          </stg>
          <infl>
-            <form gloss="xxx">kollai</form>
+            <form gloss="3sg.prs">kollai</form>
          </infl>
       </lg>
       <mg>
@@ -872,7 +817,7 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">PERCEPTION</sem>
          </semantics>
          <tg xml:lang="rus">
             <t pos="v">слышаться</t>
@@ -881,10 +826,10 @@
             <t pos="v">kuulua</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="v">høre</t>
+            <t pos="mwe_v">være hørbar</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">is audible</t>
          </tg>
       </mg>
    </e>
@@ -895,8 +840,7 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="uralic">kanta</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="uralic">kanta</etymon>
          </etymology>
       </lg>
       <mg>
@@ -993,7 +937,7 @@
             <t pos="mwe_vp">sataa lunta</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="ENVIR"/>
          </semantics>
       </mg>
    </e>
@@ -1023,8 +967,7 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="FP, U?">kojwa-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="FP, U?">kojwa-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -1037,8 +980,10 @@
          <tg xml:lang="eng">
             <t pos="v">dig</t>
          </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v" impf="выкопать">копать</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref" impf="выкопать">копать</t>
             <t pos="v" impf="вырыть">рыть</t>
          </tg>
          <tg xml:lang="nob">
@@ -1068,8 +1013,7 @@
             <form gloss="3sg.pst">kuärai</form>
          </infl>
          <etymology>
-            <etymon type="xxx" source="saamic">kɔ̄rɔ̄-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="saamic">kɔ̄rɔ̄-</etymon>
             <bedlan>139</bedlan>
          </etymology>
       </lg>
@@ -1145,13 +1089,16 @@
             <t pos="v">лазить</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">xxx</t>
+            <t pos="v">kiivetä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="v">klatre</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="v">climb</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
       </mg>
    </e>
@@ -1166,9 +1113,11 @@
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">рухнуть</t>
+         </tg>
          <tg xml:lang="rus">
             <t pos="v">грохнуть</t>
-            <t pos="v" oahpa="pref">рухнуть</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">romahtaa</t>
@@ -1177,10 +1126,10 @@
             <t pos="v">velte</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="v">crash</t>
+            <t pos="v">crashe</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
       </mg>
    </e>
@@ -1191,8 +1140,7 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="finnopermic">külmä</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="finnopermic">külmä</etymon>
          </etymology>
       </lg>
       <mg>
@@ -1206,8 +1154,7 @@
             <t pos="v">freeze</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" impf="замёрзнуть" oahpa="pref">мёрзнуть</t>
-            <t pos="v" impf="замёрзнуть">мерзнуть</t>
+            <t pos="v" impf="замёрзнуть" ё="мёрзнуть">мерзнуть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">fryse</t>
@@ -1235,10 +1182,11 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">PERCEPTION</sem>
+            <sem class="BODY">HEALTH</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">be cold</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">palella</t>
@@ -1257,28 +1205,28 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="5"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">be embarrassed</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">стыдиться, (он) стыдится, стесняться, (он) стесняется</t>
+            <t pos="v">стыдиться</t>
+         </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">стесняться</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">ujostella, (hän) ujostelee</t>
+            <t pos="v">ujostella</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">bli sjenert</t>
+            <t pos="mwe_v">bli sjenert</t>
          </tg>
       </mg>
    </e>
@@ -1297,7 +1245,7 @@
             <t pos="v">paint</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
       </mg>
    </e>
@@ -1428,7 +1376,7 @@
             <book name="kurss" lesson="5"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN"/>
          </semantics>
          <tg xml:lang="eng">
             <t pos="v">invite</t>
@@ -1501,28 +1449,26 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="5"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN"/>
+            <sem class="LANG">SPEECH</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">inquire</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">опрашивать</t>
+            <t pos="v">опрашивать</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">kysellä</t>
+            <t pos="v">kysellä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">etterspørre</t>
+            <t pos="v">etterspørre</t>
          </tg>
       </mg>
    </e>
@@ -1538,7 +1484,7 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE"/>
          </semantics>
          <tg xml:lang="eng">
             <t pos="v">ask</t>
@@ -1561,8 +1507,7 @@
             <st Contlex="VIQQAD">kõčč</st>
          </stg>
          <etymology>
-            <etymon type="xxx" source="saamic">ke̮ćće̮</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="saamic">ke̮ćće̮</etymon>
          </etymology>
       </lg>
       <mg>
@@ -1598,11 +1543,9 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <lv variant="dial" source="1991">läullad</lv>
          <etymology>
             <etymon type="inher" source="finnosaamic?"/>
             <etymon type="inher" source="finnic">lavla-</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -1635,12 +1578,11 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="v" oahpa="dispref">laˊsǩǩeed</l>
+         <l pos="v">laˊsǩǩeed</l>
          <stg>
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="xxx"/>
             <cognate xml:lang="fin">laskea</cognate>
          </etymology>
       </lg>
@@ -1674,7 +1616,7 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="v" oahpa="dispref">laˊǧǧsted</l>
+         <l pos="v">laˊǧǧsted</l>
          <stg>
             <st Contlex=""/>
          </stg>
@@ -1741,7 +1683,7 @@
             <t pos="v">be</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SPACE"/>
          </semantics>
       </mg>
    </e>
@@ -1757,11 +1699,8 @@
             <t pos="v">sleet</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">sataa räntää</t>
+            <t pos="mwe_v">sataa räntää</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
    <e meta="05">
@@ -1786,15 +1725,13 @@
             <sem class="BODY">HEALTH</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="v" oahpa="pref">lie</t>
-            <t pos="mwe_v">lie down</t>
+            <t pos="mwe_v" short="lie">lie down</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">лежать</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="v" oahpa="pref">ligge</t>
-            <t pos="mwe_v">ligge ner</t>
+            <t pos="mwe_v" short="ligge">ligge ner</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">maata</t>
@@ -1840,8 +1777,7 @@
             <t pos="v">maata</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="v" oahpa="pref">lie</t>
-            <t pos="mwe_v">lie down</t>
+            <t pos="mwe_v" short="lie">lie down</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="v">liegen</t>
@@ -1873,7 +1809,7 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="BODY">HEALTH</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="mwe_v">have diarrhea</t>
@@ -1882,7 +1818,7 @@
             <t pos="mwe_v">olla ripulissa</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="mwe_v">?? понос</t>
+            <t pos="mwe_v">есть понос</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="mwe_v">ha diaré</t>
@@ -1948,7 +1884,7 @@
    </e>
    <e meta="03">
       <lg>
-         <l pos="v" class="xxx">lueˊštted</l>
+         <l pos="v">lueˊštted</l>
          <stg>
             <st Contlex=""/>
          </stg>
@@ -1957,17 +1893,18 @@
          </infl>
       </lg>
       <mg>
+         <usuage oahpa="excl"/>
          <sources>
             <book name="kurss" lesson="dict"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">päästää</t>
+            <t pos="v">päästää</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">release</t>
+            <t pos="v">release</t>
          </tg>
       </mg>
    </e>
@@ -2035,8 +1972,7 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="saamic">lōntɔ̄-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="saamic">lōntɔ̄-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -2082,19 +2018,19 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">чувствовать себя по-домашнему уютно</t>
+            <t pos="mwe_v">чувствовать себя уютно</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">viihtyä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">trives bra</t>
+            <t pos="mwe_v">trives bra</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">feel good</t>
          </tg>
       </mg>
    </e>
@@ -2106,7 +2042,6 @@
          </stg>
          <etymology>
             <etymon type="loan" source="northgermanic?"/>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -2117,9 +2052,11 @@
             <sem class="FOOD">DISH</sem>
             <sem class="WORK">ECONOMY</sem>
          </semantics>
+         <tg xml:lang="eng" oahpa="pref">
+            <t pos="v">grind</t>
+         </tg>
          <tg xml:lang="eng">
             <t pos="v">mill</t>
-            <t pos="v" oahpa="pref">grind</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v" impf="смолоть">молть</t>
@@ -2135,7 +2072,8 @@
             <t pos="v">molˈlet</t>
          </tg>
       </mg>
-      <mg oahpa="excl">
+      <mg>
+         <usuage oahpa="excl"/>
          <semantics>
             <sem class="WORK">ECONOMY</sem>
          </semantics>
@@ -2179,50 +2117,6 @@
          <tg xml:lang="eng">
             <t pos="v">tell</t>
          </tg>
-         <xg>
-            <x type="idiom">mâiˊd mainstak?</x>
-            <xtg xml:lang="eng">
-               <xt pos="xxx">xxx</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="xxx">что нового?</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="xxx">mitä kuuluu?</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="xxx">hvordan har du det?</xt>
-            </xtg>
-         </xg>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="v">meeˊst feˊrttai</l>
-         <stg>
-            <st Contlex=""/>
-         </stg>
-
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="3"/>
-         </sources>
-         <semantics>
-            <sem class="xxx">xxx</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="xxx">нам надо (мы должны)</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx"/>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">vi trenger (=hos oss trenger det)</t>
-         </tg>
       </mg>
    </e>
    <e meta="03">
@@ -2231,28 +2125,30 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
-      <mg>
+      <mg term="REINDEER">
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">mark</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">merkitä</t>
+            <t pos="v">merkitä</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">метить (оленей разрезами на ушах), клеймить</t>
+            <t pos="v">метить</t>
+            <te>оленей разрезами на ушах</te>
+         </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">клеймить</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">markere (kalvene)</t>
+            <t pos="v">markere</t>
+            <te>kalvene</te>
          </tg>
       </mg>
    </e>
@@ -2300,10 +2196,8 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <lv variant="dial" source="1991">miẹˊccsted</lv>
          <etymology>
             <etymon type="loan" source="fin?">metsästää</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -2313,7 +2207,7 @@
          <semantics>
             <sem class="WORK">ECONOMY</sem>
             <sem class="FOOD">NATURE</sem>
-            <sem class="INVIR">TOPONOMY</sem>
+            <sem class="ENVIR">TOPONOMY</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="v">hunt</t>
@@ -2350,10 +2244,10 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">PERCEPTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">remember</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">muistaa</t>
@@ -2373,28 +2267,25 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">smile</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">hymyillä, hymyillen</t>
+            <t pos="v">hymyillä</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">улыбаться, улыбаясь</t>
+            <t pos="v">улыбаться</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">smile</t>
+            <t pos="v">smile</t>
          </tg>
       </mg>
    </e>
@@ -2413,8 +2304,7 @@
             <form gloss="3sg.prs">mâânn</form>
          </infl>
          <etymology>
-            <etymon type="xxx" source="uralic">mene-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="uralic">mene-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -2446,12 +2336,6 @@
          <tg xml:lang="sju">
             <t pos="v">mannat</t>
          </tg>
-         <xg oahpa="excl" kurss="yes">
-            <x pos="v">mâânn ǩidd</x>
-            <xtg xml:lang="rus">
-               <xt pos="v">закроется</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="10">
@@ -2482,19 +2366,19 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="FOOD"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">голодаешь</t>
+            <t pos="v">голодать</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">nälkiintyä, nälkiintyy (passiivi)</t>
+            <t pos="v">nälkiintyä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="v">være sulten</t>
+            <t pos="mwe_v">være sulten</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">be hungry</t>
          </tg>
       </mg>
    </e>
@@ -2515,13 +2399,13 @@
             <t pos="v">таскать</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">xxx</t>
+            <t pos="v">kiskoa</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="v">trekke</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
       </mg>
    </e>
@@ -2532,8 +2416,7 @@
             <st Contlex="VIQQAD">njiimm</st>
          </stg>
          <etymology>
-            <etymon type="xxx" source="uralic">ńime-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="uralic">ńime-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -2589,10 +2472,11 @@
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="v">keep course (in a boat)</t>
+            <t pos="mwe_v">keep course</t>
+            <tr>boat</tr>
          </tg>
          <tg xml:lang="fin">
-            <t pos="v">pitää perää</t>
+            <t pos="mwe_v">pitää perää</t>
          </tg>
       </mg>
    </e>
@@ -2602,28 +2486,26 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
-      <mg>
+      <mg term="REINDEER">
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
+            <sem class="ZOO"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">catch with a lasso</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">heittää suopungilla, et heitä suopungilla</t>
+            <t pos="mwe_v">heittää suopungilla</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">ловить арканом, не ловишь арканом </t>
+            <t pos="mwe_v">ловить арканом</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">jage med lasso</t>
+            <t pos="mwe_v">jage med lasso</t>
          </tg>
       </mg>
    </e>
@@ -2668,28 +2550,26 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="5"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="FOOD"/>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">be tasty</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">быть вкусным, (это) вкусно</t>
+            <t pos="mwe_v">быть вкусным</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">maistua hyvältä, (se) maistuu hyvältä</t>
+            <t pos="mwe_v">maistua hyvältä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">smake bra</t>
+            <t pos="mwe_v">smake bra</t>
          </tg>
       </mg>
    </e>
@@ -2706,16 +2586,19 @@
             <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">collect</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">собирать</t>
+            <t pos="v">собирать</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">koota, kerätä</t>
+            <t pos="v">koota</t>
+         </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="v">kerätä</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">samle</t>
@@ -2772,10 +2655,10 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">find</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">hakea</t>
@@ -2812,9 +2695,11 @@
          <tg xml:lang="rus">
             <t pos="v" impf="спрятать">прятать</t>
          </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="v">gjemme</t>
+         </tg>
          <tg xml:lang="nob">
             <t pos="v">skjule</t>
-            <t pos="v" oahpa="pref">gjemme</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">piilottaa</t>
@@ -2843,16 +2728,17 @@
             <book name="lookkamkerjj" lesson="1"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="TIME"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">last</t>
+            <te>take time</te>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">длиться</t>
+            <t pos="v">длиться</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">продолжаться</t>
+            <t pos="v">продолжаться</t>
             <te>во времени</te>
          </tg>
          <tg xml:lang="fin">
@@ -2871,28 +2757,26 @@
          <stg>
             <st Contlex="VIQQAD">piijj</st>
          </stg>
-         <infl>
-            <form gloss="xxx">(\#peˊjje)</form>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="5"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">put</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">положить (ставить), положат (ставят)</t>
+            <t pos="v">положить</t>
+            <te>ставить</te>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">panna, panevat</t>
+            <t pos="v">panna</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">sette</t>
+            <t pos="v">sette</t>
          </tg>
       </mg>
    </e>
@@ -2902,7 +2786,6 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <lv variant="dial" source="1991">piirsted</lv>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -2939,10 +2822,10 @@
             <book name="kurss" lesson="5"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">reach</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">попадать</t>
@@ -2971,19 +2854,20 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
+            <sem class="HUMAN"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">танцевать</t>
+            <t pos="v">танцевать</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">tanssia</t>
+            <t pos="v">tanssia</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">danse</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">dance</t>
          </tg>
       </mg>
    </e>
@@ -2993,28 +2877,31 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx">(\#ponjste)</form>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">fetch down</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">väännähyttää, väännähyttävät</t>
+            <t pos="v">väännähyttää</t>
+         </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">свалить</t>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="mwe_v">kaste ned</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">свалить, свалят; погнуть, погнут</t>
+            <t pos="v">погнуть</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">kaste/felle ned</t>
+            <t pos="mwe_v">felle ned</t>
          </tg>
       </mg>
    </e>
@@ -3045,7 +2932,7 @@
          <tg xml:lang="rus">
             <t pos="v">кушать</t>
          </tg>
-         <tg xml:lang="rus" oahpa="dispref">
+         <tg xml:lang="rus">
             <t pos="v">питаться</t>
          </tg>
          <tg xml:lang="sjd">
@@ -3086,13 +2973,13 @@
             <t pos="v">work</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">tehdä työtä</t>
+            <t pos="mwe_v">tehdä työtä</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="v">bargat</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
       </mg>
    </e>
@@ -3131,28 +3018,29 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="ZOO"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">make sound</t>
+            <te>calfes</te>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">roukua (vasasta), roukuvat</t>
+            <t pos="v">roukua</t>
+            <te>vasasta</te>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">издавать звуки (олений телёнок)</t>
+            <t pos="mwe_v">издавать звуки</t>
+            <te>олений телёнок</te>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">lage lyd (kalvene)</t>
+            <t pos="mwe_v">lage lyd</t>
+            <te>kalvene</te>
          </tg>
       </mg>
    </e>
@@ -3208,7 +3096,6 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <lv variant="dial" source="1991">puẹˊtted</lv>
          <infl>
             <form gloss="1pl.pst">puõđim</form>
             <form gloss="2sg.prs">puäđak</form>
@@ -3262,54 +3149,6 @@
          <tg xml:lang="sju">
             <t pos="v">bååhteet</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="v">puäˊđ!</x>
-            <xtg xml:lang="rus">
-               <xt pos="v">приходи!</xt>
-               <xt pos="v">иди!</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="v">come!</xt>
-               <xt pos="mwe_v">come in!</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt pos="v">tule!</xt>
-            </xtg>
-            <xtg xml:lang="nob">
-               <xt pos="v">kom!</xt>
-            </xtg>
-         </xg>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="v">puäˊđ veäkka!</l>
-         <stg>
-            <st Contlex=""/>
-         </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="6"/>
-         </sources>
-         <semantics>
-            <sem class="xxx">xxx</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx">tule avuksi!</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="xxx">иди помоги! иди на помощь!</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">kom til/og hjelp!</t>
-         </tg>
       </mg>
    </e>
    <e meta="03">
@@ -3325,16 +3164,16 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">bring</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">tuoda</t>
+            <t pos="v">tuoda</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">приносить</t>
+            <t pos="v">приносить</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">bringe</t>
@@ -3357,10 +3196,10 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">order</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">käskeä</t>
@@ -3391,10 +3230,10 @@
             <book name="lookkamkerjj" lesson="1"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="FOOD"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">roast</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">печь</t>
@@ -3409,7 +3248,8 @@
             <t pos="v">steike</t>
          </tg>
       </mg>
-      <mg oahpa="excl">
+      <mg>
+         <usuage oahpa="excl"/>
          <tg xml:lang="rus">
             <t pos="v">светить</t>
             <te>о солнце</te>
@@ -3429,8 +3269,7 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="uralic">pušɜ-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="uralic">pušɜ-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -3474,9 +3313,11 @@
          <tg xml:lang="nob">
             <t pos="v">svulme</t>
          </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="v">ajettua</t>
+         </tg>
          <tg xml:lang="fin">
             <t pos="v">paisua</t>
-            <t pos="v" oahpa="pref">ajettua</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="v">bohtanit</t>
@@ -3493,7 +3334,6 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <lv variant="dial" source="1991">pååǥǥsted</lv>
       </lg>
       <mg>
          <sources>
@@ -3509,8 +3349,10 @@
          <tg xml:lang="rus">
             <t pos="v" impf="посмеяться">смеяться</t>
          </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="v">le</t>
+         </tg>
          <tg xml:lang="nob">
-            <t pos="v" oahpa="pref">le</t>
             <t pos="v">skratte</t>
          </tg>
          <tg xml:lang="fin">
@@ -3548,8 +3390,7 @@
             <st Contlex="VIQQAD">põõll</st>
          </stg>
          <etymology>
-            <etymon type="xxx" source="uralic">pele-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="uralic">pele-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -3568,7 +3409,7 @@
          </tg>
          <tg xml:lang="nob">
             <t pos="v">frykte</t>
-            <t pos="xxx">være redd</t>
+            <te>være redd</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">pelätä</t>
@@ -3614,8 +3455,7 @@
             />
          </audio>
          <etymology>
-            <etymon type="xxx" source="finnovolgaic">pese-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="finnovolgaic">pese-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -3651,8 +3491,10 @@
          <semantics>
             <sem class="CLOTH">PART</sem>
          </semantics>
+         <tg xml:lang="eng" oahpa="pref">
+            <t pos="v">launder</t>
+         </tg>
          <tg xml:lang="eng">
-            <t pos="v" oahpa="pref">launder</t>
             <t pos="v">wash</t>
          </tg>
          <tg xml:lang="rus">
@@ -3742,7 +3584,6 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="xxx"/>
             <cognate xml:lang="swe">räkna</cognate>
          </etymology>
       </lg>
@@ -3754,8 +3595,10 @@
             <sem class="SENSE">QUANTITY</sem>
             <sem class="WORK">SCHOOL</sem>
          </semantics>
+         <tg xml:lang="eng" oahpa="pref">
+            <t pos="v">calculate</t>
+         </tg>
          <tg xml:lang="eng">
-            <t pos="v" oahpa="pref">calculate</t>
             <t pos="v">count</t>
          </tg>
          <tg xml:lang="rus">
@@ -3775,13 +3618,14 @@
          </tg>
       </mg>
    </e>
-   <e meta="05">
+   <e meta="03">
       <lg>
-         <l pos="v">reäkkad</l>
+         <l pos="v">reäkkâd</l>
          <stg>
             <st Contlex=""/>
          </stg>
          <infl>
+            <form gloss="1sg.prs">reäǥǥam</form>
             <form gloss="3sg.prs">reäkk</form>
          </infl>
          <etymology>
@@ -3790,26 +3634,29 @@
          </etymology>
       </lg>
       <mg>
+         <semantics>
+            <sem class="HUMAN">SOCIAL</sem>
+            <sem class="SENSE">EMOTION</sem>
+         </semantics>
          <sources>
+            <book name="kurss" lesson="phon"/>
             <book name="kurss" lesson="4"/>
             <book name="200" BEDLAN_ID="222"/>
          </sources>
-         <semantics>
-            <sem class="SENSE">EMOTION</sem>
-            <sem class="HUMAN">FAMILY</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="v" oahpa="pref">cry</t>
-            <t pos="v">weep</t>
-         </tg>
          <tg xml:lang="rus">
             <t pos="v">плакать</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="v">itkeä</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">gråte</t>
          </tg>
-         <tg xml:lang="fin">
-            <t pos="v">itkeä</t>
+         <tg xml:lang="eng" oahpa="pref">
+            <t pos="v">cry</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="v">weep</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="v">ря̄кгэ</t>
@@ -3825,61 +3672,32 @@
    </e>
    <e meta="03">
       <lg>
-         <l pos="v">reäkkâd</l>
-         <stg>
-            <st Contlex=""/>
-         </stg>
-         <infl>
-            <form gloss="1sg.prs">reäǥǥam</form>
-         </infl>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="phon"/>
-         </sources>
-         <tg xml:lang="rus">
-            <t pos="v">плакать</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="v">itkeä</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
-         </tg>
-         <semantics>
-            <sem class="HUMAN">SOCIAL</sem>
-            <sem class="SENSE">EMOTION</sem>
-         </semantics>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
          <l pos="v">ruâkksed</l>
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">laugh</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">naurahtaa, (hän) naurahtaa</t>
+            <t pos="v">naurahtaa</t>
+         </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">смеяться</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">смеяться, (он) смеётся; усмехнуться</t>
+            <t pos="v">усмехнуться</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">le</t>
+            <t pos="v">le</t>
          </tg>
       </mg>
    </e>
@@ -3889,28 +3707,26 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">flush</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">punastua, (hän) punastuu</t>
+            <t pos="v">punastua</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">(по)краснеть, (по)краснеет</t>
+            <t pos="v">краснеть</t>
+            <t pos="v">покраснеть</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">rødme</t>
+            <t pos="v">rødme</t>
          </tg>
       </mg>
    </e>
@@ -3973,8 +3789,7 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="saamic">ruvije̮-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="saamic">ruvije̮-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -3993,8 +3808,10 @@
          <tg xml:lang="nob">
             <t pos="v">gni</t>
          </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="v">hieroa</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="v" oahpa="pref">hieroa</t>
             <t pos="v">hangata</t>
          </tg>
          <tg xml:lang="sme">
@@ -4004,12 +3821,11 @@
    </e>
    <e meta="05">
       <lg>
-         <l pos="v" oahpa="dispref">rääppad</l>
+         <l pos="v">rääppad</l>
          <stg>
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="xxx"/>
             <cognate xml:lang="fin?">raapia</cognate>
             <cognate xml:lang="swe?">gräva</cognate>
          </etymology>
@@ -4024,8 +3840,10 @@
          <tg xml:lang="eng">
             <t pos="v">dig</t>
          </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v" impf="выкопать">копать</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref" impf="выкопать">копать</t>
             <t pos="v" impf="вырыть">рыть</t>
          </tg>
          <tg xml:lang="nob">
@@ -4085,8 +3903,10 @@
          <tg xml:lang="eng">
             <t pos="v">wipe</t>
          </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v" impf="протереть">протирать</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref" impf="протереть">протирать</t>
             <t pos="v" impf="стереть">стирать</t>
          </tg>
          <tg xml:lang="nob">
@@ -4115,7 +3935,7 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="fin">
             <t pos="v">osata</t>
@@ -4176,7 +3996,8 @@
             <t pos="v">stååhkat</t>
          </tg>
       </mg>
-      <mg oahpa="excl">
+      <mg>
+         <usuage oahpa="excl"/>
          <semantics>
             <sem class="HUMAN">FAMILY</sem>
             <sem class="WORK">LAISURE</sem>
@@ -4199,11 +4020,11 @@
             <t pos="v">фотографировать</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">take a photograph</t>
-            <t pos="xxx">snap a photo</t>
+            <t pos="mwe_v">take a photograph</t>
+            <t pos="mwe_v">snap a photo</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
       </mg>
    </e>
@@ -4257,15 +4078,13 @@
          </sources>
          <tg xml:lang="rus">
             <t pos="v">грести</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="xxx">плыть на вёслах</t>
+            <te>плыть на вёслах</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">soutaa</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="v">ro</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="v">rudern</t>
@@ -4293,10 +4112,10 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="HUMAN"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">arrange</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">договариваться</t>
@@ -4318,7 +4137,6 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <lv variant="dial" source="1991">suâibbad</lv>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -4328,9 +4146,6 @@
          <tg xml:lang="fin">
             <t pos="n">keinua</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
    <e meta="10">
@@ -4356,8 +4171,7 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="finnovolgaic">šiŋa-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="finnovolgaic">šiŋa-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -4427,7 +4241,7 @@
             <book name="lookkamkerjj" lesson="1"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="adv">perhaps</t>
@@ -4465,9 +4279,11 @@
          <semantics>
             <sem class="HUMAN">POSSESSION</sem>
          </semantics>
-         <tg xml:lang="rus">
+         <tg xml:lang="rus" oahpa="pref">
             <t pos="v">нуждаться</t>
-            <t pos="v" oahpa="dispref">надо</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="v">надо</t>
             <te>иметь потребность</te>
          </tg>
          <tg xml:lang="fin">
@@ -4581,16 +4397,18 @@
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="ZOO"/>
+            <sem class="SPACE">MOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">run</t>
+            <te>herd</te>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">laukkoa</t>
+            <t pos="v">laukkoa</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">бежать</t>
+            <t pos="v">бежать</t>
             <tr>о стаде</tr>
          </tg>
          <tg xml:lang="nob">
@@ -4648,10 +4466,10 @@
             <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">PERCEPTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">know</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">vite</t>
@@ -4662,7 +4480,7 @@
          <tg xml:lang="rus">
             <t pos="v">чувствовать</t>
          </tg>
-         <tg xml:lang="rus">
+         <tg xml:lang="rus" oahpa="pref">
             <t pos="v">знать</t>
          </tg>
       </mg>
@@ -4679,50 +4497,58 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="HUMAN"/>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="xxx">сидеть у костра</t>
+            <t pos="mwe_v">сидеть у костра</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">tulistella</t>
+            <t pos="v">tulistella</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">fyre bål</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">having campfire</t>
          </tg>
       </mg>
    </e>
-   <e meta="03">
+   <e meta="04">
       <lg>
-         <l pos="v">tueˊllʼjed</l>
+         <l pos="v">tuõˊlˈlʼjed</l>
          <stg>
             <st Contlex=""/>
          </stg>
          <infl>
-            <form gloss="xxx">tueˊlle!</form>
+            <form gloss="imp.sg">tueˊlle</form>
          </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="6"/>
+            <book name="200" BEDLAN_ID="77"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK">REINDEER</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v" short="hold">hold tight</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">pitää kiinni, pidä kiinni!</t>
+            <t pos="mwe_v" short="pitää">pitää kiinni</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">держать, держи!</t>
+            <t pos="v">держать</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">holde fast, hold fast!</t>
+            <t pos="mwe_v" short="holde">holde fast</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="v">doallat</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="v">adnèhtit</t>
          </tg>
       </mg>
    </e>
@@ -4734,7 +4560,6 @@
          </stg>
          <etymology>
             <etymon type="inher" source="uralic">torɜ-</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -4765,47 +4590,6 @@
          </tg>
       </mg>
    </e>
-   <e meta="04">
-      <lg>
-         <l pos="v">tuõˊlˈlʼjed</l>
-         <stg>
-            <st Contlex=""/>
-         </stg>
-         <lv variant="dial" source="1991">tueˊlˈlʼjed</lv>
-         <infl>
-            <form gloss="imp.sg">tueˊlle</form>
-         </infl>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-            <book name="200" BEDLAN_ID="77"/>
-         </sources>
-         <semantics>
-            <sem class="WORK">REINDEER</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="v">hold</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="v" oahpa="pref">pitää</t>
-            <t pos="mwe_v">pitää kiinni</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="v">держать</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="v" oahpa="pref">holde</t>
-            <t pos="mwe_v" oahpa="pref">holde fast</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="v">doallat</t>
-         </tg>
-         <tg xml:lang="sju">
-            <t pos="v">adnèhtit</t>
-         </tg>
-      </mg>
-   </e>
    <e meta="03">
       <lg>
          <l pos="v">tuˊtǩǩeed</l>
@@ -4821,10 +4605,11 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">investigate</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">undersøke</t>
@@ -4852,7 +4637,8 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="FOOD">DISH</sem>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
             <t pos="v">cover</t>
@@ -4888,8 +4674,7 @@
             <sem class="WORK">ECONOMY</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="v" oahpa="pref">make</t>
-            <t pos="v">do</t>
+            <t pos="v">make</t>
             <te>produce</te>
          </tg>
          <tg xml:lang="rus">
@@ -4968,8 +4753,10 @@
          <tg xml:lang="rus">
             <t pos="v" impf="втиснуть">втискивать</t>
          </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="v">kveste</t>
+         </tg>
          <tg xml:lang="nob">
-            <t pos="v" oahpa="pref">kveste</t>
             <t pos="v">knuse</t>
          </tg>
          <tg xml:lang="fin">
@@ -4995,21 +4782,18 @@
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
-         <tg xml:lang="fin">
-            <t pos="xxx">tavoittaa</t>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="v">tavoittaa</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">napata</t>
-            <t pos="xxx">siepata</t>
-            <t pos="xxx">tarttua</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="xxx">xxx</t>
+            <t pos="v">napata</t>
+            <t pos="v">siepata</t>
+            <t pos="v">tarttua</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">fange inn</t>
          </tg>
       </mg>
    </e>
@@ -5019,7 +4803,6 @@
          <stg>
             <st Contlex="VIQQAD">určč</st>
          </stg>
-         <lv variant="dial" source="1991">uˊrččâd</lv>
          <infl>
             <form gloss="3sg.prs">orčč</form>
          </infl>
@@ -5066,15 +4849,15 @@
             <form gloss="3pl.prs">uuˊrčte</form>
          </infl>
       </lg>
-      <mg term="REINDEER">
+      <mg>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK">REINDEER</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">drive</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">juoksuttaa</t>
@@ -5100,7 +4883,6 @@
          </infl>
          <etymology>
             <etymon type="inher" source="finnougric">amta-</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -5114,8 +4896,10 @@
             <sem class="WORK">ECONOMY</sem>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">дать</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref">дать</t>
             <t pos="v">отдать</t>
             <t pos="v">раздать</t>
          </tg>
@@ -5129,7 +4913,7 @@
             <t pos="v">give</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="v" oahpa="pref">geben</t>
+            <t pos="v">geben</t>
             <t pos="v">schenken</t>
          </tg>
          <tg xml:lang="nob">
@@ -5158,22 +4942,23 @@
             <book name="kurss" lesson="5"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">mind</t>
+            <te>take care</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">varoa</t>
-            <t pos="xxx">olla varuillaan</t>
+            <te>olla varuillaan</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">остерегаться</t>
             <t pos="v">опасаться</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">være forsiktig</t>
-            <t pos="xxx">se opp for</t>
+            <t pos="v">akte</t>
+            <te>være aktsam</te>
          </tg>
       </mg>
    </e>
@@ -5183,7 +4968,6 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <lv variant="dial" source="1991">väˊstteed</lv>
       </lg>
       <mg>
          <sources>
@@ -5244,21 +5028,24 @@
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">обвенчать</t>
+         </tg>
          <tg xml:lang="rus">
             <t pos="v">венчать</t>
-            <t pos="v" oahpa="pref">обвенчать</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">xxx</t>
+            <t pos="v">vihkiä</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">gifte</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">marry</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="HUMAN"/>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
       </mg>
    </e>
@@ -5271,7 +5058,7 @@
       </lg>
       <mg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="rus">
             <t pos="v">сравнивать</t>
@@ -5337,17 +5124,20 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
+         <tg xml:lang="eng">
+            <t pos="mwe_v">feel like</t>
+         </tg>
          <tg xml:lang="fin">
             <t pos="v">viitsiä</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="mwe_v">xxx</t>
+            <t pos="v">хотеть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="mwe_vp">ha lyst</t>
-            <te>(å gjøre noe)</te>
+            <te>til å gjøre noe</te>
          </tg>
       </mg>
    </e>
@@ -5363,32 +5153,20 @@
             <book name="kurss" lesson="phon"/>
          </sources>
          <tg xml:lang="rus">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v" short="принести">сходить и принести</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">xxx</t>
+            <t pos="v">noutaa</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v" short="hente">gå og hente</t>
          </tg>
-         <lexicon xml:lang="rus">сходить и принести</lexicon>
+         <tg xml:lang="eng">
+            <t pos="mwe_v" short="bring">go and bring</t>
+         </tg>
          <semantics>
-            <sem class="xxx"/>
-         </semantics>
-      </mg>
-      <mg>
-         <tg xml:lang="rus">
-            <t pos="xxx">xxx</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx">xxx</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
-         </tg>
-         <lexicon xml:lang="rus">сходить и привести</lexicon>
-         <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
+            <sem class="SPACE">MOTION</sem>
          </semantics>
       </mg>
    </e>
@@ -5419,8 +5197,10 @@
          <tg xml:lang="fin">
             <t pos="v">nähdä</t>
          </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">видеть</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref">видеть</t>
             <t pos="v">замечать</t>
          </tg>
          <tg xml:lang="nob">
@@ -5459,15 +5239,15 @@
             <book name="kurss" lesson="1"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">can</t>
+            <te>be able</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">мочь</t>
-            <te>быть в силах</te>
-            <te>быть в состоянии</te>
+            <te>быть в силах/состоянии</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">voida</t>
@@ -5488,7 +5268,7 @@
             <st Contlex=""/>
          </stg>
          <infl>
-            <form gloss="xxx">vuejj</form>
+            <form gloss="3sg.prs">vuejj</form>
          </infl>
       </lg>
       <mg>
@@ -5496,50 +5276,20 @@
             <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
+            <sem class="SPACE">MOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">drive</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">идёшь, уходишь</t>
+            <t pos="v">ехать</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">ajaa, (hän) ajaa</t>
+            <t pos="v">ajaa</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">(han/hun/det) kjører</t>
-         </tg>
-      </mg>
-   </e>
-   <e meta="03">
-      <lg>
-         <l pos="v">vuejted</l>
-         <stg>
-            <st Contlex=""/>
-         </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="6"/>
-         </sources>
-         <semantics>
-            <sem class="xxx">xxx</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="xxx">ajattaa, ajatamme</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="xxx">гнать, гоним</t>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="xxx">forfølge</t>
+            <t pos="v">kjøre</t>
          </tg>
       </mg>
    </e>
@@ -5552,7 +5302,6 @@
          <etymology>
             <etymon type="inher" source="finnopermic">okse-</etymon>
             <etymon type="inher" source="saamic">vōksē</etymon>
-            <cognate xml:lang="xxx"/>
          </etymology>
       </lg>
       <mg>
@@ -5568,7 +5317,9 @@
          </tg>
          <tg xml:lang="rus">
             <t pos="v" impf="стошнить">тошнить</t>
-            <t pos="v" oahpa="pref" impf="вырвать">рвать</t>
+         </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v" impf="вырвать">рвать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="mwe_v">kaste opp</t>
@@ -5617,15 +5368,8 @@
          <tg xml:lang="nob">
             <t pos="v">dra</t>
          </tg>
-         <xg>
-            <x pos="v" gloss="1pl.prs">vueˊlǧǧep!</x>
-            <xtg xml:lang="rus">
-               <xt pos="v" oahpa="pref">пойдём!</xt>
-               <xt pos="v">пойдем!</xt>
-            </xtg>
-         </xg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
       </mg>
    </e>
@@ -5652,8 +5396,10 @@
          <tg xml:lang="nob">
             <t pos="v">kaste</t>
          </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="v">nakata</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="v" oahpa="pref">nakata</t>
             <t pos="v">heittää</t>
          </tg>
          <tg xml:lang="sme">
@@ -5721,12 +5467,13 @@
             <sem class="WORK">ECONOMY</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="v">xxx</t>
+            <t pos="v">can</t>
+            <te>be allowed</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="v" impf="получить">получать</t>
          </tg>
-         <tg xml:lang="rus">
+         <tg xml:lang="rus" oahpa="pref">
             <t pos="v">мочь</t>
             <te>иметь право</te>
          </tg>
@@ -5771,8 +5518,7 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="uralic">wajŋe</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="uralic">wajŋe</etymon>
          </etymology>
       </lg>
       <mg>
@@ -5885,8 +5631,6 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <lv variant="dial" source="1991">vuâjjad</lv>
-         <lv variant="dial" source="1991">vueˊjjed</lv>
          <infl>
             <form gloss="3sg.prs">vuẹjj</form>
          </infl>
@@ -5913,6 +5657,7 @@
          </tg>
       </mg>
       <mg>
+         <usuage oahpa="excl"/>
          <tg xml:lang="rus">
             <t pos="v">кататься</t>
          </tg>
@@ -5924,26 +5669,29 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <lv variant="dial" source="1991">vuâjted</lv>
          <infl>
-            <form gloss="1pl.prs">vuejtep</form>
+            <form gloss="1pl.prs">vuẹjtep</form>
          </infl>
       </lg>
       <mg>
          <sources>
-            <book name="kurss" lesson="dict"/>
+            <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
+            <sem class="SPACE">MOTION</sem>
          </semantics>
+         <tg xml:lang="eng">
+            <t pos="v">trail</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">ajattaa</t>
+            <t pos="v">ajattaa</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">гнать</t>
+            <t pos="v">гнать</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="v">forfølge</t>
          </tg>
       </mg>
    </e>
@@ -6067,7 +5815,7 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="FOOD"/>
          </semantics>
          <tg xml:lang="fin">
             <t pos="v">kaataa</t>
@@ -6098,20 +5846,20 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="FOOD"/>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">leipoa</t>
+            <t pos="v">leipoa</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">печь</t>
-            <te>(хлеб, булку)</te>
+            <t pos="v">печь</t>
+            <te>хлеб, булку</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">bake</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">bake</t>
          </tg>
       </mg>
    </e>
@@ -6127,8 +5875,7 @@
             <form gloss="imp.sg">vääˊld</form>
          </infl>
          <etymology>
-            <etymon type="xxx" source="saamic">vāltē-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="saamic">vāltē-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -6145,8 +5892,8 @@
          <tg xml:lang="rus">
             <t pos="v">взять</t>
          </tg>
-         <tg xml:lang="rus">
-            <t pos="v" oahpa="pref">брать</t>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">брать</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">ottaa</t>
@@ -6163,23 +5910,6 @@
          <tg xml:lang="sju">
             <t pos="v">vàlldeet</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="mwe_v">vääldam ǩidd</x>
-            <xtg xml:lang="rus">
-               <xt pos="v">поймаю</xt>
-            </xtg>
-         </xg>
-         <xg>
-            <x pos="mwe_s">täˊst, vääˊld!</x>
-            <xtg xml:lang="fin">
-               <xt pos="mwe_s">tässä, ota!</xt>
-               <xt pos="mwe_s" oahpa="pref">ole hyvä!</xt>
-            </xtg>
-            <xtg xml:lang="rus">
-               <xt pos="s">возьми!</xt>
-               <xt pos="mwe_s" oahpa="pref">пожалуйста, будь добр!</xt>
-            </xtg>
-         </xg>
       </mg>
    </e>
    <e meta="04">
@@ -6271,19 +6001,19 @@
       </lg>
       <mg>
          <tg xml:lang="rus">
-            <t pos="v">идет дождь</t>
+            <t pos="mwe_v">идет дождь</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="v">rain</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="n">sataa vettä</t>
+            <t pos="mwe_v">sataa vettä</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="v">arvit</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="ENVIR"/>
          </semantics>
       </mg>
    </e>
@@ -6294,8 +6024,7 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="uralic">ipɜ ~ ipɜ-sɜ (ipsɜ)</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="uralic">ipɜ ~ ipɜ-sɜ (ipsɜ)</etymon>
          </etymology>
       </lg>
       <mg>
@@ -6362,10 +6091,10 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="FOOD"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">leak</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">vuotaa</t>
@@ -6438,7 +6167,7 @@
             <t pos="v">åpne</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">open</t>
          </tg>
       </mg>
    </e>
@@ -6459,7 +6188,7 @@
             <book name="kurss" lesson="3"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="TIME">POINT</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="v">start</t>
@@ -6527,13 +6256,16 @@
             <sem class="HUMAN">RELIGION</sem>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="xxx">uskoa</t>
+            <t pos="v">uskoa</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">верить</t>
+            <t pos="v">верить</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">xxx</t>
+            <t pos="v">tru</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="v">believe</t>
          </tg>
       </mg>
    </e>
@@ -6566,16 +6298,6 @@
          <tg xml:lang="nob">
             <t pos="v">trenge</t>
          </tg>
-         <xg oahpa="excl" kurss="no">
-            <x pos="xxx">mon õõlǥam</x>
-            <xtg xml:lang="rus">
-               <xt>мне надо</xt>
-               <xt>мне нужно</xt>
-            </xtg>
-            <xtg xml:lang="fin">
-               <xt>minun pitää</xt>
-            </xtg>
-         </xg>
          <semantics>
             <sem class="HUMAN">POSSESSION</sem>
             <sem class="SENSE">EMOTION</sem>
@@ -6600,21 +6322,24 @@
          <sources>
             <book name="kurss" lesson="phon"/>
          </sources>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">успевать</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref">успевать</t>
             <t pos="v">достигать</t>
          </tg>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="v">ehtiä</t>
+         </tg>
          <tg xml:lang="fin">
-            <t pos="v" oahpa="pref">ehtiä</t>
             <t pos="v">joutaa</t>
             <t pos="v">saavuttaa</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="v" oahpa="pref">hinne</t>
-            <t pos="v">rekke</t>
+            <t pos="v">hinne</t>
          </tg>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
       </mg>
    </e>
@@ -6638,8 +6363,7 @@
             <st Contlex="VIQQAD">čiõkk</st>
          </stg>
          <etymology>
-            <etymon type="xxx" source="finnosaamic">śäki-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="finnosaamic">śäki-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -6652,12 +6376,16 @@
          <tg xml:lang="eng">
             <t pos="v">hide</t>
          </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">закопать</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref">закопать</t>
             <t pos="v">закрыть</t>
          </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="v">skjule</t>
+         </tg>
          <tg xml:lang="nob">
-            <t pos="v" oahpa="pref">skjule</t>
             <t pos="v">gjemme</t>
          </tg>
          <tg xml:lang="fin">
@@ -6681,8 +6409,7 @@
             <st Contlex="VIQQAD">čolgg</st>
          </stg>
          <etymology>
-            <etymon type="xxx" source="finnougric">śülˊke-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="finnougric">śülˊke-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -6719,28 +6446,27 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="5"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK">SCHOOL</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">draw</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">тянуть, таскать, тащить, (он) тянет, таскает,</t>
+            <t pos="v">тянуть</t>
+            <t pos="v">таскать</t>
+            <t pos="v">тащить</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">vetää, (hän) vetää</t>
+            <t pos="v">vetää</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">tegne</t>
+            <t pos="v">tegne</t>
          </tg>
       </mg>
    </e>
@@ -6760,10 +6486,10 @@
             <book name="kurss" lesson="4"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="BODY">HEALTH</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="mwe_v">be ill</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">särkeä</t>
@@ -6782,28 +6508,26 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">scream</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">huutaa, (hän) huutaa</t>
+            <t pos="v">huutaa</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">кричать (вопить), (он) кричит</t>
+            <t pos="v">кричать</t>
+            <te>вопить</te>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">skrike</t>
+            <t pos="v">skrike</t>
          </tg>
       </mg>
    </e>
@@ -6813,28 +6537,25 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">follow</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">seurata, seuraavat</t>
+            <t pos="v">seurata</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">следовать, следуют</t>
+            <t pos="v">следовать</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">følge</t>
+            <t pos="v">følge</t>
          </tg>
       </mg>
    </e>
@@ -6845,7 +6566,8 @@
             <st Contlex=""/>
          </stg>
          <infl>
-            <form gloss="xxx">(\#čuäˊjtam,čuäˊjat)</form>
+            <form gloss="1sg.prs">čuäˊjtam</form>
+            <form gloss="3sg.prs">čuäˊjat</form>
          </infl>
       </lg>
       <mg>
@@ -6853,19 +6575,19 @@
             <book name="kurss" lesson="5"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">show</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">показывать</t>
+            <t pos="v">показывать</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">näyttää, (hän) näyttää</t>
+            <t pos="v">näyttää</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">vise</t>
+            <t pos="v">vise</t>
          </tg>
       </mg>
    </e>
@@ -6892,8 +6614,10 @@
          <tg xml:lang="eng">
             <t pos="v">cut</t>
          </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">резать</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref">резать</t>
             <t pos="v">разрезать</t>
          </tg>
          <tg xml:lang="nob">
@@ -6931,9 +6655,6 @@
             <t pos="v">приветствовать</t>
             <t pos="v">окликать</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
    <e meta="05">
@@ -6980,8 +6701,6 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <lv variant="dial">čuâǯˈǯad</lv>
-         <lv variant="dial">čuäǯˈǯad</lv>
          <etymology>
             <etymon type="inher" source="finnougric">saŋća-</etymon>
             <cognate xml:lang="sjd">чуэннче</cognate>
@@ -7099,8 +6818,7 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="saamic">će̮ne̮-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="saamic">će̮ne̮-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -7108,7 +6826,7 @@
             <book name="200" BEDLAN_ID="177"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
             <t pos="v">tie</t>
@@ -7152,6 +6870,9 @@
          <tg xml:lang="fin">
             <t pos="v">syntyä</t>
          </tg>
+         <tg xml:lang="fin">
+            <t pos="v">be born</t>
+         </tg>
          <tg xml:lang="rus">
             <t pos="v" impf="рождаться">родиться</t>
          </tg>
@@ -7165,27 +6886,28 @@
             <book name="lookkamkerjj" lesson="1"/>
          </sources>
          <semantics>
-            <sem class="xxx"/>
+            <sem class="ENVIR"/>
          </semantics>
+         <tg xml:lang="eng">
+            <t pos="v">appear</t>
+            <te>come to existence</te>
+         </tg>
          <tg xml:lang="fin">
             <t pos="v">tulla</t>
-            <te>(jksn)</te>
+            <te>jksn</te>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">становиться</t>
-            <te>(кем-, чем-либо)</te>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="v">появляться (на свет)</t>
+            <t pos="v">становиться</t>
+            <te>>появляться на свет</te>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">bli til</t>
+            <t pos="mwe_v" short="bli">bli til</t>
          </tg>
       </mg>
    </e>
    <e meta="05">
       <lg>
-         <l pos="v" oahpa="dispref">ǩeâulleed</l>
+         <l pos="v">ǩeâulleed</l>
          <stg>
             <st Contlex=""/>
          </stg>
@@ -7236,8 +6958,10 @@
             <sem class="SPACE">MOTION</sem>
             <sem class="WORK">TRAVEL</sem>
          </semantics>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">летать</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="v" oahpa="pref">летать</t>
             <t pos="v">лететь</t>
          </tg>
          <tg xml:lang="sjd">
@@ -7280,8 +7004,11 @@
          <semantics>
             <sem class="FOOD">DISH</sem>
          </semantics>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">варить</t>
+         </tg>
          <tg xml:lang="rus">
-            <t pos="v">варить; кипятить; готовить</t>
+            <t pos="v">готовить</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">keittää</t>
@@ -7324,7 +7051,8 @@
             <st Contlex=""/>
          </stg>
          <infl>
-            <form gloss="xxx">(\#ǩiirtam,ǩiirat)</form>
+            <form gloss="1sg.prs">ǩiirtam</form>
+            <form gloss="xxx">ǩiirat</form>
          </infl>
       </lg>
       <mg>
@@ -7332,19 +7060,25 @@
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">hurry</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">kiirehtiä, (hän) kiirehtii</t>
+            <t pos="v">kiirehtiä</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">торопиться, спешить, (он) торопится, спешит</t>
+            <t pos="v">торопиться</t>
+         </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">спешить</t>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="v">haste</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">skynde/haste</t>
+            <t pos="v">skynde</t>
          </tg>
       </mg>
    </e>
@@ -7354,28 +7088,31 @@
          <stg>
             <st Contlex=""/>
          </stg>
-         <infl>
-            <form gloss="xxx"/>
-         </infl>
       </lg>
       <mg>
          <sources>
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">PERCEPTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">see</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="xxx">katsella</t>
+            <t pos="v">katsella</t>
+         </tg>
+         <tg xml:lang="rus" oahpa="pref">
+            <t pos="v">смотреть</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="xxx">смотреть, глядеть, разглядывать</t>
+            <t pos="v">глядеть</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="v">разглядывать</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="xxx">se</t>
+            <t pos="v">se</t>
          </tg>
       </mg>
    </e>
@@ -7395,7 +7132,7 @@
             <book name="kurss" lesson="2"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">PERCEPTION</sem>
          </semantics>
          <tg xml:lang="fin">
             <t pos="v">katsoa</t>
@@ -7432,18 +7169,19 @@
             <book name="kurss" lesson="6"/>
          </sources>
          <semantics>
-            <sem class="xxx">xxx</sem>
+            <sem class="SENSE">PERCEPTION</sem>
+            <sem class="WORK">SCHOOL</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="xxx">xxx</t>
+            <t pos="v">test</t>
          </tg>
-         <tg xml:lang="fin">
+         <tg xml:lang="fin" oahpa="pref">
             <t pos="v">koetella</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">kokeilla</t>
          </tg>
-         <tg xml:lang="rus">
+         <tg xml:lang="rus" oahpa="pref">
             <t pos="v" impf="пробовать">попробовать</t>
          </tg>
          <tg xml:lang="rus">
@@ -7452,7 +7190,7 @@
          <tg xml:lang="rus">
             <t pos="v">испытывать</t>
          </tg>
-         <tg xml:lang="nob">
+         <tg xml:lang="nob" oahpa="pref">
             <t pos="v">prøve</t>
          </tg>
          <tg xml:lang="nob">
@@ -7498,8 +7236,7 @@
             <st Contlex=""/>
          </stg>
          <etymology>
-            <etymon type="xxx" source="saamic">kɛ̄sē-</etymon>
-            <cognate xml:lang="xxx"/>
+            <etymon source="saamic">kɛ̄sē-</etymon>
          </etymology>
       </lg>
       <mg>
@@ -7518,7 +7255,9 @@
          </tg>
          <tg xml:lang="nob">
             <t pos="v">trekke</t>
-            <t pos="v" oahpa="pref">dra</t>
+         </tg>
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="v">dra</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">vetää</t>
