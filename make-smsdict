@@ -1,0 +1,70 @@
+
+# Makefile to make smsdict.fst
+# the fst just recognises all lemmas in the smsnob dictionary
+# it does __not__ translate them.
+
+# usage.
+# make -f make-smsdict
+
+# pseudocode:
+
+# read all lexicon files
+# pick the lemmas
+# save as smslemmalist.txt
+# open xfst
+# run command "read text < smslemmalist.txt"
+# save result as smsdict.fst
+# the resulting fst to be used to test dict content
+
+
+XFST = xfst
+
+LEX = src/a_sms2X.xml		    \
+	src/abbr_sms2X.xml	    \
+	src/adp_sms2X.xml	    \
+	src/adv_sms2X.xml	    \
+	src/cc_sms2X.xml	    \
+	src/cs_sms2X.xml	    \
+	src/det_sms2X.xml	    \
+	src/i_sms2X.xml		    \
+	src/multiword_sms2X.xml \
+	src/n_sms2X.xml		    \
+	src/num_sms2X.xml	    \
+	src/pcle_sms2X.xml	    \
+	src/pro_sms2X.xml	    \
+	src/prop_sms2X.xml	    \
+	src/v_sms2X.xml
+
+smsdict.fst: bin/smsdict.fst
+bin/smsdict.fst: bin/smsdict.save
+	@echo
+	@echo "*** Building  smsdict.fst ***"
+	@echo
+	@printf "read regex [ @\"$<\" .o. \
+	[ ï (<-) i , ö (<-) ø , æ (<-) ä , Ï (<-) I , Ö (<-) Ø , Æ (<-) Ä ]] ; \n\
+	save stack $@ \n\
+	quit \n" > ../tmp/smsdict-fst-script
+	@echo "*** Done script, at least. ***"
+	$(XFST)  < ../tmp/smsdict-fst-script
+	@rm -f ../tmp/smsdict-fst-script
+
+smsdict.save: bin/smsdict.save
+bin/smsdict.save: bin/smslemmalist.txt
+	@echo
+	@echo "*** Building  smsdict.save ***"
+	@echo
+	@printf "read text $< \n\
+	save stack $@ \n\
+	quit \n" > ../tmp/smsdict-save-script
+	$(XFST)  < ../tmp/smsdict-save-script
+	@rm -f ../tmp/smsdict-save-script
+
+smslemmalist.txt: bin/smslemmalist.txt
+bin/smslemmalist.txt: $(LEX)
+	@cat $(LEX) | \
+	egrep '<l(sub| )' | \
+	cut -d">" -f2 | \
+	cut -d"<" -f1 > bin/smslemmalist.txt
+
+clean:
+	@rm -f bin/smslemmalist.txt bin/smsdict.fst	
