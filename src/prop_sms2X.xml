@@ -1976,6 +1976,33 @@
    </e>
    <e meta="04">
       <lg>
+         <l pos="prop" type="place">Pâˊjj-Njauddâm</l>
+      </lg>
+      <mg>
+         <usage oahpa="no"/>
+         <semantics>
+            <sem type="ENVIR">SETTLEMENT</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="prop">Neiden</t>
+            <te>village</te>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="prop">Ylä-Näätämö</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="prop">Верхный Нейден</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="prop">Øvre Neiden</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="prop">Njávdán</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
          <l pos="prop" type="place">Njeäˊlˈlem</l>
       </lg>
       <mg>
@@ -2341,6 +2368,37 @@
          </tg>
       </mg>
    </e>
+   <e meta="04">
+      <lg>
+         <l pos="prop" type="place">Njauddâmjokk</l>
+      </lg>
+      <mg>
+         <usage oahpa="yes"/>
+         <semantics>
+            <sem type="ENVIR">TOPONOMY</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="prop">Näätämö river</t>
+            <te>river</te>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="prop">Näätämöjoki</t>
+            <te>joki</te>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="prop">Нейден река</t>
+            <te>река</te>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="prop">Neidenelva</t>
+            <te>elv</te>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="prop">Njávdánjohka</t>
+            <te>johka</te>
+         </tg>
+      </mg>
+</e>
    <e meta="04">
       <lg>
          <l pos="prop" type="place">Paaččjokk</l>
@@ -3162,10 +3220,7 @@
    </e>
    <e meta="04">
       <lg>
-         <l pos="prop" type="place">Taarr</l>
-         <infl>
-            <form gloss="ill.sg">Taˊrre</form>
-         </infl>
+         <l pos="prop" type="place">Taarrjânnam</l>
       </lg>
       <mg>
          <usage oahpa="yes"/>
