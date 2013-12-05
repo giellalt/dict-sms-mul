@@ -28,7 +28,7 @@ For the full license text, see the link above.</lic>
 
     <e meta="03">
         <lg>
-            <l pos="PRO" lemma="PRO_ǩii">ni ǩeän</l>
+            <l pos="pro" lemma="pro_ǩii">ni ǩeän</l>
         </lg>
         <mg>
             <sources>
@@ -38,16 +38,16 @@ For the full license text, see the link above.</lic>
                 <sem class="HUMAN">PEOPLE</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="PRO">nobody</t>
+                <t pos="pro">nobody</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="PRO" gloss="gen.sg">никого</t>
+                <t pos="pro" gloss="gen.sg">никого</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="PRO">ketään</t>
+                <t pos="pro">ketään</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="PRO">ikke noen</t>
+                <t pos="pro">ikke noen</t>
             </tg>
         </mg>
     </e>

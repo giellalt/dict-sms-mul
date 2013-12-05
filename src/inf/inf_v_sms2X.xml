@@ -28,7 +28,7 @@ For the full license text, see the link above.</lic>
 
     <e meta="04">
         <lg>
-            <l pos="v" person="3" number="sg">ij</l>
+            <l pos="v" gloss="3.sg">ij</l>
             <stg>
                 <st Contlex="IJ">ij</st>
             </stg>
@@ -49,10 +49,10 @@ For the full license text, see the link above.</lic>
                 <t pos="pcle">не</t>
             </tg>
             <tg xml:lang="sjd">
-                <t pos="v" person="3" number="sg">эйй</t>
+                <t pos="v" gloss="3.sg">эйй</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="v" person="3" number="sg">ei</t>
+                <t pos="v" gloss="3.sg">ei</t>
             </tg>
             <tg xml:lang="eng">
                 <t pos="pcle">not</t>

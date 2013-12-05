@@ -78,7 +78,7 @@ For the full license text, see the link above.</lic>
     </e>
     <e meta="03">
         <lg>
-            <l pos="N" lemma="xxx">ääiˊj ǩeeˊjjest</l>
+            <l pos="n" lemma="xxx">ääiˊj ǩeeˊjjest</l>
         </lg>
         <mg exclude="oahpa;">
             <sources>
@@ -88,22 +88,22 @@ For the full license text, see the link above.</lic>
                 <sem class="TIME">CYCLE</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="ADP">in process of time</t>
+                <t pos="adp">in process of time</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="ADP">с течением времени</t>
+                <t pos="adp">с течением времени</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="ADP">ajan kuluttua</t>
+                <t pos="adp">ajan kuluttua</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="ADP">med tiden</t>
+                <t pos="adp">med tiden</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
         <lg>
-            <l pos="V" lemma="xxx">tääˊvted ǩidd</l>
+            <l pos="v" lemma="xxx">tääˊvted ǩidd</l>
         </lg>
         <mg>
             <sources>
@@ -114,25 +114,25 @@ For the full license text, see the link above.</lic>
                 <sem class="ZOO">REINDEER</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="V">capture</t>
+                <t pos="v">capture</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="V">ottaa kiinni</t>
+                <t pos="v">ottaa kiinni</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="V">брать</t>
+                <t pos="v">брать</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="V">схватить</t>
+                <t pos="v">схватить</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="V">fange inn</t>
+                <t pos="v">fange inn</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
         <lg>
-            <l pos="V" lemma="xxx_-ǥa">ij-ǥa</l>
+            <l pos="v" lemma="xxx_-ǥa">ij-ǥa</l>
         </lg>
         <mg>
             <sources>
@@ -142,22 +142,22 @@ For the full license text, see the link above.</lic>
                 <sem class="SENSE">PERCEPTION</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="ADV">neither</t>
+                <t pos="adv">neither</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="ADV">eikä</t>
+                <t pos="adv">eikä</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="ADV">и не</t>
+                <t pos="adv">и не</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="ADV">ikke heller</t>
+                <t pos="adv">ikke heller</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
         <lg>
-            <l pos="ADV" lemma="xxx">mõõn diõtt</l>
+            <l pos="adv" lemma="xxx">mõõn diõtt</l>
         </lg>
         <mg>
             <sources>
@@ -167,28 +167,28 @@ For the full license text, see the link above.</lic>
                 <sem class="SENSE">PERCEPTION</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="ADV">why</t>
+                <t pos="adv">why</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="ADV">minkä takia</t>
+                <t pos="adv">minkä takia</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="ADV">miksi </t>
+                <t pos="adv">miksi </t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="ADV">зачем</t>
+                <t pos="adv">зачем</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="ADV">почему </t>
+                <t pos="adv">почему </t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="ADV">hvorfor</t>
+                <t pos="adv">hvorfor</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
         <lg>
-            <l pos="PRO" lemma="xxx_ni">ni mâiˊd</l>
+            <l pos="pro" lemma="pcle_ni">ni mâiˊd</l>
         </lg>
         <mg>
             <sources>
@@ -198,38 +198,38 @@ For the full license text, see the link above.</lic>
                 <sem class="SENSE">QUANTITY</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="PRO">nothing</t>
+                <t pos="pro">nothing</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="PRO">mitään</t>
+                <t pos="pro">mitään</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="PRO" gloss="gen.sg">ничего</t>
+                <t pos="pro" gloss="gen.sg">ничего</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="PRO">ikke noe</t>
+                <t pos="pro">ikke noe</t>
             </tg>
         </mg>
     </e>
     <e meta="04">
         <lg>
-            <l pos="ADV" lemma="xxx">mâŋŋa jââđast</l>
+            <l pos="adv" lemma="xxx">mâŋŋa jââđast</l>
         </lg>
         <mg exclude="oahpa;">
             <tg xml:lang="eng">
-                <t pos="ADV">the day after tomorrow</t>
+                <t pos="adv">the day after tomorrow</t>
             </tg>
             <tg xml:lang="deu">
-                <t pos="ADV">übermorgen</t>
+                <t pos="adv">übermorgen</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="ADV">послезавтра</t>
+                <t pos="adv">послезавтра</t>
             </tg>
         </mg>
     </e>
     <e meta="03">
         <lg>
-            <l pos="A" lemma="a_maˊlinovi-">maˊlinovi ruõpssâd</l>
+            <l pos="a" lemma="a_maˊlinovi">maˊlinovi ruõpssâd</l>
         </lg>
         <mg term="COLOR">
             <sources>
@@ -239,16 +239,16 @@ For the full license text, see the link above.</lic>
                 <sem class="SENSE">PERCEPTION</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="A">orange</t>
+                <t pos="a">orange</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="A">оранжевый</t>
+                <t pos="a">оранжевый</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="A">oranssi</t>
+                <t pos="a">oranssi</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="A">oransje</t>
+                <t pos="a">oransje</t>
             </tg>
         </mg>
     </e>
