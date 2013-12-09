@@ -30,14 +30,14 @@ For the full license text, see the link above.</lic>
         <lg>
             <l pos="a" lemma="xxx">kuuđekksaž</l>
         </lg>
-        <xg>
+        <mg>
             <tg xml:lang="fin">
                 <t pos="a">kuusivuotias</t>
             </tg>
             <tg xml:lang="eng">
                 <t pos="a">six years old</t>
             </tg>
-        </xg>
+        </mg>
     </e>
     <e meta="04">
         <lg>
@@ -372,17 +372,13 @@ For the full license text, see the link above.</lic>
     </e>
     <e meta="04">
         <lg>
-            <l pos="a" lemma="xxx">âˊldd-</l>
+            <l pos="a" lemma="a_ââld(a)">âˊldd-</l>
             <note>bound root of ââld(a)</note>
         </lg>
         <mg>
-            <xg>
-                <x pos="n">âˊlddpuäʒʒ</x>
-                <xtg xml:lang="fin">
-                    <xt>käsiporo</xt>
-                    <te>joka on aina käsillä</te>
-                </xtg>
-            </xg>
+            <tg xml:lang="deu">
+                <t>zahm</t>
+            </tg>
         </mg>
     </e>
     <e meta="04">
