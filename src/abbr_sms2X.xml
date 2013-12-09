@@ -96,12 +96,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="n">tiistai</t>
          </tg>
-         <xg kurss="no">
-            <x pos="xxx">älgg mâ 15.11.11 č 17.00</x>
-            <xtg xml:lang="fin">
-               <xt pos="ххх">alkaen ti 15.11.11 klo 17.00</xt>
-            </xtg>
-         </xg>
          <semantics>
             <sem class="TIME">CYCLE</sem>
          </semantics>
@@ -111,33 +105,20 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="abbr">č</l>
       </lg>
-      <mg>
+      <mg km="g1">
          <tg xml:lang="fin">
             <t pos="abbr">h</t>
          </tg>
-         <xg kurss="no">
-            <x pos="xxx">40 č</x>
-            <xtg xml:lang="fin">
-               <xt pos="ххх">40 h</xt>
-               <xt pos="ххх">40 tuntia</xt>
-            </xtg>
-         </xg>
          <semantics>
             <sem class="TIME">UNIT</sem>
          </semantics>
       </mg>
-      <mg>
+      <mg km="g2">
          <tg xml:lang="fin">
             <t pos="abbr">klo</t>
          </tg>
-         <xg kurss="no">
-            <x pos="xxx">č 17.00</x>
-            <xtg xml:lang="fin">
-               <xt pos="ххх">klo 17.00</xt>
-            </xtg>
-         </xg>
          <semantics>
-            <sem class="TIME">UNIT</sem>
+            <sem class="TIME">POINT</sem>
          </semantics>
       </mg>
    </e>

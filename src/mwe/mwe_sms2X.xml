@@ -26,6 +26,65 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
 
+    <e meta="03">
+        <lg>
+            <l pos="idiom" lemma="prop_Rosttov">Šiõǥǥ Rosttov da leklvaž Ođđ Eeˊjj!</l>
+        </lg>
+        <mg>
+            <tg xml:lang="nob">
+                <t pos="idiom">God jul og godt nytt år!</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="idiom">Hyvää joulua ja onnellista uutta vuotta!</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="idiom">Счастливого Роҗдества! С Новым годом!</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="idiom">Merry Christmas and a Happy New Year!</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n" lemma="abbr_č" km="g1">40 č</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="TIME">UNIT</sem>
+            </semantics>
+            <tg xml:lang="fin">
+                <t pos="n">40 h</t>
+                <t pos="n">40 tuntia</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="n" lemma="abbr_č" km="g2">č 17.00</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="TIME">POINT</sem>
+            </semantics>
+            <tg xml:lang="fin">
+                <t pos="n">klo 17.00</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="xxx" lemma="abbr_mâ">älgg mâ 15.11.11 č 17.00</l>
+        </lg>
+        <mg>
+            <semantics>
+                <sem class="TIME">CYCLE</sem>
+            </semantics>
+            <tg xml:lang="fin">
+                <t pos="ххх">alkaen ti 15.11.11 klo 17.00</t>
+            </tg>
+        </mg>
+    </e>
     <e meta="04">
         <lg>
             <l source="ZMN" pos="mwe_np" lemma="xxx">suõskkâm tääbbaǩ</l>
@@ -59,7 +118,7 @@ For the full license text, see the link above.</lic>
     </e>
     <e meta="04">
         <lg>
-            <l pos="n" lemme="jälstempõrtt">päärnai jälstempõrtt</l>
+            <l pos="n" lemma="jälstempõrtt">päärnai jälstempõrtt</l>
         </lg>
         <mg>
             <tg xml:lang="eng">

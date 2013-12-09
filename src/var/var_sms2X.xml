@@ -25,271 +25,443 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-    
+
     <e>
-    <lg>
-        <l pos="n" variant="xxx" source="xxx" lemma="vuäˊǯˈǯveärr">vueˊǯˈǯveärr</l>
-    </lg>
-    <lg>
-        <l pos="n" variant="xxx" source="xxx" lemma="vuäˊǯˈǯ">vueˊǯˈǯ</l>
-        <infl>
-            <form gloss="loc.sg">vueˊǯǯest</form>
-        </infl>
-    </lg>
-    <lg>
-        <l pos="v" variant="xxx" source="xxx" lemma="tuõˊlˈlʼjed">tueˊlˈlʼjed</l>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="xxx" lemma="čuẹǯʼǯad">čuâǯˈǯad</lv>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="xxx" lemma="čuẹǯʼǯad">čuäǯˈǯad</lv>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="1991" lemma="vuẹjted">vuâjted</lv>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="1991" lemma="vuẹjjad">vuâjjad</lv>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="1991" lemma="vuẹjjad">vueˊjjed</lv>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="1991" lemma="vaˊstteed">väˊstteed</lv>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="1991" lemma="urččâd">uˊrččâd</lv>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="1991" lemma="tuõˊlˈlʼjed">tueˊlˈlʼjed</lv>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="1991" lemma="suẹibbad">suâibbad</lv>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="1991" lemma="påǥsted">pååǥǥsted</lv>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="1991" lemma="pueˊtted">puẹˊtted</lv>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="1991" lemma="pirsted">piirsted</lv>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="1991" lemma="miẹˊcsted">miẹˊccsted</lv>
-    </lg>
-    <lg>
-        <lv pos="v" variant="dial" source="1991" lemma="laullad">läullad</lv>
-    </lg>
-    <lg>
-        <lv pos="n" variant="xxx" source="meta01" lemma="ǩiđđ">ǩiđđâ</lv>
-    </lg>
-  </e>
+        <lg>
+            <l pos="n" variant="xxx" source="xxx" lemma="vuäˊǯˈǯveärr">vueˊǯˈǯveärr</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="n" variant="xxx" source="xxx" lemma="vuäˊǯˈǯ">vueˊǯˈǯ</l>
+            <infl>
+                <form gloss="loc.sg">vueˊǯǯest</form>
+            </infl>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="xxx" source="xxx" lemma="tuõˊlˈlʼjed">tueˊlˈlʼjed</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="xxx" lemma="čuẹǯʼǯad">čuâǯˈǯad</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="xxx" lemma="čuẹǯʼǯad">čuäǯˈǯad</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="1991" lemma="vuẹjted">vuâjted</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="1991" lemma="vuẹjjad">vuâjjad</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="1991" lemma="vuẹjjad">vueˊjjed</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="1991" lemma="vaˊstteed">väˊstteed</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="1991" lemma="urččâd">uˊrččâd</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="1991" lemma="tuõˊlˈlʼjed">tueˊlˈlʼjed</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="1991" lemma="suẹibbad">suâibbad</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="1991" lemma="påǥsted">pååǥǥsted</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="1991" lemma="pueˊtted">puẹˊtted</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="1991" lemma="pirsted">piirsted</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="1991" lemma="miẹˊcsted">miẹˊccsted</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="v" variant="dial" source="1991" lemma="laullad">läullad</l>
+        </lg>
+    </e>
+    <e>
+        <lg>
+            <l pos="n" variant="xxx" source="meta01" lemma="ǩiđđ">ǩiđđâ</l>
+        </lg>
+    </e>
     <e>
-        <lv pos="n" variant="orth" source="xxx" lemma="ǩiõttʼtuẹjj">ǩiõtt-tuâjj</lv>
+        <lg>
+            <l pos="n" variant="orth" source="xxx" lemma="ǩiõttʼtuẹjj">ǩiõtt-tuâjj</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="orth" source="xxx" lemma="ǩiõttʼtuẹjj">ǩiõtt-tuẹjj</lv>
+        <lg>
+            <l pos="n" variant="orth" source="xxx" lemma="ǩiõttʼtuẹjj">ǩiõtt-tuẹjj</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="ǩiõttʼtuẹjj">ǩiõttʼtuâjj</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="ǩiõttʼtuẹjj">ǩiõttʼtuâjj</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="ǩizldõk">ǩiizzldõk</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="ǩizldõk">ǩiizzldõk</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="orth" source="1988" lemma="čuäjtõs">čuäitõs</lv>
+        <lg>
+            <l pos="n" variant="orth" source="1988" lemma="čuäjtõs">čuäitõs</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="čuâr">čuâraš</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="čuâr">čuâraš</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="čuâr">čuâras</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="čuâr">čuâras</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="čee">čeei</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="čee">čeei</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="õummooumaž">õumååumaž</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="õummooumaž">õumååumaž</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="orth" source="xxx" lemma="õummooumaž">õumm-ooumaž</lv>
+        <lg>
+            <l pos="n" variant="orth" source="xxx" lemma="õummooumaž">õumm-ooumaž</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="xxx" lemma="åålmai">ååumai</lv>
+        <lg>
+            <l pos="n" variant="dial" source="xxx" lemma="åålmai">ååumai</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="xxx" lemma="åål">ååum</lv>
+        <lg>
+            <l pos="n" variant="dial" source="xxx" lemma="åål">ååum</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1988" lemma="vuẹˊddes">vuâˊddes</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1988" lemma="vuẹˊddes">vuâˊddes</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="vuäˊǯˈǯ">vueˊǯˈǯ</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="vuäˊǯˈǯ">vueˊǯˈǯ</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="stuẹˊll">stuâˊll</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="stuẹˊll">stuâˊll</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="sluuˊžb">sluuˊžv</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="sluuˊžb">sluuˊžv</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="orth" source="1991" lemma="siõmm">siõm</lv>
+        <lg>
+            <l pos="n" variant="orth" source="1991" lemma="siõmm">siõm</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="sieˊm">siõm</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="sieˊm">siõm</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="orth" source="ksdp" lemma="pâˊzzlâšttammään">pâˊzzlâšttam-mään</lv>
+        <lg>
+            <l pos="n" variant="orth" source="ksdp" lemma="pâˊzzlâšttammään">pâˊzzlâšttam-mään</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="orth" source="ksdp" lemma="pâˊzzlâšttammään">pâˊzzlâšttamʼmään</lv>
+        <lg>
+            <l pos="n" variant="orth" source="ksdp" lemma="pâˊzzlâšttammään">pâˊzzlâšttamʼmään</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="peˊssertuẹjj">peˊssertuâjj</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="peˊssertuẹjj">peˊssertuâjj</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="ooumaž">ååumaž</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="ooumaž">ååumaž</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="orth" source="xxx" lemma="neäˊttelʼlopp">neäˊttel-lopp</lv>
+        <lg>
+            <l pos="n" variant="orth" source="xxx" lemma="neäˊttelʼlopp">neäˊttel-lopp</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="keäˊpˈper">kâˊpper</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="keäˊpˈper">kâˊpper</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="kaaˊff">kååˊff</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="kaaˊff">kååˊff</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="jeäˊnˈn">jieˊnˈn</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="jeäˊnˈn">jieˊnˈn</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="xxx" lemma="jeättmõš">jättmõš</lv>
+        <lg>
+            <l pos="n" variant="dial" source="xxx" lemma="jeättmõš">jättmõš</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="meta01" lemma="gaˊzeâˊt">gaˊzaat</lv>
+        <lg>
+            <l pos="n" variant="dial" source="meta01" lemma="gaˊzeâˊt">gaˊzaat</l>
+        </lg>
     </e>
     <e>
-        <lv pos="n" variant="dial" source="1991" lemma="eˊčč">eeˊčč</lv>
+        <lg>
+            <l pos="n" variant="dial" source="1991" lemma="eˊčč">eeˊčč</l>
+        </lg>
     </e>
     <e>
-        <lv pos="pro" variant="dial" source="ksdp" lemma="ton">tun</lv>
+        <lg>
+            <l pos="pro" variant="dial" source="ksdp" lemma="ton">tun</l>
+        </lg>
     </e>
     <e>
-        <lv pos="pro" variant="dial" source="ksdp" lemma="mon">mun</lv>
+        <lg>
+            <l pos="pro" variant="dial" source="ksdp" lemma="mon">mun</l>
+        </lg>
     </e>
     <e>
-        <lv pos="pro" variant="dial" source="1991" lemma="jiõčč">jiičč</lv>
+        <lg>
+            <l pos="pro" variant="dial" source="1991" lemma="jiõčč">jiičč</l>
+        </lg>
     </e>
     <e>
-        <lv pos="pcle" variant="ZMN" source="ksdp" lemma="tåˊlǩ">tåuka</lv>
+        <lg>
+            <l pos="pcle" variant="ZMN" source="ksdp" lemma="tåˊlǩ">tåuka</l>
+        </lg>
     </e>
     <e>
-        <lv pos="adv" variant="xxx" source="xxx" lemma="tõndiõtt">tõˊnt</lv>
+        <lg>
+            <l pos="adv" variant="xxx" source="xxx" lemma="tõndiõtt">tõˊnt</l>
+        </lg>
     </e>
     <e>
-        <lv pos="adv" variant="dial" source="1991" lemma="ååˊn">ââˊn</lv>
+        <lg>
+            <l pos="adv" variant="dial" source="1991" lemma="ååˊn">ââˊn</l>
+        </lg>
     </e>
     <e>
-        <lv pos="adv" variant="dial" source="1991" lemma="ålggan">åuggan</lv>
+        <lg>
+            <l pos="adv" variant="dial" source="1991" lemma="ålggan">åuggan</l>
+        </lg>
     </e>
     <e>
-        <lv pos="adv" variant="dial" source="1991" lemma="ââlda">ââld</lv>
+        <lg>
+            <l pos="adv" variant="dial" source="1991" lemma="ââlda">ââld</l>
+        </lg>
     </e>
     <e>
-        <lv pos="adv" variant="dial" source="1991" lemma="tåˊben">toˊben</lv>
+        <lg>
+            <l pos="adv" variant="dial" source="1991" lemma="tåˊben">toˊben</l>
+        </lg>
     </e>
     <e>
-        <lv pos="adv" variant="dial" source="1991" lemma="simmna">siõmˈmna</lv>
+        <lg>
+            <l pos="adv" variant="dial" source="1991" lemma="simmna">siõmˈmna</l>
+        </lg>
     </e>
     <e>
-        <lv pos="adv" variant="dial" source="1991" lemma="occnja">õccnja</lv>
+        <lg>
+            <l pos="adv" variant="dial" source="1991" lemma="occnja">õccnja</l>
+        </lg>
     </e>
     <e>
-        <lv pos="adv" variant="dial" source="1991" lemma="occanj">õccanj</lv>
+        <lg>
+            <l pos="adv" variant="dial" source="1991" lemma="occanj">õccanj</l>
+        </lg>
     </e>
     <e>
-        <lv pos="adv" variant="dial" source="ksdp" lemma="mäˊhtt">mohtt</lv>
+        <lg>
+            <l pos="adv" variant="dial" source="ksdp" lemma="mäˊhtt">mohtt</l>
+        </lg>
     </e>
     <e>
-        <lv pos="adv" variant="dial" source="1991" lemma="eeˊđeld">eeˊđääld</lv>
+        <lg>
+            <l pos="adv" variant="dial" source="1991" lemma="eeˊđeld">eeˊđääld</l>
+        </lg>
     </e>
     <e>
-        <lv pos="prop" variant="dial" source="kurss" lemma="Ǩiuˊrrel">Ǩiurrâl</lv>
+        <lg>
+            <l pos="prop" variant="dial" source="kurss" lemma="Ǩiuˊrrel">Ǩiurrâl</l>
+        </lg>
     </e>
     <e>
-        <lv pos="prop" variant="dial" source="1991" lemma="Suõˊnˈnʼjel">Sueˊnˈnʼjel</lv>
+        <lg>
+            <l pos="prop" variant="dial" source="1991" lemma="Suõˊnˈnʼjel">Sueˊnˈnʼjel</l>
+        </lg>
     </e>
     <e>
-        <lv pos="cs" variant="dial" source="1991" lemma="jos">jõs</lv>
+        <lg>
+            <l pos="cs" variant="dial" source="1991" lemma="jos">jõs</l>
+        </lg>
     </e>
     <e>
-        <lv pos="num" variant="dial" source="1991" lemma="čueˊtt">čueˊđ</lv>
+        <lg>
+            <l pos="num" variant="dial" source="1991" lemma="čueˊtt">čueˊđ</l>
+        </lg>
     </e>
     <e>
-        <lv pos="num" variant="dial" source="1991" lemma="nelljmlo">nelljumblo</lv>
+        <lg>
+            <l pos="num" variant="dial" source="1991" lemma="nelljmlo">nelljumblo</l>
+        </lg>
     </e>
     <e>
-        <lv pos="num" variant="dial" source="1991" lemma="nelljmlo">nenjmlo</lv>
+        <lg>
+            <l pos="num" variant="dial" source="1991" lemma="nelljmlo">nenjmlo</l>
+        </lg>
     </e>
     <e>
-        <lv pos="num" variant="dial" source="1991" lemma="kuõˊhtt">kueˊhtt</lv>
+        <lg>
+            <l pos="num" variant="dial" source="1991" lemma="kuõˊhtt">kueˊhtt</l>
+        </lg>
     </e>
     <e>
-        <lv pos="num" variant="dial" source="1991" lemma="kuttlo">kuttlå-</lv>
+        <lg>
+            <l pos="num" variant="dial" source="1991" lemma="kuttlo">kuttlå-</l>
+        </lg>
     </e>
     <e>
-        <lv pos="num" variant="dial" source="1991" lemma="kuttlo">kuttlåk-</lv>
+        <lg>
+            <l pos="num" variant="dial" source="1991" lemma="kuttlo">kuttlåk-</l>
+        </lg>
     </e>
     <e>
-        <lv pos="num" variant="dial" source="1991" lemma="kutmlo">kuttmlo</lv>
+        <lg>
+            <l pos="num" variant="dial" source="1991" lemma="kutmlo">kuttmlo</l>
+        </lg>
     </e>
     <e>
-        <lv pos="num" variant="dial" source="1991" lemma="kutmlo">kutumblo</lv>
+        <lg>
+            <l pos="num" variant="dial" source="1991" lemma="kutmlo">kutumblo</l>
+        </lg>
     </e>
     <e>
-        <lv pos="num" variant="dial" source="1991" lemma="kolmm">koumm</lv>
+        <lg>
+            <l pos="num" variant="dial" source="1991" lemma="kolmm">koumm</l>
+        </lg>
     </e>
     <e>
-        <lv pos="num" variant="dial" source="1991" lemma="dohat">doohhat</lv>
+        <lg>
+            <l pos="num" variant="dial" source="1991" lemma="dohat">doohhat</l>
+        </lg>
     </e>
     <e>
-        <lv pos="cc" variant="dial" source="1991" lemma="leâˊša">leša</lv>
+        <lg>
+            <l pos="cc" variant="dial" source="1991" lemma="leâˊša">leša</l>
+        </lg>
     </e>
     <e>
-        <lv pos="cc" variant="obsc" source="meta01" lemma="leâˊša">leâža</lv>
+        <lg>
+            <l pos="cc" variant="obsc" source="meta01" lemma="leâˊša">leâža</l>
+        </lg>
     </e>
     <e>
-        <lv pos="cc" variant="dial" source="1991" lemma="ja">jä</lv>
+        <lg>
+            <l pos="cc" variant="dial" source="1991" lemma="ja">jä</l>
+        </lg>
     </e>
     <e>
-        <lv pos="adp" variant="dial" source="1991" lemma="åˊrnn">åˊrren</lv>
+        <lg>
+            <l pos="adp" variant="dial" source="1991" lemma="åˊrnn">åˊrren</l>
+        </lg>
     </e>
     <e>
-        <lv pos="adp" variant="dial" source="1991" lemma="åˊrnn">vueˊrrn</lv>
+        <lg>
+            <l pos="adp" variant="dial" source="1991" lemma="åˊrnn">vueˊrrn</l>
+        </lg>
     </e>
     <e>
-        <lv pos="xxx" variant="dial" source="1991" lemma="tiiudâs">tiuddâz</lv>
+        <lg>
+            <l pos="xxx" variant="dial" source="1991" lemma="tiiudâs">tiuddâz</l>
+        </lg>
     </e>
     <e>
-        <lv pos="xxx" variant="dial" source="1988" lemma="puõˊlˈli">puiˊlˈli</lv>
+        <lg>
+            <l pos="xxx" variant="dial" source="1988" lemma="puõˊlˈli">puiˊlˈli</l>
+        </lg>
     </e>
     <e>
-        <vl pos="xxx" variant="dial" source="1991" lemma="pueiˊdd">puõiˊdd</vl>
+        <lg>
+            <l pos="xxx" variant="dial" source="1991" lemma="pueiˊdd">puõiˊdd</l>
+        </lg>
     </e>
     <e>
-        <lv pos="xxx" variant="dial" source="1991" lemma="kõõumâs">kõõlmâs</lv>
+        <lg>
+            <l pos="xxx" variant="dial" source="1991" lemma="kõõumâs">kõõlmâs</l>
+        </lg>
     </e>
     <e>
-        <lv pos="der_a" variant="dial" source="1991" lemma="oouˊdab">õõuˊdab</lv>
+        <lg>
+            <l pos="der_a" variant="dial" source="1991" lemma="oouˊdab">õõuˊdab</l>
+        </lg>
     </e>
     <e>
-        <lv pos="xxx" variant="dial" source="1988" lemma="šuõrš-">šuårš-</lv>
+        <lg>
+            <l pos="xxx" variant="dial" source="1988" lemma="šuõrš-">šuårš-</l>
+        </lg>
     </e>
     <e>
-        <lv pos="xxx" variant="dial" source="1991" lemma="čiˊǯǯ-">čiˊǯs-</lv>
+        <lg>
+            <l pos="xxx" variant="dial" source="1991" lemma="čiˊǯǯ-">čiˊǯs-</l>
+        </lg>
     </e>
     <e>
-        <lv pos="xxx" variant="dial" source="1988" lemma="vuäˊljs-">vuäˊls-</lv>
+        <lg>
+            <l pos="xxx" variant="dial" source="1988" lemma="vuäˊljs-">vuäˊls-</l>
+        </lg>
     </e>
 </r>
