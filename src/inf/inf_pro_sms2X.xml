@@ -25,7 +25,103 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-    
+
+    <e meta="3">
+        <lg>
+            <l pos="pro" lemma="xxx" gloss="xxx">tuu</l>
+        </lg>
+        <mg>
+            <sources>
+                <book/>
+            </sources>
+            <semantics>
+                <sem/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="pro" fem="твоя" neuter="твое" plural="твои">твой</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="pro" pred="yours">your</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="pro">sinun</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="pro">du</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="3">
+        <lg>
+            <l pos="pro" lemma="xxx" gloss="xxx">suu</l>
+        </lg>
+        <mg>
+            <sources>
+                <book/>
+            </sources>
+            <semantics>
+                <sem/>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="pro" masc="his" pred="hers">her</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="pro">hänen</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="pro">su</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="pro" gloss="3du.nom" lemma="xxx">suäna</l>
+        </lg>
+        <mg>
+            <sources>
+                <book/>
+            </sources>
+            <semantics>
+                <sem/>
+            </semantics>
+            <tg xml:lang="eng">
+                <t pos="pro">they</t>
+                <tr>two</tr>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="pro">he</t>
+                <tr>kaksi</tr>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="pro">soai</t>
+            </tg>
+        </mg>
+    </e>
+    <e meta="03">
+        <lg>
+            <l pos="pro" gloss="1sg.gen" lemma="xxx">muu</l>
+        </lg>
+        <mg>
+            <sources>
+                <book/>
+            </sources>
+            <semantics>
+                <sem/>
+            </semantics>
+            <tg xml:lang="rus">
+                <t pos="pro" fem="моя" neuter="мое" pl="мои">мой</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="pro" pred="mine">my</t>
+            </tg>
+            <tg xml:lang="fin">
+                <t pos="pro">minun</t>
+            </tg>
+            <tg xml:lang="sme">
+                <t pos="pro">mu</t>
+            </tg>
+        </mg>
+    </e>
     <e meta="06">
         <lg>
             <l pos="pro" lemma="jiõčč" gloss="xxx">jiččen</l>
@@ -34,6 +130,9 @@ For the full license text, see the link above.</lic>
             <sources>
                 <book name="lookkamkerjj" lesson="1"/>
             </sources>
+            <semantics>
+                <sem/>
+            </semantics>
             <tg xml:lang="fin">
                 <t pos="pro">omaan</t>
             </tg>

@@ -26,9 +26,22 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
 
+    <e meta="3">
+        <lg>
+            <l pos="a" lemma="xxx">kuuđekksaž</l>
+        </lg>
+        <xg>
+            <tg xml:lang="fin">
+                <t pos="a">kuusivuotias</t>
+            </tg>
+            <tg xml:lang="eng">
+                <t pos="a">six years old</t>
+            </tg>
+        </xg>
+    </e>
     <e meta="04">
         <lg>
-            <d pos="a" lemma="n_ââˊǩǩ">âkksaž</d>
+            <l pos="a" lemma="n_ââˊǩǩ">âkksaž</l>
         </lg>
         <mg>
             <tg xml:lang="rus">
@@ -44,7 +57,7 @@ For the full license text, see the link above.</lic>
     </e>
     <e meta="04">
         <lg>
-            <d pos="a" lemma="n_säˊltt">säˊlttai</d>
+            <l pos="a" lemma="n_säˊltt">säˊlttai</l>
         </lg>
         <mg>
             <tg xml:lang="eng">

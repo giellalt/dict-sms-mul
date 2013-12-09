@@ -26,6 +26,74 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
 
+    <e meta="3">
+        <lg>
+            <l pos="adv" lemma="xxx">täˊst</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="xxx"/>
+            </sources>
+            <semantics>
+                <sem/>
+            </semantics>
+            <mg>
+                <tg xml:lang="eng">
+                    <t pos="adv">here</t>
+                </tg>
+                <tg xml:lang="fin">
+                    <t pos="pro">tässä</t>
+                </tg>
+                <tg xml:lang="rus">
+                    <t pos="adv">здесь</t>
+                </tg>
+                <tg xml:lang="nob">
+                    <t pos="adv">her</t>
+                </tg>
+            </mg>
+        </mg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="xxx"/>
+            </sources>
+            <semantics>
+                <sem/>
+            </semantics>
+            <mg>
+                <tg xml:lang="eng">
+                    <t pos="adv">from here</t>
+                </tg>
+                <tg xml:lang="fin">
+                    <t pos="pro">tästä</t>
+                </tg>
+                <tg xml:lang="rus">
+                    <t pos="adv">отсюда</t>
+                </tg>
+                <tg xml:lang="nob">
+                    <t pos="adv">herifra</t>
+                </tg>
+            </mg>
+        </mg>
+    </e>
+    <e meta="3">
+        <lg>
+            <l pos="adv" lemma="xxx">tõõzz</l>
+        </lg>
+        <mg>
+            <sources>
+                <book name="kurss" lesson="xxx"/>
+            </sources>
+            <semantics>
+                <sem/>
+            </semantics>
+            <tg xml:lang="fin">
+                <t pos="adv">sille</t>
+            </tg>
+            <tg xml:lang="rus">
+                <t pos="adv">туда</t>
+            </tg>
+        </mg>
+    </e>
     <e meta="03">
         <lg>
             <l pos="adv" lemma="xxx" gloss="ill">koozz</l>
