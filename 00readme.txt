@@ -245,11 +245,12 @@ sms2X>grep '<e' src/pn_sms2X.xml | wc -l
 I will just comment out the link to the proper_noun play.
 
 =============
+4. observation
 cg-comment: I don't like the current structure of the src-dir for the same reason I didn't like the former structure of the gt_corpora.
   ==> to be changed
-
+  ==> done (src/cmn is now the dir for all xml files with non-subtyped pos)
 ==================================
-4. observation: this is crucial for getting the desired results in the interface
+5. observation: this is crucial for getting the desired results in the interface
 (I doubt that the scipts for sms do the correct db-structure for sem-content because they are the same for all oahpas.)
  sem-structure is not the same as in other (oahpa-)files:
           <semantics>
