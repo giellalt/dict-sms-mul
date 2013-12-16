@@ -1,3 +1,4 @@
+(1)
 I can remember that person names are not used in the proper name play for other oahpas.
 
       <lg>
@@ -31,4 +32,10 @@ I can remember that person names are not used in the proper name play for other 
 
 src>g -r '<t pos="prop">proper name</t>' .|c
       72
+
+
+(2) emtpy string with pos value
+12             <t pos="v"/>
+
+
 
