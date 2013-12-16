@@ -62,7 +62,7 @@ TODO
 * check consistency of adjective entries (in sms and rus):
 ** <l> with pred, attr under <der>?
 ** pos-tagging: as "a", "a:attr", "a:pred"?
-* write better documentation at ___CORRECT-ME___ http://gtweb.uit.no/cgi-bin/wiki/index.php/Smsdict
+* write better documentation at http://gtweb.uit.no/cgi-bin/wiki/index.php/Smsdict (to be written)
 * fill in all xxx's
 * check <t> vs. <tg> vs. <mg>
 * check <tr> <te> and other such extensions
@@ -247,3 +247,36 @@ I will just comment out the link to the proper_noun play.
 =============
 cg-comment: I don't like the current structure of the src-dir for the same reason I didn't like the former structure of the gt_corpora.
   ==> to be changed
+
+==================================
+4. observation: this is crucial for getting the desired results in the interface
+(I doubt that the scipts for sms do the correct db-structure for sem-content because they are the same for all oahpas.)
+ sem-structure is not the same as in other (oahpa-)files:
+          <semantics>
+            <sem class="HUMAN">PEOPLE</sem>
+         </semantics>
+
+Versus, for instance, swesma-oahpa example.
+
+   <e id="renko_n" stat="pref">
+      <lg>
+         <l pos="n">renko</l>
+      </lg>
+      <sources>
+         <book name="s2"/>
+         <book name="åa5"/>
+         <book name="åa4"/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="ANIMAL_WILD"/>
+            <sem class="REINDEER"/>
+            <sem class="REINDEER_ANIMAL"/>
+         </semantics>
+         <tg xml:lang="sma">
+            <t pos="n" stat="pref">aaltoe</t>
+            <t pos="n" sem-cl="REINDEER-REINDEER_ANIMAL" src="xxx" swe-stat="yes">gïehke</t>
+            <t dialect="a" pos="n">aalta</t>
+         </tg>
+      </mg>
+   </e>
