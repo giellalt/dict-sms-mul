@@ -35,7 +35,7 @@ For the full license text, see the link above.</lic>
             <book name="kurss" lesson="dict"/>
          </sources>
          <semantics>
-            <sem class="SENCE">PERCEPTION</sem>
+            <sem class="SENSE">PERCEPTION</sem>
          </semantics>
          <tg xml:lang="eng">
             <t pos="adv">immediately</t>
