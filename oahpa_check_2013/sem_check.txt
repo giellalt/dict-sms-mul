@@ -4,11 +4,9 @@ CLOTH
 ENVIR
 FOOD
 HOUSE
-===HUM
 HUMAN
 LANG
 ===PLACE
-===SENCE
 SENSE
 SPACE
 TIME
@@ -18,6 +16,7 @@ ZOO
 
 
 wrong xml structure in the meta-file, else content-wise ok
+ ==> corrected
 <lexicon>
     <sem class="HUMAN"/> ok
     <sem class="SPACE"/> ok
