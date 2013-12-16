@@ -1,7 +1,7 @@
 This directory contains material relevant to the Skolt Sámi dictionary. The aim of this "common" dictionary database is to create a rich structure in one single lexicon file, which later allows exporting for different purposes: e.g. bilingual learner dictionaries, Oahpa!, descriptive dictionaries, etc. Thus "sms2X" basically means both …2Xlanguages and …2Xproducts.
 
  ==> update your URL:
- Documentation at http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict (still incomplete)
+ Documentation at http://gtweb.uit.no/cgi-bin/wiki/index.php/Smsdict (still incomplete)
 
 Incoming raw files go into inc/
 
@@ -62,7 +62,7 @@ TODO
 * check consistency of adjective entries (in sms and rus):
 ** <l> with pred, attr under <der>?
 ** pos-tagging: as "a", "a:attr", "a:pred"?
-* write better documentation at ___CORRECT-ME___ http://victorio.uit.no/cgi-bin/wiki/index.php/Smsdict
+* write better documentation at ___CORRECT-ME___ http://gtweb.uit.no/cgi-bin/wiki/index.php/Smsdict
 * fill in all xxx's
 * check <t> vs. <tg> vs. <mg>
 * check <tr> <te> and other such extensions
