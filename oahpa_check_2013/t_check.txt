@@ -1,0 +1,31 @@
+I can remember that person names are not used in the proper name play for other oahpas.
+
+
+      <lg>
+         <l pos="prop" type="person" gender="m">Artman</l>
+         <translit_cyr>Артмaн</translit_cyr>
+         <infl>
+            <stem>=</stem>
+         </infl>
+         <audio>
+            <a quality="1" dialect="xxx" speaker="1" href="languagememory3181"/>
+         </audio>
+      </lg>
+      <mg>
+         <semantics>
+            <sem type="HUMAN">PEOPLE</sem>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="prop">proper name</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="prop">miehennimi</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="prop">Имя собственное</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="prop">egennavn</t>
+         </tg>
+         <tg xml:lang="deu">
+            <t pos="prop">Eigenname</t>
