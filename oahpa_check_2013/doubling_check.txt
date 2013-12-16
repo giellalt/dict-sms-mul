@@ -1,0 +1,3 @@
+_xoahpa_2013_src>g -nr '<l pos="det">måkam</l>' src
+src/cmn/det_sms2X.xml:31:            <l pos="det">måkam</l>
+src/cmn/det_sms2X.xml:307:            <l pos="det">måkam</l>
