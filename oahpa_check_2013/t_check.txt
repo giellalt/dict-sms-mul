@@ -1,6 +1,5 @@
 I can remember that person names are not used in the proper name play for other oahpas.
 
-
       <lg>
          <l pos="prop" type="person" gender="m">Artman</l>
          <translit_cyr>Артмaн</translit_cyr>
@@ -29,3 +28,7 @@ I can remember that person names are not used in the proper name play for other 
          </tg>
          <tg xml:lang="deu">
             <t pos="prop">Eigenname</t>
+
+src>g -r '<t pos="prop">proper name</t>' .|c
+      72
+
