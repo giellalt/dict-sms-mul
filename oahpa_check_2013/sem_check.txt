@@ -1,0 +1,35 @@
+BODY
+BOT
+CLOTH
+ENVIR
+FOOD
+HOUSE
+===HUM
+HUMAN
+LANG
+===PLACE
+===SENCE
+SENSE
+SPACE
+TIME
+WORK
+ZOO
+===xxx
+
+
+wrong xml structure in the meta-file, else content-wise ok
+<lexicon>
+    <sem class="HUMAN"/> ok
+    <sem class="SPACE"/> ok
+    <sem class="BODY"/> ok
+    <sem class="SENSE"/> ok
+    <sem class="HOUSE"/> ok
+    <sem class="WORK"/> ok
+    <sem class="TIME"/> ok
+    <sem class="ZOO"/> ok
+    <sem class="BOT"/> ok
+    <sem class="FOOD"/> ok
+    <sem class="ENVIR"/> ok
+</lexicon>
+
+
