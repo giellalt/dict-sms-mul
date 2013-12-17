@@ -86,4 +86,9 @@ src>g -r '<t pos="prop">proper name</t>' .|c
 <t pos="v">slìrrat</t>
 
 
+(9) couldn't we rather have static paradime, as for instance, for sme?
+<t pos="pro" fem="она">он</t>
+<t pos="pro" fem="she">he</t>
+<t pos="pro" fem="hun">han</t>
+
 
