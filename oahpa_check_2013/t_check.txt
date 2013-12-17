@@ -91,4 +91,5 @@ src>g -r '<t pos="prop">proper name</t>' .|c
 <t pos="pro" fem="she">he</t>
 <t pos="pro" fem="hun">han</t>
 
-
+(10) this calls for an attribute 't-type=expl'
+  1             <t pos="n">Dachrücken der Lappenkote</t>
