@@ -36,6 +36,7 @@ src>g -r '<t pos="prop">proper name</t>' .|c
 
 (2) emtpy string with pos value
 12             <t pos="v"/>
+ 2             <t pos="xxx"/>
 
 (3) pos values to be checked systematically
 <t pos="mwe_adv">en smule</t>
@@ -71,6 +72,11 @@ src>g -r '<t pos="prop">proper name</t>' .|c
    2             <t pos="mwe_cs">потому, что</t>
    2             <t pos="mwe_cs">потому что</t>
    2             <t pos="mwe_adv">from here</t>
+
+      versus
+
+<t pos="v">начинать хотеть есть</t>
+ ==> inconsistent
 
 (7) systematic chek of preferred-flagt: accept vs. present a lemma
 
