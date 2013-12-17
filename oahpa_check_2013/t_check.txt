@@ -72,4 +72,6 @@ src>g -r '<t pos="prop">proper name</t>' .|c
    2             <t pos="mwe_cs">потому что</t>
    2             <t pos="mwe_adv">from here</t>
 
+(7) systematic chek of preferred-flagt: accept vs. present a lemma
 
+   2             <t pos="cs" oahpa="pref">потомучто</t>
