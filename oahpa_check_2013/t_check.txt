@@ -62,6 +62,14 @@ src>g -r '<t pos="prop">proper name</t>' .|c
 (5) no non-ASCII characters in attribute names please: 'ё'
 <t pos="v" impf="замёрзнуть" ё="мёрзнуть">мерзнуть</t>
 
+(6) superfluous 'mwe_'-marker in pos value
+  ==> we can start to apply Cip's dream annotation here (pos-sequence + functional label)
 
+   2             <t pos="mwe_v" short="lie">lie down</t>
+   2             <t pos="mwe_np">приальпийская кладония</t>
+   2             <t pos="mwe_np">белый гриб</t>
+   2             <t pos="mwe_cs">потому, что</t>
+   2             <t pos="mwe_cs">потому что</t>
+   2             <t pos="mwe_adv">from here</t>
 
 
