@@ -78,6 +78,10 @@ src>g -r '<t pos="prop">proper name</t>' .|c
 <t pos="v">начинать хотеть есть</t>
  ==> inconsistent
 
+example of Cip's dream annotation:
+   Ist:          <t pos="adv">a little bit</t>
+   Soll:         <t pos="art_adj_n" fct="adv">a little bit</t>
+
 (7) systematic check of preferred-flagt: accept vs. present a lemma
 
    2             <t pos="cs" oahpa="pref">потомучто</t>
