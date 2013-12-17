@@ -138,3 +138,20 @@ CAVEAT: type-attribute can be used ambiguously:
 (15) find an attribute for that if needed.
    1                 <t pos="a">gåỳhkee ~ gåiˈgee</t>
 
+
+(16) scope of oahpa-attribute?
+
+            <t pos="a" oahpa="pref">твёрдый</t>
+            <t pos="a" oahpa="pref">тёплый</t>
+            <t pos="a" pred="тяжёл" oahpa="pref">тяжёлый</t>
+         <tg xml:lang="fin" oahpa="pref">
+            <t pos="a" pred="тёпел" oahpa="pref">тёплый</t>
+         <tg xml:lang="fin" oahpa="pref">
+         <tg xml:lang="nob" oahpa="pref">
+            <t pos="a" pred="зелён" oahpa="pref">зелёный</t>
+            <t pos="a" oahpa="pref">зелёный</t>
+         <tg xml:lang="fin" oahpa="pref">
+         <tg xml:lang="eng" oahpa="pref">
+
+cf. also the filter code
+   <xsl:copy-of copy-namespaces="no" select="./r/e[not(./lg/l/@oahpa='excl')][./sources/book/@name='XXX']"/>
