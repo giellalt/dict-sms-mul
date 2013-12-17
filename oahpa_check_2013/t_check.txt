@@ -78,6 +78,12 @@ src>g -r '<t pos="prop">proper name</t>' .|c
 <t pos="v">начинать хотеть есть</t>
  ==> inconsistent
 
-(7) systematic chek of preferred-flagt: accept vs. present a lemma
+(7) systematic check of preferred-flagt: accept vs. present a lemma
 
    2             <t pos="cs" oahpa="pref">потомучто</t>
+
+(8) systematic check of characters language-wise for t-elements, too
+<t pos="v">slìrrat</t>
+
+
+
