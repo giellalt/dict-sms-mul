@@ -114,6 +114,17 @@ example of Cip's dream annotation:
    1             <t pos="n" style="coll">veggie</t>
    1             <t pos="n" style="arch">месяц</t>
 
+versus
+   1                 <t pos="n" type="lit">счастливо добраться!</t>
+
+   ==> style vs. type
+
+CAVEAT: type-attribute can be used ambiguously:
+ (a) pos="Pron" type="Dem" ==> (sub)-type of the pos-label
+ (b) pos="n_pp_det_adj_n" type="expl" ==> explanation-label (What kind of mwe is here?)
+ (c) type="lit" ==> style of lexical selection
+
+
 (13) I don't like that
   1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
   1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
