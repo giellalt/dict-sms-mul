@@ -93,3 +93,17 @@ src>g -r '<t pos="prop">proper name</t>' .|c
 
 (10) this calls for an attribute 't-type=expl'
   1             <t pos="n">Dachrücken der Lappenkote</t>
+
+
+(11) check for how is done in other GT-dicts
+   1             <t pos="n" term="zool">самец</t>
+   1             <t pos="n" term="zool">hann</t>
+   1             <t pos="n" term="zool">Männchen</t>
+   1             <t pos="n" term="anat">neck</t>
+
+(12) This would be a huge improvement for GT-dictionaries.
+   1             <t pos="n" style="poetic">uksi</t>
+   1             <t pos="n" style="coll">veggie</t>
+   1             <t pos="n" style="arch">месяц</t>
+
+
