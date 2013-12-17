@@ -42,6 +42,10 @@ src>g -r '<t pos="prop">proper name</t>' .|c
 <t pos="mwe_adv">en smule</t>
 
 (4) characters in different elements to be checked systematically
+
+   1             <t pos="a">å̀dˈnee</t>
+   1             <t pos="a">å̀bmee</t>
+
    <e meta="05">
       <lg>
          <l pos="v">lieˊnˈnjsted</l>
