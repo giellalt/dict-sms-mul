@@ -126,11 +126,15 @@ CAVEAT: type-attribute can be used ambiguously:
 
 
 (13) I don't like that
-  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
-  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
-  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
-  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
-  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
-  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
-  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
-  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>
+  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13)
+  1             <t pos="a" neuter="tørt" pl="tørre">tørr</t>
+
+
+(14) filter xxx in l-elem og t-elem for sms_oahpa
+   1                 <t pos="a">xxxзавтра (что)xxx</t>
+   1                 <t pos="a">xxxвчера (что)xxx</t>
+
+
+(15) find an attribute for that if needed.
+   1                 <t pos="a">gåỳhkee ~ gåiˈgee</t>
+
