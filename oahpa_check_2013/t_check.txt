@@ -114,4 +114,12 @@ example of Cip's dream annotation:
    1             <t pos="n" style="coll">veggie</t>
    1             <t pos="n" style="arch">месяц</t>
 
-
+(13) I don't like that
+  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
+  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
+  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
+  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
+  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
+  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
+  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>(13) I don't like that
+  1             <t pos="a" masculine="kleiner" plural="kleine">kleine</t>
