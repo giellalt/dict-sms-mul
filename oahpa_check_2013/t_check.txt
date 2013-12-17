@@ -59,3 +59,9 @@ src>g -r '<t pos="prop">proper name</t>' .|c
          </tg>
  ==> as far as I know the sme value doesn't look like sme.
 
+(5) no non-ASCII characters in attribute names please: 'ё'
+<t pos="v" impf="замёрзнуть" ё="мёрзнуть">мерзнуть</t>
+
+
+
+
