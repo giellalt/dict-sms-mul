@@ -1,8 +1,5 @@
 This directory contains material relevant to the Skolt Sámi dictionary. The aim of this "common" dictionary database is to create a rich structure in one single lexicon file, which later allows exporting for different purposes: e.g. bilingual learner dictionaries, Oahpa!, descriptive dictionaries, etc. Thus "sms2X" basically means both …2Xlanguages and …2Xproducts.
 
- ==> update your URL:
- Documentation at http://gtweb.uit.no/cgi-bin/wiki/index.php/Smsdict (still incomplete)
-
 Incoming raw files go into inc/
 
 =====
