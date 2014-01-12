@@ -1,19 +1,15 @@
-This directory contains material relevant to the Skolt Sámi dictionary. The aim of this "common" dictionary database is to create a rich structure in one single lexicon file, which later allows exporting for different purposes: e.g. bilingual learner dictionaries, Oahpa!, descriptive dictionaries, etc. Thus "sms2X" basically means both …2Xlanguages and …2Xproducts.
-
-Incoming raw files go into inc/
+Incoming raw files go into ~inc/
 
 =====
-PoS
+abbr (abbreviations)
 =====
-The dictionary is devided into several single files for the different PoS (derived lemmas are in separate files, see below):
-* abbr=abbreviations
-** only a preliminary solution to list them among true PoS's
-** perhaps we should rather have an own list with abbreviations, like the term lists for oahpa?
-* num=numerals
-** note1:so far, the db-file includes both cardinals, ordinals, and other quantifiers; syntactically these are different PoS's though
-* multiword=multi-word expressions
-** only a preliminary solution to list them among true PoS's
-* to be continued…
+this is only a preliminary solution to list abbr among true PoS's
+*perhaps we should rather have an own list with abbreviations, like the term lists for oahpa?
+
+=====
+num
+=====
+*so far, the db-file includes both cardinals, ordinals, and other quantifiers; syntactically these are different PoS's though
 
 =====
 Derivation (subfolder ~/der)
