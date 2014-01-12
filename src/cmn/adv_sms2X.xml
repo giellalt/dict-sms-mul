@@ -27,7 +27,23 @@ For the full license text, see the link above.</lic>
      </sourcenote>
    </lics>
 
-   <e meta="09">
+<e meta="04">
+      <lg>
+         <l pos="adp">aalǥâst</l>
+      </lg>
+      <mg>
+         <sources>
+            <book/>
+         </sources>
+         <semantics>
+            <sem class="TIME">POINT</sem>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="adp">alusta</t>
+         </tg>
+      </mg>
+   </e>
+      <e meta="09">
       <lg>
          <l pos="adv">ooudâs</l>
       </lg>
