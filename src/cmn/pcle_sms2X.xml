@@ -49,7 +49,7 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pcle">ni</l>
       </lg>
-      <mg kurss="yes">
+      <mg>
          <sources>
             <book name="kurss" lesson="2"/>
          </sources>
@@ -105,7 +105,7 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pcle">-a</l>
       </lg>
-      <mg kurss="yes">
+      <mg>
          <sources>
             <book name="kurss" lesson="1"/>
          </sources>

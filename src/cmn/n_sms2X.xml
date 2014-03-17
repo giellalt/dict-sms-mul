@@ -8887,7 +8887,7 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">siõmm</l>
       </lg>
-      <mg kurss="yes">
+      <mg>
          <sources>
             <book name="kurss" lesson="dict"/>
             <book name="200" BEDLAN_ID="*147"/>
