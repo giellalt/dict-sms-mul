@@ -55,6 +55,7 @@ TODO
 * check consistency of adjective entries (in sms and rus):
 ** <l> with pred, attr under <der>?
 ** pos-tagging: as "a", "a:attr", "a:pred"?
+ ==> @cip: I suggest pos="A" type="pred|attr" (similar to pos="Pron" type="Dem", type referring to pos,and since pos is already a type, this type is a subtype of type pos)
 * write better documentation at http://gtweb.uit.no/cgi-bin/wiki/index.php/Smsdict (to be written)
 * fill in all xxx's
 * check <t> vs. <tg> vs. <mg>
