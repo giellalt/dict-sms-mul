@@ -145,7 +145,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="adv">всегда</t>
          </tg>
-         <tg xml:lang="rus" oahpa="dispref">
+         <tg xml:lang="rus" exclude="oahpa;">
             <t pos="adv">только</t>
          </tg>
          <tg xml:lang="nob">
@@ -1281,7 +1281,7 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="SPACE">MOTION</sem>
          </semantics>
-         <tg xml:lang="eng" style="obs" oahpa="dispref">
+         <tg xml:lang="eng" style="obs" exclude="oahpa;">
             <t pos="adv">hither</t>
          </tg>
          <tg xml:lang="eng">

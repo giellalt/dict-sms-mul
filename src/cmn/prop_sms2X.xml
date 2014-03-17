@@ -2103,7 +2103,7 @@ For the full license text, see the link above.</lic>
             <t pos="prop">Нотозеро</t>
             <te>посёлок</te>
          </tg>
-         <tg xml:lang="nob" oahpa="dispref">
+         <tg xml:lang="nob" exclude="oahpa;">
             <t pos="prop">Nøttiager</t>
             <te>landsby</te>
          </tg>
@@ -2135,7 +2135,7 @@ For the full license text, see the link above.</lic>
             <t pos="prop">Нотозеро</t>
             <te>озеро</te>
          </tg>
-         <tg xml:lang="nob" oahpa="dispref">
+         <tg xml:lang="nob" exclude="oahpa;">
             <t pos="prop">Nøttiager</t>
             <te>sjø</te>
          </tg>
@@ -2545,7 +2545,7 @@ For the full license text, see the link above.</lic>
             <t pos="prop">Печенга</t>
             <te>посёлок</te>
          </tg>
-         <tg xml:lang="nob" oahpa="dispref">
+         <tg xml:lang="nob" exclude="oahpa;">
             <t pos="prop">Peisen</t>
             <te>landsby</te>
          </tg>
