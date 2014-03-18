@@ -10817,7 +10817,7 @@ For the full license text, see the link above.</lic>
             <book name="kurss" lesson="phon"/>
          </sources>
          <tg xml:lang="rus">
-            <t pos="н">свечь</t>
+            <t pos="n">свечь</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">kynttilä</t>

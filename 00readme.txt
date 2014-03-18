@@ -320,3 +320,6 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
+
+5. What the heck is 's' as pos value?
+
