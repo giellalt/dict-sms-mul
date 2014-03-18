@@ -257,9 +257,6 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
-         <tg xml:lang="rus" xxx="correct_me_please">
-            <t pos="SPACE">POSITION</t>
-         </tg>
          <tg xml:lang="fin">
             <t pos="adp">ympäri</t>
          </tg>
