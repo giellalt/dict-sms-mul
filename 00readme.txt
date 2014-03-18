@@ -278,6 +278,7 @@ Versus, for instance, swesma-oahpa example.
 
 ==========================================
 TODO: following issues should be corrected
+==========================================
 1. src>grep -r 'oahpa="pref"' *|c
      241
 There are 241 instances of oahpa="pref" attribute  
@@ -290,4 +291,20 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
      215
 215 on <tg> ==> these should be transformed in to stat="pref" to the FIRST <t>-child in the <tg>-node
     if they are ment as such
+
+2. the <sources>-node is placed incorrectly: it should be a child of the <e>-element;
+   as element of only one <mg> shrinks the scope of the info bit to only that mg,
+   what about entries with more that one mg?
+ 
+   <e meta="03">
+      <lg>
+         <l pos="a">tâˊlles</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
+         <semantics>
+            <sem class="SENSE">PERCEPTION</sem>
+         </semantics>
 
