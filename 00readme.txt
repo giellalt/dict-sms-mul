@@ -323,4 +323,6 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
 
 5. What the heck is 's' as pos value?
 
-6. Pos values should be aligned to those from GT.
+6. POS values should be aligned to those from GT
+   prp => pr
+   
