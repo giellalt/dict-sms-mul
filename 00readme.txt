@@ -275,3 +275,19 @@ Versus, for instance, swesma-oahpa example.
          </tg>
       </mg>
    </e>
+
+==========================================
+TODO: following issues should be corrected
+1. src>grep -r 'oahpa="pref"' *|c
+     241
+There are 241 instances of oahpa="pref" attribute  
+1.1
+src>g -hr 'oahpa="pref"' . |g -v '<tg '|c
+      26
+26 on <t> ==> these should be transformed into stat="pref" if they are ment as such
+1.2
+src>g -hr 'oahpa="pref"' . |g -v '<t '|c
+     215
+215 on <tg> ==> these should be transformed in to stat="pref" to the FIRST <t>-child in the <tg>-node
+    if they are ment as such
+
