@@ -308,3 +308,7 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
 
+3. pos values prefixed with 'mwe_' are useless: I had a chat discussion on
+  that with Michael where I explained how it should be better modeled
+<t pos="mwe_v">be ill</t>
+
