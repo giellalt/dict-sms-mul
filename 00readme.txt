@@ -312,3 +312,11 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
   that with Michael where I explained how it should be better modeled
 <t pos="mwe_v">be ill</t>
 
+4. lesson-attr in book node as well as string node in sem node are not accounted
+   for in the pipeline whatsoever
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
+         <semantics>
+            <sem class="SENSE">PERCEPTION</sem>
+         </semantics>
