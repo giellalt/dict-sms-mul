@@ -264,7 +264,7 @@ For the full license text, see the link above.</lic>
             <t pos="adp">ympärillä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_adp">rundt omkring</t>
+            <t pos="adp">rundt omkring</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adp">around</t>
@@ -300,7 +300,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">вовнутрь</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="mwe_adv">в дом</t>
+            <t pos="adv">в дом</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">inn</t>

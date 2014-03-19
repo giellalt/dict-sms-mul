@@ -42,16 +42,16 @@ For the full license text, see the link above.</lic>
                 <t pos="adv">neljästään</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="mwe_adv">four of</t>
+                <t pos="adv">four of</t>
             </tg>
             <tg xml:lang="rus">
                 <t pos="adv">вчетвером</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_adv">på firemannshånd</t>
+                <t pos="adv">på firemannshånd</t>
             </tg>
             <tg xml:lang="deu">
-                <t pos="mwe_adv">zu viert</t>
+                <t pos="adv">zu viert</t>
             </tg>
         </mg>
     </e>
@@ -87,7 +87,7 @@ For the full license text, see the link above.</lic>
                 <sem class="SPACE">MOTION</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="mwe_adv">from somewhere</t>
+                <t pos="adv">from somewhere</t>
             </tg>
             <tg xml:lang="rus">
                 <t pos="adv">откуда-то</t>
@@ -96,7 +96,7 @@ For the full license text, see the link above.</lic>
                 <t pos="adv">jossain</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_adv">fra noensteds</t>
+                <t pos="adv">fra noensteds</t>
             </tg>
         </mg>
     </e>

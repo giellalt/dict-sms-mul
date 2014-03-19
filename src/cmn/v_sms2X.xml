@@ -705,13 +705,13 @@ For the full license text, see the link above.</lic>
             <t pos="v">кофейничать</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="mwe_v">пить кофе</t>
+            <t pos="v">пить кофе</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">kahvistella</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">drikke kaffe</t>
+            <t pos="v">drikke kaffe</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="v">drink coffee</t>
@@ -763,7 +763,7 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">POSITION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_v">be situated</t>
+            <t pos="v">be situated</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">löytää</t>
@@ -772,7 +772,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">находить</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">befinne seg</t>
+            <t pos="v">befinne seg</t>
          </tg>
       </mg>
    </e>
@@ -851,10 +851,10 @@ For the full license text, see the link above.</lic>
             <t pos="v">kuulua</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">være hørbar</t>
+            <t pos="v">være hørbar</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_v">is audible</t>
+            <t pos="v">is audible</t>
          </tg>
       </mg>
    </e>
@@ -953,13 +953,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="rus">
-            <t pos="mwe_v">снег идёт</t>
+            <t pos="v">снег идёт</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="v">snow</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="mwe_v">sataa lunta</t>
+            <t pos="v">sataa lunta</t>
          </tg>
          <semantics>
             <sem class="ENVIR"/>
@@ -1211,7 +1211,7 @@ For the full license text, see the link above.</lic>
             <sem class="BODY">HEALTH</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_v">be cold</t>
+            <t pos="v">be cold</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">palella</t>
@@ -1239,7 +1239,7 @@ For the full license text, see the link above.</lic>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_v">be embarrassed</t>
+            <t pos="v">be embarrassed</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">стыдиться</t>
@@ -1251,7 +1251,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">ujostella</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">bli sjenert</t>
+            <t pos="v">bli sjenert</t>
          </tg>
       </mg>
    </e>
@@ -1724,7 +1724,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">sleet</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="mwe_v">sataa räntää</t>
+            <t pos="v">sataa räntää</t>
          </tg>
       </mg>
    </e>
@@ -1750,13 +1750,13 @@ For the full license text, see the link above.</lic>
             <sem class="BODY">HEALTH</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_v" short="lie">lie down</t>
+            <t pos="v" short="lie">lie down</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">лежать</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v" short="ligge">ligge ner</t>
+            <t pos="v" short="ligge">ligge ner</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">maata</t>
@@ -1802,7 +1802,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">maata</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_v" short="lie">lie down</t>
+            <t pos="v" short="lie">lie down</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="v">liegen</t>
@@ -1837,16 +1837,16 @@ For the full license text, see the link above.</lic>
             <sem class="BODY">HEALTH</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_v">have diarrhea</t>
+            <t pos="v">have diarrhea</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="mwe_v">olla ripulissa</t>
+            <t pos="v">olla ripulissa</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="mwe_v">есть понос</t>
+            <t pos="v">есть понос</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">ha diaré</t>
+            <t pos="v">ha diaré</t>
          </tg>
       </mg>
    </e>
@@ -2045,16 +2045,16 @@ For the full license text, see the link above.</lic>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="mwe_v">чувствовать себя уютно</t>
+            <t pos="v">чувствовать себя уютно</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">viihtyä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">trives bra</t>
+            <t pos="v">trives bra</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_v">feel good</t>
+            <t pos="v">feel good</t>
          </tg>
       </mg>
    </e>
@@ -2398,10 +2398,10 @@ For the full license text, see the link above.</lic>
             <t pos="v">nälkiintyä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">være sulten</t>
+            <t pos="v">være sulten</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_v">be hungry</t>
+            <t pos="v">be hungry</t>
          </tg>
       </mg>
    </e>
@@ -2495,11 +2495,11 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="mwe_v">keep course</t>
+            <t pos="v">keep course</t>
             <tr>boat</tr>
          </tg>
          <tg xml:lang="fin">
-            <t pos="mwe_v">pitää perää</t>
+            <t pos="v">pitää perää</t>
          </tg>
       </mg>
    </e>
@@ -2519,16 +2519,16 @@ For the full license text, see the link above.</lic>
             <sem class="ZOO"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_v">catch with a lasso</t>
+            <t pos="v">catch with a lasso</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="mwe_v">heittää suopungilla</t>
+            <t pos="v">heittää suopungilla</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="mwe_v">ловить арканом</t>
+            <t pos="v">ловить арканом</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">jage med lasso</t>
+            <t pos="v">jage med lasso</t>
          </tg>
       </mg>
    </e>
@@ -2583,16 +2583,16 @@ For the full license text, see the link above.</lic>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_v">be tasty</t>
+            <t pos="v">be tasty</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="mwe_v">быть вкусным</t>
+            <t pos="v">быть вкусным</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="mwe_v">maistua hyvältä</t>
+            <t pos="v">maistua hyvältä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">smake bra</t>
+            <t pos="v">smake bra</t>
          </tg>
       </mg>
    </e>
@@ -2909,7 +2909,7 @@ For the full license text, see the link above.</lic>
             <sem class="WORK"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_v">fetch down</t>
+            <t pos="v">fetch down</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">väännähyttää</t>
@@ -2918,13 +2918,13 @@ For the full license text, see the link above.</lic>
             <t pos="v">свалить</t>
          </tg>
          <tg xml:lang="nob" oahpa="pref">
-            <t pos="mwe_v">kaste ned</t>
+            <t pos="v">kaste ned</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">погнуть</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">felle ned</t>
+            <t pos="v">felle ned</t>
          </tg>
       </mg>
    </e>
@@ -2996,7 +2996,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">work</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="mwe_v">tehdä työtä</t>
+            <t pos="v">tehdä työtä</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="v">bargat</t>
@@ -3050,7 +3050,7 @@ For the full license text, see the link above.</lic>
             <sem class="ZOO"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_v">make sound</t>
+            <t pos="v">make sound</t>
             <te>calfes</te>
          </tg>
          <tg xml:lang="fin">
@@ -3058,11 +3058,11 @@ For the full license text, see the link above.</lic>
             <te>vasasta</te>
          </tg>
          <tg xml:lang="rus">
-            <t pos="mwe_v">издавать звуки</t>
+            <t pos="v">издавать звуки</t>
             <te>олений телёнок</te>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">lage lyd</t>
+            <t pos="v">lage lyd</t>
             <te>kalvene</te>
          </tg>
       </mg>
@@ -4024,7 +4024,7 @@ For the full license text, see the link above.</lic>
             <sem class="WORK">LAISURE</sem>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="mwe_v">tanssia katrillia</t>
+            <t pos="v">tanssia katrillia</t>
          </tg>
       </mg>
    </e>
@@ -4041,8 +4041,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">фотографировать</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_v">take a photograph</t>
-            <t pos="mwe_v">snap a photo</t>
+            <t pos="v">take a photograph</t>
+            <t pos="v">snap a photo</t>
          </tg>
          <semantics>
             <sem class="WORK"/>
@@ -4272,7 +4272,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">saattaa</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="mwe_v">может быть</t>
+            <t pos="v">может быть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">kanskje</t>
@@ -4522,7 +4522,7 @@ For the full license text, see the link above.</lic>
             <sem class="WORK"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="mwe_v">сидеть у костра</t>
+            <t pos="v">сидеть у костра</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">tulistella</t>
@@ -4531,7 +4531,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">fyre bål</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_v">having campfire</t>
+            <t pos="v">having campfire</t>
          </tg>
       </mg>
    </e>
@@ -4554,16 +4554,16 @@ For the full license text, see the link above.</lic>
             <sem class="WORK">REINDEER</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_v" short="hold">hold tight</t>
+            <t pos="v" short="hold">hold tight</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="mwe_v" short="pitää">pitää kiinni</t>
+            <t pos="v" short="pitää">pitää kiinni</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">держать</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v" short="holde">holde fast</t>
+            <t pos="v" short="holde">holde fast</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="v">doallat</t>
@@ -4814,7 +4814,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">tarttua</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">fange inn</t>
+            <t pos="v">fange inn</t>
          </tg>
       </mg>
    </e>
@@ -5148,7 +5148,7 @@ For the full license text, see the link above.</lic>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_v">feel like</t>
+            <t pos="v">feel like</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">viitsiä</t>
@@ -5157,7 +5157,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">хотеть</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">ha lyst</t>
+            <t pos="v">ha lyst</t>
             <te>til å gjøre noe</te>
          </tg>
       </mg>
@@ -5174,16 +5174,16 @@ For the full license text, see the link above.</lic>
             <book name="kurss" lesson="phon"/>
          </sources>
          <tg xml:lang="rus">
-            <t pos="mwe_v" short="принести">сходить и принести</t>
+            <t pos="v" short="принести">сходить и принести</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">noutaa</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v" short="hente">gå og hente</t>
+            <t pos="v" short="hente">gå og hente</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_v" short="bring">go and bring</t>
+            <t pos="v" short="bring">go and bring</t>
          </tg>
          <semantics>
             <sem class="WORK"/>
@@ -5343,7 +5343,7 @@ For the full license text, see the link above.</lic>
             <t pos="v" impf="вырвать">рвать</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">kaste opp</t>
+            <t pos="v">kaste opp</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">oksentaa</t>
@@ -6021,13 +6021,13 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="rus">
-            <t pos="mwe_v">идет дождь</t>
+            <t pos="v">идет дождь</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="v">rain</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="mwe_v">sataa vettä</t>
+            <t pos="v">sataa vettä</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="v">arvit</t>
@@ -6307,7 +6307,7 @@ For the full license text, see the link above.</lic>
          </sources>
          <tg xml:lang="rus">
             <t pos="v">нуждаться</t>
-            <t pos="mwe_p">быть нужным</t>
+            <t pos="p">быть нужным</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">pitää</t>
@@ -6509,7 +6509,7 @@ For the full license text, see the link above.</lic>
             <sem class="BODY">HEALTH</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_v">be ill</t>
+            <t pos="v">be ill</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">särkeä</t>
@@ -6518,7 +6518,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">болеть</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v">være syk</t>
+            <t pos="v">være syk</t>
          </tg>
       </mg>
    </e>
@@ -6921,7 +6921,7 @@ For the full license text, see the link above.</lic>
             <te>>появляться на свет</te>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_v" short="bli">bli til</t>
+            <t pos="v" short="bli">bli til</t>
          </tg>
       </mg>
    </e>

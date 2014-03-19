@@ -42,7 +42,7 @@ For the full license text, see the link above.</lic>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_cs">even though</t>
+            <t pos="cs">even though</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="cs">vaikka</t>
@@ -51,7 +51,7 @@ For the full license text, see the link above.</lic>
             <t pos="cs">хотя</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_cs">selv om</t>
+            <t pos="cs">selv om</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="cs">obwohl</t>
@@ -109,8 +109,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="cs" oahpa="pref">потомучто</t>
-            <t pos="mwe_cs">потому что</t>
-            <t pos="mwe_cs">потому, что</t>
+            <t pos="cs">потому что</t>
+            <t pos="cs">потому, что</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="cs">kun</t>
@@ -237,7 +237,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="deu">
             <t pos="adv">während</t>
-            <t pos="mwe_adv">so lange</t>
+            <t pos="adv">so lange</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="adv">bis</t>
@@ -274,8 +274,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="cs" oahpa="pref">потомучто</t>
-            <t pos="mwe_cs">потому что</t>
-            <t pos="mwe_cs">потому, что</t>
+            <t pos="cs">потому что</t>
+            <t pos="cs">потому, что</t>
          </tg>
       </mg>
    </e>

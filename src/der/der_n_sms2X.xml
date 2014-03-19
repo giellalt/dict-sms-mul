@@ -56,7 +56,7 @@ For the full license text, see the link above.</lic>
                 <t pos="n">lihakeito</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="mwe_np">мясный суп</t>
+                <t pos="np">мясный суп</t>
             </tg>
         </mg>
     </e>
@@ -170,10 +170,10 @@ For the full license text, see the link above.</lic>
                 <sem class="HUMAN">PEOPLE</sem>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="mwe_n">иоканьгский саами</t>
-                <t pos="mwe_n">иокангский саами</t>
-                <t pos="mwe_n">йоканьгский саами</t>
-                <t pos="mwe_n">йокангский саами</t>
+                <t pos="n">иоканьгский саами</t>
+                <t pos="n">иокангский саами</t>
+                <t pos="n">йоканьгский саами</t>
+                <t pos="n">йокангский саами</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="n">turjalainen</t>
@@ -182,7 +182,7 @@ For the full license text, see the link above.</lic>
                 <t pos="n">tersame</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_n">Ter Sami</t>
+                <t pos="n">Ter Sami</t>
             </tg>
         </mg>
     </e>
@@ -198,7 +198,7 @@ For the full license text, see the link above.</lic>
                 <sem class="HUMAN">PEOPLE</sem>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="mwe_n">бабинский саами</t>
+                <t pos="n">бабинский саами</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="n">akkalansaamelainen</t>
@@ -207,7 +207,7 @@ For the full license text, see the link above.</lic>
                 <t pos="n">akkalasame</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_n">Akkala Sami</t>
+                <t pos="n">Akkala Sami</t>
             </tg>
         </mg>
     </e>
@@ -232,7 +232,7 @@ For the full license text, see the link above.</lic>
                 <t pos="n">kildinsame</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_n">Kildin Sami</t>
+                <t pos="n">Kildin Sami</t>
             </tg>
         </mg>
     </e>
@@ -248,7 +248,7 @@ For the full license text, see the link above.</lic>
                 <sem class="HUMAN">PEOPLE</sem>
             </semantics>
             <tg xml:lang="rus">
-                <t pos="mwe_n">северный саами</t>
+                <t pos="n">северный саами</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="n">pohjoissaamelainen</t>
@@ -257,7 +257,7 @@ For the full license text, see the link above.</lic>
                 <t pos="n">nordsame</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_n">North Sami</t>
+                <t pos="n">North Sami</t>
             </tg>
         </mg>
     </e>
@@ -267,7 +267,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg>
             <tg xml:lang="eng">
-                <t pos="mwe_np">one hundred people</t>
+                <t pos="np">one hundred people</t>
             </tg>
         </mg>
     </e>
@@ -276,7 +276,7 @@ For the full license text, see the link above.</lic>
             <l pos="n" lemma="num_čiččâm">čiččmõs</l>
         </lg>
         <tg xml:lang="eng">
-            <t pos="mwe_np">seven people</t>
+            <t pos="np">seven people</t>
         </tg>
     </e>
     <e>
@@ -285,7 +285,7 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg>
             <tg xml:lang="eng">
-                <t pos="mwe_np">one-fourth</t>
+                <t pos="np">one-fourth</t>
             </tg>
         </mg>
     </e>
@@ -314,7 +314,7 @@ For the full license text, see the link above.</lic>
                 <t pos="n">one-sixth</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="mwe_np">kuudes osa</t>
+                <t pos="np">kuudes osa</t>
             </tg>
             <tg xml:lang="sme">
                 <t pos="n">guđadas</t>
@@ -330,7 +330,7 @@ For the full license text, see the link above.</lic>
                 <t pos="n">one-third</t>
             </tg>
             <tg xml:lang="fin">
-                <t pos="mwe_np">kolmas osa</t>
+                <t pos="np">kolmas osa</t>
             </tg>
         </mg>
     </e>

@@ -36,7 +36,7 @@ For the full license text, see the link above.</lic>
                 <sem class="SENSE">PERCEPTION</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="mwe_det">what kind of</t>
+                <t pos="det">what kind of</t>
             </tg>
         </mg>
     </e>
@@ -76,7 +76,7 @@ For the full license text, see the link above.</lic>
                 <t pos="det">det</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_det">det der</t>
+                <t pos="det">det der</t>
             </tg>
             <tg xml:lang="sme">
                 <t pos="det">dot</t>
@@ -173,7 +173,7 @@ For the full license text, see the link above.</lic>
                 <sem class="SENSE">PERCEPTION</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="mwe_det">one of</t>
+                <t pos="det">one of</t>
             </tg>
             <tg xml:lang="rus">
                 <t pos="det">кто-то</t>
@@ -195,10 +195,10 @@ For the full license text, see the link above.</lic>
                 <t pos="det">eräs</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_det">noen blant</t>
+                <t pos="det">noen blant</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_det">en av</t>
+                <t pos="det">en av</t>
             </tg>
         </mg>
     </e>

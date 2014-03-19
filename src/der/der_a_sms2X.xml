@@ -45,13 +45,13 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="mwe_a">в возрасте</t>
+                <t pos="a">в возрасте</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="a">ikäinen</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_a">på alder</t>
+                <t pos="a">på alder</t>
             </tg>
         </mg>
     </e>
@@ -86,7 +86,7 @@ For the full license text, see the link above.</lic>
                 <t pos="a">koltankielinen</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_a">speaking Skolt Saami</t>
+                <t pos="a">speaking Skolt Saami</t>
             </tg>
             <tg xml:lang="deu">
                 <t pos="a">skoltsaamischsprachig</t>
@@ -109,7 +109,7 @@ For the full license text, see the link above.</lic>
                 <t pos="a">saamenkielinen</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_a">speaking Saami</t>
+                <t pos="a">speaking Saami</t>
             </tg>
             <tg xml:lang="deu">
                 <t pos="a">saamischsprachig</t>
@@ -128,7 +128,7 @@ For the full license text, see the link above.</lic>
                 <t pos="a">темно-красный</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_a">dark red</t>
+                <t pos="a">dark red</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="a">tummanpunainen</t>
@@ -144,7 +144,7 @@ For the full license text, see the link above.</lic>
                 <t pos="a">темно-синий</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_a">dark blue</t>
+                <t pos="a">dark blue</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="a">tummansininen</t>
@@ -541,7 +541,7 @@ For the full license text, see the link above.</lic>
                 <sem class="SENSE">COGNITION</sem>
             </semantics>
             <tg xml:lang="fin">
-                <t pos="mwe_a">samalla tavalla</t>
+                <t pos="a">samalla tavalla</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="a">samoin</t>

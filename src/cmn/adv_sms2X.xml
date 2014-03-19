@@ -265,7 +265,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="deu">
             <t pos="adv">heim</t>
-            <t pos="mwe_adv">nach Hause</t>
+            <t pos="adv">nach Hause</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="adv">ruoktiin</t>
@@ -279,7 +279,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">at home</t>
+            <t pos="adv">at home</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">kotona</t>
@@ -305,7 +305,7 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">CYCLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">in the morning</t>
+            <t pos="adv">in the morning</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">aamulla</t>
@@ -329,7 +329,7 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">CYCLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">at night</t>
+            <t pos="adv">at night</t>
          </tg>
       </mg>
    </e>
@@ -392,7 +392,7 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">CYCLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">in the evening</t>
+            <t pos="adv">in the evening</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">illalla</t>
@@ -445,7 +445,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">huomenna</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_adv">i morgen</t>
+            <t pos="adv">i morgen</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">tomorrow</t>
@@ -526,7 +526,7 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">CYCLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">long time</t>
+            <t pos="adv">long time</t>
          </tg>
          <tg xml:lang="rus" oahpa="pref">
             <t pos="adv">долго</t>
@@ -538,7 +538,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">kauan</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_adv">lang tid</t>
+            <t pos="adv">lang tid</t>
          </tg>
       </mg>
    </e>
@@ -657,16 +657,16 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN">POSSESSION</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="mwe_adv">между собой</t>
+            <t pos="adv">между собой</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">keskenään</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_adv">seg imellom</t>
+            <t pos="adv">seg imellom</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">by themselves</t>
+            <t pos="adv">by themselves</t>
          </tg>
       </mg>
    </e>
@@ -857,10 +857,10 @@ For the full license text, see the link above.</lic>
             <t pos="adv">litt</t>
          </tg>
          <tg xml:lang="nob" oahpa="pref">
-            <t pos="mwe_adv">en smule</t>
+            <t pos="adv">en smule</t>
          </tg>
          <tg xml:lang="eng" oahpa="pref">
-            <t pos="mwe_adv">a little bit</t>
+            <t pos="adv">a little bit</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">somewhat</t>
@@ -903,10 +903,10 @@ For the full license text, see the link above.</lic>
             <t pos="adv">litt</t>
          </tg>
          <tg xml:lang="nob" oahpa="pref">
-            <t pos="mwe_adv">en smule</t>
+            <t pos="adv">en smule</t>
          </tg>
          <tg xml:lang="eng" oahpa="pref">
-            <t pos="mwe_adv">a little bit</t>
+            <t pos="adv">a little bit</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">somewhat</t>
@@ -947,7 +947,7 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">POSITION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">next to</t>
+            <t pos="adv">next to</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">рядом</t>
@@ -956,7 +956,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">vieressä</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_adv">ved siden</t>
+            <t pos="adv">ved siden</t>
          </tg>
       </mg>
    </e>
@@ -1055,7 +1055,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="adv">out</t>
-            <t pos="mwe_adv">from inside</t>
+            <t pos="adv">from inside</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">ut</t>
@@ -1099,7 +1099,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">vähän</t>
          </tg>
          <tg xml:lang="nob" oahpa="pref">
-            <t pos="mwe_adv">en smule</t>
+            <t pos="adv">en smule</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">litt</t>
@@ -1150,10 +1150,10 @@ For the full license text, see the link above.</lic>
             <t pos="adv">litt</t>
          </tg>
          <tg xml:lang="nob" oahpa="pref">
-            <t pos="mwe_adv">en smule</t>
+            <t pos="adv">en smule</t>
          </tg>
          <tg xml:lang="eng" oahpa="pref">
-            <t pos="mwe_adv">a little bit</t>
+            <t pos="adv">a little bit</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">somewhat</t>
@@ -1213,13 +1213,13 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">CYCLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">this year</t>
+            <t pos="adv">this year</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="mwe_adv">tänä vuonna</t>
+            <t pos="adv">tänä vuonna</t>
          </tg>
          <tg xml:lang="sme">
-            <t pos="mwe_adv">dán jagi</t>
+            <t pos="adv">dán jagi</t>
          </tg>
       </mg>
    </e>
@@ -1232,10 +1232,10 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">CYCLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">last year</t>
+            <t pos="adv">last year</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="mwe_adv">viime vuonna</t>
+            <t pos="adv">viime vuonna</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="adv">diibmá</t>
@@ -1285,7 +1285,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">hither</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">to here</t>
+            <t pos="adv">to here</t>
          </tg>
          <tg xml:lang="eng" oahpa="pref">
             <t pos="adv">here</t>
@@ -1372,7 +1372,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">dit</t>
          </tg>
          <tg xml:lang="eng" oahpa="pref">
-            <t pos="mwe_adv">to there</t>
+            <t pos="adv">to there</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">there</t>
@@ -1416,7 +1416,7 @@ For the full license text, see the link above.</lic>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="rus" oahpa="pref">
-            <t pos="mwe_adv">на самом деле</t>
+            <t pos="adv">на самом деле</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">вправду</t>
@@ -1431,7 +1431,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">faktisk</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">in fact</t>
+            <t pos="adv">in fact</t>
          </tg>
       </mg>
    </e>
@@ -1469,10 +1469,10 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">CYCLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">in the winter</t>
+            <t pos="adv">in the winter</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">in winter</t>
+            <t pos="adv">in winter</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">talvella</t>
@@ -1550,7 +1550,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">herfra</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">from here</t>
+            <t pos="adv">from here</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">täältä</t>
@@ -1610,7 +1610,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">herfra</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">from here</t>
+            <t pos="adv">from here</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">täältä</t>
@@ -1655,7 +1655,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">tänään</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_adv">i dag</t>
+            <t pos="adv">i dag</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="adv">odne</t>
@@ -1734,13 +1734,13 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">MOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">from there</t>
+            <t pos="adv">from there</t>
          </tg>
          <tg xml:lang="rus" oahpa="pref">
             <t pos="adv">оттуда</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="mwe_adv">от там</t>
+            <t pos="adv">от там</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">derfra</t>
@@ -1777,19 +1777,19 @@ For the full license text, see the link above.</lic>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="fin" oahpa="pref">
-            <t pos="mwe_adv">sen takia</t>
+            <t pos="adv">sen takia</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">siksi</t>
          </tg>
          <tg xml:lang="eng" oahpa="pref">
-            <t pos="mwe_adv">for that reason</t>
+            <t pos="adv">for that reason</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">that's why</t>
+            <t pos="adv">that's why</t>
          </tg>
          <tg xml:lang="rus" oahpa="pref">
-            <t pos="mwe_adv">по этой причине</t>
+            <t pos="adv">по этой причине</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">поэтому</t>
@@ -1883,7 +1883,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">ensin</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="mwe_adv">i begynnelse</t>
+            <t pos="adv">i begynnelse</t>
          </tg>
       </mg>
    </e>
@@ -2017,7 +2017,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">ulkona</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="mwe_adv">на улица</t>
+            <t pos="adv">на улица</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">ute</t>
@@ -2036,7 +2036,7 @@ For the full license text, see the link above.</lic>
             <t pos="adp">наружу</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_apd">to outside</t>
+            <t pos="apd">to outside</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">ulos</t>
@@ -2115,7 +2115,7 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">POINT</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">a short while ago</t>
+            <t pos="adv">a short while ago</t>
          </tg>
       </mg>
    </e>
@@ -2131,7 +2131,7 @@ For the full license text, see the link above.</lic>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">very much</t>
+            <t pos="adv">very much</t>
          </tg>
          <tg xml:lang="fin" oahpa="pref">
             <t pos="adv">kovin</t>
@@ -2162,7 +2162,7 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">CYCLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">one hundred times</t>
+            <t pos="adv">one hundred times</t>
          </tg>
       </mg>
    </e>
@@ -2175,10 +2175,10 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">CYCLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">in the fall</t>
-            <t pos="mwe_adv">in fall</t>
-            <t pos="mwe_adv">in the autumn</t>
-            <t pos="mwe_adv">in autumn</t>
+            <t pos="adv">in the fall</t>
+            <t pos="adv">in fall</t>
+            <t pos="adv">in the autumn</t>
+            <t pos="adv">in autumn</t>
          </tg>
       </mg>
    </e>
@@ -2191,10 +2191,10 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">CYCLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">every fall</t>
+            <t pos="adv">every fall</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">every autumn</t>
+            <t pos="adv">every autumn</t>
          </tg>
       </mg>
    </e>
@@ -2207,8 +2207,8 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">CYCLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">in the spring</t>
-            <t pos="mwe_adv">in spring</t>
+            <t pos="adv">in the spring</t>
+            <t pos="adv">in spring</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">keväällä</t>
@@ -2224,8 +2224,8 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">CYCLE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="mwe_adv">in the summer</t>
-            <t pos="mwe_adv">in summer</t>
+            <t pos="adv">in the summer</t>
+            <t pos="adv">in summer</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">kesällä</t>

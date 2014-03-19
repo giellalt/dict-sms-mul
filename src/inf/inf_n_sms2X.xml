@@ -32,13 +32,13 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="mwe_adv">в школе</t>
+                <t pos="adv">в школе</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="n" gloss="loc.sg">koulussa</t>
             </tg>
             <tg xml:lang="no">
-                <t pos="mwe_adv">på skolen</t>
+                <t pos="adv">på skolen</t>
             </tg>
         </mg>
     </e>
@@ -51,13 +51,13 @@ For the full license text, see the link above.</lic>
                 <t pos="adv">maanantaina</t>
             </tg>
             <tg xml:lang="rus">
-                <dt pos="mwe_adp">в понедельник</dt>
+                <dt pos="adp">в понедельник</dt>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_adp">på mandag</t>
+                <t pos="adp">på mandag</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_adp">on monday</t>
+                <t pos="adp">on monday</t>
             </tg>
         </mg>
     </e>
@@ -92,7 +92,7 @@ For the full license text, see the link above.</lic>
                 <t pos="xxx">xxx</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_adv">in the morning</t>
+                <t pos="adv">in the morning</t>
             </tg>
         </mg>
     </e>
@@ -105,13 +105,13 @@ For the full license text, see the link above.</lic>
                 <t pos="adv">lauantaina</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="mwe_adv">в субботу</t>
+                <t pos="adv">в субботу</t>
             </tg>
             <tg xml:lang="nob">
-                <xt pos="mwe_adv">på lørdag</xt>
+                <xt pos="adv">på lørdag</xt>
             </tg>
             <tg xml:lang="eng">
-                <xt pos="mwe_adv">on Saturday</xt>
+                <xt pos="adv">on Saturday</xt>
             </tg>
         </mg>
     </e>
@@ -121,13 +121,13 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="mwe_adv">на работе</t>
+                <t pos="adv">на работе</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="n" gloss="loc.sg">työssä</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_adv">på jobben</t>
+                <t pos="adv">på jobben</t>
             </tg>
         </mg>
     </e>
@@ -137,13 +137,13 @@ For the full license text, see the link above.</lic>
         </lg>
         <mg>
             <tg xml:lang="rus">
-                <t pos="mwe_adv">на работе</t>
+                <t pos="adv">на работе</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="n" gloss="loc.sg">työssä</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_adv">på jobben</t>
+                <t pos="adv">på jobben</t>
             </tg>
         </mg>
     </e>
@@ -162,7 +162,7 @@ For the full license text, see the link above.</lic>
                 <t pos="adv">hjemme</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_adp">at home</t>
+                <t pos="adp">at home</t>
             </tg>
         </mg>
     </e>
@@ -188,13 +188,13 @@ For the full license text, see the link above.</lic>
                 <t pos="adv">vuonna</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="mwe_adv">на год</t>
+                <t pos="adv">на год</t>
             </tg>
             <tg xml:lang="nob">
                 <t pos="adv">året</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_adv">in the year</t>
+                <t pos="adv">in the year</t>
             </tg>
         </mg>
     </e>

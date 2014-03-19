@@ -112,7 +112,7 @@ For the full license text, see the link above.</lic>
                 <t pos="adv">where</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_adv">to where</t>
+                <t pos="adv">to where</t>
             </tg>
             <tg xml:lang="fin" oahpa="pref">
                 <t pos="adv">mihin</t>
@@ -151,7 +151,7 @@ For the full license text, see the link above.</lic>
                 <t pos="adv">where</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_adv">where at</t>
+                <t pos="adv">where at</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="adv">missä</t>
@@ -187,7 +187,7 @@ For the full license text, see the link above.</lic>
                 <t pos="adv">wherefrom</t>
             </tg>
             <tg xml:lang="eng">
-                <t pos="mwe_adv">from where</t>
+                <t pos="adv">from where</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="adv">mistä</t>
@@ -196,7 +196,7 @@ For the full license text, see the link above.</lic>
                 <t pos="adv">откуда</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_adv">hvor fra</t>
+                <t pos="adv">hvor fra</t>
             </tg>
             <tg xml:lang="sme">
                 <t pos="adv">gos</t>
@@ -240,16 +240,16 @@ For the full license text, see the link above.</lic>
                 <sem class="SENSE">QUANTITY</sem>
             </semantics>
             <tg xml:lang="eng">
-                <t pos="mwe_adv">not more</t>
+                <t pos="adv">not more</t>
             </tg>
             <tg xml:lang="fin">
                 <t pos="adv">enää</t>
             </tg>
             <tg xml:lang="rus">
-                <t pos="mwe_adv">не больше</t>
+                <t pos="adv">не больше</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="mwe_adv">ikke mer</t>
+                <t pos="adv">ikke mer</t>
             </tg>
         </mg>
     </e>
