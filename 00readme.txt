@@ -277,6 +277,15 @@ Versus, for instance, swesma-oahpa example.
    </e>
 
 ==========================================
+DONE: following issues are corrected
+==========================================
+3. pos values prefixed with 'mwe_' are useless: I had a chat discussion on
+  that with Michael where I explained how it should be better modeled
+<t pos="mwe_v">be ill</t>
+==><t pos="v">be ill</t> ('mwe_' is removed)
+
+
+==========================================
 TODO: following issues should be corrected
 ==========================================
 1. src>grep -r 'oahpa="pref"' *|c
@@ -307,10 +316,6 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
-
-3. pos values prefixed with 'mwe_' are useless: I had a chat discussion on
-  that with Michael where I explained how it should be better modeled
-<t pos="mwe_v">be ill</t>
 
 4. lesson-attr in book node as well as string node in sem node are not accounted
    for in the pipeline whatsoever
