@@ -191,8 +191,8 @@ For the full license text, see the link above.</lic>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="interj">niin</t>
-            <t pos="interj">ja niin</t>
+            <t pos="i">niin</t>
+            <t pos="i">ja niin</t>
             <t pos="adv">sitten</t>
          </tg>
       </mg>

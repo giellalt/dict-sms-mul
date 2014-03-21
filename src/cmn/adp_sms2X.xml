@@ -207,7 +207,7 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">MOTION</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="prp">к</t>
+            <t pos="adp">к</t>
             <tr>кому-чему</tr>
          </tg>
          <tg xml:lang="fin">
@@ -233,10 +233,10 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">POINT</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="prp">before</t>
+            <t pos="adp">before</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="prp">до</t>
+            <t pos="adp">до</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adp">ennen</t>
@@ -286,13 +286,13 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">MOTION</sem>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="pop">sisään</t>
+            <t pos="adp">sisään</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pop">sisälle</t>
+            <t pos="adp">sisälle</t>
          </tg>
          <tg xml:lang="rus" oahpa="pref">
-            <t pos="prp">в</t>
+            <t pos="adp">в</t>
             <tr>куда</tr>
          </tg>
          <tg xml:lang="rus">
@@ -311,7 +311,7 @@ For the full license text, see the link above.</lic>
             <te>to inside</te>
          </tg>
          <tg xml:lang="sjd">
-            <t pos="pop">сыз</t>
+            <t pos="adp">сыз</t>
          </tg>
       </mg>
    </e>
@@ -403,17 +403,17 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">MOTION</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="prp">к</t>
+            <t pos="adp">к</t>
             <tr>кому</tr>
          </tg>
          <tg xml:lang="fin" oahpa="pref">
-            <t pos="pop">luokse</t>
+            <t pos="adp">luokse</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="pop">luo</t>
+            <t pos="adp">luo</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="prp">til</t>
+            <t pos="adp">til</t>
             <tr>noen</tr>
          </tg>
       </mg>

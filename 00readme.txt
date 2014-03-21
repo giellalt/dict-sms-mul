@@ -282,7 +282,14 @@ DONE: following issues are corrected
 3. pos values prefixed with 'mwe_' are useless: I had a chat discussion on
   that with Michael where I explained how it should be better modeled
 <t pos="mwe_v">be ill</t>
-==><t pos="v">be ill</t> ('mwe_' is removed)
+==> <t pos="v">be ill</t> ('mwe_' is removed)
+
+5. What the heck is 's' as pos value?
+==> "sentence", for now I have no better solution for multiword constituents which are above phrase level
+
+6. POS values should be aligned to those from GT prp => pr
+==> I use adp instead of prp/pop
+
 
 
 ==========================================
@@ -326,8 +333,3 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
 
-5. What the heck is 's' as pos value?
-
-6. POS values should be aligned to those from GT
-   prp => pr
-   

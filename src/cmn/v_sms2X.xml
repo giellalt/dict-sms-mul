@@ -6306,8 +6306,10 @@ For the full license text, see the link above.</lic>
             <book name="lookkamkerjj" lesson="1"/>
          </sources>
          <tg xml:lang="rus">
+            <t pos="v">быть нужным</t>
+         </tg>
+         <tg xml:lang="rus" oahpa="pref">
             <t pos="v">нуждаться</t>
-            <t pos="p">быть нужным</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">pitää</t>
