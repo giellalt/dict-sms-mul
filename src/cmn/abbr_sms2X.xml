@@ -40,9 +40,7 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="xxx"/>
          </semantics>
-         <lexicon>
-            <lex xml:lang="sms">da nuˊtt ooudâs</lex>
-         </lexicon>
+         <lexicon xml:lang="sms">da nuˊtt ooudâs</lexicon>
          <tg xml:lang="fin">
             <t pos="abbr">jne</t>
             <t pos="xxx">ja niin edelleen</t>
