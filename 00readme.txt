@@ -332,4 +332,7 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
+5. te-elements have no reason d'etre in the dict files, yet I found a lot of them
+   ==> to be corrected
+
 
