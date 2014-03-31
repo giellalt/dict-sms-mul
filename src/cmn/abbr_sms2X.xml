@@ -34,9 +34,9 @@ For the full license text, see the link above.</lic>
          </audio>
       </lg>
       <mg>
-         <source>
+         <sources>
             <book name="kurss" lesson="5"/>
-         </source>
+         </sources>
          <semantics>
             <sem class="xxx"/>
          </semantics>
