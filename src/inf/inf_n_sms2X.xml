@@ -108,10 +108,10 @@ For the full license text, see the link above.</lic>
                 <t pos="adv">в субботу</t>
             </tg>
             <tg xml:lang="nob">
-                <xt pos="adv">på lørdag</xt>
+                <t pos="adv">på lørdag</t>
             </tg>
             <tg xml:lang="eng">
-                <xt pos="adv">on Saturday</xt>
+                <t pos="adv">on Saturday</t>
             </tg>
         </mg>
     </e>
