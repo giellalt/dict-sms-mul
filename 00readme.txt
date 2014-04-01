@@ -335,4 +335,6 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
 5. te-elements have no reason d'etre in the dict files, yet I found a lot of them
    ==> to be corrected
 
+6. the data structure is getting very complex and debugging with simple scripts
+   is getting more difficult: there is an urgent need for a DTD or schema for this data.
 
