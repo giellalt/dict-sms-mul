@@ -338,3 +338,16 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
 6. the data structure is getting very complex and debugging with simple scripts
    is getting more difficult: there is an urgent need for a DTD or schema for this data.
 
+7. 9 instances of empty book in cmn:
+wodi>g -n '<book/>' ../src/cmn/*
+../src/cmn/adp_sms2X.xml:33:         <book/>
+../src/cmn/adp_sms2X.xml:58:         <book/>
+../src/cmn/adv_sms2X.xml:33:         <book/>
+../src/cmn/adv_sms2X.xml:49:         <book/>
+../src/cmn/n_sms2X.xml:32:         <book/>
+../src/cmn/n_sms2X.xml:60:         <book/>
+../src/cmn/n_sms2X.xml:94:         <book/>
+../src/cmn/n_sms2X.xml:97:         <book/>
+../src/cmn/n_sms2X.xml:139:         <book/>
+
+
