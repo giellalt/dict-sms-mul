@@ -338,6 +338,34 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
 6. the data structure is getting very complex and debugging with simple scripts
    is getting more difficult: there is an urgent need for a DTD or schema for this data.
 
+The best argument for some structure description:
+        <mg>
+            <sources>
+                <book name="kurss" lesson="xxx"/>
+            </sources>
+            <semantics>
+                <sem/>
+            </semantics>
+            <mg>
+                <tg xml:lang="eng">
+                    <t pos="adv">from here</t>
+                </tg>
+                <tg xml:lang="fin">
+                    <t pos="pro">tästä</t>
+                </tg>
+                <tg xml:lang="rus">
+                    <t pos="adv">отсюда</t>
+                </tg>
+                <tg xml:lang="nob">
+                    <t pos="adv">herifra</t>
+                </tg>
+            </mg>
+        </mg>
+
+
+
+
+
 7. instances of empty book in cmn, det, etc.:
 wodi>g -n '<book/>' ../src/cmn/*
 ../src/cmn/adp_sms2X.xml:33:         <book/>
