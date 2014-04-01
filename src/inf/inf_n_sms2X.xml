@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <r id="sms2X" xml:lang="sms">
-    <lics xml:space="preserve">
+   <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -25,177 +24,176 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-    
-    <e meta="04">
-        <lg>
-            <l pos="n" lemma="škooul" gloss="loc.sg">škooulâst</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="adv">в школе</t>
-            </tg>
+   <e meta="04">
+      <lg>
+         <l pos="n" lemma="škooul" gloss="loc.sg">škooulâst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="adv">в школе</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n" gloss="loc.sg">koulussa</t>
+         </tg>
+         <tg xml:lang="no">
+            <t pos="adv">på skolen</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n" lemma="vuõsˈsargg" gloss="gen.sg">vuõsˈsaarǥ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="adv">maanantaina</t>
+         </tg>
+         <tg xml:lang="rus">
+            <dt pos="adp">в понедельник</dt>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adp">på mandag</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adp">on monday</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n" lemma="täˊlvv" gloss="ill.sg">tälvva</l>
+         <mg>
             <tg xml:lang="fin">
-                <t pos="n" gloss="loc.sg">koulussa</t>
-            </tg>
-            <tg xml:lang="no">
-                <t pos="adv">på skolen</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="04">
-        <lg>
-            <l pos="n" lemma="vuõsˈsargg" gloss="gen.sg">vuõsˈsaarǥ</l>
-        </lg>
-        <mg>
-            <tg xml:lang="fin">
-                <t pos="adv">maanantaina</t>
+               <t pos="n" gloss="adv">talvella</t>
             </tg>
             <tg xml:lang="rus">
-                <dt pos="adp">в понедельник</dt>
+               <t pos="n" gloss="adv">зимой</t>
             </tg>
             <tg xml:lang="nob">
-                <t pos="adp">på mandag</t>
+               <t pos="xxx">xxx</t>
             </tg>
-            <tg xml:lang="eng">
-                <t pos="adp">on monday</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="04">
-        <lg>
-            <l pos="n" lemma="täˊlvv" gloss="ill.sg">tälvva</l>
-            <mg>
-                <tg xml:lang="fin">
-                    <t pos="n" gloss="adv">talvella</t>
-                </tg>
-                <tg xml:lang="rus">
-                    <t pos="n" gloss="adv">зимой</t>
-                </tg>
-                <tg xml:lang="nob">
-                    <t pos="xxx">xxx</t>
-                </tg>
-            </mg>
-        </lg>
-    </e>
-    <e meta="04">
-        <lg>
-            <l pos="n" lemma="tueˊlääž" gloss="gen.sg">tueˊlää</l>
-        </lg>
-        <mg>
-            <tg xml:lang="fin">
-                <t pos="adv">aamulla</t>
-            </tg>
-            <tg xml:lang="rus">
-                <t pos="adv">утром</t>
-            </tg>
-            <tg xml:lang="nob">
-                <t pos="xxx">xxx</t>
-            </tg>
-            <tg xml:lang="eng">
-                <t pos="adv">in the morning</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="04">
-        <lg>
-            <l pos="n" lemma="sueˊvet" gloss="gen.sg">sueˊvet</l>
-        </lg>
-        <mg>
-            <tg xml:lang="fin">
-                <t pos="adv">lauantaina</t>
-            </tg>
-            <tg xml:lang="rus">
-                <t pos="adv">в субботу</t>
-            </tg>
-            <tg xml:lang="nob">
-                <t pos="adv">på lørdag</t>
-            </tg>
-            <tg xml:lang="eng">
-                <t pos="adv">on Saturday</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="04">
-        <lg>
-            <d pos="n" lemma="reâugg" gloss="loc.sg">reâuǥast</d>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="adv">на работе</t>
-            </tg>
-            <tg xml:lang="fin">
-                <t pos="n" gloss="loc.sg">työssä</t>
-            </tg>
-            <tg xml:lang="nob">
-                <t pos="adv">på jobben</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="04">
-        <lg>
-            <d pos="n" lemma="tuẹjj" gloss="loc.sg">tuẹjast</d>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="adv">на работе</t>
-            </tg>
-            <tg xml:lang="fin">
-                <t pos="n" gloss="loc.sg">työssä</t>
-            </tg>
-            <tg xml:lang="nob">
-                <t pos="adv">på jobben</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="04">
-        <lg>
-            <d pos="n" lemma="põrtt" gloss="loc.sg">põõrtâst</d>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="adv">дома</t>
-            </tg>
-            <tg xml:lang="fin">
-                <t pos="adv">kotona</t>
-            </tg>
-            <tg xml:lang="nob">
-                <t pos="adv">hjemme</t>
-            </tg>
-            <tg xml:lang="eng">
-                <t pos="adp">at home</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="04">
-        <lg>
-            <l pos="n" lemma="jeäˊǩǩääž" gloss="gen.sg">jeäˊǩǩää</l>
-        </lg>
-        <mg>
-            <tg xml:lang="rus">
-                <t pos="adv">вечером</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="09">
-        <lg>
-            <l pos="n" lemma="eeˊǩǩ" gloss="loc.sg">eeˊjjest</l>
-        </lg>
-        <mg>
-            <semantics>
-                <sem class="TIME">CYCLE</sem>
-            </semantics>
-            <tg xml:lang="fin">
-                <t pos="adv">vuonna</t>
-            </tg>
-            <tg xml:lang="rus">
-                <t pos="adv">на год</t>
-            </tg>
-            <tg xml:lang="nob">
-                <t pos="adv">året</t>
-            </tg>
-            <tg xml:lang="eng">
-                <t pos="adv">in the year</t>
-            </tg>
-        </mg>
-    </e>
+         </mg>
+      </lg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n" lemma="tueˊlääž" gloss="gen.sg">tueˊlää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="adv">aamulla</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">утром</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="xxx">xxx</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">in the morning</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n" lemma="sueˊvet" gloss="gen.sg">sueˊvet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="adv">lauantaina</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">в субботу</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">på lørdag</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">on Saturday</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <d pos="n" lemma="reâugg" gloss="loc.sg">reâuǥast</d>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="adv">на работе</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n" gloss="loc.sg">työssä</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">på jobben</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <d pos="n" lemma="tuẹjj" gloss="loc.sg">tuẹjast</d>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="adv">на работе</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n" gloss="loc.sg">työssä</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">på jobben</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <d pos="n" lemma="põrtt" gloss="loc.sg">põõrtâst</d>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="adv">дома</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="adv">kotona</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">hjemme</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adp">at home</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="04">
+      <lg>
+         <l pos="n" lemma="jeäˊǩǩääž" gloss="gen.sg">jeäˊǩǩää</l>
+      </lg>
+      <mg>
+         <tg xml:lang="rus">
+            <t pos="adv">вечером</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="09">
+      <lg>
+         <l pos="n" lemma="eeˊǩǩ" gloss="loc.sg">eeˊjjest</l>
+      </lg>
+      <mg>
+         <semantics>
+            <sem class="TIME">CYCLE</sem>
+         </semantics>
+         <tg xml:lang="fin">
+            <t pos="adv">vuonna</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="adv">на год</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="adv">året</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="adv">in the year</t>
+         </tg>
+      </mg>
+   </e>
 </r>
