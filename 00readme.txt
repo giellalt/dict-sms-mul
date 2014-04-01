@@ -360,4 +360,14 @@ der/der_n_sms2X.xml:195:                <book/>
 der/der_n_sms2X.xml:220:                <book/>
 der/der_n_sms2X.xml:245:                <book/>
 
-
+8. instances of empty sem:
+src>g -r '<sem/>' *|c
+     103
+ ... with the following distribution:
+src>g -r '<sem/>' *|cut -d ':' -f1|t
+  31 mwe/mwe_sms2X.xml
+  31 exa/mwe_sms2X.xml
+  31 exa/exa_sms2X.xml
+   5 inf/inf_pro_sms2X.xml
+   3 inf/inf_adv_sms2X.xml
+   2 der/der_det_sms2X.xml
