@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <r id="sms2X" xml:lang="sms">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -25,7 +24,6 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   
    <e meta="08_1612">
       <lg>
          <l pos="abbr">dno</l>
@@ -33,14 +31,14 @@ For the full license text, see the link above.</lic>
             <a quality="1" dialect="xxx" speaker="3" href="languagememory1612"/>
          </audio>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-         </sources>
+         <lexicon xml:lang="sms">da nuˊtt ooudâs</lexicon>
          <semantics>
             <sem class="xxx"/>
          </semantics>
-         <lexicon xml:lang="sms">da nuˊtt ooudâs</lexicon>
          <tg xml:lang="fin">
             <t pos="abbr">jne</t>
             <t pos="xxx">ja niin edelleen</t>
@@ -72,15 +70,15 @@ For the full license text, see the link above.</lic>
          <l pos="abbr">mn</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="xxx"/>
+         </semantics>
          <tg xml:lang="fin">
             <t pos="abbr">ov</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">opintoviikko</t>
          </tg>
-         <semantics>
-            <sem class="xxx"/>
-         </semantics>
       </mg>
    </e>
    <e meta="04">
@@ -88,15 +86,15 @@ For the full license text, see the link above.</lic>
          <l pos="abbr">mâ</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="TIME">CYCLE</sem>
+         </semantics>
          <tg xml:lang="fin">
             <t pos="abbr">ti</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">tiistai</t>
          </tg>
-         <semantics>
-            <sem class="TIME">CYCLE</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="04">
@@ -104,20 +102,20 @@ For the full license text, see the link above.</lic>
          <l pos="abbr">č</l>
       </lg>
       <mg km="g1">
-         <tg xml:lang="fin">
-            <t pos="abbr">h</t>
-         </tg>
          <semantics>
             <sem class="TIME">UNIT</sem>
          </semantics>
+         <tg xml:lang="fin">
+            <t pos="abbr">h</t>
+         </tg>
       </mg>
       <mg km="g2">
-         <tg xml:lang="fin">
-            <t pos="abbr">klo</t>
-         </tg>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
+         <tg xml:lang="fin">
+            <t pos="abbr">klo</t>
+         </tg>
       </mg>
    </e>
 </r>

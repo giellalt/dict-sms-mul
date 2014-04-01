@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <r id="sms2X" xml:lang="sms">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -26,15 +25,14 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-
    <e meta="04">
       <lg>
          <l pos="cc">avi</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="6"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="6"/>
-         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -101,10 +99,10 @@ For the full license text, see the link above.</lic>
             <etymon type="loan" source="rus">а</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -147,11 +145,11 @@ For the full license text, see the link above.</lic>
             <etymon type="loan" source="rus">да</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+         <book name="200" BEDLAN_ID="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-            <book name="200" BEDLAN_ID="2"/>
-         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -183,10 +181,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="cc">de</l>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="2"/>
+      </sources>
       <mg exclude="oahpa;">
-         <sources>
-            <book name="200" BEDLAN_ID="2"/>
-         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -201,10 +199,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="cc">di</l>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="2"/>
+      </sources>
       <mg exclude="oahpa;">
-         <sources>
-            <book name="200" BEDLAN_ID="2"/>
-         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -217,10 +215,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="cc">leâˊša</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg exclude="oahpa;">
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -284,10 +282,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="cc">ja</l>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="2"/>
-         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>

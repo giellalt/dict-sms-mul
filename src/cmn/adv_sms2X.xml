@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <r id="sms2X" xml:lang="sms">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -26,15 +25,14 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-
-<e meta="04">
+   <e meta="04">
       <lg>
          <l pos="adp">aalǥâst</l>
       </lg>
+      <sources>
+         <book/>
+      </sources>
       <mg>
-         <sources>
-            <book/>
-         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -43,14 +41,14 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-      <e meta="09">
+   <e meta="09">
       <lg>
          <l pos="adv">ooudâs</l>
       </lg>
+      <sources>
+         <book/>
+      </sources>
       <mg>
-         <sources>
-            <book/>
-         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -73,10 +71,10 @@ For the full license text, see the link above.</lic>
          <l pos="adv">jiânnai</l>
          <note>check pos</note>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -98,10 +96,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">mõõzz</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="6"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="6"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -123,10 +121,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">pâi</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="6"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="6"/>
-         </sources>
          <semantics>
             <sem class="TIME">CYCLE</sem>
          </semantics>
@@ -157,10 +155,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">viiššlânji</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="6"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="6"/>
-         </sources>
          <semantics>
             <sem class="WORK">ECONOMY</sem>
          </semantics>
@@ -182,10 +180,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">vuâlla</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="6"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="6"/>
-         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -208,10 +206,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">de</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -240,10 +238,10 @@ For the full license text, see the link above.</lic>
             <etymon type="loan" source="rus">домой</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="SPACE">MOTION</sem>
             <sem class="HUMAN">FAMILY</sem>
@@ -278,6 +276,10 @@ For the full license text, see the link above.</lic>
          <l pos="adv">dååma</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="HUMAN">FAMILY</sem>
+            <sem class="SPACE">POSITION</sem>
+         </semantics>
          <tg xml:lang="eng">
             <t pos="adv">at home</t>
          </tg>
@@ -290,10 +292,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="adv">дома</t>
          </tg>
-         <semantics>
-            <sem class="HUMAN">FAMILY</sem>
-            <sem class="SPACE">POSITION</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="04">
@@ -337,10 +335,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">eˊpet</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="4"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="4"/>
-         </sources>
          <semantics>
             <sem class="TIME">CYCLE</sem>
          </semantics>
@@ -403,10 +401,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">juˊn</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -431,10 +429,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">jâđđa</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -462,10 +460,10 @@ For the full license text, see the link above.</lic>
             <etymon type="xxx" source="finnosaamic">ektɤ̈-</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="213"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="213"/>
-         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -493,10 +491,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">jåˊttlõnji</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="TIME">CYCLE</sem>
          </semantics>
@@ -518,10 +516,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">kuuˊǩǩ</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-         </sources>
          <semantics>
             <sem class="TIME">CYCLE</sem>
          </semantics>
@@ -546,10 +544,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">kuärǥast</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="phon"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="phon"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -577,10 +575,10 @@ For the full license text, see the link above.</lic>
             <etymon type="xxx" source="finnosaamic">ko+nsa</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="191"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="191"/>
-         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -614,11 +612,11 @@ For the full license text, see the link above.</lic>
             <etymon type="xxx" source="saamic">kuhkē</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+         <book name="200" BEDLAN_ID="43"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-            <book name="200" BEDLAN_ID="43"/>
-         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
             <sem class="WORK">TRAVEL</sem>
@@ -649,10 +647,10 @@ For the full license text, see the link above.</lic>
          <l pos="adv">kõskkneez</l>
          <note>inflection by means of Px</note>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">POSSESSION</sem>
          </semantics>
@@ -677,10 +675,10 @@ For the full license text, see the link above.</lic>
             <etymon type="inher" source="finnosaamic?">lō+na</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="108"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="108"/>
-         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -714,10 +712,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">miâlggâd</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -745,10 +743,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">muđoi</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -790,11 +788,11 @@ For the full license text, see the link above.</lic>
             <note>derivation</note>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+         <book name="200" BEDLAN_ID="79"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-            <book name="200" BEDLAN_ID="79"/>
-         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -826,18 +824,19 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">occanj</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111219_KJ_1.wav"
-            />
+            <a dialect="peä"
+               speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111219_KJ_1.wav"/>
          </audio>
       </lg>
+      <sources>
+         <book name="kurss" lesson="phon"/>
+         <book name="200" BEDLAN_ID="48"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="phon"/>
-            <book name="200" BEDLAN_ID="48"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -880,10 +879,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">occnja</l>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="48"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="48"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -926,10 +925,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">ouˊddlest</l>
       </lg>
+      <sources>
+         <book name="lookkamkerjj" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="lookkamkerjj" lesson="1"/>
-         </sources>
          <tg xml:lang="fin">
             <t pos="adv">ennen</t>
          </tg>
@@ -939,10 +938,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">paaldâst</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -964,10 +963,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">puârast</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -992,10 +991,10 @@ For the full license text, see the link above.</lic>
             <etymon type="loan" source="rus">самый</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1020,10 +1019,10 @@ For the full license text, see the link above.</lic>
             <etymon type="loan" source="finnic">*sisä</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="85"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="85"/>
-         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -1078,11 +1077,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">simmna</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+         <book name="200" BEDLAN_ID="48"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-            <book name="200" BEDLAN_ID="48"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -1126,11 +1125,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">siõmmna</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+         <book name="200" BEDLAN_ID="48"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-            <book name="200" BEDLAN_ID="48"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -1173,10 +1172,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">sõrgg</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="TIME">CYCLE</sem>
          </semantics>
@@ -1246,10 +1245,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">teˊl</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -1274,10 +1273,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">tiiˊǩ</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="4"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="4"/>
-         </sources>
          <semantics>
             <sem class="SPACE">MOTION</sem>
          </semantics>
@@ -1305,10 +1304,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">tiõrvân</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="BODY">HEALTH</sem>
          </semantics>
@@ -1327,10 +1326,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">tiõttlõs</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="3"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="3"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -1355,10 +1354,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">tok</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="SPACE">MOTION</sem>
          </semantics>
@@ -1383,10 +1382,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">toˊben</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -1408,10 +1407,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">tuõđi</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -1439,10 +1438,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">tâˊlles</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="4"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="4"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1483,10 +1482,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">täujja</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="TIME">CYCLE</sem>
          </semantics>
@@ -1512,10 +1511,10 @@ For the full license text, see the link above.</lic>
             <note>derivation</note>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="75"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="75"/>
-         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -1572,10 +1571,10 @@ For the full license text, see the link above.</lic>
             <note>derivation</note>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="75"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="75"/>
-         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -1641,10 +1640,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">täˊbbe</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -1669,10 +1668,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">täˊst</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -1698,11 +1697,11 @@ For the full license text, see the link above.</lic>
             <note>derivation</note>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+         <book name="200" BEDLAN_ID="169"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-            <book name="200" BEDLAN_ID="169"/>
-         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -1768,11 +1767,11 @@ For the full license text, see the link above.</lic>
             <note>derivation</note>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+         <book name="200" BEDLAN_ID="9"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-            <book name="200" BEDLAN_ID="9"/>
-         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -1829,10 +1828,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">vuâsti</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="4"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="4"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -1860,10 +1859,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">vuõššân</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -1891,10 +1890,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">vuõˊste</l>
       </lg>
+      <sources>
+         <book name="lookkamkerjj" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="lookkamkerjj" lesson="1"/>
-         </sources>
          <tg xml:lang="fin">
             <t pos="adv">ensin</t>
          </tg>
@@ -1904,10 +1903,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">vääˊʒʒeeˊl</l>
       </lg>
+      <sources>
+         <book name="lookkamkerjj" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="lookkamkerjj" lesson="1"/>
-         </sources>
          <tg xml:lang="fin">
             <t pos="adv">kävellen</t>
          </tg>
@@ -1917,10 +1916,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">võl</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1943,10 +1942,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">âlddsin</l>
       </lg>
+      <sources>
+         <book name="lookkamkerjj" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="lookkamkerjj" lesson="1"/>
-         </sources>
          <tg xml:lang="fin">
             <t pos="adv">lähes</t>
          </tg>
@@ -1961,10 +1960,10 @@ For the full license text, see the link above.</lic>
             <note>derivation</note>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="108"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="108"/>
-         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -2003,10 +2002,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">ålggan</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
@@ -2047,10 +2046,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">ååˊn</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
@@ -2076,17 +2075,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">õhttu</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111211_ZMN_5.wav"/>
-            <a dialect="xxx" speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav"
-            />
+            <a dialect="xxx"
+               speaker="EL"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav"/>
          </audio>
       </lg>
+      <sources>
+         <book name="kurss" lesson="phon"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="phon"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">QUANTITY</sem>
@@ -2123,10 +2123,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">čuuˊt</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="4"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="4"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <r id="sms2X" xml:lang="sms">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -25,7 +24,6 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   
    <e meta="04">
       <lg>
          <l pos="num">mäŋgg</l>
@@ -34,13 +32,13 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="swe">många</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="phon"/>
+         <book name="kurss" lesson="2"/>
+         <book name="200" BEDLAN_ID="*100"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="phon"/>
-            <book name="kurss" lesson="2"/>
-            <book name="200" BEDLAN_ID="*100"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -107,10 +105,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="num">vuõsˈs</l>
       </lg>
+      <sources>
+         <book name="lookkamkerjj" lesson="1"/>
+      </sources>
       <mg exclude="oahpa;">
-         <sources>
-            <book name="lookkamkerjj" lesson="1"/>
-         </sources>
          <tg xml:lang="fin">
             <t pos="a">ensi</t>
             <t pos="a">ensimmäinnen</t>
@@ -149,10 +147,10 @@ For the full license text, see the link above.</lic>
             <etymon type="xxx" source="finnougric">kolme</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="175"/>
+      </sources>
       <mg exclude="oahpa;">
-         <sources>
-            <book name="200" BEDLAN_ID="175"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -241,6 +239,9 @@ For the full license text, see the link above.</lic>
          <l pos="num">kuâhttlo</l>
       </lg>
       <mg exclude="oahpa;">
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="num">двадцать</t>
          </tg>
@@ -253,9 +254,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sme">
             <t pos="num">guoktelogi</t>
          </tg>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="03">
@@ -278,10 +276,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="num">kuâhttlonellj</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg exclude="oahpa;">
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -304,11 +302,11 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">кӯххт</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="*182"/>
+         <book name="100"/>
+      </sources>
       <mg exclude="oahpa;">
-         <sources>
-            <book name="200" BEDLAN_ID="*182"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -342,10 +340,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="num">kääuˊc</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="phon"/>
+      </sources>
       <mg exclude="oahpa;">
-         <sources>
-            <book name="kurss" lesson="phon"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -365,6 +363,9 @@ For the full license text, see the link above.</lic>
          <l pos="num">käˊhcclo</l>
       </lg>
       <mg exclude="oahpa;">
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="num">восемьдесят</t>
          </tg>
@@ -374,9 +375,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="num">kahdeksankymmentä</t>
          </tg>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="01">
@@ -384,6 +382,9 @@ For the full license text, see the link above.</lic>
          <l pos="num">käˊhccmlo</l>
       </lg>
       <mg exclude="oahpa;">
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="num">восемнадцать</t>
          </tg>
@@ -393,9 +394,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="num">kahdeksantoista</t>
          </tg>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="01">
@@ -425,15 +423,15 @@ For the full license text, see the link above.</lic>
          <l pos="num">miljard</l>
       </lg>
       <mg exclude="oahpa;">
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="num">миллиард</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="num">billion</t>
          </tg>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="01">
@@ -441,15 +439,15 @@ For the full license text, see the link above.</lic>
          <l pos="num">miljon</l>
       </lg>
       <mg exclude="oahpa;">
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="num">миллион</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="num">million</t>
          </tg>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="05">
@@ -459,10 +457,10 @@ For the full license text, see the link above.</lic>
             <etymon type="inher" source="finnougric">ńeljä</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="59"/>
+      </sources>
       <mg exclude="oahpa;">
-         <sources>
-            <book name="200" BEDLAN_ID="59"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -491,6 +489,9 @@ For the full license text, see the link above.</lic>
          <l pos="num">nelljlo</l>
       </lg>
       <mg exclude="oahpa;">
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="num">сорок</t>
          </tg>
@@ -500,9 +501,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="num">neljäkymmentä</t>
          </tg>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="04">
@@ -532,10 +530,10 @@ For the full license text, see the link above.</lic>
             <etymon type="inher" source="FU">witte</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="52"/>
+      </sources>
       <mg exclude="oahpa;">
-         <sources>
-            <book name="200" BEDLAN_ID="52"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -582,23 +580,24 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="num">õhtt</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111211_ZMN_5.wav"/>
-            <a dialect="paa" speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav"
-            />
+            <a dialect="paa"
+               speaker="EL"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav"/>
          </audio>
          <etymology>
             <etymon type="inher" source="finnougric">üke</etymon>
             <cognate xml:lang="sjd">э̄ххт</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="phon"/>
+         <book name="200" BEDLAN_ID="*115"/>
+         <book name="100"/>
+      </sources>
       <mg exclude="oahpa;">
-         <sources>
-            <book name="kurss" lesson="phon"/>
-            <book name="200" BEDLAN_ID="*115"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -633,6 +632,9 @@ For the full license text, see the link above.</lic>
          <l pos="num">õtmlo</l>
       </lg>
       <mg exclude="oahpa;">
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="num">одиннадцать</t>
          </tg>
@@ -642,9 +644,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="num">yksitoista</t>
          </tg>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="01">
@@ -652,15 +651,15 @@ For the full license text, see the link above.</lic>
          <l pos="num">čičmlo</l>
       </lg>
       <mg exclude="oahpa;">
+         <semantics>
+            <sem class="SENSE">QUANTITY</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="num">семьдесят</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="num">seventy</t>
          </tg>
-         <semantics>
-            <sem class="SENSE">QUANTITY</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="01">

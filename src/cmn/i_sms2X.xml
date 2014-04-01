@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <r id="sms2X" xml:lang="sms">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -25,15 +24,14 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-
    <e meta="03">
       <lg>
          <l pos="i">kâˊl</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -61,10 +59,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="i">tiõrv</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">SOCIAL</sem>
          </semantics>
@@ -98,10 +96,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="i">tiõrvvsa</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">SOCIAL</sem>
          </semantics>
@@ -128,10 +126,13 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="i">tuõtt</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -154,9 +155,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg exclude="oahpa;">
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>

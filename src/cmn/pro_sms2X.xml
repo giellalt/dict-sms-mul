@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <r id="sms2X" xml:lang="sms">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -25,7 +24,6 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   
    <e meta="03">
       <lg>
          <l pos="pro">jiõčč</l>
@@ -33,10 +31,10 @@ For the full license text, see the link above.</lic>
             <form gloss="">jijstes</form>
          </infl>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -67,13 +65,13 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">мӣ</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+         <book name="200" BEDLAN_ID="*190"/>
+         <book name="200" BEDLAN_ID="153"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-            <book name="200" BEDLAN_ID="*190"/>
-            <book name="200" BEDLAN_ID="153"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
@@ -114,11 +112,11 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">мыйй</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="*188"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="*188"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -159,12 +157,12 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">мунн</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+         <book name="200" BEDLAN_ID="*82"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-            <book name="200" BEDLAN_ID="*82"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -208,12 +206,12 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">пугк</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="3"/>
+         <book name="200" BEDLAN_ID="*1"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="3"/>
-            <book name="200" BEDLAN_ID="*1"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -254,10 +252,10 @@ For the full license text, see the link above.</lic>
             <etymon type="inher" source="finnougric">sɤ̈-</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="170"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="170"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -294,11 +292,11 @@ For the full license text, see the link above.</lic>
             <etymon type="xxx" source="finnougric">sɤ̈-</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+         <book name="200" BEDLAN_ID="70"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-            <book name="200" BEDLAN_ID="70"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -338,12 +336,12 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">то̄нн</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+         <book name="200" BEDLAN_ID="*207"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-            <book name="200" BEDLAN_ID="*207"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -386,12 +384,12 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">ке̄</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+         <book name="200" BEDLAN_ID="*194"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-            <book name="200" BEDLAN_ID="*194"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -429,10 +427,10 @@ For the full license text, see the link above.</lic>
             <note>derivation</note>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="153"/>
+      </sources>
       <mg exclude="oahpa;">
-         <sources>
-            <book name="200" BEDLAN_ID="153"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -466,10 +464,10 @@ For the full license text, see the link above.</lic>
             <etymon type="inher" source="uralic">tɤ̈</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="206"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="206"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>

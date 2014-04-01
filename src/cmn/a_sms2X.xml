@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <r id="sms2X" xml:lang="sms">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -25,15 +24,14 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-
    <e meta="03">
       <lg>
          <l pos="a">tâˊlles</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -65,10 +63,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a" class="40e">hääˊsǩ</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="3"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="3"/>
-         </sources>
          <semantics>
             <sem class="HUMAN"/>
             <sem class="SENSE"/>
@@ -104,11 +102,11 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">ёрпас</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="*130"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="*130"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -154,17 +152,18 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a" class="50">jõnn</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/jynn_SKO111211_ZMN_5.wav"/>
-            <a dialect="xxx" speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/jynn_SKO111220_EL.wav"
-            />
+            <a dialect="xxx"
+               speaker="EL"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/jynn_SKO111220_EL.wav"/>
          </audio>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SPACE">RELATION</sem>
@@ -210,10 +209,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">kuõcc</l>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="129"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="129"/>
-         </sources>
          <semantics>
             <sem class="FOOD">DISH</sem>
             <sem class="BODY">HEALTH</sem>
@@ -247,11 +246,11 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">куһкь</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="*97"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="*97"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
             <sem class="CLOTH">PART</sem>
@@ -312,10 +311,10 @@ For the full license text, see the link above.</lic>
             <etymon type="xxx" source="finnougric">küse</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="171"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="171"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -349,10 +348,10 @@ For the full license text, see the link above.</lic>
             <etymon type="xxx" source="finnovolgaic">kirɜ</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="225"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="225"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -386,12 +385,12 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">кэлмас</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="4"/>
+         <book name="200" BEDLAN_ID="*24"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="4"/>
-            <book name="200" BEDLAN_ID="*24"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
             <sem class="ENVIR">WEATHER</sem>
@@ -431,11 +430,11 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd" pos="v">лӣӈӈькье</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="*185"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="*185"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE"/>
             <sem class="ENVIR"/>
@@ -479,10 +478,10 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">ло̄ссэ</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="74"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="74"/>
-         </sources>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
             <sem class="WORK">ECONOMY</sem>
@@ -528,10 +527,10 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="fin">laho</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="129"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="129"/>
-         </sources>
          <semantics>
             <sem class="BOT">TREE</sem>
             <sem class="HOUSE">DWELLING</sem>
@@ -576,10 +575,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">lääˊttes</l>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="150"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="150"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -613,10 +612,10 @@ For the full license text, see the link above.</lic>
             <form gloss="pl">miõlsteez</form>
          </infl>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-         </sources>
          <semantics>
             <sem class="HUMAN"/>
             <sem class="SENSE"/>
@@ -645,10 +644,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">mooččâs</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
             <sem class="HUMAN">PEOPLE</sem>
@@ -680,10 +679,10 @@ For the full license text, see the link above.</lic>
             <etymon type="loan" source="finnic">nöyrä</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="7"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="7"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -714,10 +713,10 @@ For the full license text, see the link above.</lic>
             <etymon type="xxx" source="finnougric">ńačkɜ</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="189"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="189"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
             <sem class="ENVIR">ELEMENT</sem>
@@ -749,10 +748,10 @@ For the full license text, see the link above.</lic>
             <etymon type="xxx" source="Sa, FS?">ńälkä</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="223"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="223"/>
-         </sources>
          <semantics>
             <sem class="FOOD">DISH</sem>
             <sem class="SENSE">EMOTION</sem>
@@ -805,10 +804,13 @@ For the full license text, see the link above.</lic>
             <form gloss="nom.pl">occka</form>
          </infl>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
+         <semantics>
+            <sem class="SENSE"/>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="a">маленький</t>
          </tg>
@@ -821,9 +823,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="a">small</t>
          </tg>
-         <semantics>
-            <sem class="SENSE"/>
-         </semantics>
       </mg>
    </e>
    <e meta="04">
@@ -834,13 +833,13 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">о̄дт</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="phon"/>
+         <book name="kurss" lesson="3"/>
+         <book name="200" BEDLAN_ID="*110"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="phon"/>
-            <book name="kurss" lesson="3"/>
-            <book name="200" BEDLAN_ID="*110"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="TIME">UNIT</sem>
          </semantics>
@@ -874,10 +873,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">oˊdinakai</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="3"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="3"/>
-         </sources>
          <semantics>
             <sem class="SENSE"/>
          </semantics>
@@ -903,11 +902,11 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">поакас</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="*185"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="*185"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
             <sem class="ENVIR">WEATHER</sem>
@@ -941,10 +940,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a" class="8">peˊčǩǩer</l>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="212"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="212"/>
-         </sources>
          <semantics>
             <sem class="FOOD">DISH</sem>
             <sem class="SENSE">PERCEPTION</sem>
@@ -983,11 +982,11 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd" pos="adv">пуэраст</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="*64"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="*64"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">EMOTION</sem>
@@ -1023,11 +1022,11 @@ For the full license text, see the link above.</lic>
             <etymon type="xxx" source="finnopermic">porɜ</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="lookkamkerjj" lesson="1"/>
+         <book name="200" BEDLAN_ID="114"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="lookkamkerjj" lesson="1"/>
-            <book name="200" BEDLAN_ID="114"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
@@ -1058,10 +1057,10 @@ For the full license text, see the link above.</lic>
             <etymon type="xxx" source="finnovolgaic">pise+tä-</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="140"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="140"/>
-         </sources>
          <semantics>
             <sem class="WORK">TOOL</sem>
             <sem class="SENSE">PERCEPTION</sem>
@@ -1100,11 +1099,11 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="swe">руэнн</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="*66"/>
+         <book name="100"/>
+      </sources>
       <mg term="COLOR">
-         <sources>
-            <book name="200" BEDLAN_ID="*66"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1147,12 +1146,12 @@ For the full license text, see the link above.</lic>
             <form gloss="nom.pl">ruõnnâz</form>
          </infl>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+         <book name="200" BEDLAN_ID="*66"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-            <book name="200" BEDLAN_ID="*66"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="FOOD">DISH</sem>
             <sem class="BOT">GRASS</sem>
@@ -1208,12 +1207,12 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">рӯппсэ</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="3"/>
+         <book name="200" BEDLAN_ID="*122"/>
+         <book name="100"/>
+      </sources>
       <mg term="COLOR">
-         <sources>
-            <book name="kurss" lesson="3"/>
-            <book name="200" BEDLAN_ID="*122"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1250,10 +1249,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a" class="11">ručkkâd</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-         </sources>
          <semantics>
             <sem class="SENSE"/>
             <sem class="ENVIR"/>
@@ -1306,6 +1305,9 @@ For the full license text, see the link above.</lic>
          <l pos="a">seuˊŋŋed</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="ENVIR"/>
+         </semantics>
          <tg xml:lang="rus">
             <t>темный</t>
             <tr>небо</tr>
@@ -1314,19 +1316,16 @@ For the full license text, see the link above.</lic>
             <t pos="a">dark</t>
             <tr>of the sky</tr>
          </tg>
-         <semantics>
-            <sem class="ENVIR"/>
-         </semantics>
       </mg>
    </e>
    <e meta="05">
       <lg>
          <l pos="a" class="1e">seäˊǧˈǧ</l>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="107"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="107"/>
-         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -1360,10 +1359,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">siõm</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="SENSE"/>
          </semantics>
@@ -1391,12 +1390,12 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sme">smávis</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="dict"/>
+         <book name="200" BEDLAN_ID="*147"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-            <book name="200" BEDLAN_ID="*147"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -1453,11 +1452,11 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">тӣвтас</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="*62"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="*62"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
@@ -1501,10 +1500,10 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="fin">tylsä</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="35"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="35"/>
-         </sources>
          <semantics>
             <sem class="WORK">TOOL</sem>
             <sem class="SENSE">PERCEPTION</sem>
@@ -1549,12 +1548,12 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">удць</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="6"/>
+         <book name="200" BEDLAN_ID="*147"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="6"/>
-            <book name="200" BEDLAN_ID="*147"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -1595,10 +1594,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a">vaalmâš</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="HUMAN"/>
             <sem class="FOOD"/>
@@ -1625,12 +1624,12 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sme">fiskat</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+         <book name="200" BEDLAN_ID="*205"/>
+         <book name="100"/>
+      </sources>
       <mg term="COLOR">
-         <sources>
-            <book name="kurss" lesson="5"/>
-            <book name="200" BEDLAN_ID="*205"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1669,12 +1668,12 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">вӣллкэ</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+         <book name="200" BEDLAN_ID="*193"/>
+         <book name="100"/>
+      </sources>
       <mg term="COLOR">
-         <sources>
-            <book name="kurss" lesson="2"/>
-            <book name="200" BEDLAN_ID="*193"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1711,11 +1710,11 @@ For the full license text, see the link above.</lic>
             <etymon type="xxx" source="uralic">oma</etymon>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="3"/>
+         <book name="200" BEDLAN_ID="114"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="3"/>
-            <book name="200" BEDLAN_ID="114"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="TIME">UNIT</sem>
@@ -1753,10 +1752,10 @@ For the full license text, see the link above.</lic>
             <note>derivation</note>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="141"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="141"/>
-         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -1790,10 +1789,13 @@ For the full license text, see the link above.</lic>
             <note>derivation</note>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="162"/>
+      </sources>
+      <sources>
+         <book name="200" BEDLAN_ID="162"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="162"/>
-         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
          </semantics>
@@ -1820,9 +1822,6 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="162"/>
-         </sources>
          <semantics>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="SENSE">EMOTION</sem>
@@ -1871,6 +1870,10 @@ For the full license text, see the link above.</lic>
          <l pos="a" class="8">ââˊliǩ</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="ENVIR"/>
+            <sem class="SENSE"/>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="a">голубой</t>
          </tg>
@@ -1883,20 +1886,16 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="a">sininen</t>
          </tg>
-         <semantics>
-            <sem class="ENVIR"/>
-            <sem class="SENSE"/>
-         </semantics>
       </mg>
    </e>
    <e meta="06">
       <lg>
          <l pos="a">âˊǩǩed</l>
       </lg>
+      <sources>
+         <book name="lookkamkerjj" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="lookkamkerjj" lesson="1"/>
-         </sources>
          <tg xml:lang="fin">
             <t pos="a">ikävä</t>
          </tg>
@@ -1926,12 +1925,12 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">чоаһпэ</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="*14"/>
+         <book name="100"/>
+         <book name="kurss" lesson="3"/>
+      </sources>
       <mg term="COLOR">
-         <sources>
-            <book name="200" BEDLAN_ID="*14"/>
-            <book name="100"/>
-            <book name="kurss" lesson="3"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
@@ -1972,10 +1971,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a" class="1e">čeäˊp'p</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="3"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="3"/>
-         </sources>
          <semantics>
             <sem class="HUMAN"/>
             <sem class="WORK"/>
@@ -2015,6 +2014,9 @@ For the full license text, see the link above.</lic>
          <l pos="a" class="11">čuåkˈkâd</l>
       </lg>
       <mg>
+         <semantics>
+            <sem class="CLOTH">PART</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t>темный</t>
             <tr>цвет</tr>
@@ -2023,19 +2025,16 @@ For the full license text, see the link above.</lic>
             <t pos="a">dark</t>
             <tr>color</tr>
          </tg>
-         <semantics>
-            <sem class="CLOTH">PART</sem>
-         </semantics>
       </mg>
    </e>
    <e meta="03">
       <lg>
          <l pos="a" class="11">čuõvvâd</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="5"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="5"/>
-         </sources>
          <semantics>
             <sem class="SENSE"/>
             <sem class="ENVIR"/>
@@ -2071,11 +2070,11 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">чуэцькесь</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="*24"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="*24"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="ENVIR">WEATHER</sem>
             <sem class="WORK">TRAVEL</sem>
@@ -2137,13 +2136,13 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sme">šiega</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="kurss" lesson="phon"/>
+         <book name="kurss" lesson="2"/>
+         <book name="200" BEDLAN_ID="*64"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="phon"/>
-            <book name="kurss" lesson="2"/>
-            <book name="200" BEDLAN_ID="*64"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
             <sem class="HUMAN">PEOPLE</sem>
@@ -2185,11 +2184,11 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="sjd">шӯрр</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="*11"/>
+         <book name="100"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="*11"/>
-            <book name="100"/>
-         </sources>
          <semantics>
             <sem class="SPACE">RELATION</sem>
             <sem class="HUMAN">PEOPLE</sem>
@@ -2242,10 +2241,10 @@ For the full license text, see the link above.</lic>
             <cognate xml:lang="fin">sileä</cognate>
          </etymology>
       </lg>
+      <sources>
+         <book name="200" BEDLAN_ID="150"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="200" BEDLAN_ID="150"/>
-         </sources>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>

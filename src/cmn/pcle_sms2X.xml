@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <r id="sms2X" xml:lang="sms">
    <lics xml:space="preserve">
       <lic xml:lang="en">
@@ -25,15 +24,14 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   
    <e meta="03">
       <lg>
          <l pos="pcle">-ǥa</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="6"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="6"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -49,10 +47,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pcle">ni</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="2"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="2"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -105,10 +103,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pcle">-a</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -124,10 +122,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pcle">-i</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -149,10 +147,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pcle">-tâma</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="3"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="3"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -177,10 +175,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pcle">naa</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -202,10 +200,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pcle">nuˊtt</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
@@ -224,10 +222,10 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="pcle">še</l>
       </lg>
+      <sources>
+         <book name="kurss" lesson="1"/>
+      </sources>
       <mg>
-         <sources>
-            <book name="kurss" lesson="1"/>
-         </sources>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
