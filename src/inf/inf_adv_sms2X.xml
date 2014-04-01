@@ -37,7 +37,6 @@ For the full license text, see the link above.</lic>
             <semantics>
                 <sem/>
             </semantics>
-            <mg>
                 <tg xml:lang="eng">
                     <t pos="adv">here</t>
                 </tg>
@@ -50,7 +49,6 @@ For the full license text, see the link above.</lic>
                 <tg xml:lang="nob">
                     <t pos="adv">her</t>
                 </tg>
-            </mg>
         </mg>
         <mg>
             <sources>
@@ -59,7 +57,6 @@ For the full license text, see the link above.</lic>
             <semantics>
                 <sem/>
             </semantics>
-            <mg>
                 <tg xml:lang="eng">
                     <t pos="adv">from here</t>
                 </tg>
@@ -72,7 +69,6 @@ For the full license text, see the link above.</lic>
                 <tg xml:lang="nob">
                     <t pos="adv">herifra</t>
                 </tg>
-            </mg>
         </mg>
     </e>
     <e meta="3">
