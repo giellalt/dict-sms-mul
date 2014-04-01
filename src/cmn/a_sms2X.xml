@@ -288,10 +288,10 @@ For the full license text, see the link above.</lic>
          <l pos="a" class="4e">kääˊmes</l>
          <stem>kääˊmm</stem>
       </lg>
-      <semantics>
-         <sem class="SENSE">PERCEPTION</sem>
-      </semantics>
       <mg>
+         <semantics>
+            <sem class="SENSE">PERCEPTION</sem>
+         </semantics>
          <tg xml:lang="rus">
             <t pos="a">темный</t>
             <tr>цвет кожи</tr>
