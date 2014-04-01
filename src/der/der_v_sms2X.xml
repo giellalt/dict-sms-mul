@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <r id="sms2X" xml:lang="sms">
-    <lics xml:space="preserve">
+   <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -25,24 +24,23 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-
-    <e meta="04">
-        <lg>
-            <l pos="v" lemma="n_toll">tollstõõllâd</l>
-        </lg>
-        <mg>
-            <tg xml:lang="eng">
-                <t pos="v">having a bonfire</t>
-            </tg>
-            <tg xml:lang="fin">
-                <t pos="v">tulistella</t>
-            </tg>
-            <tg xml:lang="rus">
-                <t pos="v">сидеть у костра</t>
-            </tg>
-            <tg xml:lang="nob">
-                <dt pos="v">sitte ved ild</dt>
-            </tg>
-        </mg>
-    </e>
+   <e meta="04">
+      <lg>
+         <l pos="v" lemma="n_toll">tollstõõllâd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="v">having a bonfire</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="v">tulistella</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="v">сидеть у костра</t>
+         </tg>
+         <tg xml:lang="nob">
+            <dt pos="v">sitte ved ild</dt>
+         </tg>
+      </mg>
+   </e>
 </r>

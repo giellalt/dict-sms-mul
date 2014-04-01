@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <r id="sms2X" xml:lang="sms">
-    <lics xml:space="preserve">
+   <lics xml:space="preserve">
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -25,64 +24,63 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-
-    <e meta="03">
-        <lg>
-            <l pos="det" lemma="pro_mii">mii-ne</l>
-        </lg>
-        <mg>
-            <sources>
-                <book/>
-            </sources>
-            <semantics>
-                <sem/>
-            </semantics>
-            <tg xml:lang="eng">
-                <t pos="det">some</t>
-            </tg>
-            <tg xml:lang="fin">
-                <t pos="det">jokin</t>
-                <t pos="det">jotain</t>
-            </tg>
-            <tg xml:lang="rus">
-                <t pos="det">что-нибудь</t>
-            </tg>
-            <tg xml:lang="nob">
-                <t pos="det">noe</t>
-            </tg>
-            <tg xml:lang="sme">
-                <t pos="det">juoga</t>
-            </tg>
-            <tg xml:lang="sju">
-                <t pos="det">sååmès</t>
-            </tg>
-        </mg>
-    </e>
-    <e meta="03">
-        <lg>
-            <l pos="det" lemma="xxx_kååˊtt">kååˊtt-ne</l>
-        </lg>
-        <mg>
-            <sources>
-                <book/>
-            </sources>
-            <semantics>
-                <sem/>
-            </semantics>
-            <tg xml:lang="eng">
-                <t pos="det">some</t>
-            </tg>
-            <tg xml:lang="fin">
-                <t pos="det">jokin</t>
-                <t pos="det">jotain</t>
-            </tg>
-            <tg xml:lang="sme">
-                <t pos="det">soamis</t>
-            </tg>
-            <tg xml:lang="sju">
-                <t pos="det">naaga</t>
-                <t pos="det">naagan</t>
-            </tg>
-        </mg>
-    </e>
+   <e meta="03">
+      <lg>
+         <l pos="det" lemma="pro_mii">mii-ne</l>
+      </lg>
+      <sources>
+         <book/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem/>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="det">some</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="det">jokin</t>
+            <t pos="det">jotain</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="det">что-нибудь</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="det">noe</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="det">juoga</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="det">sååmès</t>
+         </tg>
+      </mg>
+   </e>
+   <e meta="03">
+      <lg>
+         <l pos="det" lemma="xxx_kååˊtt">kååˊtt-ne</l>
+      </lg>
+      <sources>
+         <book/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem/>
+         </semantics>
+         <tg xml:lang="eng">
+            <t pos="det">some</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="det">jokin</t>
+            <t pos="det">jotain</t>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="det">soamis</t>
+         </tg>
+         <tg xml:lang="sju">
+            <t pos="det">naaga</t>
+            <t pos="det">naagan</t>
+         </tg>
+      </mg>
+   </e>
 </r>
