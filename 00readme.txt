@@ -287,6 +287,11 @@ DONE: following issues are corrected
 5. What the heck is 's' as pos value?
 ==> "sentence", for now I have no better solution for multiword constituents which are above phrase level
 
+            <tg xml:lang="nob">
+                <t pos="s">hvordan har du det?</t>
+            </tg>
+
+
 6. POS values should be aligned to those from GT prp => pr
 ==> I use adp instead of prp/pop
 
