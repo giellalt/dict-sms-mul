@@ -276,29 +276,29 @@ Versus, for instance, swesma-oahpa example.
       </mg>
    </e>
 
+
 ==========================================
 DONE: following issues are corrected
 ==========================================
-3. pos values prefixed with 'mwe_' are useless: I had a chat discussion on
+3. CIP: pos values prefixed with 'mwe_' are useless: I had a chat discussion on
   that with Michael where I explained how it should be better modeled
 <t pos="mwe_v">be ill</t>
-==> <t pos="v">be ill</t> ('mwe_' is removed)
+==> MICHA: <t pos="v">be ill</t> ('mwe_' is removed)
 
-5. What the heck is 's' as pos value?
-==> "sentence", for now I have no better solution for multiword constituents which are above phrase level
+5. CIP: What the heck is 's' as pos value?
+==> "MICHA: sentence", for now I have no better solution for multiword constituents which are above phrase level
 
             <tg xml:lang="nob">
                 <t pos="s">hvordan har du det?</t>
             </tg>
 
 
-6. POS values should be aligned to those from GT prp => pr
-==> I use adp instead of prp/pop
-
+6. CIP: POS values should be aligned to those from GT prp => pr
+==> MICHA: I use adp instead of prp/pop
 
 
 ==========================================
-TODO: following issues should be corrected
+TODO: following issues should be corrected by MICHA
 ==========================================
 1. src>grep -r 'oahpa="pref"' *|c
      241
@@ -307,15 +307,26 @@ There are 241 instances of oahpa="pref" attribute
 src>g -hr 'oahpa="pref"' . |g -v '<tg '|c
       26
 26 on <t> ==> these should be transformed into stat="pref" if they are ment as such
-1.2
+
+2.
 src>g -hr 'oahpa="pref"' . |g -v '<t '|c
      215
 215 on <tg> ==> these should be transformed in to stat="pref" to the FIRST <t>-child in the <tg>-node
     if they are ment as such
 
+
+5. te-elements have no reason d'etre in the dict files, yet I found a lot of them
+   ==> to be corrected
+   
+
+
+==========================================
+TODO: following issues are unclear
+==========================================
+
 2. the <sources>-node is placed incorrectly: it should be a child of the <e>-element;
    as element of only one <mg> shrinks the scope of the info bit to only that mg,
-   what about entries with more that one mg?
+   what about entries with more than one mg?
  
    <e meta="03">
       <lg>
@@ -329,7 +340,8 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
 
-4. lesson-attr in book node as well as string node in sem node are not accounted
+
+4. CIP: lesson-attr in book node as well as string node in sem node are not accounted
    for in the pipeline whatsoever
          <sources>
             <book name="kurss" lesson="dict"/>
@@ -337,10 +349,15 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
-5. te-elements have no reason d'etre in the dict files, yet I found a lot of them
-   ==> to be corrected
 
-6. the data structure is getting very complex and debugging with simple scripts
+==> MICHA: can you move the <sources> and <semantics> under <e> (according to GT conventions), but leave my original book-tags (incl. name- and lesson-attributes) and semantic-tags under <mg>. If necessary, we can use a new name for my original fields and attributes.
+
+
+===========================================
+TODO: the following issues can be postponed
+===========================================
+
+6. CIP: the data structure is getting very complex and debugging with simple scripts
    is getting more difficult: there is an urgent need for a DTD or schema for this data.
 
 The best argument for some structure description:
@@ -367,11 +384,10 @@ The best argument for some structure description:
             </mg>
         </mg>
 
+==> MICHA: I will now look into this and learn how to work with DDT
 
 
-
-
-7. instances of empty book in cmn, det, etc.:
+7. CIP: instances of empty book in cmn, det, etc.:
 wodi>g -n '<book/>' ../src/cmn/*
 ../src/cmn/adp_sms2X.xml:33:         <book/>
 ../src/cmn/adp_sms2X.xml:58:         <book/>
@@ -393,6 +409,9 @@ der/der_n_sms2X.xml:195:                <book/>
 der/der_n_sms2X.xml:220:                <book/>
 der/der_n_sms2X.xml:245:                <book/>
 
+==> MICHA: this gets relevant only when we start using the respective lemmas for Oahpa. If <book/> is empty there is no book from where to include the respective lemma into Oahpa
+
+
 8. instances of empty sem:
 src>g -r '<sem/>' *|c
      103
@@ -404,3 +423,5 @@ src>g -r '<sem/>' *|cut -d ':' -f1|t
    5 inf/inf_pro_sms2X.xml
    3 inf/inf_adv_sms2X.xml
    2 der/der_det_sms2X.xml
+   
+==> MICHA: this gets relevant only when we start using the respective lemmas for Oahpa. (I hope there are now empty <sem/> for lemmas to be tagged as belonging to some of the relevant books.)
