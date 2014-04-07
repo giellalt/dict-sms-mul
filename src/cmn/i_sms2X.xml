@@ -105,11 +105,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="fin">
             <t pos="i">ole hyvä</t>
-            <te>vastauksena kiitokseen</te>
+            <tr>vastauksena kiitokseen</tr>
          </tg>
          <tg xml:lang="rus">
             <t pos="i">пожалуйста</t>
-            <te>в ответ на изъявление благодарности</te>
+            <tr>в ответ на изъявление благодарности</tr>
          </tg>
          <tg xml:lang="nob">
             <t pos="i">vær så god</t>
@@ -139,16 +139,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus" oahpa="pref">
             <t pos="n">правда</t>
          </tg>
-         <tg xml:lang="rus">
-            <t pos="n" gloss="acc.sg">правду</t>
-            <te>по правде</te>
-         </tg>
          <tg xml:lang="fin">
             <t pos="n">totta</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="i">ja</t>
-            <te>bekreftelse</te>
          </tg>
          <tg xml:lang="eng">
             <t pos="a">right</t>

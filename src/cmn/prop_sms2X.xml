@@ -75,12 +75,11 @@ For the full license text, see the link above.</lic>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="1" href="languagememory369"/>
-            <a dialect="muo"
-               speaker="ZMN"
+            <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111210_ZMN.wav"/>
-            <a dialect="peä"
-               speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111219_KJ_2.wav"/>
+            <a dialect="peä" speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111219_KJ_2.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -157,9 +156,9 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem type="HUMAN">RELIGION</sem>
          </semantics>
+         <lexicon xml:lang="eng">the Holy Bible</lexicon>
          <tg xml:lang="eng">
             <t pos="prop">Bible</t>
-            <te>the Holy Bible</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Raamattu</t>
@@ -1306,23 +1305,18 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Lovozero</t>
-            <te>village</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Luujärvi</t>
-            <te>kylä</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Ловозеро</t>
-            <te>посёлок</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Lovozero</t>
-            <te>landsby</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Lujávri</t>
-            <te>siida</te>
          </tg>
          <tg xml:lang="deu">
             <t pos="prop">Lovozero</t>
@@ -1334,23 +1328,18 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="prop">Ловозеро</t>
-            <te>озеро</te>
          </tg>
          <tg xml:lang="eng">
             <t pos="prop">Lovozero</t>
-            <te>lake</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Luujärvi</t>
-            <te>järvi</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Lovozero</t>
-            <te>sjõ</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Lujávri</t>
-            <te>jávri</te>
          </tg>
       </mg>
    </e>
@@ -1754,27 +1743,21 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Motka</t>
-            <te>village</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Muotka</t>
-            <te>kylä</te>
          </tg>
          <tg xml:lang="rus" oahpa="pref">
             <t pos="prop">Мотовск</t>
-            <te>посёлок</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Мотка</t>
-            <te>посёлок</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Muotka</t>
-            <te>landsby</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Muotki</t>
-            <te>siida</te>
          </tg>
       </mg>
    </e>
@@ -1926,10 +1909,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="0"
-               dialect="xxx"
-               speaker="10"
-               href="languagememory3180"/>
+            <a quality="0" dialect="xxx" speaker="10" href="languagememory3180"/>
          </audio>
       </lg>
       <mg>
@@ -1966,23 +1946,18 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Neiden</t>
-            <te>village</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Näätämö</t>
-            <te>kylä</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Нейден</t>
-            <te>посёлок</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Neiden</t>
-            <te>landsby</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Njávdán</t>
-            <te>siida</te>
          </tg>
       </mg>
    </e>
@@ -1999,7 +1974,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Upper Neiden</t>
-            <te>village</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Ylä-Näätämö</t>
@@ -2028,27 +2002,21 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Nellim</t>
-            <te>village</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Неллим</t>
-            <te>посёлок</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Nellim</t>
-            <te>kylä</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Nellim</t>
-            <te>landsby</te>
          </tg>
          <tg xml:lang="smn">
             <t pos="prop">Njellim</t>
-            <te>siida</te>
          </tg>
          <tg xml:lang="smе">
             <t pos="prop">Nellim</t>
-            <te>siida</te>
          </tg>
       </mg>
    </e>
@@ -2066,19 +2034,15 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="prop">Нитсиярви</t>
-            <te>озеро</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Nitsijärvi</t>
-            <te>järvi</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Nitsijärvi</t>
-            <te>sjø</te>
          </tg>
          <tg xml:lang="eng">
             <t pos="prop">Nitsijärvi</t>
-            <te>lake</te>
          </tg>
       </mg>
    </e>
@@ -2098,27 +2062,21 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Notozero</t>
-            <te>village</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Nuortijärvi</t>
-            <te>kylä</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Нотозеро</t>
-            <te>посёлок</te>
          </tg>
          <tg xml:lang="nob" exclude="oahpa;">
             <t pos="prop">Nøttiager</t>
-            <te>landsby</te>
          </tg>
          <tg xml:lang="nob" oahpa="pref">
             <t pos="prop">Notozero</t>
-            <te>landsby</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Nuohttejávri</t>
-            <te>siida</te>
          </tg>
       </mg>
       <mg>
@@ -2127,27 +2085,21 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Notozero</t>
-            <te>lake</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Nuortijärvi</t>
-            <te>järvi</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Нотозеро</t>
-            <te>озеро</te>
          </tg>
          <tg xml:lang="nob" exclude="oahpa;">
             <t pos="prop">Nøttiager</t>
-            <te>sjø</te>
          </tg>
          <tg xml:lang="nob" oahpa="pref">
             <t pos="prop">Notozero</t>
-            <te>sjø</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Nuohttejávri</t>
-            <te>jávri</te>
          </tg>
       </mg>
    </e>
@@ -2159,10 +2111,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="10"
-               href="languagememory3186"/>
+            <a quality="1" dialect="xxx" speaker="10" href="languagememory3186"/>
          </audio>
       </lg>
       <mg>
@@ -2357,10 +2306,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="11"
-               href="languagememory3196"/>
+            <a quality="1" dialect="xxx" speaker="11" href="languagememory3196"/>
          </audio>
       </lg>
       <mg>
@@ -2400,23 +2346,18 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Näätämö river</t>
-            <te>river</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Näätämöjoki</t>
-            <te>joki</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Нейден река</t>
-            <te>река</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Neidenelva</t>
-            <te>elv</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Njávdánjohka</t>
-            <te>johka</te>
          </tg>
       </mg>
    </e>
@@ -2436,27 +2377,21 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng" oahpa="pref">
             <t pos="prop">Pasvik</t>
-            <te>village</te>
          </tg>
          <tg xml:lang="eng">
             <t pos="prop">Paatsjoki</t>
-            <te>village</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Paatsjoki</t>
-            <te>kylä</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Пазрека</t>
-            <te>посёлок</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Pasvik</t>
-            <te>landsby</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Báhcaveadji</t>
-            <te>siida</te>
          </tg>
       </mg>
       <mg>
@@ -2465,27 +2400,21 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng" oahpa="pref">
             <t pos="prop">Pasvikelva</t>
-            <te>river</te>
          </tg>
          <tg xml:lang="eng">
             <t pos="prop">Paatsjoki</t>
-            <te>river</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Paatsjoki</t>
-            <te>joki</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Паз</t>
-            <te>река</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Pasvikelva</t>
-            <te>elv</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Báhčeveaijohka</t>
-            <te>johka</te>
          </tg>
       </mg>
    </e>
@@ -2497,10 +2426,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="11"
-               href="languagememory3198"/>
+            <a quality="1" dialect="xxx" speaker="11" href="languagememory3198"/>
          </audio>
       </lg>
       <sources>
@@ -2546,27 +2472,21 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Petsamo</t>
-            <te>village</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Petsamo</t>
-            <te>kylä</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Печенга</t>
-            <te>посёлок</te>
          </tg>
          <tg xml:lang="nob" exclude="oahpa;">
             <t pos="prop">Peisen</t>
-            <te>landsby</te>
          </tg>
          <tg xml:lang="nob" oahpa="pref">
             <t pos="prop">Petsjenga</t>
-            <te>landsby</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Beahccam</t>
-            <te>siida</te>
          </tg>
       </mg>
    </e>
@@ -2578,10 +2498,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="11"
-               href="languagememory3235"/>
+            <a quality="1" dialect="xxx" speaker="11" href="languagememory3235"/>
          </audio>
       </lg>
       <mg>
@@ -2613,10 +2530,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="11"
-               href="languagememory3236"/>
+            <a quality="1" dialect="xxx" speaker="11" href="languagememory3236"/>
          </audio>
       </lg>
       <mg>
@@ -2648,10 +2562,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="11"
-               href="languagememory3234"/>
+            <a quality="1" dialect="xxx" speaker="11" href="languagememory3234"/>
          </audio>
       </lg>
       <mg>
@@ -2686,10 +2597,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="11"
-               href="languagememory3233"/>
+            <a quality="1" dialect="xxx" speaker="11" href="languagememory3233"/>
          </audio>
       </lg>
       <mg>
@@ -2721,10 +2629,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="3"
-               dialect="xxx"
-               speaker="12"
-               href="languagememory3199"/>
+            <a quality="3" dialect="xxx" speaker="12" href="languagememory3199"/>
          </audio>
       </lg>
       <mg>
@@ -2794,27 +2699,22 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="prop">Рованиеми</t>
-            <te>город</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Rovaniemi</t>
-            <te>kaupunki</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Rovaniemi</t>
-            <te>by</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Roavvenjárga</t>
             <t pos="prop">Roavenjárga</t>
-            <te>gávpot</te>
          </tg>
          <tg xml:lang="smn">
             <t pos="prop">Ruávinjargâ</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="prop">Rovaniemi</t>
-            <te>town</te>
          </tg>
       </mg>
    </e>
@@ -2878,10 +2778,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="3"
-               dialect="xxx"
-               speaker="12"
-               href="languagememory3200"/>
+            <a quality="3" dialect="xxx" speaker="12" href="languagememory3200"/>
          </audio>
       </lg>
       <mg>
@@ -2913,10 +2810,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="13"
-               href="languagememory3205"/>
+            <a quality="1" dialect="xxx" speaker="13" href="languagememory3205"/>
          </audio>
       </lg>
       <mg>
@@ -2974,10 +2868,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="13"
-               href="languagememory3103"/>
+            <a quality="1" dialect="xxx" speaker="13" href="languagememory3103"/>
          </audio>
       </lg>
       <sources>
@@ -3015,10 +2906,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="13"
-               href="languagememory3144"/>
+            <a quality="1" dialect="xxx" speaker="13" href="languagememory3144"/>
          </audio>
       </lg>
       <mg>
@@ -3050,10 +2938,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="13"
-               href="languagememory3209"/>
+            <a quality="1" dialect="xxx" speaker="13" href="languagememory3209"/>
          </audio>
       </lg>
       <mg>
@@ -3085,10 +2970,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="13"
-               href="languagememory3207"/>
+            <a quality="1" dialect="xxx" speaker="13" href="languagememory3207"/>
          </audio>
       </lg>
       <mg>
@@ -3120,10 +3002,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="13"
-               href="languagememory3909"/>
+            <a quality="1" dialect="xxx" speaker="13" href="languagememory3909"/>
          </audio>
       </lg>
       <sources>
@@ -3135,31 +3014,24 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Suonikylä</t>
-            <te>village</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Suonikylä</t>
-            <te>kylä</te>
          </tg>
          <tg xml:lang="rus" oahpa="pref">
             <t pos="prop">Сонгельск</t>
-            <te>посёлок</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Суоникюла</t>
-            <te>посёлок</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Suenjel</t>
-            <te>landsby</te>
          </tg>
          <tg xml:lang="deu">
             <t pos="prop">Suonikylä</t>
-            <te>Dorf</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Suonjil</t>
-            <te>siida</te>
          </tg>
       </mg>
    </e>
@@ -3179,23 +3051,18 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Girvasozero</t>
-            <te>village</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Hirvasjärvi</t>
-            <te>kylä</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Гирвасозеро</t>
-            <te>посёлок</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Girvasozero</t>
-            <te>landsby</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Sárvesjávri</t>
-            <te>siida</te>
          </tg>
       </mg>
       <mg>
@@ -3204,23 +3071,18 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Girvasozero</t>
-            <te>lake</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Hirvasjärvi</t>
-            <te>järvi</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Гирвасозеро</t>
-            <te>озеро</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Girvasozero</t>
-            <te>sjø</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Sárvesjávri</t>
-            <te>jávri</te>
          </tg>
       </mg>
    </e>
@@ -3260,10 +3122,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="14"
-               href="languagememory3213"/>
+            <a quality="1" dialect="xxx" speaker="14" href="languagememory3213"/>
          </audio>
       </lg>
       <mg>
@@ -3324,10 +3183,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="14"
-               href="languagememory3217"/>
+            <a quality="1" dialect="xxx" speaker="14" href="languagememory3217"/>
          </audio>
       </lg>
       <mg>
@@ -3359,10 +3215,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="14"
-               href="languagememory3215"/>
+            <a quality="1" dialect="xxx" speaker="14" href="languagememory3215"/>
          </audio>
       </lg>
       <mg>
@@ -3400,10 +3253,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="0"
-               dialect="xxx"
-               speaker="14"
-               href="languagememory3216"/>
+            <a quality="0" dialect="xxx" speaker="14" href="languagememory3216"/>
          </audio>
       </lg>
       <mg>
@@ -3435,10 +3285,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="14"
-               href="languagememory3219"/>
+            <a quality="1" dialect="xxx" speaker="14" href="languagememory3219"/>
          </audio>
       </lg>
       <mg>
@@ -3470,10 +3317,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="14"
-               href="languagememory3220"/>
+            <a quality="1" dialect="xxx" speaker="14" href="languagememory3220"/>
          </audio>
       </lg>
       <mg>
@@ -3505,10 +3349,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="14"
-               href="languagememory3221"/>
+            <a quality="1" dialect="xxx" speaker="14" href="languagememory3221"/>
          </audio>
       </lg>
       <mg>
@@ -3537,10 +3378,7 @@ For the full license text, see the link above.</lic>
          <l pos="prop" type="place">Tuälˈlamjokk</l>
          <translit_cyr>Tуӕлˈлaм-ёкк</translit_cyr>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="14"
-               href="languagememory6148"/>
+            <a quality="1" dialect="xxx" speaker="14" href="languagememory6148"/>
          </audio>
       </lg>
       <sources>
@@ -3558,7 +3396,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Тулома</t>
-            <te>река</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Tulomaelva</t>
@@ -3576,10 +3413,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="14"
-               href="languagememory3214"/>
+            <a quality="1" dialect="xxx" speaker="14" href="languagememory3214"/>
          </audio>
       </lg>
       <mg>
@@ -3625,23 +3459,18 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Utsjoki</t>
-            <te>village</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Утсйоки</t>
-            <te>посёлок</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Utsjoki</t>
-            <te>kylä</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Utsjoki</t>
-            <te>landsby</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Ohcejohka</t>
-            <te>siida</te>
          </tg>
       </mg>
       <mg>
@@ -3650,23 +3479,18 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Utsjoki</t>
-            <te>river</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Utsjoki</t>
-            <te>joki</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Утсйоки</t>
-            <te>река</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Utsjoki</t>
-            <te>elv</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Ohcejohka</t>
-            <te>johka</te>
          </tg>
       </mg>
    </e>
@@ -3678,10 +3502,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="3"
-               dialect="xxx"
-               speaker="15"
-               href="languagememory3153"/>
+            <a quality="3" dialect="xxx" speaker="15" href="languagememory3153"/>
          </audio>
       </lg>
       <mg>
@@ -3713,10 +3534,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="16"
-               href="languagememory3224"/>
+            <a quality="1" dialect="xxx" speaker="16" href="languagememory3224"/>
          </audio>
       </lg>
       <mg>
@@ -3748,10 +3566,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="16"
-               href="languagememory3228"/>
+            <a quality="1" dialect="xxx" speaker="16" href="languagememory3228"/>
          </audio>
       </lg>
       <mg>
@@ -3783,10 +3598,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="16"
-               href="languagememory3115"/>
+            <a quality="1" dialect="xxx" speaker="16" href="languagememory3115"/>
          </audio>
       </lg>
       <mg>
@@ -3818,10 +3630,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="16"
-               href="languagememory3116"/>
+            <a quality="1" dialect="xxx" speaker="16" href="languagememory3116"/>
          </audio>
       </lg>
       <mg>
@@ -4046,10 +3855,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1"
-               dialect="xxx"
-               speaker="17"
-               href="languagememory3110"/>
+            <a quality="1" dialect="xxx" speaker="17" href="languagememory3110"/>
          </audio>
       </lg>
       <mg>
@@ -4098,56 +3904,21 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Ivalo</t>
-            <te>town</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Ivalo</t>
-            <te>kaupunki</te>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Ивало</t>
-            <te>город</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Ivalo</t>
-            <te>by</te>
          </tg>
          <tg xml:lang="deu">
             <t pos="prop">Ivalo</t>
-            <te>Stadt</te>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Avvil</t>
-            <te>gávpot</te>
-         </tg>
-      </mg>
-      <mg>
-         <semantics>
-            <sem type="ENVIR">SETTLEMENT</sem>
-         </semantics>
-         <tg xml:lang="eng">
-            <t pos="prop">Ivalo</t>
-            <te>municipality</te>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="prop">Ivalo</t>
-            <te>kunta</te>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="prop">Ивало</t>
-            <te>коммуна</te>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="prop">Ivalo</t>
-            <te>kommune</te>
-         </tg>
-         <tg xml:lang="deu">
-            <t pos="prop">Ivalo</t>
-            <te>Gemeinde</te>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="prop">Avvil</t>
-            <te>suohkan</te>
          </tg>
       </mg>
    </e>
@@ -4197,10 +3968,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="9"
-               dialect="xxx"
-               speaker="17"
-               href="languagememory3111"/>
+            <a quality="9" dialect="xxx" speaker="17" href="languagememory3111"/>
          </audio>
       </lg>
       <mg>
@@ -4264,10 +4032,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="9"
-               dialect="xxx"
-               speaker="17"
-               href="languagememory3101"/>
+            <a quality="9" dialect="xxx" speaker="17" href="languagememory3101"/>
          </audio>
       </lg>
       <mg>
@@ -4300,10 +4065,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="9"
-               dialect="xxx"
-               speaker="17"
-               href="languagememory3100"/>
+            <a quality="9" dialect="xxx" speaker="17" href="languagememory3100"/>
          </audio>
       </lg>
       <mg>
@@ -4336,10 +4098,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="9"
-               dialect="xxx"
-               speaker="17"
-               href="languagememory3130"/>
+            <a quality="9" dialect="xxx" speaker="17" href="languagememory3130"/>
          </audio>
       </lg>
       <mg>
@@ -4383,19 +4142,15 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="prop">Севеттиярви</t>
-            <te>посёлок</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Sevettijärvi</t>
-            <te>kylä</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Sevettijärvi</t>
-            <te>landsby</te>
          </tg>
          <tg xml:lang="eng">
             <t pos="prop">Sevettijärvi</t>
-            <te>village</te>
          </tg>
       </mg>
       <mg>
@@ -4404,19 +4159,15 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="prop">Севеттиярви</t>
-            <te>озеро</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Sevettijärvi</t>
-            <te>järvi</te>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Sevettijärvi</t>
-            <te>sjø</te>
          </tg>
          <tg xml:lang="eng">
             <t pos="prop">Sevettijärvi</t>
-            <te>lake</te>
          </tg>
       </mg>
    </e>
@@ -4428,10 +4179,7 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="2"
-               dialect="xxx"
-               speaker="22"
-               href="languagememory3160"/>
+            <a quality="2" dialect="xxx" speaker="22" href="languagememory3160"/>
          </audio>
       </lg>
       <sources>

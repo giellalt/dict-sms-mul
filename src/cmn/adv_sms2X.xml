@@ -621,6 +621,7 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">RELATION</sem>
             <sem class="WORK">TRAVEL</sem>
          </semantics>
+         <lexicon xml:lang="nob">langt bort</lexicon>
          <tg xml:lang="eng">
             <t pos="adv">far</t>
          </tg>
@@ -629,7 +630,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">langt</t>
-            <te>langt bort</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">kaukana</t>
@@ -824,12 +824,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">occanj</l>
          <audio>
-            <a dialect="muo"
-               speaker="ZMN"
+            <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä"
-               speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111219_KJ_1.wav"/>
+            <a dialect="peä" speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111219_KJ_1.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -2075,12 +2074,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">õhttu</l>
          <audio>
-            <a dialect="muo"
-               speaker="ZMN"
+            <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111211_ZMN_5.wav"/>
-            <a dialect="xxx"
-               speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav"/>
+            <a dialect="xxx" speaker="EL"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -2093,7 +2091,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="adv">один</t>
-            <te>только</te>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">yksin</t>

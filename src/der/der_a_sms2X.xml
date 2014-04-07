@@ -420,6 +420,7 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN">PEOPLE</sem>
             <sem class="BODY">HEALTH</sem>
          </semantics>
+         <lexicon xml:lang="nob">å være uten kraft</lexicon>
          <tg xml:lang="eng">
             <t pos="a">powerless</t>
          </tg>
@@ -434,7 +435,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="a">svak</t>
-            <te>uten kraft</te>
          </tg>
       </mg>
    </e>

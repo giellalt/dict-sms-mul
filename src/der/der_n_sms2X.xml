@@ -29,10 +29,7 @@ For the full license text, see the link above.</lic>
          <l pos="n" lemma="xxx">âˊlddpuäʒʒ</l>
       </lg>
       <mg>
-         <tg xml:lang="fin">
-            <t>käsiporo</t>
-            <te>joka on aina käsillä</te>
-         </tg>
+         <lexicon xml:lang="fin">käsiporo joka on aina käsillä</lexicon>
       </mg>
    </e>
    <e meta="04">
