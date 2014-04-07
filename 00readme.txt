@@ -293,6 +293,10 @@ DONE: following issues are corrected
             </tg>
 
 
+5. CIP: te-elements have no reason d'etre in the dict files, yet I found a lot of them
+   ==> MICHA: removed (what about <tr>?)
+
+
 6. CIP: POS values should be aligned to those from GT prp => pr
 ==> MICHA: I use adp instead of prp/pop
 
@@ -313,11 +317,6 @@ src>g -hr 'oahpa="pref"' . |g -v '<t '|c
      215
 215 on <tg> ==> these should be transformed in to stat="pref" to the FIRST <t>-child in the <tg>-node
     if they are ment as such
-
-
-5. te-elements have no reason d'etre in the dict files, yet I found a lot of them
-   ==> to be corrected
-   
 
 
 ==========================================
