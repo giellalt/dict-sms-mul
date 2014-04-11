@@ -135,6 +135,7 @@ on the e-element in the xml files:
 
 
 =======
+
 some cip-comments:
 
 a:pred_sms2X.xml	con_sms2X.xml		num_sms2X.xml		pro_sms2X.xml
@@ -145,13 +146,47 @@ adp_sms2X.xml		n:dim_sms2X.xml
 1. complex attribute values such as a:pred and n:dim be better split into attribute and
 subtype!
 
-2. some "proprietary" labels for pos-values: I would stick to the common naming
-   used in gt: 'pr' instead of 'pop'; what is the difference between 'adv' and 'adp'?
+==========================================
+DONE: following issues are corrected
+==========================================
 
--->answer MR: 
-* adpositions are now tagged as "adp" (which I find more convenient than tagging both post- and prepositions as "pr"); distinguishing "pr" from "po" is perhaps not necessary 
+4. CIP: observation
+cg-comment: I don't like the current structure of the src-dir for the same reason I didn't like the former structure of the gt_corpora.
+  ==> to be changed
+  ==> done (src/cmn is now the dir for all xml files with non-subtyped pos)
 
-3. semi-structured text fields in the translations are not allowed: when reverting
+=============
+
+3. CIP: pos values prefixed with 'mwe_' are useless: I had a chat discussion on
+  that with Michael where I explained how it should be better modeled
+<t pos="mwe_v">be ill</t>
+==> MICHA: <t pos="v">be ill</t> ('mwe_' is removed)
+
+=========
+
+5. CIP: What the heck is 's' as pos value?
+==> "MICHA: sentence", for now I have no better solution for multiword constituents which are above phrase level
+
+            <tg xml:lang="nob">
+                <t pos="s">hvordan har du det?</t>
+            </tg>
+
+=========
+
+5. CIP: te-elements have no reason d'etre in the dict files, yet I found a lot of them
+   ==> MICHA: removed (what about <tr>?)
+
+=========
+
+6. CIP: POS values should be aligned to those from GT prp => pr
+==> MICHA: I use adp instead of prp/pop
+
+
+==========================================
+TODO: following issues should be corrected by MICHA
+==========================================
+
+CIP: semi-structured text fields in the translations are not allowed: when reverting
    the dict these would become lemma forms in entries.
 
          <tg xml:lang="rus">
@@ -175,76 +210,66 @@ inc>grep '<t ' sms_common.xml | grep '('
 
 to be corrected, also as for commata, semicolon, and the like!
 
-However, I split the file into pos but it is better to correct the pos values and
-after that I can split it anew. As for refreshing the Oahpa-db, I would wait until you
-do these corrections: otherwise, I have to revert it again and again, and to have not only
-one language to revert into, but several.
+============================================
 
-===================================================
-Proper nouns in sms_oahpa
+CIP: src>grep -r 'oahpa="pref"' *|c
+     241
+There are 241 instances of oahpa="pref" attribute  
+1.1
+src>g -hr 'oahpa="pref"' . |g -v '<tg '|c
+      26
+26 on <t> ==> these should be transformed into stat="pref" if they are ment as such
 
-1. observation
-The downside of using elements with fuzzy meaning, hence usage:
- what does mean <te> here (compared with Trond&Co's intended usage)
-@michael: If I can update the proper nouns in the current sms_oahpa I will ignore the te-elements.
+2.
+src>g -hr 'oahpa="pref"' . |g -v '<t '|c
+     215
+215 on <tg> ==> these should be transformed in to stat="pref" to the FIRST <t>-child in the <tg>-node
+    if they are ment as such
 
-================
-         <tg xml:lang="eng">
-            <t pos="pn">Inari</t>
-            <te>village</te>
-         </tg>
-         <tg xml:lang="fin">
-            <t pos="pn">Inari</t>
-            <te>kylä</te>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="pn">Инари</t>
-            <te>посёлок</te>
-         </tg>
-         <tg xml:lang="nob">
-            <t pos="pn">Enare</t>
-            <te>landsby</te>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="pn">Anár</t>
-            <te>siida</te>
-         </tg>
-================
 
-2. observation
-In sme- and sma-oahpa, the source-elements is overloaded in the proper_noun-file
-(overloaded = different meaning as in other files).
+==========================================
+TODO: following issues are unclear
+==========================================
 
-sme_oahpa
-      <sources>
-         <frequency class="common"/>
-         <geography class="sapmi"/>
-      </sources>
+2. CIP: some "proprietary" labels for pos-values: I would stick to the common naming
+   used in gt: 'pr' instead of 'pop'; what is the difference between 'adv' and 'adp'?
 
-sma_oahpa
-      <sources>
-         <frequency class="common" />
-         <geography class="mid" />
-      </sources>
+==> MICHA: adpositions are now tagged as "adp" (which I find more convenient than tagging both post- and prepositions as "pr"); distinguishing "pr" from "po" is perhaps not necessary in my database, but if I could do it of course
 
-Let alone, that the Django scripts have also to be debugged if using the sms-meta-info for proper nouns,
-which diverges from the rest.
+==========================================
 
-3. ...and this only for 30 proper nouns!
+2. the <sources>-node is placed incorrectly: it should be a child of the <e>-element;
+   as element of only one <mg> shrinks the scope of the info bit to only that mg,
+   what about entries with more than one mg?
+ 
+   <e meta="03">
+      <lg>
+         <l pos="a">tâˊlles</l>
+      </lg>
+      <mg>
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
+         <semantics>
+            <sem class="SENSE">PERCEPTION</sem>
+         </semantics>
 
-sms2X>grep '<e' src/pn_sms2X.xml | wc -l 
-      30
+==========================================
 
-==> TODO later.
-I will just comment out the link to the proper_noun play.
+4. CIP: lesson-attr in book node as well as string node in sem node are not accounted
+   for in the pipeline whatsoever
+         <sources>
+            <book name="kurss" lesson="dict"/>
+         </sources>
+         <semantics>
+            <sem class="SENSE">PERCEPTION</sem>
+         </semantics>
 
-=============
-4. observation
-cg-comment: I don't like the current structure of the src-dir for the same reason I didn't like the former structure of the gt_corpora.
-  ==> to be changed
-  ==> done (src/cmn is now the dir for all xml files with non-subtyped pos)
+==> MICHA: can you move the <sources> and <semantics> under <e> (according to GT conventions), but leave my original book-tags (incl. name- and lesson-attributes) and semantic-tags under <mg>. If necessary, we can use a new name for my original fields and attributes.
+
 ==================================
-5. observation: this is crucial for getting the desired results in the interface
+
+5. CIP: observation: this is crucial for getting the desired results in the interface
 (I doubt that the scipts for sms do the correct db-structure for sem-content because they are the same for all oahpas.)
  sem-structure is not the same as in other (oahpa-)files:
           <semantics>
@@ -276,80 +301,47 @@ Versus, for instance, swesma-oahpa example.
       </mg>
    </e>
 
-
-==========================================
-DONE: following issues are corrected
-==========================================
-3. CIP: pos values prefixed with 'mwe_' are useless: I had a chat discussion on
-  that with Michael where I explained how it should be better modeled
-<t pos="mwe_v">be ill</t>
-==> MICHA: <t pos="v">be ill</t> ('mwe_' is removed)
-
-5. CIP: What the heck is 's' as pos value?
-==> "MICHA: sentence", for now I have no better solution for multiword constituents which are above phrase level
-
-            <tg xml:lang="nob">
-                <t pos="s">hvordan har du det?</t>
-            </tg>
-
-
-5. CIP: te-elements have no reason d'etre in the dict files, yet I found a lot of them
-   ==> MICHA: removed (what about <tr>?)
-
-
-6. CIP: POS values should be aligned to those from GT prp => pr
-==> MICHA: I use adp instead of prp/pop
-
-
-==========================================
-TODO: following issues should be corrected by MICHA
-==========================================
-1. src>grep -r 'oahpa="pref"' *|c
-     241
-There are 241 instances of oahpa="pref" attribute  
-1.1
-src>g -hr 'oahpa="pref"' . |g -v '<tg '|c
-      26
-26 on <t> ==> these should be transformed into stat="pref" if they are ment as such
-
-2.
-src>g -hr 'oahpa="pref"' . |g -v '<t '|c
-     215
-215 on <tg> ==> these should be transformed in to stat="pref" to the FIRST <t>-child in the <tg>-node
-    if they are ment as such
-
-
-==========================================
-TODO: following issues are unclear
-==========================================
-
-2. the <sources>-node is placed incorrectly: it should be a child of the <e>-element;
-   as element of only one <mg> shrinks the scope of the info bit to only that mg,
-   what about entries with more than one mg?
- 
-   <e meta="03">
-      <lg>
-         <l pos="a">tâˊlles</l>
-      </lg>
-      <mg>
-         <sources>
-            <book name="kurss" lesson="dict"/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">PERCEPTION</sem>
+==>MICHA: can we rename my old <semantics> (but leave it with an attribute for now) and create a new (Oahpa-compatible) <semantics> without attributes? Like this:
+from SOURCE
+          <semantics>
+            <sem class="HUMAN">PEOPLE</sem>
+         </semantics>
+to TARGET
+          <OLDsemantics>
+            <OLDsem class="HUMAN">PEOPLE</OLDsem>
+         </OLDsemantics>
+          <semantics>
+            <sem class="HUMAN"/>
          </semantics>
 
+===========================
 
-4. CIP: lesson-attr in book node as well as string node in sem node are not accounted
-   for in the pipeline whatsoever
-         <sources>
-            <book name="kurss" lesson="dict"/>
-         </sources>
-         <semantics>
-            <sem class="SENSE">PERCEPTION</sem>
-         </semantics>
+2. CIP: observation
+In sme- and sma-oahpa, the source-elements is overloaded in the proper_noun-file
+(overloaded = different meaning as in other files).
 
-==> MICHA: can you move the <sources> and <semantics> under <e> (according to GT conventions), but leave my original book-tags (incl. name- and lesson-attributes) and semantic-tags under <mg>. If necessary, we can use a new name for my original fields and attributes.
+sme_oahpa
+      <sources>
+         <frequency class="common"/>
+         <geography class="sapmi"/>
+      </sources>
+
+sma_oahpa
+      <sources>
+         <frequency class="common" />
+         <geography class="mid" />
+      </sources>
+
+Let alone, that the Django scripts have also to be debugged if using the sms-meta-info for proper nouns,
+which diverges from the rest.
+
+3. ...and this only for 30 proper nouns!
+
+sms2X>grep '<e' src/pn_sms2X.xml | wc -l 
+      30
+
+==> TODO later.
+I will just comment out the link to the proper_noun play.
 
 
 ===========================================
@@ -383,7 +375,7 @@ The best argument for some structure description:
             </mg>
         </mg>
 
-==> MICHA: I will now look into this and learn how to work with DDT
+==> MICHA: I will now look into this later, but YES! I have to learn how to work with DDT
 
 
 7. CIP: instances of empty book in cmn, det, etc.:
