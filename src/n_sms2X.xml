@@ -6898,10 +6898,13 @@ For the full license text, see the link above.</lic>
             <t pos="n">копчёное</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="n">Fett</t>
+            <t pos="n" oahpa="pref">Fett</t>
+            <t pos="n">Speck</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="n">Speck</t>
+            <t pos="n" oahpa="pref">fett</t>
+            <t pos="n">flesk</t>
+            <t pos="n">spekk</t>
          </tg>
          <tg xml:lang="fin" oahpa="pref">
             <t pos="n">rasva</t>
