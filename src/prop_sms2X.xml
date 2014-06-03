@@ -92,27 +92,27 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="prop">Inari</t>
-            <te>village</te>
+            <re>village</re>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Inari</t>
-            <te>kylä</te>
+            <re>kylä</re>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Инари</t>
-            <te>посёлок</te>
+            <re>посёлок</re>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Enare</t>
-            <te>landsby</te>
+            <re>landsby</re>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Anár</t>
-            <te>siida</te>
+            <re>siida</re>
          </tg>
          <tg xml:lang="deu">
             <t pos="prop">Inari</t>
-            <te>Dorf</te>
+            <re>Dorf</re>
          </tg>
       </mg>
    </e>
