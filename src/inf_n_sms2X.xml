@@ -49,7 +49,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">maanantaina</t>
          </tg>
          <tg xml:lang="rus">
-            <dt pos="adp">в понедельник</dt>
+            <t pos="adp">в понедельник</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adp">på mandag</t>
