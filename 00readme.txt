@@ -1,39 +1,12 @@
 Incoming raw files go into ~inc/
 
-=====
-abbr (abbreviations)
-=====
-this is only a preliminary solution to list abbr among true PoS's
-*perhaps we should rather have an own list with abbreviations, like the term lists for oahpa?
-
-=====
-num
-=====
-*so far, the db-file includes both cardinals, ordinals, and other quantifiers; syntactically these are different PoS's though
-
-=====
-Derivation (subfolder ~/der)
-=====
-Since most derivations are formed by means of regular/productive morphology and do not represent own lemmas they are stored in separate files for derived PoS's with the link to the respective root as a variable. For different kinds of dictionaries, we will later handle derivations differently:
-* Oahpa!-nuõrti includes derivations similar to other lemmas (if these derivations are tagged for oahpa)
-* saan.oahpa.no includes derivations similar to other lemmas
-* in a future printed dictionary some derivations will be listed under root lemmas
-* contlex lexica do not include productive derivations
-** PROBLEM: what are the productive (non/lexicalized) derivations and how do we tag this?
-
-
-=====
-Variation
-=====
-Variants are stored in a separate file with the link to the respective main lemma as a variable.
-~/sms2X/src/var/var_sms2X.xml
-Note that this is a weird structure, indeed, but I want to park these variants somewhere. We do not need them now. Their final place cannot be in the main lemma list.
+This file is mostly for communicating current todos and questions; proper documentation has moved to http://giellatekno.uit.no/doc/dicts/SkoltSaami2X.html
 
 
 =====
 LEXICOGRAPHY
 =====
-…to be completed…
+…to be completed and moved into the proper documentation
 <e meta="xxx"> = for meta see below
 -><lg>
 --><l pos="xxx"> for pos see above
@@ -101,11 +74,6 @@ Preliminary conventions: other orthography
 =====
 * English default is "American"
 * Russian uses ё, but for looking up in the dictionary/Oahpa! we need spellrelax (ё ~ е) 
-
-=====
-Preliminary conventions: inflection
-=====
-In the field <infl> in <lg> is preliminary. Inflected forms are listed if they occur in the wordlists. I am converting to the lexical database. I only use <infl> for learning about inflection classes now, but this information will be obsolete as soon as the FST works.
 
 =====
 meta
