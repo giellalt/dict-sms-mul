@@ -468,7 +468,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="s" lemma="">täˊst, vääˊld!</l>
+         <l pos="s" lemma="xxx">täˊst, vääˊld!</l>
       </lg>
       <sources>
          <book/>
@@ -489,7 +489,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="v" lemma="">mon õõlǥam</l>
+         <l pos="v" lemma="xxx">mon õõlǥam</l>
       </lg>
       <sources>
          <book/>
@@ -584,7 +584,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="03">
       <lg>
-         <l pos="n" lemma="">lååi eeˊǩǩed</l>
+         <l pos="n" lemma="xxx">lååi eeˊǩǩed</l>
       </lg>
       <sources>
          <book/>
@@ -603,7 +603,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="n" lemma="">nuõrttsääˊmǩiõl kurss</l>
+         <l pos="n" lemma="xxx">nuõrttsääˊmǩiõl kurss</l>
       </lg>
       <sources>
          <book/>
@@ -619,7 +619,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="n" lemma="">nuõrttsaaˊmi muˊzei</l>
+         <l pos="n" lemma="xxx">nuõrttsaaˊmi muˊzei</l>
       </lg>
       <sources>
          <book/>
@@ -638,7 +638,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="n" lemma="">suu peäˊlest</l>
+         <l pos="n" lemma="xxx">suu peäˊlest</l>
       </lg>
       <sources>
          <book/>
@@ -663,7 +663,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="s" lemma="">veärr lij vueˊǯǯest</l>
+         <l pos="s" lemma="xxx">veärr lij vueˊǯǯest</l>
       </lg>
       <sources>
          <book/>
@@ -682,7 +682,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="n" lemma="">nuõrttsääˊmǩiõl vuâđđkurss</l>
+         <l pos="n" lemma="xxx">nuõrttsääˊmǩiõl vuâđđkurss</l>
       </lg>
       <sources>
          <book/>
@@ -698,7 +698,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="s" lemma="">jäuvss kämmääd!</l>
+         <l pos="s" lemma="xxx">jäuvss kämmääd!</l>
       </lg>
       <sources>
          <book/>
@@ -714,7 +714,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="n" lemma="">ääiˊj ǩeeˊjjest</l>
+         <l pos="n" lemma="xxx">ääiˊj ǩeeˊjjest</l>
       </lg>
       <sources>
          <book name="k" lesson="xxx"/>
@@ -736,7 +736,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="n" lemma="">nuõrttsaaˊmi ǩiõttʼtuẹjj</l>
+         <l pos="n" lemma="xxx">nuõrttsaaˊmi ǩiõttʼtuẹjj</l>
       </lg>
       <sources>
          <book/>
@@ -752,7 +752,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="n" lemma="">ortodokslaž ceerkav Njeäˊllmest</l>
+         <l pos="n" lemma="xxx">ortodokslaž ceerkav Njeäˊllmest</l>
       </lg>
       <sources>
          <book/>
@@ -768,7 +768,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="n" lemma="">ortodokslaž sluuˊžv</l>
+         <l pos="n" lemma="xxx">ortodokslaž sluuˊžv</l>
       </lg>
       <sources>
          <book/>
@@ -784,7 +784,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="n" lemma="">oouˊdab peiˊvv</l>
+         <l pos="n" lemma="xxx">oouˊdab peiˊvv</l>
       </lg>
       <sources>
          <book/>
@@ -806,7 +806,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="" lemma="">oouˊdab eeˊjj</l>
+         <l pos="xxx" lemma="xxx">oouˊdab eeˊjj</l>
       </lg>
       <sources>
          <book/>
@@ -822,7 +822,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="3">
       <lg>
-         <l pos="n" lemma="">puk ääiˊj</l>
+         <l pos="n" lemma="xxx">puk ääiˊj</l>
       </lg>
       <sources>
          <book/>
@@ -895,7 +895,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="03">
       <lg>
-         <l pos="pcle" lemma="">naa-a</l>
+         <l pos="pcle" lemma="xxx">naa-a</l>
       </lg>
       <sources>
          <book/>
