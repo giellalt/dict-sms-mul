@@ -2069,8 +2069,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="prop">Нотозеро</t>
          </tg>
-         <tg xml:lang="nob" exclude="oahpa;">
-            <t pos="prop">Nøttiager</t>
+         <tg xml:lang="nob">
+            <t pos="prop" exclude="oahpa;">Nøttiager</t>
          </tg>
          <tg xml:lang="nob" oahpa="pref">
             <t pos="prop">Notozero</t>
@@ -2092,8 +2092,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="prop">Нотозеро</t>
          </tg>
-         <tg xml:lang="nob" exclude="oahpa;">
-            <t pos="prop">Nøttiager</t>
+         <tg xml:lang="nob">
+            <t pos="prop" exclude="oahpa;">Nøttiager</t>
          </tg>
          <tg xml:lang="nob" oahpa="pref">
             <t pos="prop">Notozero</t>
@@ -2479,8 +2479,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="prop">Печенга</t>
          </tg>
-         <tg xml:lang="nob" exclude="oahpa;">
-            <t pos="prop">Peisen</t>
+         <tg xml:lang="nob">
+            <t pos="prop" exclude="oahpa;">Peisen</t>
          </tg>
          <tg xml:lang="nob" oahpa="pref">
             <t pos="prop">Petsjenga</t>

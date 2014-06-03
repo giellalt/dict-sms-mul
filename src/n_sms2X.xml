@@ -1639,8 +1639,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng" oahpa="pref">
             <t pos="n">bog whortleberry</t>
          </tg>
-         <tg xml:lang="eng" variant="british">
-            <t pos="n">bog bilberry</t>
+         <tg xml:lang="eng">
+            <t pos="n" variant="british">bog bilberry</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">ehtemas</t>
@@ -3735,8 +3735,8 @@ For the full license text, see the link above.</lic>
             <t pos="n">bark</t>
          </tg>
          <tg xml:lang="eng">
+            <r>fruit or vegetable</r>
             <t pos="n">skin</t>
-            <tr>fruit or vegetable</tr>
          </tg>
          <tg xml:lang="sjd">
             <t pos="n">кэ̄рр</t>
@@ -3744,11 +3744,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus" oahpa="pref">
             <t pos="n">кора</t>
          </tg>
-         <tg xml:lang="rus" exclude="oahpa;">
-            <t pos="n">корка</t>
+         <tg xml:lang="rus">
+            <t pos="n" exclude="oahpa;">корка</t>
          </tg>
-         <tg xml:lang="rus" exclude="oahpa;">
-            <t pos="n">скорлупа</t>
+         <tg xml:lang="rus">
+            <t pos="n" exclude="oahpa;">скорлупа</t>
          </tg>
          <tg xml:lang="nob" oahpa="pref">
             <t pos="n">bark</t>
@@ -5137,8 +5137,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus" oahpa="pref">
             <t pos="n">луна</t>
          </tg>
-         <tg xml:lang="rus" exclude="oahpa;">
-            <t pos="n" style="arch">месяц</t>
+         <tg xml:lang="rus">
+            <t pos="n" style="arch" exclude="oahpa;">месяц</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="n">ма̄нн</t>
@@ -5844,8 +5844,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="n">туалет</t>
          </tg>
-         <tg xml:lang="rus" exclude="oahpa;">
-            <t pos="n">нужник</t>
+         <tg xml:lang="rus">
+            <t pos="n" exclude="oahpa;">нужник</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">vessa</t>
@@ -5963,12 +5963,10 @@ For the full license text, see the link above.</lic>
             <t pos="n">cow barn</t>
             <t pos="n">cattle shed</t>
          </tg>
-         <tg xml:lang="eng" variant="british">
-            <t pos="n">byre</t>
-         </tg>
-         <tg xml:lang="eng" variant="british">
-            <t pos="n">shippon</t>
-            <t pos="n">shippen</t>
+         <tg xml:lang="eng">
+            <t pos="n" variant="british">byre</t>
+            <t pos="n" variant="british">shippon</t>
+            <t pos="n" variant="british">shippen</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">navetta</t>
@@ -9797,8 +9795,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng" oahpa="pref">
             <t pos="n">blueberry</t>
          </tg>
-         <tg xml:lang="eng" variant="british">
-            <t pos="n">bilberry</t>
+         <tg xml:lang="eng">
+            <t pos="n" variant="british">bilberry</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">sarrit</t>
@@ -12358,15 +12356,15 @@ For the full license text, see the link above.</lic>
             <t pos="n">mackintosh</t>
             <t pos="n">macintosh</t>
          </tg>
-         <tg xml:lang="eng" variant="british">
-            <t pos="n">mac</t>
-            <t pos="n">mack</t>
+         <tg xml:lang="eng">
+            <t pos="n" variant="british">mac</t>
+            <t pos="n" variant="british">mack</t>
          </tg>
          <tg xml:lang="eng" oahpa="pref">
             <t pos="n">raincoat</t>
          </tg>
-         <tg xml:lang="eng" variant="british">
-            <t pos="n">waterproof</t>
+         <tg xml:lang="eng">
+            <t pos="n" variant="british">waterproof</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">sadetakki</t>
@@ -14699,8 +14697,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="n">kilometer</t>
          </tg>
-         <tg xml:lang="eng" variant="british">
-            <t pos="n">kilometre</t>
+         <tg xml:lang="eng">
+            <t pos="n" variant="british">kilometre</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">kilometri</t>

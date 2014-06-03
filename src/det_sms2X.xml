@@ -179,8 +179,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="det">какой-то</t>
          </tg>
-         <tg xml:lang="rus" exclude="oahpa;">
-            <t pos="det">некий</t>
+         <tg xml:lang="rus">
+            <t pos="det" exclude="oahpa;">некий</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="det">joku</t>
