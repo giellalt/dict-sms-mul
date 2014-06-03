@@ -26,7 +26,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e meta="04">
       <lg>
-         <l source="ZMN" pos="mwe_np" lemma="xxx">suõskkâm tääbbaǩ</l>
+         <l source="ZMN" pos="np" lemma="xxx">suõskkâm tääbbaǩ</l>
       </lg>
       <mg>
          <tg xml:lang="deu">
@@ -35,7 +35,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n">chew</t>
-            <t pos="mwe_np">chewing tobacco</t>
+            <t pos="np">chewing tobacco</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">snus</t>
@@ -61,7 +61,7 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="eng">
-            <t pos="mwe_np">boarding house</t>
+            <t pos="np">boarding house</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="n">dormitory</t>
@@ -364,7 +364,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">come!</t>
-            <t pos="mwe_v">come in!</t>
+            <t pos="v">come in!</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">tule!</t>
@@ -419,12 +419,12 @@ For the full license text, see the link above.</lic>
             <sem/>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="mwe_s">tässä, ota!</t>
-            <t pos="mwe_s" oahpa="pref">ole hyvä!</t>
+            <t pos="s">tässä, ota!</t>
+            <t pos="s" oahpa="pref">ole hyvä!</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="s">возьми!</t>
-            <t pos="mwe_s" oahpa="pref">пожалуйста, будь добр!</t>
+            <t pos="s" oahpa="pref">пожалуйста, будь добр!</t>
          </tg>
       </mg>
    </e>
@@ -735,10 +735,10 @@ For the full license text, see the link above.</lic>
             <sem/>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="mwe_n">edellinen päivä</t>
+            <t pos="n">edellinen päivä</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="mwe_n">the day before yesterday</t>
+            <t pos="n">the day before yesterday</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="n">Vorgestern</t>
@@ -757,7 +757,7 @@ For the full license text, see the link above.</lic>
             <sem/>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="mwe_n">edellisenä vuonna</t>
+            <t pos="n">edellisenä vuonna</t>
          </tg>
       </mg>
    </e>
