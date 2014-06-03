@@ -6893,9 +6893,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="n">жир</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="n">сало</t>
-            <t>копчёное</t>
+         <tg xml:lang="rus">
+            <t pos="n" oahpa="pref">сало</t>
+            <t pos="n">копчёное</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="n">Fett</t>

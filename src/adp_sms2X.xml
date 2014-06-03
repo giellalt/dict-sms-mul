@@ -115,8 +115,8 @@ For the full license text, see the link above.</lic>
             <t pos="adp">to</t>
          </tg>
          <tg xml:lang="rus">
+            <re>куда</re>
             <t pos="adp">на</t>
-            <tr>куда</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="adp">päälle </t>
@@ -290,8 +290,8 @@ For the full license text, see the link above.</lic>
             <t pos="adp">sisälle</t>
          </tg>
          <tg xml:lang="rus" oahpa="pref">
+            <re>куда</re>
             <t pos="adp">в</t>
-            <tr>куда</tr>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">внутрь</t>
