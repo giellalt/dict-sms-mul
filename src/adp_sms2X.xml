@@ -141,8 +141,8 @@ For the full license text, see the link above.</lic>
             <t pos="adp">with</t>
          </tg>
          <tg xml:lang="rus">
+            <re>собой</re>
             <t pos="adp">с</t>
-            <tr>собой</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="adp">mukana</t>
@@ -205,8 +205,8 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">MOTION</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>кому-чему</re>
             <t pos="adp">к</t>
-            <tr>кому-чему</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="adp">luo</t>
@@ -301,12 +301,12 @@ For the full license text, see the link above.</lic>
             <t pos="adv">в дом</t>
          </tg>
          <tg xml:lang="nob">
+            <re>inn i</re>
             <t pos="adv">inn</t>
-            <tr>inn i</tr>
          </tg>
          <tg xml:lang="eng">
+            <re>to inside</re>
             <t pos="adv">inside</t>
-            <tr>to inside</tr>
          </tg>
          <tg xml:lang="sjd">
             <t pos="adp">сыз</t>
@@ -356,8 +356,8 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">POSITION</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>где</re>
             <t pos="adp">на</t>
-            <tr>где</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="adp">päällä</t>
@@ -374,8 +374,8 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">MOTION</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>откуда</re>
             <t pos="adp">с</t>
-            <tr>откуда</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="adp">päällä</t>
@@ -401,8 +401,8 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">MOTION</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>кому</re>
             <t pos="adp">к</t>
-            <tr>кому</tr>
          </tg>
          <tg xml:lang="fin" oahpa="pref">
             <t pos="adp">luokse</t>
@@ -411,8 +411,8 @@ For the full license text, see the link above.</lic>
             <t pos="adp">luo</t>
          </tg>
          <tg xml:lang="nob">
+            <re>noen</re>
             <t pos="adp">til</t>
-            <tr>noen</tr>
          </tg>
       </mg>
    </e>

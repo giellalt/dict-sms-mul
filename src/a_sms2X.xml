@@ -292,8 +292,8 @@ For the full license text, see the link above.</lic>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>цвет кожи</re>
             <t pos="a">темный</t>
-            <tr>цвет кожи</tr>
          </tg>
          <tg xml:lang="eng">
             <t pos="a">dark</t>
@@ -1112,21 +1112,21 @@ For the full license text, see the link above.</lic>
             <t pos="a">green</t>
          </tg>
          <tg xml:lang="rus">
+            <re>кроме растений</re>
             <t pos="a" pred="зелён" oahpa="pref">зелёный</t>
             <t pos="a" pred="зелен">зеленый</t>
-            <tr>кроме растений</tr>
          </tg>
          <tg xml:lang="nob">
+            <re>ikke av planter</re>
             <t pos="a">grønn</t>
-            <tr>ikke av planter</tr>
          </tg>
          <tg xml:lang="fin">
+            <re>ej kasveista</re>
             <t pos="a">vihreä</t>
-            <tr>ej kasveista</tr>
          </tg>
          <tg xml:lang="deu">
+            <re>nicht von Pflanzen</re>
             <t pos="a">grün</t>
-            <tr>nicht von Pflanzen</tr>
          </tg>
          <tg xml:lang="sjd">
             <t pos="a">руэнн</t>
@@ -1157,20 +1157,20 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">GRASS</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>о растениях</re>
             <t pos="a" oahpa="pref">зелёный</t>
             <t pos="a">зеленый</t>
-            <tr>о растениях</tr>
          </tg>
          <tg xml:lang="fin" oahpa="pref">
             <t pos="a">vihanta</t>
          </tg>
          <tg xml:lang="fin">
+            <re>kasveista</re>
             <t pos="a">vihreä</t>
-            <tr>kasveista</tr>
          </tg>
          <tg xml:lang="nob">
+            <re>av planter</re>
             <t pos="a">grønn</t>
-            <tr>av planter</tr>
          </tg>
          <tg xml:lang="sjd">
             <t pos="a">руэнн</t>
@@ -1180,13 +1180,13 @@ For the full license text, see the link above.</lic>
             <t pos="a">green</t>
          </tg>
          <tg xml:lang="eng">
+            <re>of plants</re>
             <t pos="a">fresh</t>
-            <tr>of plants</tr>
          </tg>
          <tg xml:lang="deu">
+            <re>von Pflanzen</re>
             <t pos="a">grün</t>
             <t pos="a">frisch</t>
-            <tr>von Pflanzen</tr>
          </tg>
          <tg xml:lang="deu">
             <t pos="a">unreif</t>
@@ -1309,12 +1309,12 @@ For the full license text, see the link above.</lic>
             <sem class="ENVIR"/>
          </semantics>
          <tg xml:lang="rus">
+            <re>небо</re>
             <t>темный</t>
-            <tr>небо</tr>
          </tg>
          <tg xml:lang="eng">
+            <re>of the sky</re>
             <t pos="a">dark</t>
-            <tr>of the sky</tr>
          </tg>
       </mg>
    </e>
@@ -2018,12 +2018,12 @@ For the full license text, see the link above.</lic>
             <sem class="CLOTH">PART</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>цвет</re>
             <t>темный</t>
-            <tr>цвет</tr>
          </tg>
          <tg xml:lang="eng">
+            <re>color</re>
             <t pos="a">dark</t>
-            <tr>color</tr>
          </tg>
       </mg>
    </e>
@@ -2080,12 +2080,12 @@ For the full license text, see the link above.</lic>
             <sem class="WORK">TRAVEL</sem>
          </semantics>
          <tg xml:lang="eng">
+            <re>weather</re>
             <t pos="a">cold</t>
-            <tr>weather</tr>
          </tg>
          <tg xml:lang="sjd">
+            <re>weather</re>
             <t pos="a">чуэцькесь</t>
-            <tr>weather</tr>
          </tg>
          <tg xml:lang="rus" oahpa="pref">
             <t pos="a">прохладный</t>
@@ -2097,8 +2097,8 @@ For the full license text, see the link above.</lic>
             <t pos="a">kall</t>
          </tg>
          <tg xml:lang="fin">
+            <re>säästä</re>
             <t pos="a">kylmä</t>
-            <tr>säästä</tr>
          </tg>
          <tg xml:lang="sme">
             <t pos="a">čoaskkis</t>

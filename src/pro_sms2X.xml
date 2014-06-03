@@ -472,8 +472,8 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="eng">
+            <re>plural</re>
             <t pos="pro">you</t>
-            <tr>plural</tr>
          </tg>
          <tg xml:lang="rus">
             <t pos="pro">вы</t>

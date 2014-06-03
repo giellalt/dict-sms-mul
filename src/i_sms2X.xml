@@ -104,12 +104,12 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN">SOCIAL</sem>
          </semantics>
          <tg xml:lang="fin">
+            <re>vastauksena kiitokseen</re>
             <t pos="i">ole hyvä</t>
-            <tr>vastauksena kiitokseen</tr>
          </tg>
          <tg xml:lang="rus">
+            <re>в ответ на изъявление благодарности</re>
             <t pos="i">пожалуйста</t>
-            <tr>в ответ на изъявление благодарности</tr>
          </tg>
          <tg xml:lang="nob">
             <t pos="i">vær så god</t>

@@ -194,8 +194,8 @@ For the full license text, see the link above.</lic>
             <t pos="adv">alle</t>
          </tg>
          <tg xml:lang="rus">
+            <re>куда</re>
             <t pos="adv">под</t>
-            <tr>куда</tr>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">ned</t>
@@ -824,11 +824,12 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">occanj</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111219_KJ_1.wav"
-            />
+            <a dialect="peä"
+               speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/occanj_SKO111219_KJ_1.wav"/>
          </audio>
       </lg>
       <sources>
@@ -2074,11 +2075,12 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="adv">õhttu</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111211_ZMN_5.wav"/>
-            <a dialect="xxx" speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav"
-            />
+            <a dialect="xxx"
+               speaker="EL"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/yhtt_SKO111220_EL.wav"/>
          </audio>
       </lg>
       <sources>

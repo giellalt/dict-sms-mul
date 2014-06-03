@@ -190,24 +190,24 @@ For the full license text, see the link above.</lic>
             <sem class="BODY">PART</sem>
          </semantics>
          <tg xml:lang="deu">
+            <re>Mensch</re>
             <t pos="n">vorderer Oberschenkel</t>
-            <tr>Mensch</tr>
          </tg>
          <tg xml:lang="eng">
+            <re>human</re>
             <t pos="n">anterior thigh</t>
-            <tr>human</tr>
          </tg>
          <tg xml:lang="rus">
+            <re>человек</re>
             <t pos="n">передное бедро</t>
-            <tr>человек</tr>
          </tg>
          <tg xml:lang="nob">
+            <re>meneske</re>
             <t pos="n">fremre lår</t>
-            <tr>meneske</tr>
          </tg>
          <tg xml:lang="fin">
+            <re>ihminen</re>
             <t pos="n">reiden etupuoli</t>
-            <tr>ihminen</tr>
          </tg>
          <tg xml:lang="sju">
             <t pos="n">ruaida</t>
@@ -574,8 +574,8 @@ For the full license text, see the link above.</lic>
             <sem class="WORK">ECONOMY</sem>
          </semantics>
          <tg xml:lang="eng">
+            <re>at a bank</re>
             <t pos="n">account</t>
-            <tr>at a bank</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">pankkitili</t>
@@ -706,8 +706,8 @@ For the full license text, see the link above.</lic>
             <sem class="CLOTH">PART</sem>
          </semantics>
          <tg xml:lang="eng">
+            <re>on trousers or pants</re>
             <t pos="n">fly</t>
-            <tr>on trousers or pants</tr>
          </tg>
       </mg>
    </e>
@@ -785,11 +785,12 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">ceerkav</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ceerkav_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ceerkav_SKO111219_KJ_1.wav"
-            />
+            <a dialect="peä"
+               speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ceerkav_SKO111219_KJ_1.wav"/>
          </audio>
          <etymology>
             <etymon type="loan" source="rus">церковь</etymon>
@@ -1706,8 +1707,8 @@ For the full license text, see the link above.</lic>
             <sem class="WORK">ECONOMY</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>олений</re>
             <t pos="n">бык</t>
-            <tr>олений</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">härkä</t>
@@ -1880,20 +1881,20 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN">PERSON</sem>
          </semantics>
          <tg xml:lang="eng">
+            <re>father's older brother</re>
             <t pos="n">uncle</t>
-            <tr>father's older brother</tr>
          </tg>
          <tg xml:lang="rus">
+            <re>старший брат отца</re>
             <t pos="n">дядя</t>
-            <tr>старший брат отца</tr>
          </tg>
          <tg xml:lang="fin">
+            <re>isää vanhempi</re>
             <t pos="n">setä</t>
-            <tr>isää vanhempi</tr>
          </tg>
          <tg xml:lang="nob">
+            <re>fars eldre bror</re>
             <t pos="n">onkel</t>
-            <tr>fars eldre bror</tr>
          </tg>
       </mg>
    </e>
@@ -3092,11 +3093,12 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">kuäˊlˈlec</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kuaeqllec_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kuaeqllec_SKO111219_KJ_1.wav"
-            />
+            <a dialect="peä"
+               speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kuaeqllec_SKO111219_KJ_1.wav"/>
          </audio>
       </lg>
       <sources>
@@ -3806,11 +3808,12 @@ For the full license text, see the link above.</lic>
             <form gloss="ill.sg">kõskksa</form>
          </infl>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kyyskays_SKO111211_ZMN_5.wav"/>
-            <a dialect="xxx" speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kyyskays_SKO111220_EL.wav"
-            />
+            <a dialect="xxx"
+               speaker="EL"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kyyskays_SKO111220_EL.wav"/>
          </audio>
       </lg>
       <sources>
@@ -3896,12 +3899,12 @@ For the full license text, see the link above.</lic>
             <t pos="n">kynsi</t>
          </tg>
          <tg xml:lang="eng">
+            <re>body</re>
             <t pos="n">nail</t>
-            <tr>body</tr>
          </tg>
          <tg xml:lang="eng">
+            <re>body</re>
             <t pos="n" short="nail">fingernail</t>
-            <tr>body</tr>
          </tg>
          <tg xml:lang="eng">
             <t pos="n">toenail</t>
@@ -4450,8 +4453,8 @@ For the full license text, see the link above.</lic>
             <sem class="FOOD">DISH</sem>
          </semantics>
          <tg xml:lang="eng">
+            <re>of a plant</re>
             <t pos="n">leaf</t>
-            <tr>of a plant</tr>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">лист</t>
@@ -5013,9 +5016,9 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">mââˊnn</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/mayayqnn_SKO111210_ZMN.wav"
-            />
+            <a dialect="muo"
+               speaker="ZMN"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/mayayqnn_SKO111210_ZMN.wav"/>
          </audio>
          <etymology>
             <etymon type="inher" source="uralic">muna</etymon>
@@ -5676,8 +5679,8 @@ For the full license text, see the link above.</lic>
             <sem class="FOOD">NATURE</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>орган</re>
             <t pos="n">язык</t>
-            <tr>орган</tr>
          </tg>
          <tg xml:lang="sjd">
             <t pos="n">нюхчем</t>
@@ -7063,8 +7066,8 @@ For the full license text, see the link above.</lic>
             <t pos="n">cariboo</t>
          </tg>
          <tg xml:lang="rus">
+            <re>северный</re>
             <t pos="n">олень</t>
-            <tr>северный</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">poro</t>
@@ -7424,8 +7427,8 @@ For the full license text, see the link above.</lic>
             <sem class="WORK">ECONOMY</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>деревьев</re>
             <t pos="n">кора</t>
-            <tr>деревьев</tr>
          </tg>
          <tg xml:lang="sjd">
             <t pos="n">па̄ҏҏк</t>
@@ -7640,20 +7643,20 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN">FAMILY</sem>
          </semantics>
          <tg xml:lang="eng">
+            <re>kin</re>
             <t pos="n">boy</t>
-            <tr>kin</tr>
          </tg>
          <tg xml:lang="rus">
+            <re>родный</re>
             <t pos="n">сын</t>
-            <tr>родный</tr>
          </tg>
          <tg xml:lang="nob">
+            <re>slekt</re>
             <t pos="n">gutt</t>
-            <tr>slekt</tr>
          </tg>
          <tg xml:lang="fin">
+            <re>sukulaisena</re>
             <t pos="n">poika</t>
-            <tr>sukulaisena</tr>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">mánná</t>
@@ -8188,8 +8191,8 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>человек</re>
             <t pos="n">русский</t>
-            <tr>человек</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">venäläinen</t>
@@ -9120,16 +9123,16 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN">FAMILY</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>женщины</re>
             <t pos="n">род</t>
-            <tr>женщины</tr>
          </tg>
          <tg xml:lang="fin">
+            <re>naisen</re>
             <t pos="n">suku</t>
-            <tr>naisen</tr>
          </tg>
          <tg xml:lang="nob">
+            <re>kvinnens</re>
             <t pos="n">slekt</t>
-            <tr>kvinnens</tr>
          </tg>
       </mg>
    </e>
@@ -10443,12 +10446,12 @@ For the full license text, see the link above.</lic>
             <t pos="n">terveystalo</t>
          </tg>
          <tg xml:lang="rus">
+            <re>в деревне</re>
             <t pos="n">амбулатория</t>
-            <tr>в деревне</tr>
          </tg>
          <tg xml:lang="nob">
+            <re>i bygda</re>
             <t pos="n">sykehus</t>
-            <tr>i bygda</tr>
          </tg>
       </mg>
    </e>
@@ -10881,8 +10884,8 @@ For the full license text, see the link above.</lic>
             <t pos="n">табак</t>
          </tg>
          <tg xml:lang="fin">
+            <re>aine</re>
             <t pos="n">tupakka</t>
-            <tr>aine</tr>
          </tg>
       </mg>
       <mg spec="BOT">
@@ -10890,8 +10893,8 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">GRASS</sem>
          </semantics>
          <tg xml:lang="deu">
+            <re>Pflanze</re>
             <t pos="n">Tabak</t>
-            <tr>Pflanze</tr>
          </tg>
          <tg xml:lang="eng">
             <t pos="n">tobacco</t>
@@ -10900,8 +10903,8 @@ For the full license text, see the link above.</lic>
             <t pos="n">табак</t>
          </tg>
          <tg xml:lang="fin">
+            <re>kasvi</re>
             <t pos="n">tupakka</t>
-            <tr>kasvi</tr>
          </tg>
       </mg>
    </e>
@@ -11265,11 +11268,12 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">vacc</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vacc_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vacc_SKO111219_KJ_1.wav"
-            />
+            <a dialect="peä"
+               speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vacc_SKO111219_KJ_1.wav"/>
          </audio>
       </lg>
       <sources>
@@ -11552,19 +11556,19 @@ For the full license text, see the link above.</lic>
             <sem class="ZOO"/>
          </semantics>
          <tg xml:lang="eng">
+            <re>reindeer</re>
             <t pos="n">calf</t>
-            <tr>reindeer</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">vasa</t>
          </tg>
          <tg xml:lang="rus">
+            <re>оленя</re>
             <t pos="n" ё="телёнок">теленок</t>
-            <tr>оленя</tr>
          </tg>
          <tg xml:lang="nob">
+            <re>reinsdyr</re>
             <t pos="n">kalv</t>
-            <tr>reinsdyr</tr>
          </tg>
       </mg>
    </e>
@@ -11645,8 +11649,8 @@ For the full license text, see the link above.</lic>
             <t pos="n">вуэннч</t>
          </tg>
          <tg xml:lang="eng">
+            <re>flesh</re>
             <t pos="n">meat</t>
-            <tr>flesh</tr>
          </tg>
          <tg xml:lang="deu">
             <t pos="n">Fleisch</t>
@@ -11717,8 +11721,8 @@ For the full license text, see the link above.</lic>
             <t pos="n">sisar</t>
          </tg>
          <tg xml:lang="rus">
+            <re>родная</re>
             <t pos="n">сестра</t>
-            <tr>родная</tr>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">søster</t>
@@ -11747,8 +11751,8 @@ For the full license text, see the link above.</lic>
       <mg term="DUODJI">
          <lexicon xml:lang="fin">alaosa juuripunosta, yläosa nahkaa</lexicon>
          <tg xml:lang="fin">
+            <re>miesten</re>
             <t pos="n">työkalupussi</t>
-            <tr>miesten</tr>
          </tg>
       </mg>
    </e>
@@ -11922,9 +11926,9 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">vuõptt</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vuoyptt_SKO111210_ZMN.wav"
-            />
+            <a dialect="muo"
+               speaker="ZMN"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vuoyptt_SKO111210_ZMN.wav"/>
          </audio>
          <etymology>
             <etymon type="inher" source="uralic">apte</etymon>
@@ -12223,8 +12227,8 @@ For the full license text, see the link above.</lic>
             <t pos="n">curtain</t>
          </tg>
          <tg xml:lang="eng">
+            <re>for a bed</re>
             <t pos="n">canopy</t>
-            <tr>for a bed</tr>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">завеса</t>
@@ -12265,8 +12269,8 @@ For the full license text, see the link above.</lic>
             <t pos="n">curtain</t>
          </tg>
          <tg xml:lang="eng">
+            <re>for windows</re>
             <t pos="n">drape</t>
-            <tr>for windows</tr>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">занавеска</t>
@@ -12286,8 +12290,8 @@ For the full license text, see the link above.</lic>
             <sem class="TIME">UNIT</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>летá</re>
             <t pos="n">возраст</t>
-            <tr>летá</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">ikä</t>
@@ -12304,9 +12308,9 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">âˊbrr</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ayqlmm_SKO111211_ZMN_5.wav"
-            />
+            <a dialect="muo"
+               speaker="ZMN"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ayqlmm_SKO111211_ZMN_5.wav"/>
          </audio>
       </lg>
       <sources>
@@ -12887,12 +12891,12 @@ For the full license text, see the link above.</lic>
             <sem class="WORK">ECONOMY</sem>
          </semantics>
          <tg xml:lang="deu">
+            <re>Rentier</re>
             <t pos="n" term="zool">Männchen</t>
-            <tr>Rentier</tr>
          </tg>
          <tg xml:lang="rus">
+            <re>олень</re>
             <t pos="n" term="zool">самец</t>
-            <tr>олень</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">uros</t>
@@ -12919,11 +12923,12 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">õpss</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ypss_SKO111211_ZMN_5.wav"/>
-            <a dialect="xxx" speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ypss_SKO111220_EL.wav"
-            />
+            <a dialect="xxx"
+               speaker="EL"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ypss_SKO111220_EL.wav"/>
          </audio>
       </lg>
       <sources>
@@ -12994,8 +12999,8 @@ For the full license text, see the link above.</lic>
             <sem class="FOOD">NATURE</sem>
          </semantics>
          <tg xml:lang="eng">
+            <re>of bones</re>
             <t pos="n">marrow</t>
-            <tr>of bones</tr>
          </tg>
       </mg>
    </e>
@@ -13152,20 +13157,20 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN"/>
          </semantics>
          <tg xml:lang="eng">
+            <re>father's younger brother</re>
             <t pos="n">uncle</t>
-            <tr>father's younger brother</tr>
          </tg>
          <tg xml:lang="rus">
+            <re>младший брат отца</re>
             <t pos="n">дядя</t>
-            <tr>младший брат отца</tr>
          </tg>
          <tg xml:lang="fin">
+            <re>isää nuorempi</re>
             <t pos="n">setä</t>
-            <tr>isää nuorempi</tr>
          </tg>
          <tg xml:lang="nob">
+            <re>fars yngre bror</re>
             <t pos="n">onkel</t>
-            <tr>fars yngre bror</tr>
          </tg>
       </mg>
    </e>
@@ -13234,15 +13239,15 @@ For the full license text, see the link above.</lic>
             <t pos="n">flock</t>
          </tg>
          <tg xml:lang="rus">
+            <re>небольшое стадо оленей</re>
             <t pos="n">стадо</t>
-            <tr>небольшое стадо оленей</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">tokka</t>
          </tg>
          <tg xml:lang="nob">
+            <re>liten flokk reinsdyr</re>
             <t pos="n">flokk</t>
-            <tr>liten flokk reinsdyr</tr>
          </tg>
       </mg>
    </e>
@@ -13479,8 +13484,8 @@ For the full license text, see the link above.</lic>
             <sem class="CLOTH">PART</sem>
          </semantics>
          <tg xml:lang="eng">
+            <re>color</re>
             <t pos="n">light</t>
-            <tr>color</tr>
          </tg>
       </mg>
    </e>
@@ -13610,11 +13615,12 @@ For the full license text, see the link above.</lic>
             <form gloss="gen.sg">čââˊlm</form>
          </infl>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchayqlmm_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchayqlmm_SKO111219_KJ_1.wav"
-            />
+            <a dialect="peä"
+               speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchayqlmm_SKO111219_KJ_1.wav"/>
          </audio>
          <etymology>
             <etymon type="inher" source="uralic">śilmä</etymon>
@@ -13681,8 +13687,8 @@ For the full license text, see the link above.</lic>
             <sem class="HOUSE">FURNITURE</sem>
          </semantics>
          <tg xml:lang="eng">
+            <re>of glass</re>
             <t pos="n">pane</t>
-            <tr>of glass</tr>
          </tg>
       </mg>
    </e>
@@ -13771,11 +13777,12 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">čääˊcc</l>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchaeaeqcc_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchaeaeqcc_SKO111219_KJ_1.wav"
-            />
+            <a dialect="peä"
+               speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchaeaeqcc_SKO111219_KJ_1.wav"/>
          </audio>
          <etymology>
             <etymon type="inher" source="saamic">ćācē</etymon>

@@ -83,12 +83,12 @@ For the full license text, see the link above.</lic>
             <sem/>
          </semantics>
          <tg xml:lang="eng">
+            <re>two</re>
             <t pos="pro">they</t>
-            <tr>two</tr>
          </tg>
          <tg xml:lang="fin">
+            <re>kaksi</re>
             <t pos="pro">he</t>
-            <tr>kaksi</tr>
          </tg>
          <tg xml:lang="sme">
             <t pos="pro">soai</t>

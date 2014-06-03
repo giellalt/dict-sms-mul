@@ -158,20 +158,20 @@ For the full license text, see the link above.</lic>
             <sem class="ZOO"/>
          </semantics>
          <tg xml:lang="eng">
+            <re>about a dog</re>
             <t pos="a">bad</t>
-            <tr>about a dog</tr>
          </tg>
          <tg xml:lang="nob">
+            <re>om en hund</re>
             <t pos="a">ond</t>
-            <tr>om en hund</tr>
          </tg>
          <tg xml:lang="fin">
+            <re>koirasta</re>
             <t pos="a">vihainen</t>
-            <tr>koirasta</tr>
          </tg>
          <tg xml:lang="rus">
+            <re>о собаке</re>
             <t pos="a">злой</t>
-            <tr>о собаке</tr>
          </tg>
       </mg>
    </e>

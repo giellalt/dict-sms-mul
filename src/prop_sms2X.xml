@@ -75,11 +75,12 @@ For the full license text, see the link above.</lic>
          </infl>
          <audio>
             <a quality="1" dialect="xxx" speaker="1" href="languagememory369"/>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111210_ZMN.wav"/>
-            <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111219_KJ_2.wav"
-            />
+            <a dialect="peä"
+               speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/Aanar_SKO111219_KJ_2.wav"/>
          </audio>
       </lg>
       <sources>
@@ -91,28 +92,28 @@ For the full license text, see the link above.</lic>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="prop">Inari</t>
             <re>village</re>
+            <t pos="prop">Inari</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="prop">Inari</t>
             <re>kylä</re>
+            <t pos="prop">Inari</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="prop">Инари</t>
             <re>посёлок</re>
+            <t pos="prop">Инари</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="prop">Enare</t>
             <re>landsby</re>
+            <t pos="prop">Enare</t>
          </tg>
          <tg xml:lang="sme">
-            <t pos="prop">Anár</t>
             <re>siida</re>
+            <t pos="prop">Anár</t>
          </tg>
          <tg xml:lang="deu">
-            <t pos="prop">Inari</t>
             <re>Dorf</re>
+            <t pos="prop">Inari</t>
          </tg>
       </mg>
    </e>
@@ -1909,7 +1910,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="0" dialect="xxx" speaker="10" href="languagememory3180"/>
+            <a quality="0"
+               dialect="xxx"
+               speaker="10"
+               href="languagememory3180"/>
          </audio>
       </lg>
       <mg>
@@ -2111,7 +2115,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="10" href="languagememory3186"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="10"
+               href="languagememory3186"/>
          </audio>
       </lg>
       <mg>
@@ -2306,7 +2313,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="11" href="languagememory3196"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="11"
+               href="languagememory3196"/>
          </audio>
       </lg>
       <mg>
@@ -2426,7 +2436,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="11" href="languagememory3198"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="11"
+               href="languagememory3198"/>
          </audio>
       </lg>
       <sources>
@@ -2498,7 +2511,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="11" href="languagememory3235"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="11"
+               href="languagememory3235"/>
          </audio>
       </lg>
       <mg>
@@ -2530,7 +2546,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="11" href="languagememory3236"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="11"
+               href="languagememory3236"/>
          </audio>
       </lg>
       <mg>
@@ -2562,7 +2581,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="11" href="languagememory3234"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="11"
+               href="languagememory3234"/>
          </audio>
       </lg>
       <mg>
@@ -2597,7 +2619,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="11" href="languagememory3233"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="11"
+               href="languagememory3233"/>
          </audio>
       </lg>
       <mg>
@@ -2629,7 +2654,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="3" dialect="xxx" speaker="12" href="languagememory3199"/>
+            <a quality="3"
+               dialect="xxx"
+               speaker="12"
+               href="languagememory3199"/>
          </audio>
       </lg>
       <mg>
@@ -2778,7 +2806,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="3" dialect="xxx" speaker="12" href="languagememory3200"/>
+            <a quality="3"
+               dialect="xxx"
+               speaker="12"
+               href="languagememory3200"/>
          </audio>
       </lg>
       <mg>
@@ -2810,7 +2841,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="13" href="languagememory3205"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="13"
+               href="languagememory3205"/>
          </audio>
       </lg>
       <mg>
@@ -2868,7 +2902,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="13" href="languagememory3103"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="13"
+               href="languagememory3103"/>
          </audio>
       </lg>
       <sources>
@@ -2906,7 +2943,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="13" href="languagememory3144"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="13"
+               href="languagememory3144"/>
          </audio>
       </lg>
       <mg>
@@ -2938,7 +2978,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="13" href="languagememory3209"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="13"
+               href="languagememory3209"/>
          </audio>
       </lg>
       <mg>
@@ -2970,7 +3013,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="13" href="languagememory3207"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="13"
+               href="languagememory3207"/>
          </audio>
       </lg>
       <mg>
@@ -3002,7 +3048,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="13" href="languagememory3909"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="13"
+               href="languagememory3909"/>
          </audio>
       </lg>
       <sources>
@@ -3122,7 +3171,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="14" href="languagememory3213"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="14"
+               href="languagememory3213"/>
          </audio>
       </lg>
       <mg>
@@ -3183,7 +3235,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="14" href="languagememory3217"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="14"
+               href="languagememory3217"/>
          </audio>
       </lg>
       <mg>
@@ -3215,7 +3270,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="14" href="languagememory3215"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="14"
+               href="languagememory3215"/>
          </audio>
       </lg>
       <mg>
@@ -3253,7 +3311,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="0" dialect="xxx" speaker="14" href="languagememory3216"/>
+            <a quality="0"
+               dialect="xxx"
+               speaker="14"
+               href="languagememory3216"/>
          </audio>
       </lg>
       <mg>
@@ -3285,7 +3346,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="14" href="languagememory3219"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="14"
+               href="languagememory3219"/>
          </audio>
       </lg>
       <mg>
@@ -3317,7 +3381,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="14" href="languagememory3220"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="14"
+               href="languagememory3220"/>
          </audio>
       </lg>
       <mg>
@@ -3349,7 +3416,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="14" href="languagememory3221"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="14"
+               href="languagememory3221"/>
          </audio>
       </lg>
       <mg>
@@ -3378,7 +3448,10 @@ For the full license text, see the link above.</lic>
          <l pos="prop" type="place">Tuälˈlamjokk</l>
          <translit_cyr>Tуӕлˈлaм-ёкк</translit_cyr>
          <audio>
-            <a quality="1" dialect="xxx" speaker="14" href="languagememory6148"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="14"
+               href="languagememory6148"/>
          </audio>
       </lg>
       <sources>
@@ -3413,7 +3486,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="14" href="languagememory3214"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="14"
+               href="languagememory3214"/>
          </audio>
       </lg>
       <mg>
@@ -3502,7 +3578,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="3" dialect="xxx" speaker="15" href="languagememory3153"/>
+            <a quality="3"
+               dialect="xxx"
+               speaker="15"
+               href="languagememory3153"/>
          </audio>
       </lg>
       <mg>
@@ -3534,7 +3613,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="16" href="languagememory3224"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="16"
+               href="languagememory3224"/>
          </audio>
       </lg>
       <mg>
@@ -3566,7 +3648,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="16" href="languagememory3228"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="16"
+               href="languagememory3228"/>
          </audio>
       </lg>
       <mg>
@@ -3598,7 +3683,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="16" href="languagememory3115"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="16"
+               href="languagememory3115"/>
          </audio>
       </lg>
       <mg>
@@ -3630,7 +3718,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="16" href="languagememory3116"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="16"
+               href="languagememory3116"/>
          </audio>
       </lg>
       <mg>
@@ -3855,7 +3946,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="1" dialect="xxx" speaker="17" href="languagememory3110"/>
+            <a quality="1"
+               dialect="xxx"
+               speaker="17"
+               href="languagememory3110"/>
          </audio>
       </lg>
       <mg>
@@ -3968,7 +4062,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="9" dialect="xxx" speaker="17" href="languagememory3111"/>
+            <a quality="9"
+               dialect="xxx"
+               speaker="17"
+               href="languagememory3111"/>
          </audio>
       </lg>
       <mg>
@@ -4032,7 +4129,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="9" dialect="xxx" speaker="17" href="languagememory3101"/>
+            <a quality="9"
+               dialect="xxx"
+               speaker="17"
+               href="languagememory3101"/>
          </audio>
       </lg>
       <mg>
@@ -4065,7 +4165,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="9" dialect="xxx" speaker="17" href="languagememory3100"/>
+            <a quality="9"
+               dialect="xxx"
+               speaker="17"
+               href="languagememory3100"/>
          </audio>
       </lg>
       <mg>
@@ -4098,7 +4201,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="9" dialect="xxx" speaker="17" href="languagememory3130"/>
+            <a quality="9"
+               dialect="xxx"
+               speaker="17"
+               href="languagememory3130"/>
          </audio>
       </lg>
       <mg>
@@ -4179,7 +4285,10 @@ For the full license text, see the link above.</lic>
             <stem>=</stem>
          </infl>
          <audio>
-            <a quality="2" dialect="xxx" speaker="22" href="languagememory3160"/>
+            <a quality="2"
+               dialect="xxx"
+               speaker="22"
+               href="languagememory3160"/>
          </audio>
       </lg>
       <sources>

@@ -2313,9 +2313,9 @@ For the full license text, see the link above.</lic>
             <st Contlex="VIQQAD">mõõnn</st>
          </stg>
          <audio>
-            <a dialect="muo" speaker="ZMN"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/moyoynnayd_SKO111210_ZMN.wav"
-            />
+            <a dialect="muo"
+               speaker="ZMN"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/moyoynnayd_SKO111210_ZMN.wav"/>
          </audio>
          <infl>
             <form gloss="3sg.prs">mâânn</form>
@@ -2489,8 +2489,8 @@ For the full license text, see the link above.</lic>
       </lg>
       <mg>
          <tg xml:lang="eng">
+            <re>boat</re>
             <t pos="v">keep course</t>
-            <tr>boat</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">pitää perää</t>
@@ -2844,8 +2844,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">попадать</t>
          </tg>
          <tg xml:lang="rus">
+            <re>до кого-чего</re>
             <t pos="v">добираться</t>
-            <tr>до кого-чего</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">päästä</t>
@@ -3040,20 +3040,20 @@ For the full license text, see the link above.</lic>
             <sem class="ZOO"/>
          </semantics>
          <tg xml:lang="eng">
+            <re>reindeer calfes</re>
             <t pos="v">make sound</t>
-            <tr>reindeer calfes</tr>
          </tg>
          <tg xml:lang="fin">
+            <re>vasasta</re>
             <t pos="v">roukua</t>
-            <tr>vasasta</tr>
          </tg>
          <tg xml:lang="rus">
+            <re>олений телёнок</re>
             <t pos="v">издавать звуки</t>
-            <tr>олений телёнок</tr>
          </tg>
          <tg xml:lang="nob">
+            <re>rein kalvene</re>
             <t pos="v">lage lyd</t>
-            <tr>rein kalvene</tr>
          </tg>
       </mg>
    </e>
@@ -3262,8 +3262,8 @@ For the full license text, see the link above.</lic>
       </mg>
       <mg exclude="oahpa;">
          <tg xml:lang="rus">
+            <re>солнце</re>
             <t pos="v">светить</t>
-            <tr>солнце</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">paistaa</t>
@@ -3459,11 +3459,12 @@ For the full license text, see the link above.</lic>
             <form gloss="3pl.prs">pâˊsse</form>
          </infl>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/pyyssayd_SKO111211_ZMN_5.wav"/>
-            <a dialect="xxx" speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/pyyssayd_SKO111220_EL.wav"
-            />
+            <a dialect="xxx"
+               speaker="EL"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/pyyssayd_SKO111220_EL.wav"/>
          </audio>
          <etymology>
             <etymon source="finnovolgaic">pese-</etymon>
@@ -4412,15 +4413,15 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">MOTION</sem>
          </semantics>
          <tg xml:lang="eng">
+            <re>herd</re>
             <t pos="v">run</t>
-            <tr>herd</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">laukkoa</t>
          </tg>
          <tg xml:lang="rus">
+            <re>стадо</re>
             <t pos="v">бежать</t>
-            <tr>стадо</tr>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">rase</t>
@@ -5030,11 +5031,12 @@ For the full license text, see the link above.</lic>
             <st Contlex=""/>
          </stg>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/veaencceed_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä" speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/veaencceed_SKO111219_KJ_1.wav"
-            />
+            <a dialect="peä"
+               speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/veaencceed_SKO111219_KJ_1.wav"/>
          </audio>
       </lg>
       <sources>
@@ -5941,8 +5943,8 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">MOTION</sem>
          </semantics>
          <tg xml:lang="rus">
+            <re>пешком</re>
             <t pos="v">идти</t>
-            <tr>пешком</tr>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">kävellä</t>
@@ -6322,11 +6324,12 @@ For the full license text, see the link above.</lic>
             <st Contlex="VIQQAD">õstt</st>
          </stg>
          <audio>
-            <a dialect="muo" speaker="ZMN"
+            <a dialect="muo"
+               speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ysttayd_SKO111211_ZMN_5.wav"/>
-            <a dialect="xxx" speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ysttayd_SKO111220_EL.wav"
-            />
+            <a dialect="xxx"
+               speaker="EL"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ysttayd_SKO111220_EL.wav"/>
          </audio>
       </lg>
       <sources>
