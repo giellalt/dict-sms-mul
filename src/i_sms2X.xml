@@ -41,6 +41,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="i" stat="pref">да</t>
             <t pos="i">всё-таки</t>
+            <t pos="i" t_type="sr">все-таки</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="i">kyllä</t>

@@ -77,6 +77,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="a" pred="приятно">приятный</t>
             <t pos="a" pred="весело">весёлый</t>
+            <t pos="a" pred="весело" t_type="sr">веселый</t>
             <t pos="a" pred="забавно">забавный</t>
          </tg>
          <tg xml:lang="fin">
@@ -109,6 +110,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sjd">
             <t pos="a" pred="ёррпэ">ёррп</t>
+            <t pos="a" pred="ёррпэ" t_type="sr">еррп</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="a">pyöreä</t>
@@ -346,6 +348,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="a" stat="pref">твёрдый</t>
+            <t pos="a" t_type="sr">твердый</t>
             <t pos="a">твердый</t>
          </tg>
          <tg xml:lang="nob">
@@ -430,6 +433,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="a" stat="pref">тёплый</t>
+            <t pos="a" t_type="sr">теплый</t>
             <t pos="a">теплый</t>
          </tg>
          <tg xml:lang="nob">
@@ -477,6 +481,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="a" pred="тяжёл" stat="pref">тяжёлый</t>
+            <t pos="a" pred="тяжёл" t_type="sr">тяжелый</t>
             <t pos="a" pred="тяжел">тяжелый</t>
          </tg>
          <tg xml:lang="nob">
@@ -891,6 +896,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="a" pred="тёпел" stat="pref">тёплый</t>
+            <t pos="a" pred="тёпел" t_type="sr">теплый</t>
             <t pos="a" pred="тепел">теплый</t>
          </tg>
          <tg xml:lang="nob">
@@ -1084,6 +1090,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <re>кроме растений</re>
             <t pos="a" pred="зелён" stat="pref">зелёный</t>
+            <t pos="a" pred="зелён" t_type="sr">зеленый</t>
             <t pos="a" pred="зелен">зеленый</t>
          </tg>
          <tg xml:lang="nob">
@@ -1129,6 +1136,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <re>о растениях</re>
             <t pos="a" stat="pref">зелёный</t>
+            <t pos="a" t_type="sr">зеленый</t>
             <t pos="a">зеленый</t>
          </tg>
          <tg xml:lang="fin">
@@ -1588,6 +1596,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="a" pred="жёлт" stat="pref">жёлтый</t>
+            <t pos="a" pred="жёлт" t_type="sr">желтый</t>
             <t pos="a" pred="желт">желтый</t>
          </tg>
          <tg xml:lang="nob">
@@ -1875,6 +1884,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="a" pred="чёрен" stat="pref">чёрный</t>
+            <t pos="a" pred="чёрен" t_type="sr">черный</t>
             <t pos="a" pred="черен">черный</t>
             <t pos="a" pred="тёмен" stat="pref">темный</t>
             <t pos="a" pred="темен">темный</t>

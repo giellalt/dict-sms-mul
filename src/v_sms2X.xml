@@ -324,6 +324,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="v" impf="замёрзнуть">мёрзнуть</t>
+            <t pos="v" impf="замёрзнуть" t_type="sr">мерзнуть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">fryse</t>
@@ -934,6 +935,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="v">снег идёт</t>
+            <t pos="v" t_type="sr">снег идет</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="v">snow</t>
@@ -1153,6 +1155,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="v" impf="замёрзнуть">мёрзнуть</t>
+            <t pos="v" impf="замёрзнуть" t_type="sr">мерзнуть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">fryse</t>

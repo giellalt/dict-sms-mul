@@ -2238,6 +2238,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Артём</t>
+            <t pos="prop" t_type="sr">Артем</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">egennavn</t>
@@ -2393,6 +2394,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Пётр</t>
+            <t pos="prop" t_type="sr">Петр</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Petter</t>

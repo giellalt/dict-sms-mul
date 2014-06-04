@@ -432,6 +432,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="v" stat="pref">пойдём!</t>
+            <t pos="v" t_type="sr">пойдем!</t>
             <t pos="v">пойдем!</t>
          </tg>
       </mg>
@@ -531,7 +532,9 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="adp" stat="pref">на четырёх колёсах</t>
+            <t pos="adp" t_type="sr">на четырех колесах</t>
             <t pos="adp">четырмя колёсами</t>
+            <t pos="adp" t_type="sr">четырмя колесами</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="np">neljällä pyörällä</t>
@@ -818,6 +821,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">всё время</t>
+            <t pos="n" t_type="sr">все время</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">alltid</t>
@@ -863,6 +867,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="s">пойдём что ли?</t>
+            <t pos="s" t_type="sr">пойдем что ли?</t>
             <t pos="s">пойдем что ли?</t>
             <t pos="s">уходим что ли?</t>
          </tg>
