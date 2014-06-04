@@ -1515,7 +1515,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">lentsikka</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="n" ё="самолёт">самолет</t>
+            <t pos="n">самолёт</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">girdi</t>
@@ -1907,7 +1907,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">ice</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="n" ё="лёд">лед</t>
+            <t pos="n">лёд</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">jää</t>
@@ -4156,7 +4156,7 @@ For the full license text, see the link above.</lic>
             <sem class="FOOD">NATURE</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="n" ё="сёмга" stat="pref">семга</t>
+            <t pos="n" stat="pref">сёмга</t>
             <t pos="n">лосос</t>
          </tg>
          <tg xml:lang="fin">
@@ -4757,7 +4757,7 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN">FAMILY</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="n" ё="тётя">тетя</t>
+            <t pos="n">тётя</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">täti</t>
@@ -6649,7 +6649,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">перо</t>
-            <t pos="n" ё="пёрышко">перышко</t>
+            <t pos="n">пёрышко</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n" stat="pref">höyhen</t>
@@ -7424,7 +7424,7 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="n" ё="ребёнок" stat="pref">ребенок</t>
+            <t pos="n" stat="pref">ребёнок</t>
             <t pos="n">дитя</t>
             <t pos="n">малыш</t>
          </tg>
@@ -9499,7 +9499,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">koivu</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="n" ё="берёза">береза</t>
+            <t pos="n">берёза</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">bjørk</t>
@@ -10223,7 +10223,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">огонь</t>
-            <t pos="n" ё="костёр">костер</t>
+            <t pos="n">костёр</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">tuli</t>
@@ -10351,7 +10351,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">rope</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="n" ё="верёвка">веревка</t>
+            <t pos="n">верёвка</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">tau</t>
@@ -10855,7 +10855,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">перо</t>
-            <t pos="n" ё="пёрышко">перышко</t>
+            <t pos="n">пёрышко</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">sulka</t>
@@ -11295,7 +11295,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <re>оленя</re>
-            <t pos="n" ё="телёнок">теленок</t>
+            <t pos="n">телёнок</t>
          </tg>
          <tg xml:lang="nob">
             <re>reinsdyr</re>
@@ -13860,7 +13860,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">matto</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="n" ё="ковёр">ковер</t>
+            <t pos="n">ковёр</t>
          </tg>
       </mg>
    </e>

@@ -323,7 +323,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">freeze</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" impf="замёрзнуть" ё="мёрзнуть">мерзнуть</t>
+            <t pos="v" impf="замёрзнуть">мёрзнуть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">fryse</t>
@@ -1152,7 +1152,7 @@ For the full license text, see the link above.</lic>
             <t pos="v">freeze</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="v" impf="замёрзнуть" ё="мёрзнуть">мерзнуть</t>
+            <t pos="v" impf="замёрзнуть">мёрзнуть</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">fryse</t>
