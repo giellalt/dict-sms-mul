@@ -242,7 +242,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="a">eri</t>
             <t pos="a">toinen</t>
-            <t pos="a" stat="pref">muu</t>
+            <t pos="a" stat="pref" x_check="_xxx_">muu</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="a">eará</t>

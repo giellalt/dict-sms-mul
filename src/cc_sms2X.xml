@@ -106,7 +106,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="cc">но</t>
-            <t pos="cc" stat="pref">а</t>
+            <t pos="cc" stat="pref" x_check="_xxx_">а</t>
             <t pos="cc">однако</t>
          </tg>
          <tg xml:lang="fin">

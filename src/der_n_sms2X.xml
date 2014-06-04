@@ -132,7 +132,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">ihminen</t>
-            <t pos="n" stat="pref">henkilö</t>
+            <t pos="n" stat="pref" x_check="_xxx_">henkilö</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">person</t>

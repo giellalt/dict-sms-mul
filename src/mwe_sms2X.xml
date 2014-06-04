@@ -368,7 +368,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="s">что нового?</t>
-            <t pos="s" stat="pref">как дела?</t>
+            <t pos="s" stat="pref" x_check="_xxx_">как дела?</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="s">mitä kuuluu?</t>
@@ -466,11 +466,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="fin">
             <t pos="s">tässä, ota!</t>
-            <t pos="s" stat="pref">ole hyvä!</t>
+            <t pos="s" stat="pref" x_check="_xxx_">ole hyvä!</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="s">возьми!</t>
-            <t pos="s" stat="pref">пожалуйста, будь добр!</t>
+            <t pos="s" stat="pref" x_check="_xxx_">пожалуйста, будь добр!</t>
          </tg>
       </mg>
    </e>

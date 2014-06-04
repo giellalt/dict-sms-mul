@@ -101,7 +101,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="adv" exclude="oahpa;" style="obs">whither</t>
-            <t pos="adv" stat="pref">where</t>
+            <t pos="adv" stat="pref" x_check="_xxx_">where</t>
             <t pos="adv">to where</t>
          </tg>
          <tg xml:lang="fin">
@@ -164,7 +164,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="adv" exclude="oahpa;" style="obs">whence</t>
-            <t pos="adv" stat="pref">wherefrom</t>
+            <t pos="adv" stat="pref" x_check="_xxx_">wherefrom</t>
             <t pos="adv">from where</t>
          </tg>
          <tg xml:lang="fin">

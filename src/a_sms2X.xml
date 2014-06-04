@@ -1886,7 +1886,7 @@ For the full license text, see the link above.</lic>
             <t pos="a" pred="чёрен" stat="pref">чёрный</t>
             <t pos="a" pred="чёрен" t_type="sr">черный</t>
             <t pos="a" pred="черен">черный</t>
-            <t pos="a" pred="тёмен" stat="pref">темный</t>
+            <t pos="a" pred="тёмен" stat="pref" x_check="_xxx_">темный</t>
             <t pos="a" pred="темен">темный</t>
          </tg>
          <tg xml:lang="sjd">
@@ -2130,9 +2130,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="a">большой</t>
-            <t pos="a" stat="pref">крупный</t>
+            <t pos="a" stat="pref" x_check="_xxx_">крупный</t>
             <t pos="a">огромный</t>
-            <t pos="a" stat="pref">громадный</t>
+            <t pos="a" stat="pref" x_check="_xxx_">громадный</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="a">шӯрр</t>

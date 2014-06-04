@@ -1607,7 +1607,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n">bog blueberry</t>
-            <t pos="n" stat="pref">bog whortleberry</t>
+            <t pos="n" stat="pref" x_check="_xxx_">bog whortleberry</t>
             <t pos="n" variant="british">bog bilberry</t>
          </tg>
          <tg xml:lang="sme">
@@ -1885,7 +1885,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">stemme</t>
-            <t pos="n" stat="pref">lyd</t>
+            <t pos="n" stat="pref" x_check="_xxx_">lyd</t>
          </tg>
       </mg>
    </e>
@@ -3680,7 +3680,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">kuori</t>
-            <t pos="n" stat="pref">kaarna</t>
+            <t pos="n" stat="pref" x_check="_xxx_">kaarna</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">garra</t>
@@ -4517,7 +4517,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n" gloss="pl">woods</t>
-            <t pos="n" stat="pref">forrest</t>
+            <t pos="n" stat="pref" x_check="_xxx_">forrest</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">лес</t>
@@ -6628,7 +6628,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">ураган</t>
-            <t pos="n" stat="pref">буря</t>
+            <t pos="n" stat="pref" x_check="_xxx_">буря</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">myrskysää</t>
@@ -6721,7 +6721,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">жир</t>
-            <t pos="n" stat="pref">сало</t>
+            <t pos="n" stat="pref" x_check="_xxx_">сало</t>
             <t pos="n">копчёное</t>
             <t pos="n" t_type="sr">копченое</t>
          </tg>
@@ -9969,7 +9969,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">брусок</t>
-            <t pos="n" stat="pref">оселок</t>
+            <t pos="n" stat="pref" x_check="_xxx_">оселок</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">hiomakivi</t>
@@ -12101,7 +12101,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">macintosh</t>
             <t pos="n" variant="british">mac</t>
             <t pos="n" variant="british">mack</t>
-            <t pos="n" stat="pref">raincoat</t>
+            <t pos="n" stat="pref" x_check="_xxx_">raincoat</t>
             <t pos="n" variant="british">waterproof</t>
          </tg>
          <tg xml:lang="fin">
