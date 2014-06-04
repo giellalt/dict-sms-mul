@@ -109,8 +109,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="cc">но</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="cc">а</t>
+         <tg xml:lang="rus">
+            <t pos="cc" stat="pref">а</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="cc">однако</t>

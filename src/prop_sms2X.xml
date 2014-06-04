@@ -336,8 +336,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="prop">Eskil</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="prop">Eskild</t>
+         <tg xml:lang="nob">
+            <t pos="prop" stat="pref">Eskild</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Askild</t>
@@ -695,8 +695,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="prop">Helsinki</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="prop">Helsingfors</t>
+         <tg xml:lang="nob">
+            <t pos="prop" stat="pref">Helsingfors</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="prop">Helsinki</t>
@@ -1217,14 +1217,14 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="prop">Christine</t>
+         <tg xml:lang="eng">
+            <t pos="prop" stat="pref">Christine</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="prop">Kristine</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="prop">Kirsti</t>
+         <tg xml:lang="fin">
+            <t pos="prop" stat="pref">Kirsti</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Kristiina</t>
@@ -1235,11 +1235,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="prop">Кристина</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="prop">Христина</t>
+         <tg xml:lang="rus">
+            <t pos="prop" stat="pref">Христина</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="prop">Kristina</t>
+         <tg xml:lang="nob">
+            <t pos="prop" stat="pref">Kristina</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Christina</t>
@@ -1748,8 +1748,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="prop">Muotka</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="prop">Мотовск</t>
+         <tg xml:lang="rus">
+            <t pos="prop" stat="pref">Мотовск</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Мотка</t>
@@ -1882,8 +1882,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="prop">Мария</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="prop">Marja</t>
+         <tg xml:lang="fin">
+            <t pos="prop" stat="pref">Marja</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Maria</t>
@@ -1894,8 +1894,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="prop">Maria</t>
          </tg>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="prop">Mary</t>
+         <tg xml:lang="eng">
+            <t pos="prop" stat="pref">Mary</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="prop">Miriam</t>
@@ -2076,8 +2076,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="prop" exclude="oahpa;">Nøttiager</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="prop">Notozero</t>
+         <tg xml:lang="nob">
+            <t pos="prop" stat="pref">Notozero</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Nuohttejávri</t>
@@ -2099,8 +2099,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="prop" exclude="oahpa;">Nøttiager</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="prop">Notozero</t>
+         <tg xml:lang="nob">
+            <t pos="prop" stat="pref">Notozero</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Nuohttejávri</t>
@@ -2385,8 +2385,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem type="ENVIR">SETTLEMENT</sem>
          </semantics>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="prop">Pasvik</t>
+         <tg xml:lang="eng">
+            <t pos="prop" stat="pref">Pasvik</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="prop">Paatsjoki</t>
@@ -2408,8 +2408,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem type="ENVIR">TOPONOMY</sem>
          </semantics>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="prop">Pasvikelva</t>
+         <tg xml:lang="eng">
+            <t pos="prop" stat="pref">Pasvikelva</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="prop">Paatsjoki</t>
@@ -2461,8 +2461,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="prop">Petter</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="prop">Peder</t>
+         <tg xml:lang="nob">
+            <t pos="prop" stat="pref">Peder</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Per</t>
@@ -2495,8 +2495,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="prop" exclude="oahpa;">Peisen</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="prop">Petsjenga</t>
+         <tg xml:lang="nob">
+            <t pos="prop" stat="pref">Petsjenga</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Beahccam</t>
@@ -3067,8 +3067,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="prop">Suonikylä</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="prop">Сонгельск</t>
+         <tg xml:lang="rus">
+            <t pos="prop" stat="pref">Сонгельск</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Суоникюла</t>
@@ -3149,8 +3149,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="prop">Sophia</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="prop">Sofie</t>
+         <tg xml:lang="nob">
+            <t pos="prop" stat="pref">Sofie</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Sophia</t>
@@ -3505,8 +3505,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="prop">Tatjaana</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="prop">Татьяна</t>
+         <tg xml:lang="rus">
+            <t pos="prop" stat="pref">Татьяна</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Танья</t>
@@ -3757,8 +3757,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="prop">Vasko</t>
+         <tg xml:lang="fin">
+            <t pos="prop" stat="pref">Vasko</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Pasi</t>
@@ -3795,8 +3795,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="prop">Siina</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="prop">Зинаида</t>
+         <tg xml:lang="rus">
+            <t pos="prop" stat="pref">Зинаида</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Зина</t>
@@ -4031,8 +4031,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem type="HUMAN">PEOPLE</sem>
          </semantics>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="prop">Annikki</t>
+         <tg xml:lang="fin">
+            <t pos="prop" stat="pref">Annikki</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="prop">Anni</t>
@@ -4043,8 +4043,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="prop">Анюшка</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="prop">Anni</t>
+         <tg xml:lang="nob">
+            <t pos="prop" stat="pref">Anni</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Anna</t>
@@ -4107,8 +4107,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="prop">Anni</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="prop">Анна</t>
+         <tg xml:lang="rus">
+            <t pos="prop" stat="pref">Анна</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Аня</t>

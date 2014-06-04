@@ -80,8 +80,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="pro">что</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="pro">который</t>
+         <tg xml:lang="rus">
+            <t pos="pro" stat="pref">который</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="cs">joka</t>
@@ -106,7 +106,7 @@ For the full license text, see the link above.</lic>
             <t pos="cs">поскольку</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="cs" oahpa="pref">потомучто</t>
+            <t pos="cs" stat="pref">потомучто</t>
             <t pos="cs">потому что</t>
             <t pos="cs">потому, что</t>
          </tg>
@@ -259,7 +259,7 @@ For the full license text, see the link above.</lic>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="fin">
-            <t pos="cs" oahpa="pref">koska</t>
+            <t pos="cs" stat="pref">koska</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="cs">sille</t>
@@ -271,7 +271,7 @@ For the full license text, see the link above.</lic>
             <t pos="cs">fordi</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="cs" oahpa="pref">потомучто</t>
+            <t pos="cs" stat="pref">потомучто</t>
             <t pos="cs">потому что</t>
             <t pos="cs">потому, что</t>
          </tg>

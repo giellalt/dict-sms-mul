@@ -70,8 +70,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="deu">
             <t pos="det">jenes</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="det">det</t>
+         <tg xml:lang="nob">
+            <t pos="det" stat="pref">det</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="det">det der</t>
@@ -243,20 +243,20 @@ For the full license text, see the link above.</lic>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="a" oahpa="pref">other</t>
+            <t pos="a" stat="pref">other</t>
             <t pos="a">different</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="a">другой</t>
          </tg>
          <tg xml:lang="nob">
-            <t pos="a" oahpa="pref">annen</t>
+            <t pos="a" stat="pref">annen</t>
             <t pos="a">annerledes</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="a">eri</t>
             <t pos="a">toinen</t>
-            <t pos="a" oahpa="pref">muu</t>
+            <t pos="a" stat="pref">muu</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="a">eará</t>
@@ -286,8 +286,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="det">se</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="det">этот</t>
+         <tg xml:lang="rus">
+            <t pos="det" stat="pref">этот</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="det">тот</t>

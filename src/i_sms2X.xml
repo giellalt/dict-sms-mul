@@ -38,17 +38,17 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="i">yes</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="i">да</t>
+         <tg xml:lang="rus">
+            <t pos="i" stat="pref">да</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="i">всё-таки </t>
+            <t pos="i">всё-таки</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="i">kyllä</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="i">ja</t>
+         <tg xml:lang="nob">
+            <t pos="i" stat="pref">ja</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="i">vel</t>
@@ -66,17 +66,17 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="HUMAN">SOCIAL</sem>
          </semantics>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="i">terve</t>
+         <tg xml:lang="fin">
+            <t pos="i" stat="pref">terve</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="i">привет</t>
+         <tg xml:lang="rus">
+            <t pos="i" stat="pref">привет</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="i">hei</t>
+         <tg xml:lang="nob">
+            <t pos="i" stat="pref">hei</t>
          </tg>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="i">hallo</t>
+         <tg xml:lang="eng">
+            <t pos="i" stat="pref">hallo</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="i">päivää</t>
@@ -136,8 +136,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="SENSE">PERCEPTION</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="n">правда</t>
+         <tg xml:lang="rus">
+            <t pos="n" stat="pref">правда</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">totta</t>

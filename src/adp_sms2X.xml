@@ -119,7 +119,7 @@ For the full license text, see the link above.</lic>
             <t pos="adp">на</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="adp">päälle </t>
+            <t pos="adp">päälle</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adp">til</t>
@@ -289,9 +289,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="adp">sisälle</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
+         <tg xml:lang="rus">
             <re>куда</re>
-            <t pos="adp">в</t>
+            <t pos="adp" stat="pref">в</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">внутрь</t>
@@ -327,8 +327,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="adp">takana</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adp">из-за</t>
+         <tg xml:lang="rus">
+            <t pos="adp" stat="pref">из-за</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adp">за</t>
@@ -404,8 +404,8 @@ For the full license text, see the link above.</lic>
             <re>кому</re>
             <t pos="adp">к</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="adp">luokse</t>
+         <tg xml:lang="fin">
+            <t pos="adp" stat="pref">luokse</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adp">luo</t>

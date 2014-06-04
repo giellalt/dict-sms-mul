@@ -42,8 +42,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="SENSE">QUANTITY</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="num">много</t>
+         <tg xml:lang="rus">
+            <t pos="num" stat="pref">много</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="num">несколько</t>

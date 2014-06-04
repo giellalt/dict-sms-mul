@@ -246,8 +246,8 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">MOTION</sem>
             <sem class="HUMAN">FAMILY</sem>
          </semantics>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="adv">home</t>
+         <tg xml:lang="eng">
+            <t pos="adv" stat="pref">home</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">homeward</t>
@@ -408,8 +408,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="TIME">POINT</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adv">уже</t>
+         <tg xml:lang="rus">
+            <t pos="adv" stat="pref">уже</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">уж</t>
@@ -526,8 +526,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="adv">long time</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adv">долго</t>
+         <tg xml:lang="rus">
+            <t pos="adv" stat="pref">долго</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">давно</t>
@@ -551,8 +551,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adv">радостно</t>
+         <tg xml:lang="rus">
+            <t pos="adv" stat="pref">радостно</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">весело</t>
@@ -591,8 +591,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="adv">når</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="adv">milloin</t>
+         <tg xml:lang="fin">
+            <t pos="adv" stat="pref">milloin</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">koska</t>
@@ -685,8 +685,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="adv">near</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adv">рядом</t>
+         <tg xml:lang="rus">
+            <t pos="adv" stat="pref">рядом</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">окола</t>
@@ -843,8 +843,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="adv">чуточку</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adv">чуть-чуть</t>
+         <tg xml:lang="rus">
+            <t pos="adv" stat="pref">чуть-чуть</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">немного</t>
@@ -855,11 +855,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="adv">litt</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="adv">en smule</t>
+         <tg xml:lang="nob">
+            <t pos="adv" stat="pref">en smule</t>
          </tg>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="adv">a little bit</t>
+         <tg xml:lang="eng">
+            <t pos="adv" stat="pref">a little bit</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">somewhat</t>
@@ -889,8 +889,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="adv">чуточку</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adv">чуть-чуть</t>
+         <tg xml:lang="rus">
+            <t pos="adv" stat="pref">чуть-чуть</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">немного</t>
@@ -901,11 +901,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="adv">litt</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="adv">en smule</t>
+         <tg xml:lang="nob">
+            <t pos="adv" stat="pref">en smule</t>
          </tg>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="adv">a little bit</t>
+         <tg xml:lang="eng">
+            <t pos="adv" stat="pref">a little bit</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">somewhat</t>
@@ -1026,8 +1026,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="adv">in</t>
+         <tg xml:lang="eng">
+            <t pos="adv" stat="pref">in</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">inside</t>
@@ -1091,20 +1091,20 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="adv">чуточку</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adv">немного</t>
+         <tg xml:lang="rus">
+            <t pos="adv" stat="pref">немного</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">vähän</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="adv">en smule</t>
+         <tg xml:lang="nob">
+            <t pos="adv" stat="pref">en smule</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">litt</t>
          </tg>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="adv">a little bit</t>
+         <tg xml:lang="eng">
+            <t pos="adv" stat="pref">a little bit</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">somewhat</t>
@@ -1136,8 +1136,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="adv">чуточку</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adv">чуть-чуть</t>
+         <tg xml:lang="rus">
+            <t pos="adv" stat="pref">чуть-чуть</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">немного</t>
@@ -1148,11 +1148,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="adv">litt</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="adv">en smule</t>
+         <tg xml:lang="nob">
+            <t pos="adv" stat="pref">en smule</t>
          </tg>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="adv">a little bit</t>
+         <tg xml:lang="eng">
+            <t pos="adv" stat="pref">a little bit</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">somewhat</t>
@@ -1286,8 +1286,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="adv">to here</t>
          </tg>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="adv">here</t>
+         <tg xml:lang="eng">
+            <t pos="adv" stat="pref">here</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">tänne</t>
@@ -1370,8 +1370,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="adv">dit</t>
          </tg>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="adv">to there</t>
+         <tg xml:lang="eng">
+            <t pos="adv" stat="pref">to there</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">there</t>
@@ -1414,8 +1414,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adv">на самом деле</t>
+         <tg xml:lang="rus">
+            <t pos="adv" stat="pref">на самом деле</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">вправду</t>
@@ -1714,8 +1714,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="adv">der</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="adv">siellä</t>
+         <tg xml:lang="fin">
+            <t pos="adv" stat="pref">siellä</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">tuolla</t>
@@ -1735,8 +1735,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="adv">from there</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adv">оттуда</t>
+         <tg xml:lang="rus">
+            <t pos="adv" stat="pref">оттуда</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">от там</t>
@@ -1744,8 +1744,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="adv">derfra</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="adv">sieltä</t>
+         <tg xml:lang="fin">
+            <t pos="adv" stat="pref">sieltä</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">tuolta</t>
@@ -1775,20 +1775,20 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="adv">sen takia</t>
+         <tg xml:lang="fin">
+            <t pos="adv" stat="pref">sen takia</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">siksi</t>
          </tg>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="adv">for that reason</t>
+         <tg xml:lang="eng">
+            <t pos="adv" stat="pref">for that reason</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">that's why</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adv">по этой причине</t>
+         <tg xml:lang="rus">
+            <t pos="adv" stat="pref">по этой причине</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">поэтому</t>
@@ -1927,7 +1927,7 @@ For the full license text, see the link above.</lic>
             <t pos="adv">more</t>
          </tg>
          <tg xml:lang="rus">
-            <t pos="adv" oahpa="pref">ещё</t>
+            <t pos="adv" stat="pref">ещё</t>
             <t pos="adv">еще</t>
          </tg>
          <tg xml:lang="fin">
@@ -1967,20 +1967,20 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adv">близко</t>
+         <tg xml:lang="rus">
+            <t pos="adv" stat="pref">близко</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">недалеко</t>
          </tg>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="adv">near</t>
+         <tg xml:lang="eng">
+            <t pos="adv" stat="pref">near</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">nearby</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="adv">lähellä</t>
+         <tg xml:lang="fin">
+            <t pos="adv" stat="pref">lähellä</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">lähelle</t>
@@ -2132,8 +2132,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="adv">very much</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="adv">kovin</t>
+         <tg xml:lang="fin">
+            <t pos="adv" stat="pref">kovin</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">aivan</t>
@@ -2141,8 +2141,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="adv">liian</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="adv">очень</t>
+         <tg xml:lang="rus">
+            <t pos="adv" stat="pref">очень</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">слишком</t>

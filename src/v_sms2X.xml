@@ -124,8 +124,8 @@ For the full license text, see the link above.</lic>
             <sem class="LANG">SPEECH</sem>
             <sem class="SENSE">COGNITION</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v" impf="высказать">сказать</t>
+         <tg xml:lang="rus">
+            <t pos="v" impf="высказать" stat="pref">сказать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">говорить</t>
@@ -133,8 +133,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sjd">
             <t pos="v">це̄ӆӆькэ</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="v">sanoa</t>
+         <tg xml:lang="fin">
+            <t pos="v" stat="pref">sanoa</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">lausua</t>
@@ -147,8 +147,8 @@ For the full license text, see the link above.</lic>
             <t pos="v">sagen</t>
             <t pos="v">sprechen</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="v">si</t>
+         <tg xml:lang="nob">
+            <t pos="v" stat="pref">si</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">snakke</t>
@@ -524,8 +524,8 @@ For the full license text, see the link above.</lic>
             <sem class="HOUSE">DWELLING</sem>
             <sem class="SPACE">POSITION</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">жить</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">жить</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="v">live</t>
@@ -536,8 +536,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">leve</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="v">bo</t>
+         <tg xml:lang="nob">
+            <t pos="v" stat="pref">bo</t>
          </tg>
       </mg>
       <mg>
@@ -670,8 +670,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="WORK"/>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">ехать</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">ехать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">двигаться</t>
@@ -702,8 +702,8 @@ For the full license text, see the link above.</lic>
             <sem class="FOOD">DISH</sem>
             <sem class="HUMAN">FAMILY</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">кофейничать</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">кофейничать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">пить кофе</t>
@@ -1002,8 +1002,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="v">dig</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v" impf="выкопать">копать</t>
+         <tg xml:lang="rus">
+            <t pos="v" impf="выкопать" stat="pref">копать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v" impf="вырыть">рыть</t>
@@ -1138,8 +1138,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="WORK"/>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">рухнуть</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">рухнуть</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">грохнуть</t>
@@ -1241,8 +1241,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v">стыдиться</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">стесняться</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">стесняться</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">ujostella</t>
@@ -2073,8 +2073,8 @@ For the full license text, see the link above.</lic>
             <sem class="FOOD">DISH</sem>
             <sem class="WORK">ECONOMY</sem>
          </semantics>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="v">grind</t>
+         <tg xml:lang="eng">
+            <t pos="v" stat="pref">grind</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="v">mill</t>
@@ -2613,8 +2613,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="v">koota</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="v">kerätä</t>
+         <tg xml:lang="fin">
+            <t pos="v" stat="pref">kerätä</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">samle</t>
@@ -2711,8 +2711,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v" impf="спрятать">прятать</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="v">gjemme</t>
+         <tg xml:lang="nob">
+            <t pos="v" stat="pref">gjemme</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">skjule</t>
@@ -2904,11 +2904,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="v">väännähyttää</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">свалить</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">свалить</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="v">kaste ned</t>
+         <tg xml:lang="nob">
+            <t pos="v" stat="pref">kaste ned</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">погнуть</t>
@@ -2939,8 +2939,8 @@ For the full license text, see the link above.</lic>
             <sem class="FOOD">DISH</sem>
             <sem class="BODY">HEALTH</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">есть</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">есть</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">кушать</t>
@@ -3132,8 +3132,8 @@ For the full license text, see the link above.</lic>
             <sem class="WORK">ECONOMY</sem>
             <sem class="SPACE">MOTION</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v" impf="прийти">приходить</t>
+         <tg xml:lang="rus">
+            <t pos="v" impf="прийти" stat="pref">приходить</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">приехать</t>
@@ -3324,8 +3324,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">svulme</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="v">ajettua</t>
+         <tg xml:lang="fin">
+            <t pos="v" stat="pref">ajettua</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">paisua</t>
@@ -3360,8 +3360,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v" impf="посмеяться">смеяться</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="v">le</t>
+         <tg xml:lang="nob">
+            <t pos="v" stat="pref">le</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">skratte</t>
@@ -3503,8 +3503,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="CLOTH">PART</sem>
          </semantics>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="v">launder</t>
+         <tg xml:lang="eng">
+            <t pos="v" stat="pref">launder</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="v">wash</t>
@@ -3547,20 +3547,20 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="v">produce</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">производить</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">производить</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v" impf="сделать">делать</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="v">lagre</t>
+         <tg xml:lang="nob">
+            <t pos="v" stat="pref">lagre</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">gjøre</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="v">tuottaa</t>
+         <tg xml:lang="fin">
+            <t pos="v" stat="pref">tuottaa</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">tehdä</t>
@@ -3607,8 +3607,8 @@ For the full license text, see the link above.</lic>
             <sem class="SENSE">QUANTITY</sem>
             <sem class="WORK">SCHOOL</sem>
          </semantics>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="v">calculate</t>
+         <tg xml:lang="eng">
+            <t pos="v" stat="pref">calculate</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="v">count</t>
@@ -3664,8 +3664,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">gråte</t>
          </tg>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="v">cry</t>
+         <tg xml:lang="eng">
+            <t pos="v" stat="pref">cry</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="v">weep</t>
@@ -3702,8 +3702,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="v">naurahtaa</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">смеяться</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">смеяться</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">усмехнуться</t>
@@ -3820,8 +3820,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">gni</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="v">hieroa</t>
+         <tg xml:lang="fin">
+            <t pos="v" stat="pref">hieroa</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">hangata</t>
@@ -3852,8 +3852,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="v">dig</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v" impf="выкопать">копать</t>
+         <tg xml:lang="rus">
+            <t pos="v" impf="выкопать" stat="pref">копать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v" impf="вырыть">рыть</t>
@@ -3915,8 +3915,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="v">wipe</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v" impf="протереть">протирать</t>
+         <tg xml:lang="rus">
+            <t pos="v" impf="протереть" stat="pref">протирать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v" impf="стереть">стирать</t>
@@ -3985,8 +3985,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="sjd">
             <t pos="v">сӣррэ</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="v">leikkiä</t>
+         <tg xml:lang="fin">
+            <t pos="v" stat="pref">leikkiä</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">pelata</t>
@@ -3994,8 +3994,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v">играть</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="v">leike</t>
+         <tg xml:lang="nob">
+            <t pos="v" stat="pref">leike</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">spille</t>
@@ -4295,8 +4295,8 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN">POSSESSION</sem>
          </semantics>
          <lexicon xml:lang="rus">иметь потребность</lexicon>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">нуждаться</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">нуждаться</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">надо</t>
@@ -4492,8 +4492,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v">чувствовать</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">знать</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">знать</t>
          </tg>
       </mg>
    </e>
@@ -4767,8 +4767,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v" impf="втиснуть">втискивать</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="v">kveste</t>
+         <tg xml:lang="nob">
+            <t pos="v" stat="pref">kveste</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">knuse</t>
@@ -4798,8 +4798,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="WORK"/>
          </semantics>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="v">tavoittaa</t>
+         <tg xml:lang="fin">
+            <t pos="v" stat="pref">tavoittaa</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">napata</t>
@@ -4839,8 +4839,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v">бегать</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="v">springe</t>
+         <tg xml:lang="nob">
+            <t pos="v" stat="pref">springe</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">løpe</t>
@@ -4910,8 +4910,8 @@ For the full license text, see the link above.</lic>
             <sem class="WORK">ECONOMY</sem>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">дать</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">дать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">отдать</t>
@@ -5047,8 +5047,8 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN"/>
             <sem class="SENSE">EMOTION</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">обвенчать</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">обвенчать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">венчать</t>
@@ -5211,8 +5211,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="v">nähdä</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">видеть</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">видеть</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">замечать</t>
@@ -5331,8 +5331,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v" impf="стошнить">тошнить</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v" impf="вырвать">рвать</t>
+         <tg xml:lang="rus">
+            <t pos="v" impf="вырвать" stat="pref">рвать</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">kaste opp</t>
@@ -5409,8 +5409,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">kaste</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="v">nakata</t>
+         <tg xml:lang="fin">
+            <t pos="v" stat="pref">nakata</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">heittää</t>
@@ -5484,8 +5484,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v" impf="получить">получать</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">мочь</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">мочь</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">saada</t>
@@ -5901,8 +5901,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v">взять</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">брать</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">брать</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">ottaa</t>
@@ -6303,8 +6303,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v">быть нужным</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">нуждаться</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">нуждаться</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">pitää</t>
@@ -6339,14 +6339,14 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="WORK"/>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">успевать</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">успевать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">достигать</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="v">ehtiä</t>
+         <tg xml:lang="fin">
+            <t pos="v" stat="pref">ehtiä</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">joutaa</t>
@@ -6390,14 +6390,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="v">hide</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">закопать</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">закопать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">закрыть</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="v">skjule</t>
+         <tg xml:lang="nob">
+            <t pos="v" stat="pref">skjule</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">gjemme</t>
@@ -6627,8 +6627,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="v">cut</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">резать</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">резать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">разрезать</t>
@@ -6970,8 +6970,8 @@ For the full license text, see the link above.</lic>
             <sem class="SPACE">MOTION</sem>
             <sem class="WORK">TRAVEL</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">летать</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">летать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">лететь</t>
@@ -7016,8 +7016,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="FOOD">DISH</sem>
          </semantics>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">варить</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">варить</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">готовить</t>
@@ -7083,11 +7083,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v">торопиться</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">спешить</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">спешить</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="v">haste</t>
+         <tg xml:lang="nob">
+            <t pos="v" stat="pref">haste</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">skynde</t>
@@ -7114,8 +7114,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="v">katsella</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v">смотреть</t>
+         <tg xml:lang="rus">
+            <t pos="v" stat="pref">смотреть</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">глядеть</t>
@@ -7187,14 +7187,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="v">test</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="v">koetella</t>
+         <tg xml:lang="fin">
+            <t pos="v" stat="pref">koetella</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">kokeilla</t>
          </tg>
-         <tg xml:lang="rus" oahpa="pref">
-            <t pos="v" impf="пробовать">попробовать</t>
+         <tg xml:lang="rus">
+            <t pos="v" impf="пробовать" stat="pref">попробовать</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">экспериментировать</t>
@@ -7202,8 +7202,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v">испытывать</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="v">prøve</t>
+         <tg xml:lang="nob">
+            <t pos="v" stat="pref">prøve</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="v">forsøke</t>
@@ -7268,8 +7268,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="v">trekke</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="v">dra</t>
+         <tg xml:lang="nob">
+            <t pos="v" stat="pref">dra</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="v">vetää</t>

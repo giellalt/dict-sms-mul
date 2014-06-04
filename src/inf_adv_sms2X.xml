@@ -102,14 +102,14 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="adv" exclude="oahpa;" style="obs">whither</t>
          </tg>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="adv">where</t>
+         <tg xml:lang="eng">
+            <t pos="adv" stat="pref">where</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">to where</t>
          </tg>
-         <tg xml:lang="fin" oahpa="pref">
-            <t pos="adv">mihin</t>
+         <tg xml:lang="fin">
+            <t pos="adv" stat="pref">mihin</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">minne</t>
@@ -117,8 +117,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="adv">куда</t>
          </tg>
-         <tg xml:lang="nob" oahpa="pref">
-            <t pos="adv">hvor</t>
+         <tg xml:lang="nob">
+            <t pos="adv" stat="pref">hvor</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">hvorhen</t>
@@ -145,8 +145,8 @@ For the full license text, see the link above.</lic>
          <semantics>
             <sem class="SPACE">POSITION</sem>
          </semantics>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="adv">where</t>
+         <tg xml:lang="eng">
+            <t pos="adv" stat="pref">where</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">where at</t>
@@ -177,8 +177,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="adv" exclude="oahpa;" style="obs">whence</t>
          </tg>
-         <tg xml:lang="eng" oahpa="pref">
-            <t pos="adv">wherefrom</t>
+         <tg xml:lang="eng">
+            <t pos="adv" stat="pref">wherefrom</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv">from where</t>
