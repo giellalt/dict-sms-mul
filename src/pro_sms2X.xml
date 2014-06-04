@@ -80,8 +80,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="pro" stat="pref">mikä</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="pro">mitä</t>
          </tg>
          <tg xml:lang="nob">
@@ -177,6 +175,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sme">
             <t pos="pro">mun</t>
+            <t pos="pro">mun</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="pro">мунн</t>
@@ -186,9 +185,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="pro">jeg</t>
-         </tg>
-         <tg xml:lang="sme">
-            <t pos="pro">mun</t>
          </tg>
          <tg xml:lang="sju">
             <t pos="pro">månna</t>
@@ -273,8 +269,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sme">
             <t pos="pro">sii</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="pro">sii</t>
          </tg>
          <tg xml:lang="sju">
@@ -305,8 +299,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="pro" stat="pref">hän</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="pro">se</t>
          </tg>
          <tg xml:lang="nob">
@@ -436,15 +428,13 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="pro">who</t>
+            <t pos="pro">who</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="pro">кто</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="pro">ке̄</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="pro">who</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="pro">wer</t>

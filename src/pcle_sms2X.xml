@@ -59,8 +59,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="pcle" labial="-kaan">-kään</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="v" gloss="3sg">ei</t>
          </tg>
          <tg xml:lang="nob">
@@ -131,14 +129,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="pcle">ведь</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="pcle">же</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="pcle" labial="-pa">-pä</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="pcle" labial="-han">-hän</t>
          </tg>
       </mg>
@@ -159,8 +153,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="pcle" labial="-pa">-pä</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="pcle" labial="-han">-hän</t>
          </tg>
          <tg xml:lang="rus">
@@ -234,14 +226,10 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="pcle">тоже</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="pcle">также</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="pcle">mjös</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="pcle">-kin</t>
          </tg>
          <tg xml:lang="nob">

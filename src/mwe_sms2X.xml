@@ -121,8 +121,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="eng">
             <t pos="np">boarding house</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">dormitory</t>
             <t pos="n">dorm</t>
          </tg>
@@ -178,8 +176,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="v">брать</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="v">схватить</t>
          </tg>
          <tg xml:lang="nob">
@@ -228,14 +224,10 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="adp">minkä takia</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="adv">miksi</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">зачем</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="adv">почему</t>
          </tg>
          <tg xml:lang="nob">
@@ -328,8 +320,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="s">иди помоги!</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="s">иди на помощь!</t>
          </tg>
          <tg xml:lang="nob">
@@ -378,8 +368,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="s">что нового?</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="s" stat="pref">как дела?</t>
          </tg>
          <tg xml:lang="fin">
@@ -420,8 +408,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="v">приходи!</t>
             <t pos="v">иди!</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="v">come!</t>
             <t pos="v">come in!</t>
          </tg>
@@ -545,8 +531,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="adp" stat="pref">на четырёх колёсах</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="adp">четырмя колёсами</t>
          </tg>
          <tg xml:lang="fin">
@@ -630,8 +614,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">колтта-саамский музей</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">музей колтта-саамов</t>
          </tg>
       </mg>
@@ -839,8 +821,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">alltid</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n">hele tiden</t>
          </tg>
       </mg>
@@ -884,8 +864,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="s">пойдём что ли?</t>
             <t pos="s">пойдем что ли?</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="s">уходим что ли?</t>
          </tg>
          <tg xml:lang="nob">
@@ -1003,8 +981,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="a" stat="pref">raskaana</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="v">olla paksuna</t>
          </tg>
          <tg xml:lang="nob">

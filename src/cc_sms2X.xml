@@ -41,8 +41,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="cc">vai</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="cc">tai</t>
          </tg>
          <tg xml:lang="rus">
@@ -108,23 +106,13 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="cc">но</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="cc" stat="pref">а</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="cc">однако</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="cc">mutta</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="cc">vaan</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="cc">entä</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="cc">no</t>
          </tg>
          <tg xml:lang="nob">
@@ -224,19 +212,13 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="cc">но</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="cc">однако</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="cc">mutta</t>
             <t pos="cc">vaan</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="cc">kunhan</t>
             <t pos="cc">saati</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="cc">silti</t>
             <t pos="cc">vaikka</t>
             <t pos="cc">vain</t>
@@ -272,8 +254,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="cc">eli</t>
             <t pos="cc">tai</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="cc">vai</t>
          </tg>
       </mg>

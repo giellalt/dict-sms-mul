@@ -132,8 +132,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">ihminen</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n" stat="pref">henkilö</t>
          </tg>
          <tg xml:lang="nob">
@@ -141,8 +139,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n" stat="pref">person</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">man</t>
          </tg>
          <tg xml:lang="sme">

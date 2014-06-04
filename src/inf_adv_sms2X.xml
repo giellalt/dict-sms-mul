@@ -101,17 +101,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="adv" exclude="oahpa;" style="obs">whither</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="adv" stat="pref">where</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="adv">to where</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv" stat="pref">mihin</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="adv">minne</t>
          </tg>
          <tg xml:lang="rus">
@@ -119,8 +113,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv" stat="pref">hvor</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="adv">hvorhen</t>
          </tg>
       </mg>
@@ -147,8 +139,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="adv" stat="pref">where</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="adv">where at</t>
          </tg>
          <tg xml:lang="fin">
@@ -156,12 +146,10 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="adv">где</t>
+            <t pos="adv">где</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="adv">gos</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="adv">где</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">hvor</t>
@@ -176,11 +164,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="adv" exclude="oahpa;" style="obs">whence</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="adv" stat="pref">wherefrom</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="adv">from where</t>
          </tg>
          <tg xml:lang="fin">

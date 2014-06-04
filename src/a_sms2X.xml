@@ -76,11 +76,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="a" pred="приятно">приятный</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a" pred="весело">весёлый</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a" pred="забавно">забавный</t>
          </tg>
          <tg xml:lang="fin">
@@ -88,8 +84,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">moro</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="a">morsom</t>
          </tg>
       </mg>
@@ -170,26 +164,18 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="a">большой</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a" pred="высок">высокий</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="a">iso</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="a">suuri</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="a">stor</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="a">høg</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="a">big</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="a">high</t>
          </tg>
       </mg>
@@ -537,8 +523,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="deu">
             <t pos="a">morsch</t>
-         </tg>
-         <tg xml:lang="deu">
             <t pos="a">verfault</t>
          </tg>
          <tg xml:lang="eng">
@@ -593,8 +577,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="a" stat="pref">tasainen</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="a">sileä</t>
          </tg>
          <tg xml:lang="sme">
@@ -625,8 +607,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="a">радостный</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a">довольный</t>
          </tg>
          <tg xml:lang="fin">
@@ -634,8 +614,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="a">fornøyd</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="a">glad</t>
          </tg>
       </mg>
@@ -660,14 +638,10 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="a">vacker</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="a">pen</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="a">beautiful</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="a">pretty</t>
          </tg>
       </mg>
@@ -959,8 +933,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="a" stat="pref">kitkerä</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="a">karvas</t>
          </tg>
          <tg xml:lang="sjd">
@@ -1073,8 +1045,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="a" stat="pref">kvass</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="a">skarp</t>
          </tg>
          <tg xml:lang="fin">
@@ -1162,10 +1132,8 @@ For the full license text, see the link above.</lic>
             <t pos="a">зеленый</t>
          </tg>
          <tg xml:lang="fin">
-            <t pos="a" stat="pref">vihanta</t>
-         </tg>
-         <tg xml:lang="fin">
             <re>kasveista</re>
+            <t pos="a" stat="pref">vihanta</t>
             <t pos="a">vihreä</t>
          </tg>
          <tg xml:lang="nob">
@@ -1178,17 +1146,12 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <re>of plants</re>
             <t pos="a" stat="pref">green</t>
-         </tg>
-         <tg xml:lang="eng">
-            <re>of plants</re>
             <t pos="a">fresh</t>
          </tg>
          <tg xml:lang="deu">
             <re>von Pflanzen</re>
             <t pos="a">grün</t>
             <t pos="a">frisch</t>
-         </tg>
-         <tg xml:lang="deu">
             <t pos="a">unreif</t>
          </tg>
          <tg xml:lang="sme">
@@ -1218,8 +1181,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="a" pred="красен">красный</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a" pred="ал">алый</t>
          </tg>
          <tg xml:lang="sjd">
@@ -1282,17 +1243,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="a">любимый</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a">дорогой</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="a" stat="pref">beloved</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">love</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="a">dear</t>
          </tg>
          <tg xml:lang="fin">
@@ -1340,8 +1295,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="a" stat="pref">hoikka</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="a">kapea</t>
          </tg>
          <tg xml:lang="sjd">
@@ -1462,8 +1415,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="a" stat="pref">полный</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a">наполненный</t>
          </tg>
          <tg xml:lang="sjd">
@@ -1471,8 +1422,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="a" stat="pref">täysi</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="a">täysinäinen</t>
          </tg>
          <tg xml:lang="eng">
@@ -1559,8 +1508,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="a">small</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="a">little</t>
          </tg>
          <tg xml:lang="rus">
@@ -1816,8 +1763,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sju">
             <t pos="a">njualˈgada</t>
-         </tg>
-         <tg xml:lang="sju">
             <t pos="a">räkˈtee</t>
          </tg>
       </mg>
@@ -1828,11 +1773,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="a" stat="pref">correct</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="a">right</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="a">straight</t>
          </tg>
          <tg xml:lang="nob">
@@ -1846,8 +1787,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sme">
             <t pos="a">vuoigat</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="a">rievttes</t>
          </tg>
          <tg xml:lang="sju">
@@ -1937,8 +1876,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="a" pred="чёрен" stat="pref">чёрный</t>
             <t pos="a" pred="черен">черный</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a" pred="тёмен" stat="pref">темный</t>
             <t pos="a" pred="темен">темный</t>
          </tg>
@@ -1984,11 +1921,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="a">ловкий</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a">искусный</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a">талантливый</t>
          </tg>
          <tg xml:lang="fin">
@@ -2044,20 +1977,14 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="a">яркий</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a">светлый</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="a">kirkas</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="a">valoisa</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="a">klar</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="a">lys</t>
          </tg>
       </mg>
@@ -2089,8 +2016,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="a" stat="pref">прохладный</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a">свежий</t>
          </tg>
          <tg xml:lang="nob">
@@ -2195,14 +2120,8 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="a">большой</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a" stat="pref">крупный</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a">огромный</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a" stat="pref">громадный</t>
          </tg>
          <tg xml:lang="sjd">
@@ -2210,8 +2129,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="a" stat="pref">suuri</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="a">iso</t>
          </tg>
          <tg xml:lang="eng">

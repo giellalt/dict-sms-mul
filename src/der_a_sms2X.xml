@@ -222,8 +222,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="a">жаркий</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a">горячий</t>
          </tg>
          <tg xml:lang="fin">
@@ -231,8 +229,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="a">burning hot</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="a" stat="pref">hot</t>
          </tg>
          <tg xml:lang="deu">
@@ -319,8 +315,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="a" stat="pref">pahanhajunen</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="a">kitkerä</t>
          </tg>
          <tg xml:lang="sme">
@@ -429,8 +423,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="a">бессильный</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a">слабый</t>
          </tg>
          <tg xml:lang="nob">
@@ -537,8 +529,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="fin">
             <t pos="a">samalla tavalla</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="a">samoin</t>
          </tg>
          <tg xml:lang="rus">
@@ -546,14 +536,10 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="a" stat="pref">det samme</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="a">på samme sett</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="a">the same</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="a">similar</t>
          </tg>
       </mg>
@@ -596,8 +582,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="a">разный</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="det">всякий</t>
          </tg>
          <tg xml:lang="fin">
@@ -622,8 +606,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="a" stat="pref">различный</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a">разный</t>
          </tg>
          <tg xml:lang="fin">

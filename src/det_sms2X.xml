@@ -72,8 +72,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="det" stat="pref">det</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="det">det der</t>
          </tg>
          <tg xml:lang="sme">
@@ -147,8 +145,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="fin">
             <t pos="a">same</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="a">sama</t>
          </tg>
          <tg xml:lang="rus">
@@ -175,27 +171,17 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="det">кто-то</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="det">какой-то</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="det" exclude="oahpa;">некий</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="det">joku</t>
             <t pos="det">jokunen</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="det">muuan</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="det">eräs</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="det">noen blant</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="det">en av</t>
          </tg>
       </mg>
@@ -288,8 +274,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="det" stat="pref">этот</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="det">тот</t>
          </tg>
          <tg xml:lang="nob">

@@ -44,11 +44,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="num" stat="pref">много</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="num">несколько</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="a">многочисленный</t>
          </tg>
          <tg xml:lang="fin">
@@ -406,8 +402,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="num">десять</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="num">десятеро</t>
          </tg>
          <tg xml:lang="fin">

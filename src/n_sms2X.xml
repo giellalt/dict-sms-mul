@@ -125,8 +125,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">skoltesame</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n">Skolt Sami</t>
          </tg>
       </mg>
@@ -221,8 +219,6 @@ For the full license text, see the link above.</lic>
       <mg>
          <tg xml:lang="fin">
             <t pos="n">hikka</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">Schluckauf</t>
          </tg>
          <tg xml:lang="rus">
@@ -282,8 +278,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">bishopric</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">diocese</t>
          </tg>
          <tg xml:lang="fin">
@@ -291,8 +285,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">bismaguovlu</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="n">bismagoddi</t>
          </tg>
       </mg>
@@ -330,8 +322,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">beginning</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">start</t>
          </tg>
          <tg xml:lang="fin">
@@ -381,8 +371,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">prologue</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">foreword</t>
          </tg>
          <tg xml:lang="fin">
@@ -688,8 +676,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="n">bliny</t>
             <t pos="n">blini</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">pancake</t>
          </tg>
          <tg xml:lang="rus">
@@ -772,8 +758,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="n">czar</t>
             <t pos="n">tsar</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">king</t>
          </tg>
          <tg xml:lang="rus">
@@ -893,8 +877,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n" stat="pref">physician</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n" short="doctor">medical doctor</t>
          </tg>
          <tg xml:lang="fin">
@@ -1062,11 +1044,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n" british="colour">color</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">tone</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">shade</t>
          </tg>
          <tg xml:lang="fin">
@@ -1177,8 +1155,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="n">accordion</t>
             <t pos="n">squeezebox</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">garmon</t>
          </tg>
          <tg xml:lang="fin">
@@ -1202,8 +1178,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">gazette</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">newspaper</t>
          </tg>
          <tg xml:lang="fin">
@@ -1211,8 +1185,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">bláđđi</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="n">áviisa</t>
             <t pos="n">aviisa</t>
          </tg>
@@ -1540,8 +1512,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">lentokone</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">lentsikka</t>
          </tg>
          <tg xml:lang="rus">
@@ -1636,17 +1606,11 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n">bog blueberry</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n" stat="pref">bog whortleberry</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n" variant="british">bog bilberry</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">ehtemas</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="n">juogot</t>
          </tg>
       </mg>
@@ -1685,8 +1649,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sju">
             <t pos="n">eädˈnee</t>
-         </tg>
-         <tg xml:lang="sju">
             <t pos="n">tjidtjee</t>
          </tg>
       </mg>
@@ -1715,8 +1677,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">trekkrein</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n">trek ox</t>
          </tg>
       </mg>
@@ -1923,8 +1883,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">stemme</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n" stat="pref">lyd</t>
          </tg>
       </mg>
@@ -2051,8 +2009,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n" stat="pref">lingonberry</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">cowberry</t>
          </tg>
       </mg>
@@ -2161,8 +2117,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n" stat="pref">earth</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">soil</t>
          </tg>
          <tg xml:lang="deu">
@@ -2292,8 +2246,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="deu">
             <t pos="n">Brei</t>
-         </tg>
-         <tg xml:lang="deu">
             <t pos="n">Schleimsuppe</t>
          </tg>
       </mg>
@@ -2371,8 +2323,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">jeasta</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="n">jeara</t>
          </tg>
       </mg>
@@ -2612,8 +2562,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">butikk</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n">forretning</t>
          </tg>
       </mg>
@@ -2631,8 +2579,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n">cap</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">hat</t>
          </tg>
          <tg xml:lang="fin">
@@ -2937,8 +2883,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">lehmä</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">itikkä</t>
          </tg>
          <tg xml:lang="sme">
@@ -2968,11 +2912,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">кофточка</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">блузка</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">куртка</t>
          </tg>
          <tg xml:lang="fin">
@@ -3057,8 +2997,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">швея</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">портной</t>
          </tg>
          <tg xml:lang="fin">
@@ -3066,8 +3004,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">skredder</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n">syerske</t>
          </tg>
       </mg>
@@ -3110,8 +3046,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">крендель</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">баранка</t>
          </tg>
          <tg xml:lang="fin">
@@ -3187,8 +3121,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n" stat="pref">husband</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">man</t>
          </tg>
          <tg xml:lang="rus">
@@ -3380,8 +3312,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">пальто</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">кафтан</t>
          </tg>
          <tg xml:lang="fin">
@@ -3489,17 +3419,11 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">chicken soup</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">chicken bouillon</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">chicken broth</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">kanakeitto</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">kanaliemi</t>
          </tg>
       </mg>
@@ -3520,8 +3444,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">передняя</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">прихожая</t>
          </tg>
          <tg xml:lang="fin">
@@ -3612,8 +3534,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">hernekeitto</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">rokka</t>
          </tg>
       </mg>
@@ -3734,10 +3654,8 @@ For the full license text, see the link above.</lic>
             <sem class="FOOD">NATURE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="n">bark</t>
-         </tg>
-         <tg xml:lang="eng">
             <re>fruit or vegetable</re>
+            <t pos="n">bark</t>
             <t pos="n">skin</t>
          </tg>
          <tg xml:lang="sjd">
@@ -3745,17 +3663,11 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">кора</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n" exclude="oahpa;">корка</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n" exclude="oahpa;">скорлупа</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n" stat="pref">bark</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n">skorpe</t>
          </tg>
          <tg xml:lang="deu">
@@ -3765,8 +3677,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">kuori</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n" stat="pref">kaarna</t>
          </tg>
          <tg xml:lang="sme">
@@ -3791,8 +3701,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n" stat="pref">keskisormi</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">keskari</t>
          </tg>
          <tg xml:lang="sme">
@@ -3863,8 +3771,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">коготь</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">копыто</t>
          </tg>
          <tg xml:lang="deu">
@@ -3901,18 +3807,11 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <re>body</re>
             <t pos="n">nail</t>
-         </tg>
-         <tg xml:lang="eng">
-            <re>body</re>
             <t pos="n" short="nail">fingernail</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">toenail</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="n">Fingernagel</t>
-         </tg>
-         <tg xml:lang="deu">
             <t pos="n">Zehnagel</t>
          </tg>
          <tg xml:lang="nob">
@@ -3969,8 +3868,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">bag</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">satchel</t>
          </tg>
          <tg xml:lang="fin">
@@ -4118,8 +4015,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">bouillon</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">broth</t>
          </tg>
          <tg xml:lang="fin">
@@ -4137,8 +4032,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">end</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">finish</t>
          </tg>
          <tg xml:lang="fin">
@@ -4168,8 +4061,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">lakka</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">hilla</t>
          </tg>
          <tg xml:lang="nob">
@@ -4177,8 +4068,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n">cloudberry</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">salmonberry</t>
          </tg>
          <tg xml:lang="sme">
@@ -4216,8 +4105,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">harja</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">luuta</t>
          </tg>
          <tg xml:lang="deu">
@@ -4270,8 +4157,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n" ё="сёмга" stat="pref">семга</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">лосос</t>
          </tg>
          <tg xml:lang="fin">
@@ -4325,8 +4210,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">прибавление</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">вдобавок</t>
          </tg>
          <tg xml:lang="fin">
@@ -4455,6 +4338,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <re>of a plant</re>
             <t pos="n">leaf</t>
+            <t pos="n">leaf</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">лист</t>
@@ -4464,9 +4348,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">lehti</t>
-         </tg>
-         <tg xml:lang="eng">
-            <t pos="n">leaf</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="n">Blatt</t>
@@ -4527,11 +4408,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">monastery</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">convent</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">cloister</t>
          </tg>
          <tg xml:lang="rus">
@@ -4636,8 +4513,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n" gloss="pl">woods</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n" stat="pref">forrest</t>
          </tg>
          <tg xml:lang="rus">
@@ -4800,8 +4675,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">мотосани</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">буран</t>
          </tg>
          <tg xml:lang="fin">
@@ -4927,14 +4800,10 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n">tree</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">wood</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="n">Baum</t>
-         </tg>
-         <tg xml:lang="deu">
             <t pos="n">Holz</t>
          </tg>
          <tg xml:lang="nob">
@@ -5113,8 +4982,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">kuukausi</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">kuu</t>
          </tg>
          <tg xml:lang="eng">
@@ -5139,8 +5006,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">луна</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n" style="arch" exclude="oahpa;">месяц</t>
          </tg>
          <tg xml:lang="sjd">
@@ -5221,14 +5086,10 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">червь</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">червяк</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n" stat="pref">makk</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n">mark</t>
          </tg>
          <tg xml:lang="fin">
@@ -5276,8 +5137,6 @@ For the full license text, see the link above.</lic>
          <lexicon xml:lang="rus">денежная единица</lexicon>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">рубель</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">марка</t>
          </tg>
          <tg xml:lang="fin">
@@ -5306,26 +5165,18 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">путешествие</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">дорога</t>
+            <t pos="n">путь</t>
+            <t pos="n">путешествие</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">reise</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="n">путь</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="n">путешествие</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">matka</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="n">trip</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">voyage</t>
          </tg>
          <tg xml:lang="sme">
@@ -5408,8 +5259,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n" stat="pref">woman</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">female</t>
          </tg>
          <tg xml:lang="deu">
@@ -5537,8 +5386,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">девочка</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">девушка</t>
          </tg>
          <tg xml:lang="fin">
@@ -5609,8 +5456,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="deu">
             <t pos="n">Nacken</t>
             <t pos="n">Genick</t>
-         </tg>
-         <tg xml:lang="deu">
             <t pos="n">Hinterkopf</t>
          </tg>
          <tg xml:lang="nob">
@@ -5846,8 +5691,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">туалет</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n" exclude="oahpa;">нужник</t>
          </tg>
          <tg xml:lang="fin">
@@ -5965,8 +5808,6 @@ For the full license text, see the link above.</lic>
             <t pos="n">cowhouse</t>
             <t pos="n">cow barn</t>
             <t pos="n">cattle shed</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n" variant="british">byre</t>
             <t pos="n" variant="british">shippon</t>
             <t pos="n" variant="british">shippen</t>
@@ -6038,14 +5879,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">ручка</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">рукоятка</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">kahva</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">varsi</t>
          </tg>
          <tg xml:lang="deu">
@@ -6140,11 +5977,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">priest</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">preacher</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">reverend</t>
          </tg>
          <tg xml:lang="fin">
@@ -6702,14 +6535,8 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">toga</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="n">juná</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="n">dollavovdna</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="n">gárga</t>
          </tg>
       </mg>
@@ -6795,8 +6622,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">ураган</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n" stat="pref">буря</t>
          </tg>
          <tg xml:lang="fin">
@@ -6824,14 +6649,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">перо</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n" ё="пёрышко">перышко</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n" stat="pref">höyhen</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">sulka</t>
          </tg>
          <tg xml:lang="nob">
@@ -6889,14 +6710,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n" stat="pref">fat</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">grease</t>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">жир</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n" stat="pref">сало</t>
             <t pos="n">копчёное</t>
          </tg>
@@ -6911,8 +6728,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n" stat="pref">rasva</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">pinta</t>
          </tg>
          <tg xml:lang="sjd">
@@ -6978,8 +6793,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n" gloss="pl">pants</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n" gloss="pl">trousers</t>
          </tg>
          <tg xml:lang="rus">
@@ -7061,8 +6874,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">reindeer</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">cariboo</t>
          </tg>
          <tg xml:lang="rus">
@@ -7614,11 +7425,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n" ё="ребёнок" stat="pref">ребенок</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">дитя</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">малыш</t>
          </tg>
          <tg xml:lang="fin">
@@ -7687,8 +7494,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n" stat="pref">peruna</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">pottu</t>
          </tg>
          <tg xml:lang="nob">
@@ -7815,14 +7620,10 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n" stat="pref">talo</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">koti</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n" stat="pref">hus</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n">hjem</t>
          </tg>
          <tg xml:lang="eng">
@@ -7865,8 +7666,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n" stat="pref">pöly</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">tomu</t>
          </tg>
          <tg xml:lang="sme">
@@ -7914,8 +7713,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">giegajokŋa</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="n">báddemuorji</t>
          </tg>
       </mg>
@@ -7982,8 +7779,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="fin">
             <t pos="n">savupiippu</t>
             <t pos="n">savuaukko</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">räppänä</t>
          </tg>
       </mg>
@@ -8095,8 +7890,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">juovlabeahci</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="n">juovlamuorra</t>
          </tg>
       </mg>
@@ -8145,8 +7938,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">juovllat</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="n">juovlabasit</t>
          </tg>
       </mg>
@@ -8552,14 +8343,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">мох</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">сфагнум</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">sammal</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">rahkasammal</t>
          </tg>
       </mg>
@@ -8801,8 +8588,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="nob">
             <t pos="n">landsby</t>
             <t pos="n">bygd</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n">siida</t>
          </tg>
       </mg>
@@ -8894,8 +8679,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="a" stat="pref">pikkuinen</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="a">pieni</t>
          </tg>
          <tg xml:lang="rus">
@@ -9049,8 +8832,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n" short="lizard" stat="pref">viviparous lizard</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n" short="lizard">common lizard</t>
          </tg>
          <tg xml:lang="rus">
@@ -9159,8 +8940,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n" gloss="pl" stat="pref">thanks</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="v">thank you</t>
          </tg>
       </mg>
@@ -9239,8 +9018,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n" stat="pref">pöytänen</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">pikkupöytä</t>
          </tg>
          <tg xml:lang="nob">
@@ -9452,8 +9229,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">jándor</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="n">birranbeaivi</t>
          </tg>
       </mg>
@@ -9798,8 +9573,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n" stat="pref">blueberry</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n" variant="british">bilberry</t>
          </tg>
          <tg xml:lang="sme">
@@ -9817,8 +9590,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">harbour</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">port</t>
          </tg>
       </mg>
@@ -9846,8 +9617,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">баня</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">сауна</t>
          </tg>
          <tg xml:lang="nob">
@@ -10040,8 +9809,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">forsamling</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n">assambly</t>
          </tg>
       </mg>
@@ -10056,11 +9823,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">sofa</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">couch</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">divan</t>
          </tg>
          <tg xml:lang="fin">
@@ -10089,14 +9852,10 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="np">исландская цетрария</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">лопостянка</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">isohirvenjäkälä</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">islanninjäkälä</t>
          </tg>
       </mg>
@@ -10127,8 +9886,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="n" stat="pref">pels</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n">pelshår</t>
          </tg>
          <tg xml:lang="fin">
@@ -10200,8 +9957,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">брусок</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n" stat="pref">оселок</t>
          </tg>
          <tg xml:lang="fin">
@@ -10233,8 +9988,6 @@ For the full license text, see the link above.</lic>
          <lexicon xml:lang="eng">medicinal drug</lexicon>
          <tg xml:lang="eng">
             <t pos="n">medicine</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">medicament</t>
          </tg>
          <tg xml:lang="fin">
@@ -10264,8 +10017,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">sihkkel</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="n">sihkkelat</t>
          </tg>
       </mg>
@@ -10332,8 +10083,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="sme">
             <t pos="n">bajándávgi</t>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="n">arvedávgi</t>
          </tg>
       </mg>
@@ -10438,8 +10187,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">outpatients' department</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">out-patient care</t>
          </tg>
          <tg xml:lang="fin">
@@ -10476,8 +10223,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">огонь</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n" ё="костёр">костер</t>
          </tg>
          <tg xml:lang="fin">
@@ -10485,8 +10230,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="n" stat="pref">ild</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n">bål</t>
          </tg>
          <tg xml:lang="sjd">
@@ -10500,8 +10243,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n" stat="pref">fire</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">campfire</t>
             <t pos="n">bonfire</t>
          </tg>
@@ -10636,8 +10377,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">chimney</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">smokestack</t>
          </tg>
          <tg xml:lang="fin">
@@ -10737,8 +10476,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">сопка</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">тундра</t>
          </tg>
          <tg xml:lang="nob">
@@ -11118,8 +10855,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">перо</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n" ё="пёрышко">перышко</t>
          </tg>
          <tg xml:lang="fin">
@@ -11167,15 +10902,13 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">кустарник</t>
+            <t pos="n">веточка</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">kvist</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">varpu</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="n">веточка</t>
          </tg>
       </mg>
    </e>
@@ -11200,8 +10933,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n" stat="pref">ovi</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n" style="poetic">uksi</t>
          </tg>
          <tg xml:lang="sme">
@@ -11951,8 +11682,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n" stat="pref">tukka</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">karva</t>
          </tg>
          <tg xml:lang="eng">
@@ -12092,8 +11821,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="a">unohtavainen</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="a">hajamielinen</t>
          </tg>
          <tg xml:lang="nob">
@@ -12224,10 +11951,8 @@ For the full license text, see the link above.</lic>
             <sem class="HOUSE">FURNITURE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="n">curtain</t>
-         </tg>
-         <tg xml:lang="eng">
             <re>for a bed</re>
+            <t pos="n">curtain</t>
             <t pos="n">canopy</t>
          </tg>
          <tg xml:lang="rus">
@@ -12266,10 +11991,8 @@ For the full license text, see the link above.</lic>
             <sem class="HOUSE">FURNITURE</sem>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="n">curtain</t>
-         </tg>
-         <tg xml:lang="eng">
             <re>for windows</re>
+            <t pos="n">curtain</t>
             <t pos="n">drape</t>
          </tg>
          <tg xml:lang="rus">
@@ -12360,15 +12083,9 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="n">mackintosh</t>
             <t pos="n">macintosh</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n" variant="british">mac</t>
             <t pos="n" variant="british">mack</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n" stat="pref">raincoat</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n" variant="british">waterproof</t>
          </tg>
          <tg xml:lang="fin">
@@ -12498,18 +12215,14 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">изгородь</t>
+            <t pos="n">ограда</t>
+            <t pos="n">забор</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">gjerde</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">aita</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="n">ограда</t>
-         </tg>
-         <tg xml:lang="rus">
-            <t pos="n">забор</t>
          </tg>
       </mg>
    </e>
@@ -12524,8 +12237,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">storehouse</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">outbuilding</t>
          </tg>
          <tg xml:lang="fin">
@@ -12617,8 +12328,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="fin">
             <t pos="n">akka</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">muori</t>
          </tg>
          <tg xml:lang="rus">
@@ -12640,8 +12349,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">oarlock</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">rowlock</t>
          </tg>
          <tg xml:lang="rus">
@@ -13038,8 +12745,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">variksenmarja</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">kaarnikka</t>
          </tg>
       </mg>
@@ -13185,8 +12890,6 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="n">pinkie</t>
             <t pos="n">pinky</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">little finger</t>
          </tg>
       </mg>
@@ -13268,8 +12971,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n" stat="pref">spine</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">backbone</t>
          </tg>
          <tg xml:lang="deu">
@@ -13383,8 +13084,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">путь</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">дорога</t>
          </tg>
          <tg xml:lang="nob">
@@ -13511,8 +13210,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">krøkebær</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="n">krekling</t>
          </tg>
          <tg xml:lang="rus">
@@ -13520,8 +13217,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">variksenmarja</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">kaarnikka</t>
          </tg>
       </mg>
@@ -13677,8 +13372,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">grain</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">flake</t>
          </tg>
       </mg>
@@ -13884,11 +13577,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="np" gloss="pl">pains in the stomach</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="np">abdominal pain</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="np">stomach ache</t>
          </tg>
          <tg xml:lang="fin">
@@ -13896,14 +13585,10 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">желудочно-кишечное заболевание</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">боль в желудке</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="n">magesyke</t>
-         </tg>
-         <tg xml:lang="nob">
             <t pos="np">vondt i magen</t>
          </tg>
       </mg>
@@ -14045,11 +13730,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="n">cabinet</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">cupboard</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">closet</t>
          </tg>
       </mg>
@@ -14096,8 +13777,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">начальник</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">руководитель</t>
          </tg>
          <tg xml:lang="sjd">
@@ -14226,8 +13905,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n" stat="pref">sää</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">ilma</t>
          </tg>
          <tg xml:lang="nob">
@@ -14252,8 +13929,6 @@ For the full license text, see the link above.</lic>
          <lexicon xml:lang="rus">повышенная температура</lexicon>
          <tg xml:lang="eng">
             <t pos="n">fever</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n">pyrexia</t>
          </tg>
          <tg xml:lang="fin">
@@ -14261,8 +13936,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="n">жар</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">лихорадка</t>
          </tg>
          <tg xml:lang="nob">
@@ -14635,8 +14308,6 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">kesä</t>
-         </tg>
-         <tg xml:lang="fin">
             <t pos="n">suvi</t>
          </tg>
       </mg>
@@ -14704,8 +14375,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="eng">
             <t pos="n">kilometer</t>
-         </tg>
-         <tg xml:lang="eng">
             <t pos="n" variant="british">kilometre</t>
          </tg>
          <tg xml:lang="fin">
@@ -14824,8 +14493,6 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n" stat="pref">кисть</t>
-         </tg>
-         <tg xml:lang="rus">
             <t pos="n">рука</t>
          </tg>
          <tg xml:lang="eng">
