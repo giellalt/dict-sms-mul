@@ -16,25 +16,6 @@ LEXICOGRAPHY
 ---><xxx>
 
 =====
-TODO
-=====
-
-* @Ciprian: I'm afraid the existing scripts have to be changed after <source> was moved into <mg>
-*  <lg>
-** find a systematic and consistent way for handling variants (dial and orth) 
-** find a systematic and consistent way for handling audiofiles
-* <mg>
-** for all entries from "term" and "kurss" complete <semantics>, and <tg> in eng, rus, nob, fin
-* check consistency of adjective entries (in sms and rus):
-** <l> with pred, attr under <der>?
-** pos-tagging: as "a", "a:attr", "a:pred"?
- ==> @cip: I suggest pos="A" type="pred|attr" (similar to pos="Pron" type="Dem", type referring to pos,and since pos is already a type, this type is a subtype of type pos)
-* write better documentation at http://gtweb.uit.no/cgi-bin/wiki/index.php/Smsdict (to be written)
-* fill in all xxx's
-* check <t> vs. <tg> vs. <mg>
-* check <tr> <te> and other such extensions
-
-=====
 Preliminary conventions: Skolt Sámi apostrophes
 =====
 Conventions used preliminary for the present file by M.Rießler (like in the xfst). Note that KOTUS standardized U+00B4 ACUTE ACCENT as the Skolt Sámi palatalization (http://scripta.kotus.fi/www/verkkojulkaisut/julk6/Omin_sanoin.pdf). However, Skolt Sámi writers in Sevettijärvi seem not to follow this standard today, but use the modifier letter Prime.
