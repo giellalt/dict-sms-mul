@@ -814,7 +814,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="adv">чуточку</t>
-            <t pos="adv" stat="pref" x_check="_xxx_">чуть-чуть</t>
+            <t pos="adv" stat="pref">чуть-чуть</t>
             <t pos="adv">немного</t>
          </tg>
          <tg xml:lang="fin">
@@ -822,7 +822,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">litt</t>
-            <t pos="adv" stat="pref" x_check="_xxx_">en smule</t>
+            <t pos="adv" stat="pref">en smule</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv" stat="pref">a little bit</t>
@@ -852,7 +852,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="adv">чуточку</t>
-            <t pos="adv" stat="pref" x_check="_xxx_">чуть-чуть</t>
+            <t pos="adv" stat="pref">чуть-чуть</t>
             <t pos="adv">немного</t>
          </tg>
          <tg xml:lang="fin">
@@ -860,7 +860,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">litt</t>
-            <t pos="adv" stat="pref" x_check="_xxx_">en smule</t>
+            <t pos="adv" stat="pref">en smule</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv" stat="pref">a little bit</t>
@@ -1040,7 +1040,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="adv">чуть-чуть</t>
             <t pos="adv">чуточку</t>
-            <t pos="adv" stat="pref" x_check="_xxx_">немного</t>
+            <t pos="adv" stat="pref">немного</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">vähän</t>
@@ -1079,7 +1079,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="adv">чуточку</t>
-            <t pos="adv" stat="pref" x_check="_xxx_">чуть-чуть</t>
+            <t pos="adv" stat="pref">чуть-чуть</t>
             <t pos="adv">немного</t>
          </tg>
          <tg xml:lang="fin">
@@ -1087,7 +1087,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="adv">litt</t>
-            <t pos="adv" stat="pref" x_check="_xxx_">en smule</t>
+            <t pos="adv" stat="pref">en smule</t>
          </tg>
          <tg xml:lang="eng">
             <t pos="adv" stat="pref">a little bit</t>
@@ -1217,7 +1217,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="eng">
             <t pos="adv" exclude="oahpa;" style="obs">hither</t>
             <t pos="adv">to here</t>
-            <t pos="adv" stat="pref" x_check="_xxx_">here</t>
+            <t pos="adv" stat="pref">here</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="adv">tänne</t>

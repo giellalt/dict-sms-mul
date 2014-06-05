@@ -77,7 +77,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="pro">кто</t>
             <t pos="pro">что</t>
-            <t pos="pro" stat="pref" x_check="_xxx_">который</t>
+            <t pos="pro" stat="pref">который</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="cs">joka</t>
@@ -100,7 +100,7 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="cs">поскольку</t>
-            <t pos="cs" stat="pref" x_check="_xxx_">потомучто</t>
+            <t pos="cs" stat="pref">потомучто</t>
             <t pos="cs">потому что</t>
             <t pos="cs">потому, что</t>
          </tg>

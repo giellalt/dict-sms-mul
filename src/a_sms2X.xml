@@ -1885,9 +1885,8 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="a" pred="чёрен" stat="pref">чёрный</t>
             <t pos="a" pred="чёрен" t_type="sr">черный</t>
-            <t pos="a" pred="черен">черный</t>
-            <t pos="a" pred="тёмен" stat="pref" x_check="_xxx_">темный</t>
-            <t pos="a" pred="темен">темный</t>
+            <t pos="a" pred="тёмен" stat="pref">тëмный</t>
+            <t pos="a" pred="тëмен" t_type="sr">темный</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="a" pred="чоаһпэ">чоаһпесь</t>
@@ -2129,10 +2128,10 @@ For the full license text, see the link above.</lic>
             <sem class="HUMAN">PEOPLE</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="a">большой</t>
-            <t pos="a" stat="pref" x_check="_xxx_">крупный</t>
+            <t pos="a" stat="pref">большой</t>
+            <t pos="a">крупный</t>
             <t pos="a">огромный</t>
-            <t pos="a" stat="pref" x_check="_xxx_">громадный</t>
+            <t pos="a">громадный</t>
          </tg>
          <tg xml:lang="sjd">
             <t pos="a">шӯрр</t>

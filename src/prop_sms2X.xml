@@ -331,7 +331,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Eskil</t>
-            <t pos="prop" stat="pref" x_check="_xxx_">Eskild</t>
+            <t pos="prop" stat="pref">Eskild</t>
             <t pos="prop">Askild</t>
          </tg>
          <tg xml:lang="deu">
@@ -678,7 +678,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Helsinki</t>
-            <t pos="prop" stat="pref" x_check="_xxx_">Helsingfors</t>
+            <t pos="prop" stat="pref">Helsingfors</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="prop">Helsinki</t>
@@ -1200,7 +1200,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="rus">
             <t pos="prop">Кристина</t>
-            <t pos="prop" stat="pref" x_check="_xxx_">Христина</t>
+            <t pos="prop" stat="pref">Христина</t>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop" stat="pref">Kristina</t>
@@ -1208,7 +1208,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="deu">
             <t pos="prop">Kristina</t>
-            <t pos="prop">Christina</t>
+            <t pos="prop" stat="pref">Christina</t>
             <t pos="prop">Christine</t>
          </tg>
       </mg>
@@ -1845,7 +1845,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="eng">
             <t pos="prop">Maria</t>
-            <t pos="prop" stat="pref" x_check="_xxx_">Mary</t>
+            <t pos="prop" stat="pref">Mary</t>
             <t pos="prop">Miriam</t>
          </tg>
       </mg>
@@ -2023,7 +2023,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop" exclude="oahpa;">Nøttiager</t>
-            <t pos="prop" stat="pref" x_check="_xxx_">Notozero</t>
+            <t pos="prop" stat="pref">Notozero</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Nuohttejávri</t>
@@ -2044,7 +2044,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop" exclude="oahpa;">Nøttiager</t>
-            <t pos="prop" stat="pref" x_check="_xxx_">Notozero</t>
+            <t pos="prop" stat="pref">Notozero</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Nuohttejávri</t>
@@ -2398,7 +2398,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop">Petter</t>
-            <t pos="prop" stat="pref" x_check="_xxx_">Peder</t>
+            <t pos="prop" stat="pref">Peder</t>
             <t pos="prop">Per</t>
          </tg>
          <tg xml:lang="deu">
@@ -2428,7 +2428,7 @@ For the full license text, see the link above.</lic>
          </tg>
          <tg xml:lang="nob">
             <t pos="prop" exclude="oahpa;">Peisen</t>
-            <t pos="prop" stat="pref" x_check="_xxx_">Petsjenga</t>
+            <t pos="prop" stat="pref">Petsjenga</t>
          </tg>
          <tg xml:lang="sme">
             <t pos="prop">Beahccam</t>

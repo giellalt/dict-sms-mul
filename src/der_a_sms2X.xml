@@ -228,8 +228,7 @@ For the full license text, see the link above.</lic>
             <t pos="a">kuuma</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="a">burning hot</t>
-            <t pos="a" stat="pref" x_check="_xxx_">hot</t>
+            <t pos="a">hot</t>
          </tg>
          <tg xml:lang="deu">
             <t pos="a">heiß</t>
