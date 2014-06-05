@@ -1378,7 +1378,7 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">FUNGUS</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">белый гриб</t>
+            <t pos="n">белый гриб</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">herkkutatti</t>
@@ -1573,7 +1573,7 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">GRASS</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">крыночковидная кладония</t>
+            <t pos="n">крыночковидная кладония</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">ruskotorvijäkälä</t>
@@ -2165,7 +2165,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">stue</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="np">living room</t>
+            <t pos="n">living room</t>
          </tg>
       </mg>
    </e>
@@ -2457,7 +2457,7 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">BERRY</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">булавовидный плаун</t>
+            <t pos="n">булавовидный плаун</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">katinlieko</t>
@@ -4959,7 +4959,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">oppimateriaali</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="np">teaching material</t>
+            <t pos="n">teaching material</t>
          </tg>
       </mg>
    </e>
@@ -6580,7 +6580,7 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">FUNGUS</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">белый гриб</t>
+            <t pos="n">белый гриб</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">herkkutatti</t>
@@ -7039,7 +7039,7 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">GRASS</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">приальпийская кладония</t>
+            <t pos="n">приальпийская кладония</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">palleroporonjäkälä</t>
@@ -7051,7 +7051,7 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">GRASS</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">приальпийская кладония</t>
+            <t pos="n">приальпийская кладония</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">palleroporonjäkälä</t>
@@ -8016,7 +8016,7 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">GRASS</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">красноплодная кладония</t>
+            <t pos="n">красноплодная кладония</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">punareunatorvijäkälä</t>
@@ -8037,7 +8037,7 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">FUNGUS</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">красный мухомор</t>
+            <t pos="n">красный мухомор</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">punakärpässieni</t>
@@ -9547,8 +9547,8 @@ For the full license text, see the link above.</lic>
             <sem class="BOT"/>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">кукушкин лён</t>
-            <t pos="np" t_type="sr">кукушкин лен</t>
+            <t pos="n">кукушкин лён</t>
+            <t pos="n" t_type="sr">кукушкин лен</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">karhunsammal</t>
@@ -9862,7 +9862,7 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">GRASS</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">исландская цетрария</t>
+            <t pos="n">исландская цетрария</t>
             <t pos="n">лопостянка</t>
          </tg>
          <tg xml:lang="fin">
@@ -9927,7 +9927,7 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">FUNGUS</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">розовая волнушка</t>
+            <t pos="n">розовая волнушка</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">karvarousku</t>
@@ -9948,8 +9948,8 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">TREE</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">карликовая берёза</t>
-            <t pos="np" t_type="sr">карликовая береза</t>
+            <t pos="n">карликовая берёза</t>
+            <t pos="n" t_type="sr">карликовая береза</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">vaivaiskoivu</t>
@@ -11132,7 +11132,7 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">FUNGUS</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">красная сыроежка</t>
+            <t pos="n">красная сыроежка</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">viinihapero</t>
@@ -11206,7 +11206,7 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">FUNGUS</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">желтая сыроежка</t>
+            <t pos="n">желтая сыроежка</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">keltahapero</t>
@@ -11356,7 +11356,7 @@ For the full license text, see the link above.</lic>
             <t pos="n">soverom</t>
          </tg>
          <tg xml:lang="eng">
-            <t pos="np">sleeping room</t>
+            <t pos="n">sleeping room</t>
          </tg>
       </mg>
    </e>
@@ -11901,7 +11901,7 @@ For the full license text, see the link above.</lic>
             <sem class="BOT">BERRY</sem>
          </semantics>
          <tg xml:lang="rus">
-            <t pos="np">сплюснутый дифазиаструм</t>
+            <t pos="n">сплюснутый дифазиаструм</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">keltalieko</t>
@@ -13592,9 +13592,9 @@ For the full license text, see the link above.</lic>
             <sem class="BODY"/>
          </semantics>
          <tg xml:lang="eng">
-            <t pos="np" gloss="pl">pains in the stomach</t>
-            <t pos="np">abdominal pain</t>
-            <t pos="np">stomach ache</t>
+            <t pos="n" gloss="pl">pains in the stomach</t>
+            <t pos="n">abdominal pain</t>
+            <t pos="n">stomach ache</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">mahatauti</t>
