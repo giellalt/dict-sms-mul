@@ -1885,7 +1885,7 @@ For the full license text, see the link above.</lic>
          <tg xml:lang="rus">
             <t pos="a" pred="чёрен" stat="pref">чёрный</t>
             <t pos="a" pred="чёрен" t_type="sr">черный</t>
-            <t pos="a" pred="тёмен" stat="pref">тëмный</t>
+            <t pos="a" pred="тёмен">тëмный</t>
             <t pos="a" pred="тëмен" t_type="sr">темный</t>
          </tg>
          <tg xml:lang="sjd">
