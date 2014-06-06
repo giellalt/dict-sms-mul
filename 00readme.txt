@@ -86,6 +86,5 @@ on the e-element in the xml files:
 
 TODO: 
 
- - some entries have twice the source-element: cip has to debug that but it is not
-   crucial for this update
-
+ - 21 entries have more than one the source-element: Ciprian has tagged these with
+   a x_check_x attribute for Michael to check and correct
