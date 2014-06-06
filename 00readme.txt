@@ -83,3 +83,9 @@ on the e-element in the xml files:
 10 - a few lemmas imported from contlex
 
 ===========================
+
+TODO: 
+
+ - some entries have twice the source-element: cip has to debug that but it is not
+   crucial for this update
+
