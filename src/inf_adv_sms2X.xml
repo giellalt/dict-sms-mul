@@ -24,13 +24,10 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e x_check_x="2" meta="3">
+   <e meta="3">
       <lg>
          <l pos="adv" lemma="xxx">täˊst</l>
       </lg>
-      <sources>
-         <book name="kurss" lesson="xxx"/>
-      </sources>
       <sources>
          <book name="kurss" lesson="xxx"/>
       </sources>
@@ -117,7 +114,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e x_check_x="2" meta="04">
+   <e meta="04">
       <lg>
          <l pos="adv" lemma="xxx" gloss="loc">koˊst</l>
          <etymology>
@@ -125,10 +122,6 @@ For the full license text, see the link above.</lic>
             <note>derivation, move etymology to main root lemma</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="kurss" lesson="1"/>
-         <book name="200" BEDLAN_ID="192"/>
-      </sources>
       <sources>
          <book name="kurss" lesson="1"/>
          <book name="200" BEDLAN_ID="192"/>

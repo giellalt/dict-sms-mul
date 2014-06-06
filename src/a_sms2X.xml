@@ -1736,7 +1736,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e x_check_x="2" meta="05">
+   <e meta="05">
       <lg>
          <l pos="a" class="4â">vuõiggâd</l>
          <etymology>
@@ -1745,9 +1745,6 @@ For the full license text, see the link above.</lic>
             <note>derivation</note>
          </etymology>
       </lg>
-      <sources>
-         <book name="200" BEDLAN_ID="162"/>
-      </sources>
       <sources>
          <book name="200" BEDLAN_ID="162"/>
       </sources>

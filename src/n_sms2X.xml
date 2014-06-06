@@ -86,13 +86,10 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e x_check_x="2" meta="09">
+   <e meta="09">
       <lg>
          <l pos="n">sääˊmm</l>
       </lg>
-      <sources>
-         <book/>
-      </sources>
       <sources>
          <book/>
       </sources>
@@ -2016,7 +2013,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e x_check_x="2" meta="03">
+   <e meta="03">
       <lg>
          <l pos="n">jueˊlǧǧ</l>
          <etymology>
@@ -2027,10 +2024,6 @@ For the full license text, see the link above.</lic>
       <sources>
          <book name="kurss" lesson="phon"/>
          <book name="200" BEDLAN_ID="93"/>
-         <book name="100" Swades_ID="46"/>
-      </sources>
-      <sources>
-         <book name="kurss" lesson="phon"/>
          <book name="200" BEDLAN_ID="*58"/>
          <book name="100" Swades_ID="46"/>
       </sources>
@@ -5353,17 +5346,13 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e x_check_x="2" meta="03">
+   <e meta="03">
       <lg>
          <l pos="n">nijdd</l>
          <infl>
             <form gloss="nom.pl">niõđ</form>
          </infl>
       </lg>
-      <sources>
-         <book name="kurss" lesson="phon"/>
-         <book name="kurss" lesson="4"/>
-      </sources>
       <sources>
          <book name="kurss" lesson="phon"/>
          <book name="kurss" lesson="4"/>
@@ -5556,7 +5545,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e x_check_x="2" meta="04">
+   <e meta="04">
       <lg>
          <l pos="n">njuuˊnn</l>
          <infl>
@@ -5569,10 +5558,6 @@ For the full license text, see the link above.</lic>
       </lg>
       <sources>
          <book name="kurss" lesson="4"/>
-         <book name="200" BEDLAN_ID="*112"/>
-         <book name="100"/>
-      </sources>
-      <sources>
          <book name="200" BEDLAN_ID="*112"/>
          <book name="100"/>
       </sources>
@@ -7405,7 +7390,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e x_check_x="2" meta="04">
+   <e meta="04">
       <lg>
          <l pos="n">päˊrnn</l>
          <infl>
@@ -7422,9 +7407,6 @@ For the full license text, see the link above.</lic>
          <book name="kurss" lesson="3"/>
          <book name="kurss" lesson="phon"/>
          <book name="200" BEDLAN_ID="215"/>
-      </sources>
-      <sources>
-         <book name="kurss" lesson="phon"/>
          <book name="200" BEDLAN_ID="21"/>
       </sources>
       <mg>
@@ -11069,7 +11051,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e x_check_x="2" meta="03">
+   <e meta="03">
       <lg>
          <l pos="n">veärr</l>
          <infl>
@@ -11077,9 +11059,6 @@ For the full license text, see the link above.</lic>
             <form gloss="nom.pl">veär</form>
          </infl>
       </lg>
-      <sources>
-         <book name="kurss" lesson="2"/>
-      </sources>
       <sources>
          <book name="kurss" lesson="2"/>
       </sources>

@@ -1005,7 +1005,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e x_check_x="2" meta="04">
+   <e meta="04">
       <lg>
          <l pos="v">kuärrad</l>
          <stg>
@@ -1019,10 +1019,6 @@ For the full license text, see the link above.</lic>
             <bedlan>139</bedlan>
          </etymology>
       </lg>
-      <sources>
-         <book name="200"/>
-         <book name="lookkamkerjj" lesson="1"/>
-      </sources>
       <sources>
          <book name="200"/>
          <book name="lookkamkerjj" lesson="1"/>
@@ -6706,7 +6702,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e x_check_x="2" meta="03">
+   <e meta="03">
       <lg>
          <l pos="v">šõddâd</l>
          <stg>
@@ -6717,10 +6713,6 @@ For the full license text, see the link above.</lic>
             <form gloss="3sg.pst">šõõddi</form>
          </infl>
       </lg>
-      <sources>
-         <book name="kurss" lesson="2"/>
-         <book name="lookkamkerjj" lesson="1"/>
-      </sources>
       <sources>
          <book name="kurss" lesson="2"/>
          <book name="lookkamkerjj" lesson="1"/>
