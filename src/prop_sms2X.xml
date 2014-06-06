@@ -1245,7 +1245,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e meta="08_371">
+   <e x_check_x="2" meta="08_371">
       <lg>
          <l pos="prop" type="place">Luujäuˊrr</l>
          <translit_cyr>Лӯйӕуррь</translit_cyr>
@@ -1998,7 +1998,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e meta="04">
+   <e x_check_x="2" meta="04">
       <lg>
          <l pos="prop" type="place">Nuõˊtˈtjäuˊrr</l>
       </lg>
@@ -2312,7 +2312,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e meta="04">
+   <e x_check_x="2" meta="04">
       <lg>
          <l pos="prop" type="place">Paaččjokk</l>
       </lg>
@@ -3010,7 +3010,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e meta="04">
+   <e x_check_x="2" meta="04">
       <lg>
          <l pos="prop" type="place">Sââˊrvesjäuˊrr</l>
       </lg>
@@ -3433,7 +3433,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e meta="01">
+   <e x_check_x="2" meta="01">
       <lg>
          <l pos="prop" type="place">Uccjokk</l>
       </lg>
@@ -3882,7 +3882,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e meta="08_370">
+   <e x_check_x="2" meta="08_370">
       <lg>
          <l pos="prop" type="place">Âˊvvel</l>
          <translit_cyr>А̂ввел</translit_cyr>
@@ -4124,7 +4124,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e meta="03">
+   <e x_check_x="2" meta="03">
       <lg>
          <l pos="prop" type="place">Čeˊvetjäuˊrr</l>
          <infl>

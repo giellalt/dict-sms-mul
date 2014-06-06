@@ -24,7 +24,7 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
-   <e meta="3">
+   <e x_check_x="2" meta="3">
       <lg>
          <l pos="adv" lemma="xxx">täˊst</l>
       </lg>
@@ -117,7 +117,7 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
-   <e meta="04">
+   <e x_check_x="2" meta="04">
       <lg>
          <l pos="adv" lemma="xxx" gloss="loc">koˊst</l>
          <etymology>
