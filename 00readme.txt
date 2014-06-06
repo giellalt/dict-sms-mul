@@ -83,8 +83,3 @@ on the e-element in the xml files:
 10 - a few lemmas imported from contlex
 
 ===========================
-
-TODO: 
-
- - 21 entries have more than one the source-element: Ciprian has tagged these with
-   a x_check_x attribute for Michael to check and correct
