@@ -24,6 +24,34 @@ For the full license text, see the link above.</lic>
      or could be wrongly sorted.
      </sourcenote>
    </lics>
+   <e meta="04">
+      <lg>
+         <l pos="n" source="Irene_Gauriloff" dial="S">kattâs</l>
+      </lg>
+      <sources>
+         <book/>
+      </sources>
+      <mg>
+         <semantics>
+            <sem class="WORK"/>
+         </semantics>
+         <tg xml:lang="deu">
+            <t pos="n">Sattel</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">sadle</t>
+         </tg>
+         <tg xml:lang="rus">
+            <t pos="n">седло</t>
+         </tg>
+         <tg xml:lang="nob">
+            <t pos="n">sadel</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="n">satula</t>
+         </tg>
+      </mg>
+   </e>
    <e meta="09">
       <lg>
          <l pos="n">teâtt</l>
@@ -766,12 +794,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">ceerkav</l>
          <audio>
-            <a dialect="muo"
-               speaker="ZMN"
+            <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ceerkav_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä"
-               speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ceerkav_SKO111219_KJ_1.wav"/>
+            <a dialect="peä" speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ceerkav_SKO111219_KJ_1.wav"
+            />
          </audio>
          <etymology>
             <etymon type="loan" source="rus">церковь</etymon>
@@ -3025,12 +3052,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">kuäˊlˈlec</l>
          <audio>
-            <a dialect="muo"
-               speaker="ZMN"
+            <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kuaeqllec_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä"
-               speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kuaeqllec_SKO111219_KJ_1.wav"/>
+            <a dialect="peä" speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kuaeqllec_SKO111219_KJ_1.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -3712,12 +3738,11 @@ For the full license text, see the link above.</lic>
             <form gloss="ill.sg">kõskksa</form>
          </infl>
          <audio>
-            <a dialect="muo"
-               speaker="ZMN"
+            <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kyyskays_SKO111211_ZMN_5.wav"/>
-            <a dialect="xxx"
-               speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kyyskays_SKO111220_EL.wav"/>
+            <a dialect="xxx" speaker="EL"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/kyyskays_SKO111220_EL.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -4883,9 +4908,9 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">mââˊnn</l>
          <audio>
-            <a dialect="muo"
-               speaker="ZMN"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/mayayqnn_SKO111210_ZMN.wav"/>
+            <a dialect="muo" speaker="ZMN"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/mayayqnn_SKO111210_ZMN.wav"
+            />
          </audio>
          <etymology>
             <etymon type="inher" source="uralic">muna</etymon>
@@ -10996,12 +11021,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">vacc</l>
          <audio>
-            <a dialect="muo"
-               speaker="ZMN"
+            <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vacc_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä"
-               speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vacc_SKO111219_KJ_1.wav"/>
+            <a dialect="peä" speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vacc_SKO111219_KJ_1.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -11652,9 +11676,9 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">vuõptt</l>
          <audio>
-            <a dialect="muo"
-               speaker="ZMN"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vuoyptt_SKO111210_ZMN.wav"/>
+            <a dialect="muo" speaker="ZMN"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/vuoyptt_SKO111210_ZMN.wav"
+            />
          </audio>
          <etymology>
             <etymon type="inher" source="uralic">apte</etymon>
@@ -12026,9 +12050,9 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">âˊbrr</l>
          <audio>
-            <a dialect="muo"
-               speaker="ZMN"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ayqlmm_SKO111211_ZMN_5.wav"/>
+            <a dialect="muo" speaker="ZMN"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ayqlmm_SKO111211_ZMN_5.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -12625,12 +12649,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">õpss</l>
          <audio>
-            <a dialect="muo"
-               speaker="ZMN"
+            <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ypss_SKO111211_ZMN_5.wav"/>
-            <a dialect="xxx"
-               speaker="EL"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ypss_SKO111220_EL.wav"/>
+            <a dialect="xxx" speaker="EL"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/ypss_SKO111220_EL.wav"
+            />
          </audio>
       </lg>
       <sources>
@@ -13305,12 +13328,11 @@ For the full license text, see the link above.</lic>
             <form gloss="gen.sg">čââˊlm</form>
          </infl>
          <audio>
-            <a dialect="muo"
-               speaker="ZMN"
+            <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchayqlmm_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä"
-               speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchayqlmm_SKO111219_KJ_1.wav"/>
+            <a dialect="peä" speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchayqlmm_SKO111219_KJ_1.wav"
+            />
          </audio>
          <etymology>
             <etymon type="inher" source="uralic">śilmä</etymon>
@@ -13465,12 +13487,11 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="n">čääˊcc</l>
          <audio>
-            <a dialect="muo"
-               speaker="ZMN"
+            <a dialect="muo" speaker="ZMN"
                href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchaeaeqcc_SKO111211_ZMN_5.wav"/>
-            <a dialect="peä"
-               speaker="KJ"
-               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchaeaeqcc_SKO111219_KJ_1.wav"/>
+            <a dialect="peä" speaker="KJ"
+               href="http://corpus1.mpi.nl/qfs1/media-archive/dobes_data/Kola-Saami/Recordings/Language/KSDP/Skolt/Lexicon/Vocabulary/Media/tchaeaeqcc_SKO111219_KJ_1.wav"
+            />
          </audio>
          <etymology>
             <etymon type="inher" source="saamic">ćācē</etymon>

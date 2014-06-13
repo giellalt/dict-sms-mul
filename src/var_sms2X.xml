@@ -26,6 +26,17 @@ For the full license text, see the link above.</lic>
    </lics>
    <e>
       <lg>
+         <l pos="n" variant="obsc" source="meta04" lemma="N_kattâs">kandâs</l>
+         <note>2014-06-12, Satu Moshnikoff proposed this form instead of _kandas_ тлм in Eliseev et al. 2007</note>
+      </lg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" variant="tuloma" source="eliseev2007" lemma="N_kattâs">kandas</l>
+      </lg>
+   </e>
+   <e>
+      <lg>
          <l pos="n" variant="xxx" source="xxx" lemma="vuäˊǯˈǯveärr">vueˊǯˈǯveärr</l>
       </lg>
    </e>
