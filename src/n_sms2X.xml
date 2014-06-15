@@ -1148,7 +1148,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="03">
       <lg>
-         <l pos="n">faˊmilja</l>
+         <l pos="n">famiˊljnõmm</l>
       </lg>
       <sources>
          <book name="kurss" lesson="1"/>
@@ -1159,6 +1159,9 @@ For the full license text, see the link above.</lic>
          </semantics>
          <tg xml:lang="rus">
             <t pos="n">фамилия</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="n">surname</t>
          </tg>
          <tg xml:lang="fin">
             <t pos="n">sukunimi</t>
