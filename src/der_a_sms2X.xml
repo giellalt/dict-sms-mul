@@ -802,4 +802,24 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="A" lemma="n_luäǯǯ">luäǯǯ</l>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="A">loose</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+     <lg>
+         <l pos="A" lemma="n_oođâs">oođâs</l>
+     </lg>
+     <mg>
+       <tg xml:lang="eng">
+         <t pos="A">new</t>
+       </tg>
+     </mg>
+   </e>
 </r>
