@@ -43,4 +43,27 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <e>
+     <lg>
+       <l pos="V" lemma="n_mõõnnâd">mõõnnâd</l>
+     </lg>
+     <mg>
+       <tg xml:lang="eng">
+         <t pos="V">go</t>
+       </tg>
+       <tg xml:lang="fin">
+         <t pos="V">mennä</t>
+       </tg>
+     </mg>
+   </e>
+   <e>
+     <lg>
+       <l pos="V" lemma="n_mainsted">mainsted</l>
+     </lg>
+     <mg>
+       <tg xml:lang="eng">
+         <t pos="V">tell</t>
+       </tg>
+     </mg>
+   </e>
 </r>
