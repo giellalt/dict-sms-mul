@@ -71,4 +71,70 @@ For the full license text, see the link above.</lic>
          </tg>
       </mg>
    </e>
+   <!--  since the analyzer returns:
+
+         muäna   mon+Pron+Pers+Du+Nom
+         muäna   muäna+Pron+Pers
+
+         we need to add a paradigm here
+
+        -->
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">muäna</l>
+         <analysis>Pron_Pers_Du_Nom</analysis>
+         <mini_paradigm>
+            <analysis ms="Pron_Pers_Du_Nom">
+               <wordform>muäna</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du_Acc">
+               <wordform>muännaid</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du_Gen">
+               <wordform>muännai</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du_Ill">
+               <wordform>muännaid</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du_Loc">
+               <wordform>muännast</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du_Com">
+               <wordform>muännain</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du_Par">
+               <wordform>muännaitää</wordform>
+            </analysis>
+            <analysis ms="Pron_Pers_Du_Ess">
+               <wordform>muännan</wordform>
+            </analysis>
+         </mini_paradigm>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Pron" type="Pers">me (kaksi)</t>
+         </tg>
+         <tg xml:lang="eng">
+            <t pos="Pron" type="Pers">we (two)</t>
+         </tg>
+      </mg>
+   </e>
+
+   <e>
+      <lg>
+         <l pos="Pron" type="Pers">muännaid</l>
+         <lemma_ref lemmaID="muäna_Pron_Pers">muäna</lemma_ref>
+         <analysis>Pron_Pers_Du_Ill</analysis>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="Pron" type="Pers">to us two</t>
+            <xg>
+               <x>TODO: translate</x>
+               <xt>Tell us two!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
 </r>
