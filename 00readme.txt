@@ -1,6 +1,6 @@
 Incoming raw files go into ~inc/
 
-This file is mostly for communicating current todos and questions; proper documentation has moved to http://giellatekno.uit.no/doc/dicts/SkoltSaami2X.html
+This file is mostly for communicating current todos and questions; proper documentation has moved to https://giellalt.uit.no/dicts/SkoltSaami2X.html
 
 
 =====
