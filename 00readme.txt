@@ -18,13 +18,14 @@ LEXICOGRAPHY
 =====
 Preliminary conventions: Skolt Sámi apostrophes
 =====
-Conventions used preliminary for the present file by M.Rießler (like in the xfst). Note that KOTUS standardized U+00B4 ACUTE ACCENT as the Skolt Sámi palatalization (http://scripta.kotus.fi/www/verkkojulkaisut/julk6/Omin_sanoin.pdf). However, Skolt Sámi writers in Sevettijärvi seem not to follow this standard today, but use the modifier letter Prime.
+Conventions used preliminary for the present file by M.Rießler (as in the hfst). Note that the Skolt Saami language community uses a unanimously accepted MODIFIER LETTER PRIME (U+02B9) for marking palatalization (http://www.giella.org/meetings/3KrxsaWP3Xyu4O9k3KYGek). At one time, however, KOTUS attempted to standardize U+00B4 ACUTE ACCENT or U+0301 COMBINING ACCUTE ACCENT over blank space, but even they have moved the use of the MODIFIER LETTER PRIME (see http://scripta.kotus.fi/www/verkkojulkaisut/julk6/Omin_sanoin.pdf).
 
-ˊ = 02CA MODIFIER LETTER ACUTE ACCENT ("pehmennysmerkki", suprasegmental palatalization affecting the whole "palatalization foot")
-!! e.g. 'to eat' poorrâd+V+Ind+Prs+Pl3: påˊrre
+
+ʹ = 02B9 MODIFIER LETTER PRIME ("pehmennysmerkki", suprasegmental palatalization affecting the whole "palatalization foot", it only occurs between a preceeding vowel and a following consonant)
+!! e.g. 'to eat' poorrâd+V+Ind+Prs+Pl3: påʹrre
 spellrelax needed (with typograhically similar letters)
 
-ˈ = 02C8 MODIFIER LETTER VERTICAL LINE ("vahvanasteenmerkki", extra long geminate, used by P.Sammallahti in dictionaries)
+ˈ = 02C8 MODIFIER LETTER VERTICAL LINE ("vahvanasteenmerkki", extra long geminate, used by P.Sammallahti in dictionaries. This occurs in two contexts: 1. extra long: between geminate consonants following a diphthong; 2. extra short: immediately following an extra short diphthong and preceeding optional modifier letter prime with subsequent consonant)
 !! e.g. 'to trust' veârrad+V+Ind+Prs+Pl3: veârˈra
 spellrelax needed (with or without the letter)
 
@@ -33,8 +34,8 @@ spellrelax needed (with or without the letter)
 spellrelax needed (with or without the letter)
 
 !! example of all three at once:
-!! 'hot, burning' puõˊlli+A+Sg+loc: puõˊlˈlʼjest
-!! puõˊ[02B9]lˈ[02C8]lʼ[02BC]jest
+!! 'hot, burning' puõˊlli+A+Sg+loc: puõʹlˈlʼjest
+!! puõʹ[02B9]lˈ[02C8]lʼ[02BC]jest
 
 =====
 Preliminary conventions: other Skolt Sámi orthography
