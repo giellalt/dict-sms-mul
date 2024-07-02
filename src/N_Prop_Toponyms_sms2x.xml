@@ -7458,6 +7458,9 @@
      <tg xml:lang="fin">
        <t pos="N">Sodankylä</t>
      </tg>
+     <tg xml:lang="nob">
+       <t pos="N">Sodankylä</t>
+     </tg>
    </mg>
 </e>
 <e>
@@ -8108,6 +8111,9 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="N">Tuulomajoki</t>
+     </tg>
+     <tg xml:lang="nob">
+       <t type="Prop" pos="N">Tulomaelva</t>
      </tg>
    </mg>
 </e>
