@@ -4542,8 +4542,9 @@
        <t pos="V">tökkiä</t>
        <t pos="V">tuikkia</t>
      </tg>
-     <tg descr_trans="flere ganger" xml:lang="nob">
-       <t pos="V">stikke</t>
+     <tg xml:lang="nob">
+       <t pos="V">glitre</t>
+       <t pos="V">blinke</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="V">мерцать</t>
@@ -16066,7 +16067,8 @@
        <t pos="V">riisua</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="V">??forsvinne</t>
+       <t pos="V">ta av</t>
+       <t pos="V">kle av</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="V">расстёгивать</t>
@@ -21386,7 +21388,8 @@
        <t pos="V">paloitella</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="V">tørke</t>
+       <t pos="V">kutte</t>
+       <t pos="V">dele opp</t>
      </tg>
      <tg descr_trans="на куски" xml:lang="rus">
        <t pos="V">резать</t>
@@ -136008,7 +136011,8 @@
        <t pos="V">päästä sisään</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="V">gre</t>
+       <re>ha plass, høve</re>
+       <t pos="V">passe</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="V">причесываться</t>
@@ -138580,7 +138584,6 @@
      </tg>
      <tg xml:lang="nob">
        <t pos="V">spytte</t>
-       <t pos="V">løsne</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="V">плевать</t>
