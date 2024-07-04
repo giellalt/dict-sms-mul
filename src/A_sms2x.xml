@@ -2672,7 +2672,7 @@
        <t pos="A">matala</t>
      </tg>
      <tg descr_trans="om vann" xml:lang="nob">
-       <t pos="A">grunnt</t>
+       <t pos="A">grunn</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="A">низкий</t>
@@ -13175,8 +13175,9 @@
        <t pos="A">arvokas</t>
        <t pos="A">kallis</t>
      </tg>
-     <tg descr_trans="bli mett" xml:lang="nob">
-       <t pos="A">mett</t>
+     <tg xml:lang="nob">
+       <t pos="A">verdifull</t>
+       <t pos="A">dyr</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="A">? сытно</t>
@@ -19821,6 +19822,9 @@
      </tg>
      <tg xml:lang="fin">
        <t pos="A">kylläinen</t>
+     </tg>
+     <tg descr_trans="bli mett" xml:lang="nob">
+       <t pos="A">mett</t>
      </tg>
      <xg>
        <x src="VJO:2012:45">Da ǩii tõn pårdda iišti poorrâd, leäi kââllas tõn peeiʹv.</x>
