@@ -3,6 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
+<r>
 <e id="gt_Cc_5" meta="03">
    <map fin_lemma_id="1691::8290::14243::26852::15068::" stamp="gt_Cc_5:fm_696:sml_524:sml_525:sml_526:sml_527:sml_15240"/>
    <rev-sort_key>a</rev-sort_key>
