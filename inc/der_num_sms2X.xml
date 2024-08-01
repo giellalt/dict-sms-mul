@@ -63,7 +63,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="num" lemma="num_ååuˊc">ååucad</l>
+         <l pos="num" lemma="num_ååuʹc">ååucad</l>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -127,7 +127,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="num" lemma="num_kääuˊc">kääucad</l>
+         <l pos="num" lemma="num_kääuʹc">kääucad</l>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -143,7 +143,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="num" lemma="num_kuõˊhtt">nuˊbb</l>
+         <l pos="num" lemma="num_kuõʹhtt">nuʹbb</l>
          <etymology>
             <etymon type="xxx" source="saamic">mu+mpē</etymon>
          </etymology>

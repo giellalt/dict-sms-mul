@@ -43,7 +43,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" lemma="n_ââˊǩǩ">âkksaž</l>
+         <l pos="a" lemma="n_ââʹǩǩ">âkksaž</l>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -59,7 +59,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" lemma="n_säˊltt">säˊlttai</l>
+         <l pos="a" lemma="n_säʹltt">säʹlttai</l>
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -72,7 +72,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="09">
       <lg>
-         <l pos="a" lemma="n_sääˊmǩiõll">sääˊmǩiõllsaž</l>
+         <l pos="a" lemma="n_sääʹmǩiõll">sääʹmǩiõllsaž</l>
       </lg>
       <sources>
          <book/>
@@ -120,7 +120,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" lemma="a_ruõpssâd">kääˊmesruõpssâd</l>
+         <l pos="a" lemma="a_ruõpssâd">kääʹmesruõpssâd</l>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -136,7 +136,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" lemma="a_ââˊleǩ">kääˊmesââˊleǩ</l>
+         <l pos="a" lemma="a_ââʹleǩ">kääʹmesââʹleǩ</l>
       </lg>
       <mg>
          <tg xml:lang="rus">
@@ -207,9 +207,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" lemma="xxx">puõˊlˈli</l>
+         <l pos="a" lemma="xxx">puõʹlˈli</l>
          <etymology>
-            <etymon type="inher" source="finnougric">palˊa</etymon>
+            <etymon type="inher" source="finnougric">palʹa</etymon>
             <cognate xml:lang="sjd" pos="v">пӯлле</cognate>
          </etymology>
       </lg>
@@ -247,7 +247,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" lemma="xxx">oouˊdab</l>
+         <l pos="a" lemma="xxx">oouʹdab</l>
       </lg>
       <mg>
          <semantics>
@@ -330,7 +330,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" class="attr" lemma="xxx">čiˊǯǯ-</l>
+         <l pos="a" class="attr" lemma="xxx">čiʹǯǯ-</l>
       </lg>
       <sources>
          <book name="200" BEDLAN_ID="92"/>
@@ -364,7 +364,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" lemma="a_ââld(a)">âˊldd-</l>
+         <l pos="a" lemma="a_ââld(a)">âʹldd-</l>
          <note>bound root of ââld(a)</note>
       </lg>
       <mg>
@@ -375,7 +375,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" lemma="n_xxx">ââˊzzteˊm</l>
+         <l pos="a" lemma="n_xxx">ââʹzzteʹm</l>
       </lg>
       <sources>
          <book name="200" BEDLAN_ID="172"/>
@@ -407,7 +407,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" lemma="n_xxx">viõǥǥteˊm</l>
+         <l pos="a" lemma="n_xxx">viõǥǥteʹm</l>
       </lg>
       <sources>
          <book name="kurss" lesson="4"/>
@@ -435,7 +435,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="05">
       <lg>
-         <l pos="a" class="attr" lemma="xxx">vuäˊljs-</l>
+         <l pos="a" class="attr" lemma="xxx">vuäʹljs-</l>
       </lg>
       <sources>
          <book name="200" BEDLAN_ID="123"/>
@@ -549,7 +549,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" lemma="v_jääˊmmed">jääˊmteˊm</l>
+         <l pos="a" lemma="v_jääʹmmed">jääʹmteʹm</l>
       </lg>
       <mg>
          <semantics>
@@ -571,7 +571,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" lemma="xxx">juõˊǩǩnallšem</l>
+         <l pos="a" lemma="xxx">juõʹǩǩnallšem</l>
       </lg>
       <sources>
          <book name="kurss" lesson="3"/>
@@ -597,7 +597,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" lemma="xxx">jeeˊresnallšem</l>
+         <l pos="a" lemma="xxx">jeeʹresnallšem</l>
       </lg>
       <sources>
          <book name="kurss" lesson="2"/>
@@ -638,9 +638,9 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="04">
       <lg>
-         <l pos="a" class="5" lemma="xxx">kååˊšǩes</l>
+         <l pos="a" class="5" lemma="xxx">kååʹšǩes</l>
          <deriv>
-                <form gloss="attr">kåˊšǩǩ-</form>
+                <form gloss="attr">kåʹšǩǩ-</form>
             </deriv>
          <etymology>
             <etymon type="inher" source="uralic">kuśka</etymon>
@@ -687,7 +687,7 @@ For the full license text, see the link above.</lic>
       <lg>
          <l pos="a" class="5" lemma="xxx">korččai</l>
          <deriv>
-                <form gloss="attr">kuˊrčč-</form>
+                <form gloss="attr">kuʹrčč-</form>
             </deriv>
       </lg>
       <sources>
@@ -770,7 +770,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="03">
       <lg>
-         <l pos="a" class="xxx" lemma="n_pueiˊdd">pueidak</l>
+         <l pos="a" class="xxx" lemma="n_pueiʹdd">pueidak</l>
       </lg>
       <sources>
          <book name="kurss" lesson="6"/>
@@ -795,7 +795,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="06">
       <lg>
-         <l pos="a" class="xxx" lemma="n_eeˊǩǩ">-ekksaž</l>
+         <l pos="a" class="xxx" lemma="n_eeʹǩǩ">-ekksaž</l>
       </lg>
       <sources>
          <book name="lookkamkerjj" lesson="1"/>

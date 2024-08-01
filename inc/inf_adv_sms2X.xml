@@ -30,7 +30,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e meta="3">
       <lg>
-         <l pos="adv" lemma="xxx">täˊst</l>
+         <l pos="adv" lemma="xxx">täʹst</l>
       </lg>
       <sources>
          <book name="kurss" lesson="xxx"/>
@@ -120,7 +120,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="04">
       <lg>
-         <l pos="adv" lemma="xxx" gloss="loc">koˊst</l>
+         <l pos="adv" lemma="xxx" gloss="loc">koʹst</l>
          <etymology>
             <etymon type="xxx" source="uralic">ku-</etymon>
             <note>derivation, move etymology to main root lemma</note>

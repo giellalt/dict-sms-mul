@@ -30,7 +30,7 @@ For the full license text, see the link above.</lic>
    </lics>
    <e meta="04">
       <lg>
-         <l pos="n" lemma="xxx">âˊlddpuäʒʒ</l>
+         <l pos="n" lemma="xxx">âʹlddpuäʒʒ</l>
       </lg>
       <mg>
          <lexicon xml:lang="fin">käsiporo joka on aina käsillä</lexicon>
@@ -48,7 +48,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="04">
       <lg>
-         <l pos="n" lemma="xxx">vuäˊǯˈǯveärr</l>
+         <l pos="n" lemma="xxx">vuäʹǯˈǯveärr</l>
       </lg>
       <mg>
          <tg xml:lang="fin">
@@ -155,7 +155,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="04">
       <lg>
-         <l pos="n" lemma="prop_Tâˊrjj">tâˊrjjlaž</l>
+         <l pos="n" lemma="prop_Tâʹrjj">tâʹrjjlaž</l>
       </lg>
       <sources>
          <book/>
@@ -183,7 +183,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="04">
       <lg>
-         <l pos="n" lemma="n_sääˊmm">äˊǩǩelsääˊmm</l>
+         <l pos="n" lemma="n_sääʹmm">äʹǩǩelsääʹmm</l>
       </lg>
       <sources>
          <book/>
@@ -208,7 +208,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="04">
       <lg>
-         <l pos="n" lemma="n_sääˊmm">ǩiˊlddsääˊmm</l>
+         <l pos="n" lemma="n_sääʹmm">ǩiʹlddsääʹmm</l>
       </lg>
       <sources>
          <book/>
@@ -233,7 +233,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e meta="09">
       <lg>
-         <l pos="n" lemma="n_sääˊmm">tâˊvvsääˊmm</l>
+         <l pos="n" lemma="n_sääʹmm">tâʹvvsääʹmm</l>
       </lg>
       <sources>
          <book/>
@@ -289,7 +289,7 @@ For the full license text, see the link above.</lic>
    </e>
    <e>
       <lg>
-         <l pos="n" lemma="num_čueˊtt">čueˊđes</l>
+         <l pos="n" lemma="num_čueʹtt">čueʹđes</l>
       </lg>
       <mg>
          <tg xml:lang="eng">
