@@ -3,6 +3,7 @@
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
+<r>
 <e meta="04" id="gt_Num_4">
    <map stamp="gt_Num_4:fm_4071:fm_6244:fm_6245:sml_3344" fin_lemma_id="25317::"/>
    <rev-sort_key>tahod</rev-sort_key>

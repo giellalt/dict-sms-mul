@@ -4,6 +4,7 @@
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
 <?xml-stylesheet media="print,tv,projection" title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_alt.css"     type="text/css" alternate="yes" ?>
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="sms">
+<r>
    <e>
       <lg>
          <l pos="V">Der/InchL</l>
@@ -71,7 +72,6 @@
    <e>
       <lg>
          <l pos="N">Der/NomAct</l>
-
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -91,7 +91,6 @@
    <e>
       <lg>
          <l pos="N">Der/NomAg</l>
-
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -111,7 +110,6 @@
    <e>
       <lg>
          <l pos="N">Der/vuota</l>
-
       </lg>
       <mg>
          <tg xml:lang="eng">
@@ -128,5 +126,4 @@
          </tg>
       </mg>
    </e>
-
 </r>
