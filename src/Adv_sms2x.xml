@@ -475,7 +475,7 @@
        <t pos="Adv">to the open sea</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv"> ulapalle</t>
+       <t pos="Adv">ulapalle</t>
      </tg>
      <tg xml:lang="nob">
        <t pos="Adv">ut til åpent vann</t>
@@ -8747,7 +8747,6 @@
        <t pos="Adv">etäällä</t>
        <t pos="Adv">kaukaa</t>
        <t pos="Adv">etäältä</t>
-       <t> </t>
      </tg>
      <tg xml:lang="nob">
        <t pos="Adv">langt</t>
@@ -8886,7 +8885,7 @@
        <t pos="Adv">gesättigt</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="Adv"> full</t>
+       <t pos="Adv">full</t>
        <t pos="Adv">satisfied</t>
      </tg>
      <tg xml:lang="fin">
@@ -10157,11 +10156,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="Adv"> zu</t>
+       <t pos="Adv">zu</t>
        <t pos="Adv">zu viel</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="Adv"> too</t>
+       <t pos="Adv">too</t>
        <t pos="Adv">too much</t>
      </tg>
      <tg xml:lang="fin">
@@ -10245,10 +10244,10 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="Adv"> zu</t>
+       <t pos="Adv">zu</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="Adv"> too</t>
+       <t pos="Adv">too</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="Adv">liian</t>
@@ -20770,7 +20769,7 @@
        <t pos="Adv">vierelle</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="Adv"> ved siden av</t>
+       <t pos="Adv">ved siden av</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="Adv">рядом</t>
@@ -24249,7 +24248,7 @@
        <t pos="Adv">fri</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="Adv"> оторванным</t>
+       <t pos="Adv">оторванным</t>
      </tg>
    </mg>
 </e>
@@ -32426,7 +32425,7 @@
        <t pos="Adv">tahansa</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="Adv"> som helst</t>
+       <t pos="Adv">som helst</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="Adv">кто-угодно</t>
@@ -34030,7 +34029,7 @@
        <t pos="Adv">valmiiksi</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="Adv"> ferdig</t>
+       <t pos="Adv">ferdig</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="Adv">готовый</t>
@@ -34110,7 +34109,7 @@
        <t pos="Adv">verran</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="Adv"> grad</t>
+       <t pos="Adv">grad</t>
        <t pos="Adv">såpass</t>
        <t pos="Adv">så mye</t>
      </tg>
@@ -35825,7 +35824,6 @@
        <t pos="Adv">haavaa</t>
        <t pos="Adv">kertaa</t>
        <t pos="Adv">kerralla</t>
-       <t> </t>
      </tg>
    </mg>
 </e>
@@ -36339,7 +36337,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv"> osattomaksi</t>
+       <t pos="Adv">osattomaksi</t>
      </tg>
    </mg>
 </e>
@@ -39072,7 +39070,7 @@
        <t pos="Adv">?for some time</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Adv"> ajaksi</t>
+       <t pos="Adv">ajaksi</t>
      </tg>
    </mg>
 </e>
@@ -41128,7 +41126,7 @@
        <t pos="Adv">esille</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="Adv"> for dagen</t>
+       <t pos="Adv">for dagen</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="Adv">иметь видение</t>
@@ -45149,4 +45147,4 @@
      </tg>
    </mg>
 </e>
-</r> 
+</r>

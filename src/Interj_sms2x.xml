@@ -430,10 +430,10 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="Interj">Teufel </t>
+       <t pos="Interj">Teufel</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="Interj">darn it </t>
+       <t pos="Interj">darn it</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="Interj">pahus</t>
@@ -758,11 +758,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="Interj">oder? </t>
+       <t pos="Interj">oder?</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="Interj">don't </t>
-       <t pos="Interj">???you see </t>
+       <t pos="Interj">don't</t>
+       <t pos="Interj">???you see</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="Interj">tuota noin</t>
@@ -799,7 +799,7 @@
        <t pos="Interj">Thank God!</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Interj">luojan kiitos </t>
+       <t pos="Interj">luojan kiitos</t>
      </tg>
      <tg xml:lang="nob">
        <t pos="Interj">gudskjelov</t>
@@ -1242,10 +1242,10 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="Interj">gib! </t>
+       <t pos="Interj">gib!</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="Interj">give! </t>
+       <t pos="Interj">give!</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="Interj">anna</t>
@@ -1259,4 +1259,4 @@
      </tg>
    </mg>
 </e>
-</r> 
+</r>

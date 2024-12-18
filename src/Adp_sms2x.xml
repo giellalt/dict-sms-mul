@@ -169,7 +169,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="Pr">in Besitz </t>
+       <t pos="Pr">in Besitz</t>
      </tg>
      <tg xml:lang="eng">
        <t pos="Pr">possession</t>
@@ -243,7 +243,7 @@
        <t pos="Pr">without</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="Po">ilman </t>
+       <t pos="Po">ilman</t>
      </tg>
      <tg xml:lang="nob">
        <t pos="Pr">uten</t>
@@ -1348,7 +1348,7 @@
      </tg>
      <tg xml:lang="nob">
        <t pos="Pr">omkring</t>
-       <t pos="Pr">rundt </t>
+       <t pos="Pr">rundt</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="Pr">вокруг</t>
@@ -2978,7 +2978,6 @@
        <t pos="Po">päin</t>
        <t pos="Po">kohti</t>
        <t pos="Po">suuntaan</t>
-       <t> </t>
      </tg>
      <tg xml:lang="nob">
        <t pos="Pr">til</t>
@@ -3366,4 +3365,4 @@
      </tg>
    </mg>
 </e>
-</r> 
+</r>

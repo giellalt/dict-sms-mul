@@ -31,10 +31,10 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="Pcle">nicht </t>
+       <t pos="Pcle">nicht</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="Pcle">not </t>
+       <t pos="Pcle">not</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="V" type="Neg">ei</t>
@@ -377,10 +377,10 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="V">nicht </t>
+       <t pos="V">nicht</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="V">?shall not </t>
+       <t pos="V">?shall not</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="V">älköön</t>
@@ -389,7 +389,7 @@
        <t pos="V">la han ikke</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="V">? ему нельзя </t>
+       <t pos="V">? ему нельзя</t>
      </tg>
    </mg>
 </e>
@@ -414,7 +414,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="V">nicht </t>
+       <t pos="V">nicht</t>
      </tg>
      <tg xml:lang="eng">
        <t pos="V">(we) don't (Imperative 1. Pl)</t>
@@ -426,7 +426,7 @@
        <t pos="V">la oss ikke</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="V">не </t>
+       <t pos="V">не</t>
      </tg>
    </mg>
 </e>
@@ -472,19 +472,19 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t>nicht </t>
+       <t>nicht</t>
      </tg>
      <tg xml:lang="eng">
-       <t>not </t>
+       <t>not</t>
      </tg>
      <tg xml:lang="fin">
-       <t>ei </t>
+       <t>ei</t>
      </tg>
      <tg xml:lang="nob">
-       <t>ikke </t>
+       <t>ikke</t>
      </tg>
      <tg xml:lang="rus">
-       <t>не </t>
+       <t>не</t>
      </tg>
    </mg>
 </e>
@@ -919,19 +919,19 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t>nicht </t>
+       <t>nicht</t>
      </tg>
      <tg xml:lang="eng">
-       <t>don't </t>
+       <t>don't</t>
      </tg>
      <tg xml:lang="fin">
        <t>älä</t>
      </tg>
      <tg xml:lang="nob">
-       <t>ikke </t>
+       <t>ikke</t>
      </tg>
      <tg xml:lang="rus">
-       <t>не </t>
+       <t>не</t>
      </tg>
    </mg>
 </e>
@@ -1041,19 +1041,19 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t>nicht </t>
+       <t>nicht</t>
      </tg>
      <tg xml:lang="eng">
-       <t>not </t>
+       <t>not</t>
      </tg>
      <tg xml:lang="fin">
        <t>eivät</t>
      </tg>
      <tg xml:lang="nob">
-       <t>ikke </t>
+       <t>ikke</t>
      </tg>
      <tg xml:lang="rus">
-       <t>не </t>
+       <t>не</t>
      </tg>
    </mg>
 </e>
@@ -1200,4 +1200,4 @@
      </tg>
    </mg>
 </e>
-</r> 
+</r>

@@ -2181,7 +2181,7 @@
      </tg>
      <tg descr_trans="of" xml:lang="eng">
        <t pos="A">all</t>
-       <t pos="A" descr_trans="the/a"> whole</t>
+       <t pos="A" descr_trans="the/a">whole</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="A">koko</t>
@@ -40611,7 +40611,7 @@
        <t pos="A">kurmuinen</t>
      </tg>
      <tg descr_trans="skinn" xml:lang="nob">
-       <t pos="A"> med arr/bull forårsaket av kubremslarver</t>
+       <t pos="A">med arr/bull forårsaket av kubremslarver</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="A">рябой</t>
@@ -43897,7 +43897,7 @@
        <t pos="A">ympärivuotinen</t>
      </tg>
      <tg descr_trans="som skjer" xml:lang="nob">
-       <t pos="A"> hele året rundt</t>
+       <t pos="A">hele året rundt</t>
        <t pos="A">helårs-</t>
      </tg>
      <tg xml:lang="rus">
@@ -82769,7 +82769,7 @@
      </tg>
      <tg descr_trans="-" xml:lang="nob">
        <t pos="A">åring</t>
-       <t pos="A" descr_trans="så og så"> gammel</t>
+       <t pos="A" descr_trans="så og så">gammel</t>
      </tg>
      <tg descr_trans="пятилетний и т.д." xml:lang="rus">
        <t pos="A">-летний</t>
@@ -100269,4 +100269,4 @@
      </tg>
    </mg>
 </e>
-</r> 
+</r>

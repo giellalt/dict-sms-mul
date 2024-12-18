@@ -4487,7 +4487,6 @@
      <tg descr_trans="esim. ylleen" xml:lang="fin">
        <t pos="V">pukea</t>
        <t pos="V" descr_trans="esim. ylleen">laittaa</t>
-       <t> </t>
      </tg>
    </mg>
    <mg relId="2">
@@ -10488,7 +10487,6 @@
      </tg>
      <tg xml:lang="fin">
        <t pos="V">istuallaan</t>
-       <t> </t>
      </tg>
      <tg xml:lang="nob">
        <t pos="V">sitte</t>
@@ -20482,7 +20480,7 @@
      <semantics>
      </semantics>
      <tg descr_trans="durch tiefen Schnee" xml:lang="deu">
-       <t pos="V"> waten</t>
+       <t pos="V">waten</t>
      </tg>
      <tg descr_trans="in deep snow" xml:lang="eng">
        <t pos="V">wade</t>
@@ -24591,7 +24589,7 @@
        <t pos="V">bewirten</t>
      </tg>
      <tg descr_trans="give a" xml:lang="eng">
-       <t pos="V"> treat</t>
+       <t pos="V">treat</t>
        <t pos="V">entertain</t>
      </tg>
      <tg xml:lang="fin">
@@ -24665,7 +24663,7 @@
        <t pos="V">bewirten</t>
      </tg>
      <tg descr_trans="give a" xml:lang="eng">
-       <t pos="V"> treat</t>
+       <t pos="V">treat</t>
        <t pos="V" descr_trans="often or over a long time">entertain</t>
      </tg>
      <tg descr_trans="usein t. pitkään" xml:lang="fin">
@@ -31323,8 +31321,8 @@
        <sem class="ENVIR">ELEMENT</sem>
      </semantics>
      <tg descr_trans="auf dem Wasser" xml:lang="deu">
-       <t pos="V"> schwimmen</t>
-       <t pos="V" descr_trans="an der Oberfläche"> treiben</t>
+       <t pos="V">schwimmen</t>
+       <t pos="V" descr_trans="an der Oberfläche">treiben</t>
      </tg>
      <tg xml:lang="eng">
        <t pos="V">float</t>
@@ -46818,7 +46816,7 @@
      <semantics>
      </semantics>
      <tg descr_trans="Teig" xml:lang="deu">
-       <t pos="V"> kneten</t>
+       <t pos="V">kneten</t>
      </tg>
      <tg descr_trans="dough" xml:lang="eng">
        <t pos="V">mix</t>
@@ -64516,7 +64514,7 @@
      <tg xml:lang="eng">
        <t pos="V">support</t>
        <t pos="V">care</t>
-       <t pos="V" descr_trans="let"> grow</t>
+       <t pos="V" descr_trans="let">grow</t>
        <t pos="V">feed</t>
      </tg>
      <tg xml:lang="fin">
@@ -66121,7 +66119,6 @@
        <t pos="V">panna</t>
        <t pos="V">asettaa</t>
        <t pos="V">laittaa</t>
-       <t> </t>
      </tg>
      <tg xml:lang="nob">
        <t pos="V">sette</t>
@@ -73385,7 +73382,6 @@
        <t pos="V">pudistaa</t>
        <t pos="V">puistaa</t>
        <t pos="V">ravistaa</t>
-       <t> </t>
      </tg>
      <tg xml:lang="nob">
        <t pos="V">riste</t>
@@ -84276,7 +84272,7 @@
      <semantics>
      </semantics>
      <tg descr_trans="ein Rentier" xml:lang="deu">
-       <t pos="V"> antreiben</t>
+       <t pos="V">antreiben</t>
      </tg>
      <tg descr_trans="a reindeer" xml:lang="eng">
        <t pos="V">urge</t>
@@ -91119,7 +91115,7 @@
      <semantics>
      </semantics>
      <tg descr_trans="irgendwo gegen" xml:lang="deu">
-       <t pos="V"> krachen</t>
+       <t pos="V">krachen</t>
        <t pos="V">knallen</t>
        <t pos="V">plumpsen</t>
      </tg>
@@ -92308,7 +92304,7 @@
        <sem class="SENSE">PERCEPTION</sem>
      </semantics>
      <tg descr_trans="ein Instrument" xml:lang="deu">
-       <t pos="V"> spielen</t>
+       <t pos="V">spielen</t>
        <t pos="V" descr_trans="Telefon">anrufen</t>
      </tg>
      <tg descr_trans="an instrument" xml:lang="eng">
@@ -100516,7 +100512,7 @@
        <t pos="V">drehen</t>
        <t pos="V">schrauben</t>
        <t pos="V">verdrehen</t>
-       <t pos="V">entstellen </t>
+       <t pos="V">entstellen</t>
        <t pos="V">radebrechen</t>
      </tg>
      <tg xml:lang="eng">
@@ -109760,7 +109756,7 @@
        <t pos="V">stützen</t>
        <t pos="V">stärken</t>
        <t pos="V">(gut) bedecken</t>
-       <t pos="V" descr_trans="gut"> umhüllen</t>
+       <t pos="V" descr_trans="gut">umhüllen</t>
      </tg>
      <tg xml:lang="eng">
        <t pos="V">support</t>
@@ -109779,7 +109775,7 @@
      <tg xml:lang="rus">
        <t pos="V">укрывать</t>
        <t pos="V">поддерживать</t>
-       <t pos="V" descr_trans="хорошо"> укрыть</t>
+       <t pos="V" descr_trans="хорошо">укрыть</t>
        <t pos="V">укутать</t>
      </tg>
      <lexicon xml:lang="nob">legge over</lexicon>
@@ -112544,7 +112540,7 @@
      <semantics>
      </semantics>
      <tg descr_trans="unaufhörlich" xml:lang="deu">
-       <t pos="V"> wiederholen</t>
+       <t pos="V">wiederholen</t>
      </tg>
      <tg descr_trans="again and again" xml:lang="eng">
        <t pos="V">repeat</t>
@@ -112558,7 +112554,7 @@
        <t pos="V">gnåle</t>
      </tg>
      <tg descr_trans="бесконечно" xml:lang="rus">
-       <t pos="V"> повторять</t>
+       <t pos="V">повторять</t>
      </tg>
    </mg>
 </e>
@@ -121259,7 +121255,6 @@
      </tg>
      <tg xml:lang="fin">
        <t pos="V">lähteä</t>
-       <t> </t>
      </tg>
      <tg xml:lang="nob">
        <t pos="V">dra</t>
@@ -125767,7 +125762,6 @@
        <t pos="V">nähdä toisensa</t>
        <t pos="V" descr_trans="toisiaan">tavata</t>
        <t pos="V">kohdata</t>
-       <t> </t>
      </tg>
      <tg xml:lang="nob">
        <t pos="V">se hverandre</t>
@@ -129053,7 +129047,7 @@
        <sem class="SPACE">MOTION</sem>
      </semantics>
      <tg descr_trans="zu Fuß" xml:lang="deu">
-       <t pos="V"> gehen</t>
+       <t pos="V">gehen</t>
        <t pos="V">laufen</t>
        <t pos="V">spazierengehen</t>
      </tg>
@@ -131025,7 +131019,6 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="V">pitää</t>
-       <t> </t>
      </tg>
    </mg>
    <mg relId="3">
@@ -135342,7 +135335,6 @@
        <t pos="V">täytyä</t>
        <t pos="V">olla tarpeen</t>
        <t pos="V">pitää olla</t>
-       <t> </t>
      </tg>
      <tg xml:lang="nob">
        <t pos="V">trenge</t>
@@ -135475,7 +135467,7 @@
        <sem class="WORK"/>
      </semantics>
      <tg descr_trans="zeitlich" xml:lang="deu">
-       <t pos="V"> schaffen</t>
+       <t pos="V">schaffen</t>
        <t pos="V">Zeit haben</t>
      </tg>
      <tg xml:lang="eng">
@@ -142988,7 +142980,7 @@
        <t pos="V">clear</t>
        <t pos="V">split</t>
        <t pos="V">halve</t>
-       <t pos="V">lance (fish) </t>
+       <t pos="V">lance (fish)</t>
        <t pos="V">cut</t>
        <t pos="V" descr_trans="open">slash</t>
      </tg>
@@ -147792,7 +147784,7 @@
      <semantics>
      </semantics>
      <tg descr_trans="plötzlich" xml:lang="deu">
-       <t pos="V"> fallen</t>
+       <t pos="V">fallen</t>
        <t pos="V">plumpsen (von Steinen, Münzen)</t>
      </tg>
      <tg xml:lang="eng">
@@ -154027,4 +154019,4 @@
      </tg>
    </mg>
 </e>
-</r> 
+</r>

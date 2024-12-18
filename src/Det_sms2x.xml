@@ -471,10 +471,10 @@
        <t pos="Det">kumpi</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="Det">hvilken/hvilket </t>
+       <t pos="Det">hvilken/hvilket</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="Det">который </t>
+       <t pos="Det">который</t>
      </tg>
    </mg>
 </e>
@@ -598,10 +598,10 @@
        <t pos="Det">monesko</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="Det">hvilken </t>
+       <t pos="Det">hvilken</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="Det">который? какой? </t>
+       <t pos="Det">который? какой?</t>
      </tg>
    </mg>
 </e>
@@ -1158,7 +1158,7 @@
        <t pos="Det">tällainen</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="Det">slik </t>
+       <t pos="Det">slik</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="Det">такой, таковой</t>
@@ -1797,4 +1797,4 @@
      </tg>
    </mg>
 </e>
-</r> 
+</r>
