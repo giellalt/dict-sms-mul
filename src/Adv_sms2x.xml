@@ -4874,7 +4874,8 @@
        <t pos="Adv">jakaantumaton, jakamaton</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="Adv">udelelig, udelt</t>
+       <t pos="Adv">udelelig</t>
+       <t pos="Adv">udelt</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="Adv">неделимый, неразделённый, единогласный</t>
@@ -9361,7 +9362,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="Adv">rechts herum (von einem Kleidungsstück</t>
+       <t pos="Adv">rechts herum (von einem Kleidungsstück)</t>
        <t pos="Adv">die rechte Seite (eines Gewebes)</t>
      </tg>
      <tg xml:lang="eng"> <t/>
@@ -27228,7 +27229,8 @@
        <t pos="Adv">sulamatta</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="Adv">ikke smeltet, usmeltbar</t>
+       <t pos="Adv">ikke smeltet</t>
+       <t pos="Adv">usmeltbar</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="Adv">нетайющий</t>

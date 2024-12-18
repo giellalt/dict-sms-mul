@@ -12891,8 +12891,7 @@
        <t pos="V">hinfallen</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="V">fall (over</t>
-       <t pos="V">down)</t>
+       <t pos="V">fall (over, down)</t>
        <t pos="V">tumble</t>
      </tg>
      <tg descr_trans="ihmisestä" xml:lang="fin">
@@ -23907,9 +23906,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="V">(kurz</t>
-       <t pos="V">schnell</t>
-       <t pos="V">vorsichtig) gucken</t>
+       <re>kurz, schnell, vorsichtig</re>
+       <t pos="V">gucken</t>
        <t pos="V">blicken</t>
      </tg>
      <tg xml:lang="eng">
@@ -29229,10 +29227,12 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="V">sterben (von Tieren)</t>
+       <re>von Tieren</re>
+       <t pos="V">sterben</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="V">die (of animals)</t>
+       <re>of animals</re>
+       <t pos="V">die</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="V">kuolla</t>
@@ -29333,7 +29333,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="V">alkaa kuolla (eläimistä)</t>
+       <re>eläimistä</re>
+       <t pos="V">alkaa kuolla</t>
      </tg>
      <argg val="IV"/>
    </mg>
@@ -30503,8 +30504,8 @@
        <t pos="V">selättää</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="V">snu (sleden slik at den står meier</t>
-       <t pos="V">båten slik at den står på kjøl)</t>
+       <re>sleden slik at den står meier, båten slik at den står på kjøl</re>
+       <t pos="V">snu</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="V">положить на лопатки</t>
@@ -30940,8 +30941,7 @@
      </tg>
      <tg xml:lang="eng">
        <t pos="V">lean</t>
-       <t pos="V">incline (dishes</t>
-       <t pos="V">boats)</t>
+       <t pos="V">incline (dishes, boats)</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="V">kallistaa (astiaa, venettä)</t>
@@ -31129,8 +31129,9 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="V">peittää (nopeasti)</t>
-       <t pos="V">kattaa (nopeasti)</t>
+       <re>nopeasti</re>
+       <t pos="V">peittää</t>
+       <t pos="V">kattaa</t>
      </tg>
      <argg val="TV"/>
    </mg>
@@ -32132,7 +32133,8 @@
        <t pos="V">become exhausted</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="V">uupua (rykimisen vuoksi, hirvaasta)</t>
+       <re>rykimisen vuoksi, hirvaasta</re>
+       <t pos="V">uupua</t>
      </tg>
    </mg>
 </e>
@@ -34164,7 +34166,9 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="V">kuoleskella, kuolla (useista eläimistä)</t>
+       <re>useista eläimistä</re>
+       <t pos="V">kuoleskella</t>
+       <t pos="V">kuolla</t>
      </tg>
      <xg>
        <x src="KE1 03320_1az 0:06:47">Meeʹst kâʹl tanni jiâ nuʹt kõõlmčam mutta ǩeäʹtǩǩ gõs poori kõrrset.</x>
@@ -35866,17 +35870,15 @@
      </semantics>
      <tg xml:lang="deu">
        <t pos="V">rechnen</t>
-       <t pos="V">zählen (Rechnungen</t>
-       <t pos="V">Zahlen)</t>
+       <t pos="V">zählen (Rechnungen Zahlen)</t>
      </tg>
      <tg xml:lang="eng">
        <t pos="V">calculate</t>
-       <t pos="V">count (bills</t>
-       <t pos="V">numbers)</t>
+       <t pos="V">count (bills, numbers)</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="V">laskea (laskuja</t>
-       <t pos="V">lukuja)</t>
+       <re>laskuja, lukuja</re>
+       <t pos="V">laskea</t>
      </tg>
      <tg xml:lang="nob">
        <t pos="V">regne</t>
@@ -38965,7 +38967,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="V">lämmittää (vähän)</t>
+       <re>vähän</re>
+       <t pos="V">lämmittää</t>
      </tg>
      <xg>
        <x src="KE1 03320_1az 0:07:54">Lij toʹben sueiʹnnsiâkk seʹst - Joo no joo pâi viiǯǯ. - Õõut pottla kaaʹmmisiâkk seʹst. - Jaa âlgg-han oummid vähän liõggâʹstted.</x>
@@ -44241,9 +44244,7 @@
      <tg descr_trans="tuohta" xml:lang="fin">
        <t pos="V">kiskaista</t>
        <t pos="V" descr_trans="maalia">lohkaista</t>
-       <t pos="V">longottaa (turvetta</t>
-       <t pos="V">tuohta</t>
-       <t pos="V">nopeasti)</t>
+       <t pos="V">longottaa (turvetta, tuohta, nopeasti)</t>
        <t pos="V" descr_trans="esim. tuohta">irrottaa nopeasti</t>
      </tg>
    </mg>
@@ -45720,14 +45721,17 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
+       <re>von Rentieren, Menschen</re>
        <t pos="V">?? sich beholzen</t>
-       <t pos="V">sich bewalden (von Rentieren, Menschen)</t>
+       <t pos="V">sich bewalden</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="V">afforestate (of reindeer, people)</t>
+       <re>of reindeer, people</re>
+       <t pos="V">afforestate</t>
      </tg>
      <tg xml:lang="fin">
-       <t pos="V">metsittyä (porosta, ihmisestä)</t>
+       <re>porosta, ihmisestä</re>
+       <t pos="V">metsittyä</t>
      </tg>
    </mg>
 </e>
@@ -51628,7 +51632,7 @@
      </tg>
      <tg xml:lang="eng">
        <t pos="V">?? to keep closed</t>
-       <t pos="V">? to stay on the w ater above the snow (of a sledge)</t>
+       <t pos="V">? to stay on the water above the snow (of a sledge)</t>
      </tg>
      <tg descr_trans="esim. lumen alla olevaan veteen, kelkasta, reestä" xml:lang="fin">
        <t pos="V">juuttua</t>
@@ -57443,17 +57447,17 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="V">sich leicht abziehen lassen (Rinde von Weiden</t>
-       <t pos="V">Birken)</t>
+       <re>Rinde von Weiden, Birken</re>
+       <t pos="V">sich leicht abziehen lassen</t>
      </tg>
      <tg xml:lang="eng">
-       <t pos="V">peel off easily (of willows</t>
-       <t pos="V">birches)</t>
+       <re>of willows, birches</re>
+       <t pos="V">peel off easily</t>
      </tg>
      <tg descr_trans="puunkuori" xml:lang="fin">
+       <re>pajusta, koivusta</re>
        <t pos="V">niloa</t>
-       <t pos="V">nilota (pajusta</t>
-       <t pos="V">koivusta)</t>
+       <t pos="V">nilota</t>
      </tg>
    </mg>
 </e>
@@ -58482,11 +58486,13 @@
      <semantics>
      </semantics>
      <tg xml:lang="deu">
-       <t pos="V">sich ausfasern (von einem Knäuel, einer Schnur)</t>
+       <re>von einem Knäuel, einer Schnur</re>
+       <t pos="V">sich ausfasern</t>
      </tg>
      <tg xml:lang="eng">
+       <re>of a roll, lace</re>
        <t pos="V">rove</t>
-       <t pos="V">dissolve (of a roll, lace)</t>
+       <t pos="V">dissolve</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="V">rispaantua</t>
@@ -59968,13 +59974,11 @@
      </semantics>
      <tg xml:lang="deu">
        <t pos="V">fallen</t>
-       <t pos="V">runtertropfen (von Socken</t>
-       <t pos="V">Hosen)</t>
+       <t pos="V">runtertropfen (von Socken, Hosen)</t>
      </tg>
      <tg xml:lang="eng">
        <t pos="V">fall</t>
-       <t pos="V">drip down (of socks</t>
-       <t pos="V">trousers)</t>
+       <t pos="V">drip down (of socks, trousers)</t>
      </tg>
      <tg descr_trans="sukista, housuista" xml:lang="fin">
        <t pos="V">pudota</t>
@@ -59983,14 +59987,12 @@
      </tg>
      <tg xml:lang="nob">
        <t pos="V">falle</t>
-       <t pos="V">gli ned (om sokker</t>
-       <t pos="V">bukser)</t>
+       <t pos="V">gli ned (om sokker, bukser)</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="V">падать</t>
        <t pos="V">упасть</t>
-       <t pos="V">литься (о носках</t>
-       <t pos="V">штанах)</t>
+       <t pos="V">литься (о носках, штанах)</t>
      </tg>
    </mg>
 </e>
@@ -71849,8 +71851,7 @@
      </tg>
      <tg xml:lang="rus">
        <t pos="V">макать</t>
-       <t pos="V">окунать (быстро</t>
-       <t pos="V">в соус)</t>
+       <t pos="V">окунать (быстро, в соус)</t>
      </tg>
    </mg>
 </e>
@@ -75878,8 +75879,7 @@
        <t pos="V">speke</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="V">коптить (мясо</t>
-       <t pos="V">рыбу)</t>
+       <t pos="V">коптить (мясо, рыбу)</t>
      </tg>
    </mg>
 </e>
@@ -80778,7 +80778,7 @@
      </semantics>
      <tg xml:lang="deu">
        <t pos="V">? knallend??? sagen</t>
-       <t pos="V">mitteilen(plötzlich)</t>
+       <t pos="V">mitteilen (plötzlich)</t>
        <t pos="V">aufbrüllen</t>
      </tg>
      <tg xml:lang="eng">
@@ -113276,8 +113276,7 @@
        <t pos="V">plukke</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="V">собирать (ягоды</t>
-       <t pos="V">цветы)</t>
+       <t pos="V">собирать (ягоды, цветы)</t>
      </tg>
    </mg>
 </e>
@@ -123549,8 +123548,7 @@
      </tg>
      <tg xml:lang="nob">
        <t pos="V">løpe</t>
-       <t pos="V">trave (sakte</t>
-       <t pos="V">om dyr)</t>
+       <t pos="V">trave (sakte, om dyr)</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="V">рысить</t>
@@ -129923,8 +129921,7 @@
        <t pos="V">sette seg fast</t>
      </tg>
      <tg xml:lang="rus">
-       <t pos="V">застревать (в сети</t>
-       <t pos="V">неводе)</t>
+       <t pos="V">застревать (в сети, неводе)</t>
      </tg>
    </mg>
 </e>
@@ -138622,8 +138619,7 @@
      </tg>
      <tg xml:lang="eng">
        <t pos="V">point</t>
-       <t pos="V">reduce (the sock or mitten</t>
-       <t pos="V">kniting)</t>
+       <t pos="V">reduce (the sock or mitten, kniting)</t>
      </tg>
      <tg xml:lang="fin">
        <t pos="V">teroittaa</t>
@@ -147794,7 +147790,8 @@
        <t pos="V">ropsahtaa (kivistä, kolikoista)</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="V">ramle (om stein, mynter)</t>
+       <re>om stein, mynter</re>
+       <t pos="V">ramle</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="V">шлепнуться</t>

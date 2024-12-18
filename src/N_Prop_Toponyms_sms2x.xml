@@ -2316,7 +2316,8 @@
        <t type="Prop" pos="N">Kandalaksha</t>
      </tg>
      <tg xml:lang="rus">
-       <t type="Prop" pos="N">Кандалакша (топоним)</t>
+       <re>топоним</re>
+       <t type="Prop" pos="N">Кандалакша</t>
      </tg>
    </mg>
 </e>

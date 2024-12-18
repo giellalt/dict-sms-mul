@@ -5906,7 +5906,8 @@
        <t type="Prop" pos="N">Seulaset</t>
      </tg>
      <tg xml:lang="nob">
-       <t type="Prop" pos="N">Pleiadene, de syv søstre</t>
+       <t type="Prop" pos="N">Pleiadene</t>
+       <t type="Prop" pos="N">de syv søstre</t>
      </tg>
      <tg xml:lang="rus">
        <t type="Prop" pos="N">Плеяды</t>

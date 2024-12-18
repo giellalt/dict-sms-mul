@@ -40,7 +40,8 @@
        <t pos="V" type="Neg">ei</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="Pcle">ikke, nei</t>
+       <t pos="Pcle">ikke</t>
+       <t pos="Pcle">nei</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="Pcle">нет, не (отрицание)</t>
@@ -734,8 +735,9 @@
        <t pos="V">ette</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="V">ikke (2.person</t>
-       <t pos="V">flertall)</t>
+       <re>2.person flertall</re>
+       <t pos="V">ikke</t>
+
      </tg>
      <tg xml:lang="rus">
        <t pos="V">не</t>
@@ -1172,8 +1174,8 @@
        <t pos="V">en</t>
      </tg>
      <tg xml:lang="nob">
-       <t pos="V">nekteord (1.person</t>
-       <t pos="V">entall)</t>
+       <re>1.person entall</re>
+       <t pos="V">nekteord</t>
      </tg>
      <tg xml:lang="rus">
        <t pos="V">личное отрицание 1.л.ед.ч</t>
