@@ -18,12 +18,14 @@ dictionaries are the lexical data stored in a database called sms2X.
 - [Oahpa!-nuõrti](http://oahpa.no/sms/)
 - [FST](/lang-sms/index.html)
 
-## The sms2X lexical data backbone
+## The sms2X lexical data
 
 The aim with this common dictionary database is to create a rich
-structure in a single lexicon. We are working on a lexicographic structure which later allows exporting data for different applications: e.g. descriptive dictionaries,  
- bilingual learner dictionaries, Oahpa!-nuõrti, etc. Thus "sms2X"
- means both "to-X-languages" and "to-X-products".
+structure in a single lexicon. We are working on a lexicographic
+structure which later allows exporting data for different
+applications: e.g. descriptive dictionaries, bilingual learner
+dictionaries, Oahpa!-nuõrti, etc. Thus "sms2X" means both
+"to-X-languages" and "to-X-products".
 
 The database is the result of collaborative work carried out at
 Østsamisk museum Neiden, Freiburg Research Group in Saami Studies,
