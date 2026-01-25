@@ -49938,24 +49938,6 @@
      </xg>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="V">mättõõttâd</l>
-     <stg>
-       <st Contlex="V_LAUKKOOLLYD">mättõõ%{ʹØ%}tt</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="V"/>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
 <e src="t" id="fm_5492">
    <map stamp="fm_5492" fin_lemma_id="16019"/>
    <rev-sort_key>detʼttäm</rev-sort_key>
