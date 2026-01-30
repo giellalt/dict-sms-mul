@@ -49999,24 +49999,6 @@
      <argg arg3="inf" val="TV"/>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="V">mättʼtõõllâd</l>
-     <stg>
-       <st Contlex="V_LAUKKOOLLYD">mättʼtõõ%{ʹØ%}ll</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="AKU"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="V"/>
-     </tg>
-   </mg>
-</e>
 <e src="t" id="fm_5571">
    <map stamp="fm_5571" fin_lemma_id="2558:16018:16043"/>
    <rev-sort_key>dâttõõtʼttäm</rev-sort_key>
