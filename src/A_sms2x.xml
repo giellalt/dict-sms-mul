@@ -74253,25 +74253,6 @@
    </mg>
 </e>
 <e>
-   <map sml_ids="23272"/>
-   <lg>
-     <l pos="A">vi)</l>
-     <stg>
-       <st Contlex="A_">vi)</st>
-     </stg>
-   </lg>
-     <sources>
-       <book type="db" name="sjm"/>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="A">suuruinen</t>
-     </tg>
-   </mg>
-</e>
-<e>
    <map sml_ids="27820"/>
    <lg>
      <l pos="A">vieʹljtem</l>
